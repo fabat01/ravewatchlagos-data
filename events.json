@@ -224,7 +224,8 @@
       "series": "Sunday Service",
       "sourceLinks": [
         "https://www.instagram.com/reel/DeuNYjftT17/",
-        "https://www.eventporte.com/event-details/ssximss"
+        "https://www.eventporte.com/event-details/ssximss",
+        "https://www.eventporte.com/event/tickets/ssximss"
       ],
       "ticketLink": "https://www.eventporte.com/event/tickets/ssximss",
       "ticketNote": "Offerings & tables via Eventporte",
@@ -596,7 +597,8 @@
       "series": "Sunday Service",
       "sourceLinks": [
         "https://www.instagram.com/p/DeZZRYTtr6K/",
-        "https://www.eventporte.com/event-details/gravityservice"
+        "https://www.eventporte.com/event-details/gravityservice",
+        "https://www.eventporte.com/event/tickets/gravityservice"
       ],
       "ticketLink": "https://www.eventporte.com/event/tickets/gravityservice",
       "ticketNote": "Offerings & tables via Eventporte",
@@ -1420,7 +1422,8 @@
       ],
       "series": null,
       "sourceLinks": [
-        "https://www.instagram.com/reel/DeuSfhzCcRe/"
+        "https://www.instagram.com/reel/DeuSfhzCcRe/",
+        "https://tix.africa/discover/ravewithrina"
       ],
       "ticketLink": "https://tix.africa/discover/ravewithrina",
       "ticketNote": null,
@@ -1539,7 +1542,8 @@
       ],
       "ticketStatus": "announced",
       "sourceLinks": [
-        "https://dettydecfest.com/events/"
+        "https://dettydecfest.com/events/",
+        "https://tix.dot360.co/org/livespot/detty-december"
       ],
       "lastVerified": "2026-10-22T00:00:00.000",
       "changeLog": [
@@ -1643,7 +1647,8 @@
       ],
       "ticketStatus": "announced",
       "sourceLinks": [
-        "https://dettydecfest.com/events/"
+        "https://dettydecfest.com/events/",
+        "https://tix.dot360.co/org/livespot/detty-december"
       ],
       "lastVerified": "2026-10-22T00:00:00.000",
       "changeLog": [
@@ -1654,5 +1659,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-22T10:07:12.555597Z"
+  "generatedAt": "2026-10-22T12:08:14.059883Z"
 }
