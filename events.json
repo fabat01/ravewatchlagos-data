@@ -152,6 +152,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Prices confirmed on Eventporte: Offerings from ₦3,000 (cheapest wave sold out; ₦6,000 available), After Hours ₦15,000, Stage Access ₦30,000, tables ₦200,000–₦750,000"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Reclassified as a Rave — judged by the music (house-led; the organiser's own ticket page sells a 'Post-Midnight Rave Pass'), not the listing's 'DJ set' tag"
         }
       ],
       "date": "2026-10-25T00:00:00.000",
@@ -159,7 +163,7 @@
       "doorsTime": "4 PM",
       "flyerImageUrl": null,
       "genres": [
-        "DJ set"
+        "House"
       ],
       "id": "sunday-service-imullar-2026-10-25",
       "lastVerified": "2026-10-22T00:00:00.000",
@@ -227,7 +231,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": null,
-      "eventType": "club"
+      "eventType": "rave"
     },
     {
       "address": "17b Osho Drive, Ologi-Apoja, Lagos",
@@ -520,6 +524,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Prices confirmed on Eventporte: Offerings from ₦3,000 (₦3,000 and ₦6,000 waves sold out; from ₦8,000 available), After Hours ₦15,000, Stage Access ₦30,000, tables ₦200,000–₦750,000"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Reclassified as a Rave — judged by the music (house-led; the organiser's own ticket page sells a 'Post-Midnight Rave Pass'), not the listing's 'DJ set' tag"
         }
       ],
       "date": "2026-11-01T00:00:00.000",
@@ -527,7 +535,7 @@
       "doorsTime": "4 PM",
       "flyerImageUrl": null,
       "genres": [
-        "DJ set"
+        "House"
       ],
       "id": "sunday-service-gravity-2026-11-01",
       "lastVerified": "2026-10-22T00:00:00.000",
@@ -595,7 +603,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Casa 45",
-      "eventType": "club"
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -1646,5 +1654,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-22T09:46:12.529771Z"
+  "generatedAt": "2026-10-22T10:07:12.555597Z"
 }
