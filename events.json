@@ -41,6 +41,61 @@
       "eventType": "rave"
     },
     {
+      "address": "Block XVI 3 & 4, Oniru Estate, Lagos",
+      "ageLimit": null,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — house music night (Tropical/Afro House) at Shiro Lagos; tickets on sale via EventPorte"
+        }
+      ],
+      "date": "2026-10-23T00:00:00.000",
+      "description": "MI CASA ES TU CASA — house music for the soul: Tropical House, Afro House and soulful vocal-driven House at Shiro Lagos.",
+      "doorsTime": "9:30 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "House",
+        "Afro House"
+      ],
+      "id": "mi-casa-2026-10-23",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "MI CASA",
+      "organiser": "Unknown organiser",
+      "priceTiers": [
+        {
+          "name": "Single Entry",
+          "priceNaira": 10000,
+          "note": null
+        },
+        {
+          "name": "Table of 4",
+          "priceNaira": 300000,
+          "note": null
+        },
+        {
+          "name": "Table of 8",
+          "priceNaira": 600000,
+          "note": null
+        },
+        {
+          "name": "Guestlist Entry",
+          "priceNaira": 0,
+          "note": "sold out"
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://eventporte.com/event-details/micasa"
+      ],
+      "ticketLink": "https://eventporte.com/event-details/micasa",
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": "Shiro Lagos",
+      "eventType": "rave"
+    },
+    {
       "address": "11b Ligali Ayorinde St, Iru, Victoria Island",
       "ageLimit": null,
       "area": "Victoria Island",
@@ -1320,20 +1375,24 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — beach rave 3 PM–dawn, tickets on sale"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Re-checked: co-branded 'Eko Beach Rave & X Festival'; start moved to 6:45 PM (was 3 PM); organiser page shows ticket range up to ₦50,000 (tiers above ₦20,000 not itemised); genres corrected to organiser's featured tags"
         }
       ],
       "date": "2026-12-11T00:00:00.000",
-      "description": "Beach rave 3 PM–dawn by ÉKÓ Casablanco, Team Sagacious and RAYDA.",
-      "doorsTime": "3 PM",
+      "description": "Beach rave 6:45 PM–dawn by ÉKÓ Casablanco, Team Sagacious and RAYDA — now co-branded with Team Sagacious's X Festival.",
+      "doorsTime": "6:45 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
+        "Afrobeats",
         "Amapiano",
-        "Afrobeats"
+        "Afro House"
       ],
       "id": "eko-beach-rave-2026-12-11",
       "lastVerified": "2026-10-22T00:00:00.000",
-      "name": "ÉKÓ BEACH RAVE",
+      "name": "Eko Beach Rave & X Festival",
       "organiser": "ÉKÓ Casablanco / Team Sagacious / RAYDA",
       "priceTiers": [
         {
@@ -1355,10 +1414,11 @@
       "series": null,
       "sourceLinks": [
         "https://raydaent.com",
-        "https://www.instagram.com/raydaent"
+        "https://www.instagram.com/raydaent",
+        "https://raydaent.com/events/eko-beach-rave"
       ],
       "ticketLink": "https://raydaent.com",
-      "ticketNote": "Tables ₦300K–₦2M",
+      "ticketNote": "Tables ₦300K–₦2M; organiser page shows ticket range ₦10,000–₦50,000 (higher tiers not itemised)",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Voda Beach",
@@ -1659,5 +1719,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-22T12:08:14.059883Z"
+  "generatedAt": "2026-10-22T13:29:05.264600Z"
 }
