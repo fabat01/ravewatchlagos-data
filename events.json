@@ -37,7 +37,8 @@
       "ticketNote": null,
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
     },
     {
       "address": "11b Ligali Ayorinde St, Iru, Victoria Island",
@@ -77,7 +78,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "Spotlight Creative Hub"
+      "venueName": "Spotlight Creative Hub",
+      "eventType": "rave"
     },
     {
       "address": "65 Queen Street, Alagomeji, Yaba",
@@ -126,7 +128,8 @@
       "ticketNote": "Tickets via QR on organiser's IG",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Lemonade Studios"
+      "venueName": "Lemonade Studios",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -164,7 +167,8 @@
       "ticketNote": "Offerings and tables available through the link in @sunservice.ig bio",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
     },
     {
       "address": "17b Osho Drive, Ologi-Apoja, Lagos",
@@ -215,7 +219,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "In-house"
+      "venueName": "In-house",
+      "eventType": "club"
     },
     {
       "address": "Unity Street, Amuwo-Odofin",
@@ -254,7 +259,8 @@
       "ticketNote": null,
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
     },
     {
       "address": "Ologun Agbaje Street, Victoria Island",
@@ -322,7 +328,8 @@
       "ticketNote": "Tickets via 'Buy on Tramango' on the organiser's site",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "District 19"
+      "venueName": "District 19",
+      "eventType": "rave"
     },
     {
       "address": "Plot 16A Block 139A, Nike Art Gallery Rd, Ikate",
@@ -361,7 +368,8 @@
       "ticketNote": "Posted by ticketing platform @tickethub.ng",
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": "Free Me Space Lekki"
+      "venueName": "Free Me Space Lekki",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -398,7 +406,8 @@
       "ticketNote": null,
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": "Landmark"
+      "venueName": "Landmark",
+      "eventType": "rave"
     },
     {
       "address": "687 Adeola Hopewell Street, VI",
@@ -437,7 +446,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Zuma Lagos"
+      "venueName": "Zuma Lagos",
+      "eventType": "rave"
     },
     {
       "address": "Adeola Odeku Street, VI",
@@ -475,7 +485,8 @@
       "ticketNote": "Offerings/tables via @sunservice.ig bio link",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "Casa 45"
+      "venueName": "Casa 45",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -534,7 +545,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Pop Landmark"
+      "venueName": "Pop Landmark",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -578,7 +590,8 @@
       "ticketNote": "Tickets via Paystack QR on organiser's IG",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -617,7 +630,8 @@
       "ticketNote": "Registration + mask required",
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
     },
     {
       "address": "33/34 Igbe-afaa Rd, Olumo-MTN Bustop, Igbogbo-Ikorodu",
@@ -656,7 +670,8 @@
       "ticketNote": "Booking: +234 8038878940",
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": "Horizon Lounge & Suite"
+      "venueName": "Horizon Lounge & Suite",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -724,7 +739,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -767,7 +783,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -808,7 +825,8 @@
       "ticketNote": "Phone RSVP only: 07086715320 — no online ticket link",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -851,7 +869,8 @@
       "ticketNote": null,
       "ticketStatus": "announced",
       "unprovenPromoter": false,
-      "venueName": null
+      "venueName": null,
+      "eventType": "club"
     },
     {
       "address": "opp. Enyo Filling Station, Lasu-Iba First Gate, Ojo",
@@ -906,7 +925,8 @@
       "ticketNote": "Tables ₦150K–₦500K",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Moricks Field"
+      "venueName": "Moricks Field",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -949,7 +969,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Red Bar Lagos"
+      "venueName": "Red Bar Lagos",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -992,7 +1013,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsSoon",
       "unprovenPromoter": false,
-      "venueName": "Casa 45"
+      "venueName": "Casa 45",
+      "eventType": "rave"
     },
     {
       "address": "Muri Okunola Park, Victoria Island",
@@ -1042,7 +1064,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Muri Okunola Park"
+      "venueName": "Muri Okunola Park",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -1082,7 +1105,8 @@
       "ticketNote": "Waitlist signup only — tickets not yet on sale",
       "ticketStatus": "announced",
       "unprovenPromoter": false,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -1121,7 +1145,53 @@
       "ticketNote": null,
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
+    },
+    {
+      "series": null,
+      "doorsTime": "6 PM",
+      "venueName": null,
+      "address": null,
+      "ageLimit": null,
+      "ticketLink": "https://www.onchainfestival.org/",
+      "ticketNote": null,
+      "flyerImageUrl": null,
+      "unprovenPromoter": true,
+      "description": "Africa's first tech rave — two-day festival (Dec 5–6), venue TBA (Lagos). Premium tables available.",
+      "id": "off-duty-onchain-2026-12-05",
+      "name": "OFF-DUTY (Onchain Festival)",
+      "organiser": "Onchain Festival",
+      "date": "2026-12-05T00:00:00.000",
+      "area": "TBA",
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "eventType": "rave",
+      "priceTiers": [
+        {
+          "name": "General Access",
+          "priceNaira": 20000,
+          "note": null
+        },
+        {
+          "name": "VIP Cocktail",
+          "priceNaira": 80000,
+          "note": null
+        }
+      ],
+      "ticketStatus": "ticketsOnSale",
+      "sourceLinks": [
+        "https://www.onchainfestival.org/"
+      ],
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — two-day tech-rave festival Dec 5–6; Off Duty Rave segment Sun Dec 6 from 7 PM"
+        }
+      ]
     },
     {
       "address": "Voda Beach, Lagos",
@@ -1172,7 +1242,8 @@
       "ticketNote": "Tables ₦300K–₦2M",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Voda Beach"
+      "venueName": "Voda Beach",
+      "eventType": "rave"
     },
     {
       "address": "Eleganza House, Joseph Harden Street, Lagos Island",
@@ -1215,7 +1286,8 @@
       "ticketNote": "Tickets and prices via the link in bio @rinaboyxx",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "Amah Studios"
+      "venueName": "Amah Studios",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -1254,7 +1326,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsSoon",
       "unprovenPromoter": false,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -1293,8 +1366,128 @@
       "ticketNote": null,
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "eventType": "rave"
+    },
+    {
+      "series": null,
+      "doorsTime": null,
+      "venueName": "Detty December Village",
+      "address": null,
+      "ageLimit": null,
+      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
+      "ticketNote": null,
+      "flyerImageUrl": null,
+      "unprovenPromoter": false,
+      "description": "Nightlife block running Dec 21–23 within Detty December Fest.",
+      "id": "detty-after-dark-2026-12-21",
+      "name": "Detty After Dark",
+      "organiser": "Livespot360 (Detty December Fest)",
+      "date": "2026-12-21T00:00:00.000",
+      "area": "Ikeja",
+      "genres": [
+        "Rave",
+        "Afrobeats"
+      ],
+      "eventType": "club",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": null,
+          "note": null
+        }
+      ],
+      "ticketStatus": "announced",
+      "sourceLinks": [
+        "https://dettydecfest.com/events/"
+      ],
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — nightlife block within Detty December Fest; per-night details TBA"
+        }
+      ]
+    },
+    {
+      "series": null,
+      "doorsTime": null,
+      "venueName": "Detty December Village",
+      "address": null,
+      "ageLimit": null,
+      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
+      "ticketNote": null,
+      "flyerImageUrl": null,
+      "unprovenPromoter": false,
+      "description": "DJ-led '& Friends' Christmas Eve takeover, part of Detty December Fest.",
+      "id": "detty-dj-tunez-2026-12-24",
+      "name": "DJ Tunez & Friends: Christmas Eve Special",
+      "organiser": "Livespot360 (Detty December Fest)",
+      "date": "2026-12-24T00:00:00.000",
+      "area": "Ikeja",
+      "genres": [
+        "Afrobeats"
+      ],
+      "eventType": "club",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": null,
+          "note": "Festival passes on sale; per-night price TBA"
+        }
+      ],
+      "ticketStatus": "ticketsOnSale",
+      "sourceLinks": [
+        "https://dettydecfest.com/events/",
+        "https://tix.dot360.co/org/livespot/detty-december"
+      ],
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — DJ-led Christmas Eve takeover on the Detty Pulse Stage; festival passes on sale"
+        }
+      ]
+    },
+    {
+      "series": null,
+      "doorsTime": null,
+      "venueName": "Detty December Village",
+      "address": null,
+      "ageLimit": null,
+      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
+      "ticketNote": null,
+      "flyerImageUrl": null,
+      "unprovenPromoter": false,
+      "description": "Closing-night rave of Detty December Fest.",
+      "id": "detty-white-out-rave-2026-12-30",
+      "name": "White Out Rave",
+      "organiser": "Livespot360 (Detty December Fest)",
+      "date": "2026-12-30T00:00:00.000",
+      "area": "Ikeja",
+      "genres": [
+        "Rave"
+      ],
+      "eventType": "rave",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": null,
+          "note": null
+        }
+      ],
+      "ticketStatus": "announced",
+      "sourceLinks": [
+        "https://dettydecfest.com/events/"
+      ],
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — Detty December Fest closing night; stage and per-night price not yet published"
+        }
+      ]
     }
   ],
-  "generatedAt": "2026-10-22T08:56:48Z"
+  "generatedAt": "2026-10-22T09:08:23.907338Z"
 }
