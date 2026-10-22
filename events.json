@@ -1,37 +1,667 @@
 {
-  "generatedAt": "2026-10-22T08:56:23.831683Z",
   "events": [
     {
-      "id": "ardour-2026-11-13",
-      "name": "ARDOUR",
-      "organiser": "ARDOUR",
-      "series": null,
-      "date": "2026-11-13T00:00:00.000",
-      "doorsTime": null,
-      "venueName": null,
-      "area": "TBA",
       "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — free same-night rave 9 PM–6 AM; venue not stated"
+        }
+      ],
+      "date": "2026-10-22T00:00:00.000",
+      "description": "Free rave 9 PM–6 AM tonight. Venue not stated — third-party post only; confirm venue before going.",
+      "doorsTime": "9 PM",
+      "flyerImageUrl": null,
       "genres": [
         "Rave",
         "Electronic"
       ],
-      "ageLimit": null,
+      "id": "the-rave-series-black-lagos-2026-10-22",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "The Rave Series — Black Lagos",
+      "organiser": null,
       "priceTiers": [
         {
           "name": "Entry",
-          "priceNaira": null,
-          "note": null
+          "note": null,
+          "priceNaira": 0
         }
       ],
-      "ticketLink": "https://www.ardour.ink/tickets",
+      "series": "The Rave Series",
+      "sourceLinks": [
+        "https://www.instagram.com/globiqoapp"
+      ],
+      "ticketLink": null,
+      "ticketNote": null,
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": null
+    },
+    {
+      "address": "11b Ligali Ayorinde St, Iru, Victoria Island",
+      "ageLimit": null,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — tickets on sale via bookt.io"
+        }
+      ],
+      "date": "2026-10-24T00:00:00.000",
+      "description": "Sweat It Out Lagos with @fw_ette, @livewith_kod and @sio_dj_tomce_dr_love. Note: ticket page says 3:00–9:30 PM; organiser reel says 10:30 PM — confirm start time.",
+      "doorsTime": "3:00 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "House",
+        "Electronic"
+      ],
+      "id": "sio-lovebox-vi-2026-10-24",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "SIO LoveBox VI",
+      "organiser": "Sweat It Out Lagos",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": "early bird live; tiers not published",
+          "priceNaira": null
+        }
+      ],
+      "series": "LoveBox",
+      "sourceLinks": [
+        "https://event.getbookt.io/sio-presents-lovebox-vi",
+        "https://www.instagram.com/reel/Dee2SHUIH5Z/"
+      ],
+      "ticketLink": "https://event.getbookt.io/sio-presents-lovebox-vi",
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
-      "flyerImageUrl": null,
-      "sourceLinks": [
-        "https://www.ardour.ink/tickets",
-        "https://www.instagram.com/reel/DecfSHXNzLm/"
+      "unprovenPromoter": false,
+      "venueName": "Spotlight Creative Hub"
+    },
+    {
+      "address": "65 Queen Street, Alagomeji, Yaba",
+      "ageLimit": null,
+      "area": "Yaba",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — rap/hip-hop rave 4 PM–dawn, tickets on sale"
+        }
       ],
-      "lastVerified": "2026-10-21T00:00:00.000",
+      "date": "2026-10-24T00:00:00.000",
+      "description": "Rap/hip-hop rave, 4 PM–dawn. Mixed format — live performances possible alongside DJs.",
+      "doorsTime": "4 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Hip-hop",
+        "Rave"
+      ],
+      "id": "oorave-2026-10-24",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "OORAVE",
+      "organiser": "@numb.lgs",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": null,
+          "priceNaira": 5000
+        },
+        {
+          "name": "Regular",
+          "note": null,
+          "priceNaira": 8000
+        },
+        {
+          "name": "VIP",
+          "note": null,
+          "priceNaira": 20000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/numb.lgs"
+      ],
+      "ticketLink": null,
+      "ticketNote": "Tickets via QR on organiser's IG",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Lemonade Studios"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — daytime Sunday party, offerings live"
+        }
+      ],
+      "date": "2026-10-25T00:00:00.000",
+      "description": "Weekly Sunday Service daytime party with @imullarsoundsystem on decks. Venue not announced.",
+      "doorsTime": "4 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "DJ set"
+      ],
+      "id": "sunday-service-imullar-2026-10-25",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "Sunday Service: IMullar Service",
+      "organiser": "Sunday Service Lagos",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": "offerings and tables via bio link",
+          "priceNaira": null
+        }
+      ],
+      "series": "Sunday Service",
+      "sourceLinks": [
+        "https://www.instagram.com/reel/DeuNYjftT17/"
+      ],
+      "ticketLink": null,
+      "ticketNote": "Offerings and tables available through the link in @sunservice.ig bio",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": null
+    },
+    {
+      "address": "17b Osho Drive, Ologi-Apoja, Lagos",
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — DJ party 9 PM–dawn, tickets on sale on tix.africa"
+        }
+      ],
+      "date": "2026-10-30T00:00:00.000",
+      "description": "DJ-led party, 9 PM–dawn. Area unverified from address.",
+      "doorsTime": "9 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Afrobeats",
+        "Hip-hop",
+        "House"
+      ],
+      "id": "inner-circle-2026-10-30",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "INNER CIRCLE (DJ Special)",
+      "organiser": "Inner Circle",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": "75% sold",
+          "priceNaira": 3500
+        },
+        {
+          "name": "Regular",
+          "note": null,
+          "priceNaira": 5000
+        },
+        {
+          "name": "Doorstep",
+          "note": null,
+          "priceNaira": 7000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://tix.africa/discover/innercircle",
+        "https://www.instagram.com/innercircle.live"
+      ],
+      "ticketLink": "https://tix.africa/discover/innercircle",
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "In-house"
+    },
+    {
+      "address": "Unity Street, Amuwo-Odofin",
+      "ageLimit": null,
+      "area": "Amuwo-Odofin",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — outdoor block party, Jubilq listing only"
+        }
+      ],
+      "date": "2026-10-30T00:00:00.000",
+      "description": "Outdoor block party with water battles; top DJs billed. Third-party listing only — organiser not confirmed.",
+      "doorsTime": "7 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "id": "amuwo-block-party-2026-10-30",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "Amuwo Block Party — The Water Rave",
+      "organiser": "Unconfirmed (listed via Jubilq / jetron_ticket)",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://jubilq.com/e/c55eed5e-aaf5-4052-bbcd-ad35e412e6d1"
+      ],
+      "ticketLink": "https://jubilq.com/e/c55eed5e-aaf5-4052-bbcd-ad35e412e6d1",
+      "ticketNote": null,
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": null
+    },
+    {
+      "address": "Ologun Agbaje Street, Victoria Island",
+      "ageLimit": 18,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — Halloween horror rave, tickets on sale; Chucky and Scream tiers sold out"
+        }
+      ],
+      "date": "2026-10-31T00:00:00.000",
+      "description": "Disturbing Gidi's Halloween horror rave at District 19 — Afrobeat/Afro Tech/Amapiano/House/Mara, 'something happening at midnight'.",
+      "doorsTime": "7 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Afrobeats",
+        "Amapiano",
+        "House",
+        "Electronic"
+      ],
+      "id": "disturbia-2026-10-31",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "DISTURBIA",
+      "organiser": "Disturbing Gidi",
+      "priceTiers": [
+        {
+          "name": "Chucky Early Bird",
+          "note": "sold out",
+          "priceNaira": 5000
+        },
+        {
+          "name": "Scream (squad of 3)",
+          "note": "sold out",
+          "priceNaira": 12000
+        },
+        {
+          "name": "Annabelle (single)",
+          "note": null,
+          "priceNaira": 7500
+        },
+        {
+          "name": "Conjuring (squad of 3)",
+          "note": null,
+          "priceNaira": 20000
+        },
+        {
+          "name": "Resident Evil (squad of 5)",
+          "note": "≈₦7k each",
+          "priceNaira": 35000
+        },
+        {
+          "name": "Final Destination (gate)",
+          "note": null,
+          "priceNaira": 15000
+        }
+      ],
+      "series": "Gidi SZN",
+      "sourceLinks": [
+        "https://disturbinggidi.com/",
+        "https://www.instagram.com/p/DeeWCVeIABM/"
+      ],
+      "ticketLink": "https://disturbinggidi.com/",
+      "ticketNote": "Tickets via 'Buy on Tramango' on the organiser's site",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": "District 19"
+    },
+    {
+      "address": "Plot 16A Block 139A, Nike Art Gallery Rd, Ikate",
+      "ageLimit": null,
+      "area": "Lekki",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — music spotlighting + rave, 8 PM–3 AM"
+        }
+      ],
+      "date": "2026-10-31T00:00:00.000",
+      "description": "Music spotlighting + rave, 8 PM–3 AM. Third-party post only.",
+      "doorsTime": "8 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "id": "vibez-unleashed-4-2026-10-31",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "VIBEZ UNLEASHED 4.0",
+      "organiser": "The Cave Studioz",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/tickethub.ng"
+      ],
+      "ticketLink": null,
+      "ticketNote": "Posted by ticketing platform @tickethub.ng",
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": "Free Me Space Lekki"
+    },
+    {
+      "address": null,
+      "ageLimit": 18,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — 18+ anime costume rave"
+        }
+      ],
+      "date": "2026-10-31T00:00:00.000",
+      "description": "18+ anime costume rave at Landmark. Third-party flyer only — prices and organiser unconfirmed.",
+      "doorsTime": null,
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "id": "ntai-rave-2026-10-31",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "NTAI RAVE — Night-Time Anime Indulgence",
+      "organiser": null,
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": "flyer amounts not captured",
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [],
+      "ticketLink": null,
+      "ticketNote": null,
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": "Landmark"
+    },
+    {
+      "address": "687 Adeola Hopewell Street, VI",
+      "ageLimit": null,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — DJ Sammix rave, 5 PM–dawn, early bird on sale"
+        }
+      ],
+      "date": "2026-11-01T00:00:00.000",
+      "description": "DJ Sammix's rave experience at Zuma Lagos, 5 PM–dawn.",
+      "doorsTime": "5 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "id": "sammix-party-2026-11-01",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "THE SAMMIX PARTY: Rave Experience",
+      "organiser": "DJ Sammix x Wenzo",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": null,
+          "priceNaira": 5000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/ravewithdjsammix"
+      ],
+      "ticketLink": null,
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Zuma Lagos"
+    },
+    {
+      "address": "Adeola Odeku Street, VI",
+      "ageLimit": null,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — Halloween-twist Sunday Service, offerings live"
+        }
+      ],
+      "date": "2026-11-01T00:00:00.000",
+      "description": "Halloween-twist daytime Sunday Service party at Casa 45.",
+      "doorsTime": "4 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "DJ set"
+      ],
+      "id": "sunday-service-gravity-2026-11-01",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "Sunday Service: Gravity Service (Halloween)",
+      "organiser": "Sunday Service Lagos",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": "offerings and tables via bio link",
+          "priceNaira": null
+        }
+      ],
+      "series": "Sunday Service",
+      "sourceLinks": [
+        "https://www.instagram.com/p/DeZZRYTtr6K/"
+      ],
+      "ticketLink": null,
+      "ticketNote": "Offerings/tables via @sunservice.ig bio link",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": "Casa 45"
+    },
+    {
+      "address": null,
+      "ageLimit": 18,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — late-night rave series, early bird on sale on organiser site"
+        }
+      ],
+      "date": "2026-11-07T00:00:00.000",
+      "description": "AFTR HRS late-night DJ rave series — live sets, no VIP ropes.",
+      "doorsTime": "9 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "id": "void-house-2026-11-07",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "VOID HOUSE",
+      "organiser": "AFTR HRS",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": "on sale now",
+          "priceNaira": 6500
+        },
+        {
+          "name": "First Release",
+          "note": "coming soon",
+          "priceNaira": null
+        },
+        {
+          "name": "Second Release",
+          "note": "coming soon",
+          "priceNaira": null
+        },
+        {
+          "name": "Twin Flame",
+          "note": "coming soon",
+          "priceNaira": null
+        },
+        {
+          "name": "Final Release (at the door)",
+          "note": "coming soon",
+          "priceNaira": 15000
+        }
+      ],
+      "series": "AFTR HRS rave series",
+      "sourceLinks": [
+        "https://www.aftrhrs.ng/"
+      ],
+      "ticketLink": "https://www.aftrhrs.ng/",
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Pop Landmark"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — tickets via Paystack QR, venue TBA"
+        }
+      ],
+      "date": "2026-11-07T00:00:00.000",
+      "description": "Rave by FuseofBenin; venue TBA.",
+      "doorsTime": null,
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "id": "vibes-theorie-2026-11-07",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "THE VIBES THEORIE",
+      "organiser": "FuseofBenin & Co",
+      "priceTiers": [
+        {
+          "name": "Standard",
+          "note": null,
+          "priceNaira": 5000
+        },
+        {
+          "name": "VIP",
+          "note": null,
+          "priceNaira": 15000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/fuseofbenin"
+      ],
+      "ticketLink": null,
+      "ticketNote": "Tickets via Paystack QR on organiser's IG",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": null
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Ikoyi",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — free dark-room rave, mask required"
+        }
+      ],
+      "date": "2026-11-07T00:00:00.000",
+      "description": "Free dark-room rave in Ikoyi — attendees rave in the dark, masks required.",
+      "doorsTime": null,
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "id": "dark-mask-rave-2026-11-07",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "DARK & MASK RAVE",
+      "organiser": "@alaafinofeko",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": "free — registration + mask required",
+          "priceNaira": 0
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/alaafinofeko"
+      ],
+      "ticketLink": null,
+      "ticketNote": "Registration + mask required",
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": null
+    },
+    {
+      "address": "33/34 Igbe-afaa Rd, Olumo-MTN Bustop, Igbogbo-Ikorodu",
+      "ageLimit": null,
+      "area": "Ikorodu",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — DJs Pluto, Coolcash, Shay; prices TBA"
+        }
+      ],
+      "date": "2026-11-07T00:00:00.000",
+      "description": "DJ-led rave (DJs Pluto, Coolcash, Shay); flyer lists live performances as side attractions.",
+      "doorsTime": "11 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Afrobeats"
+      ],
+      "id": "light-rave-vol-1-2026-11-07",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "LIGHT RAVE VOL 1",
+      "organiser": "South Sound Empire",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": "booking phone +234 8038878940",
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/onlyonelightboy"
+      ],
+      "ticketLink": null,
+      "ticketNote": "Booking: +234 8038878940",
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": "Horizon Lounge & Suite"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
       "changeLog": [
         {
           "date": "2026-10-19T00:00:00.000",
@@ -40,402 +670,631 @@
         {
           "date": "2026-10-20T00:00:00.000",
           "description": "Tickets went on sale"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Prices published — Early Bird ₦8,125 sold out; Regular ₦13,475, Duo ₦23,640, Stage Access ₦26,850, Group of 3 ₦36,480 on sale"
         }
       ],
-      "unprovenPromoter": false,
-      "description": null
-    },
-    {
-      "id": "go-techno-2026-11-13",
-      "name": "go TECHNO",
-      "organiser": "go TECHNO",
-      "series": null,
       "date": "2026-11-13T00:00:00.000",
+      "description": null,
       "doorsTime": null,
-      "venueName": null,
-      "area": "Lekki Phase 1",
-      "address": null,
+      "flyerImageUrl": null,
       "genres": [
-        "Techno"
+        "Rave",
+        "Electronic"
       ],
-      "ageLimit": null,
+      "id": "ardour-2026-11-13",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "ARDOUR",
+      "organiser": "ARDOUR",
       "priceTiers": [
         {
-          "name": "Entry",
-          "priceNaira": 3000,
-          "note": null
+          "name": "Early Bird",
+          "note": "sold out",
+          "priceNaira": 8125
+        },
+        {
+          "name": "Regular – First Wave",
+          "note": null,
+          "priceNaira": 13475
+        },
+        {
+          "name": "Duo – First Wave (admits 2)",
+          "note": null,
+          "priceNaira": 23640
+        },
+        {
+          "name": "Stage Access",
+          "note": null,
+          "priceNaira": 26850
+        },
+        {
+          "name": "Group of 3 – First Wave (admits 3)",
+          "note": null,
+          "priceNaira": 36480
         }
       ],
-      "ticketLink": null,
-      "ticketNote": null,
-      "ticketStatus": "announced",
-      "flyerImageUrl": null,
+      "series": null,
       "sourceLinks": [
-        "https://www.instagram.com/reel/Ders4KiOLxO/",
-        "https://eventornigeria.com/explore/gotechno"
+        "https://www.ardour.ink/tickets",
+        "https://www.instagram.com/reel/DecfSHXNzLm/"
       ],
-      "lastVerified": "2026-10-21T00:00:00.000",
+      "ticketLink": "https://www.ardour.ink/tickets",
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": null
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Lekki Phase 1",
       "changeLog": [
         {
           "date": "2026-10-20T00:00:00.000",
           "description": "Date public (Nov 13); venue and tickets TBA"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Tickets went on sale on eventornigeria (₦3,000); 11 PM start"
         }
       ],
-      "unprovenPromoter": true,
-      "description": null
-    },
-    {
-      "id": "the-vault-rave-2026-11-14",
-      "name": "THE VAULT RAVE",
-      "organiser": "The Vault",
-      "series": null,
-      "date": "2026-11-14T00:00:00.000",
-      "doorsTime": null,
-      "venueName": null,
-      "area": "Lekki Phase 1",
-      "address": null,
+      "date": "2026-11-13T00:00:00.000",
+      "description": null,
+      "doorsTime": "11:00 PM",
+      "flyerImageUrl": null,
       "genres": [
-        "Rave",
-        "Electronic"
+        "Techno"
       ],
-      "ageLimit": null,
+      "id": "go-techno-2026-11-13",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "go TECHNO",
+      "organiser": "go TECHNO",
       "priceTiers": [
         {
           "name": "Entry",
-          "priceNaira": 7500,
-          "note": null
+          "note": null,
+          "priceNaira": 3000
         }
       ],
-      "ticketLink": null,
-      "ticketNote": "Phone RSVP only: 07086715320 — no online ticket link",
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/reel/Ders4KiOLxO/",
+        "https://eventornigeria.com/explore/gotechno"
+      ],
+      "ticketLink": "https://eventornigeria.com/explore/gotechno",
+      "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
-      "flyerImageUrl": null,
-      "sourceLinks": [],
-      "lastVerified": "2026-10-21T00:00:00.000",
+      "unprovenPromoter": true,
+      "venueName": null
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Lekki Phase 1",
       "changeLog": [
         {
           "date": "2026-10-16T00:00:00.000",
           "description": "Confirmed for Sat Nov 14"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Re-checked — no change; still ₦7,500, phone RSVP only"
         }
       ],
-      "unprovenPromoter": true,
-      "description": null
-    },
-    {
-      "id": "my-steeze-party-2026-11-14",
-      "name": "MY STEEZE PARTY",
-      "organiser": "My Steeze",
-      "series": null,
       "date": "2026-11-14T00:00:00.000",
+      "description": null,
       "doorsTime": null,
-      "venueName": null,
-      "area": "Ikeja",
-      "address": null,
+      "flyerImageUrl": null,
       "genres": [
         "Rave",
-        "Afrobeats"
+        "Electronic"
       ],
-      "ageLimit": null,
+      "id": "the-vault-rave-2026-11-14",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "THE VAULT RAVE",
+      "organiser": "The Vault",
       "priceTiers": [
         {
           "name": "Entry",
-          "priceNaira": null,
-          "note": null
+          "note": null,
+          "priceNaira": 7500
         }
       ],
+      "series": null,
+      "sourceLinks": [],
       "ticketLink": null,
-      "ticketNote": null,
-      "ticketStatus": "announced",
-      "flyerImageUrl": null,
-      "sourceLinks": [
-        "https://www.instagram.com/reel/DecG7TNoUwm/"
-      ],
-      "lastVerified": "2026-10-21T00:00:00.000",
+      "ticketNote": "Phone RSVP only: 07086715320 — no online ticket link",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": null
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Ikeja",
       "changeLog": [
         {
           "date": "2026-10-19T00:00:00.000",
           "description": "Confirmed for Sat Nov 14, Ikeja"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Re-checked — no confirmed change"
         }
       ],
-      "unprovenPromoter": false,
-      "description": null
-    },
-    {
-      "id": "ankara-rave-xperience-2026-11-20",
-      "name": "ANKARA RAVE XPERIENCE 1.0",
-      "organiser": "Ankara Rave",
-      "series": null,
-      "date": "2026-11-20T00:00:00.000",
+      "date": "2026-11-14T00:00:00.000",
+      "description": null,
       "doorsTime": null,
-      "venueName": "Red Bar Lagos",
-      "area": "Lekki Phase 1",
-      "address": null,
+      "flyerImageUrl": null,
       "genres": [
         "Rave",
         "Afrobeats"
       ],
-      "ageLimit": null,
+      "id": "my-steeze-party-2026-11-14",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "MY STEEZE PARTY",
+      "organiser": "My Steeze",
       "priceTiers": [
         {
           "name": "Entry",
-          "priceNaira": 0,
-          "note": "with reservation"
+          "note": null,
+          "priceNaira": null
         }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/reel/DecG7TNoUwm/"
       ],
       "ticketLink": null,
       "ticketNote": null,
-      "ticketStatus": "ticketsOnSale",
-      "flyerImageUrl": null,
-      "sourceLinks": [
-        "https://www.instagram.com/reel/Deo6H30Osff/"
+      "ticketStatus": "announced",
+      "unprovenPromoter": false,
+      "venueName": null
+    },
+    {
+      "address": "opp. Enyo Filling Station, Lasu-Iba First Gate, Ojo",
+      "ageLimit": null,
+      "area": "Ojo",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — campus rave anniversary, tickets on sale; flyer date text inconsistent (Sat Nov 14 vs 'Saturday 15th')"
+        }
       ],
-      "lastVerified": "2026-10-21T00:00:00.000",
+      "date": "2026-11-14T00:00:00.000",
+      "description": "Campus rave anniversary (Afrobeats/Amapiano/Afrohouse/Mara). Flyer lists 'Saturday 15th' but Nov 14 is the Saturday — confirm date with organiser.",
+      "doorsTime": null,
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Afrobeats",
+        "Amapiano"
+      ],
+      "id": "faaja-campus-rave-2026-11-14",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "Faaja 1 SZN One Year Anniversary (Campus Rave)",
+      "organiser": "Campus Rave",
+      "priceTiers": [
+        {
+          "name": "Regular",
+          "note": null,
+          "priceNaira": 5000
+        },
+        {
+          "name": "Stage Access",
+          "note": null,
+          "priceNaira": 10000
+        },
+        {
+          "name": "Group of 4",
+          "note": null,
+          "priceNaira": 16000
+        },
+        {
+          "name": "Gate",
+          "note": null,
+          "priceNaira": 7000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/campusraveikd"
+      ],
+      "ticketLink": null,
+      "ticketNote": "Tables ₦150K–₦500K",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Moricks Field"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Lekki Phase 1",
       "changeLog": [
         {
           "date": "2026-10-19T00:00:00.000",
           "description": "Listed — free entry with reservation, Red Bar Lekki"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Re-checked — no change; still free with reservation"
         }
       ],
-      "unprovenPromoter": true,
-      "description": null
-    },
-    {
-      "id": "ile-ijo-2026-11-21",
-      "name": "ILÉ ÌJÓ",
-      "organiser": "Disturbing Gidi",
-      "series": null,
-      "date": "2026-11-21T00:00:00.000",
+      "date": "2026-11-20T00:00:00.000",
+      "description": null,
       "doorsTime": null,
-      "venueName": "Casa 45",
-      "area": "Victoria Island",
-      "address": null,
+      "flyerImageUrl": null,
       "genres": [
         "Rave",
-        "Electronic"
+        "Afrobeats"
       ],
-      "ageLimit": null,
+      "id": "ankara-rave-xperience-2026-11-20",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "ANKARA RAVE XPERIENCE 1.0",
+      "organiser": "Ankara Rave",
       "priceTiers": [
         {
           "name": "Entry",
-          "priceNaira": null,
-          "note": null
+          "note": "with reservation",
+          "priceNaira": 0
         }
       ],
-      "ticketLink": "https://disturbinggidi.com/",
-      "ticketNote": null,
-      "ticketStatus": "ticketsSoon",
-      "flyerImageUrl": null,
+      "series": null,
       "sourceLinks": [
-        "https://disturbinggidi.com/"
+        "https://www.instagram.com/reel/Deo6H30Osff/"
       ],
-      "lastVerified": "2026-10-21T00:00:00.000",
+      "ticketLink": null,
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Red Bar Lagos"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Victoria Island",
       "changeLog": [
         {
           "date": "2026-10-19T00:00:00.000",
           "description": "Announced for Sat Nov 21 at Casa 45, VI — tickets soon"
-        }
-      ],
-      "unprovenPromoter": false,
-      "description": null
-    },
-    {
-      "series": null,
-      "doorsTime": "6 PM",
-      "venueName": null,
-      "address": null,
-      "ageLimit": null,
-      "ticketLink": "https://www.onchainfestival.org/",
-      "ticketNote": null,
-      "flyerImageUrl": null,
-      "unprovenPromoter": true,
-      "description": "Africa's first tech rave — two-day festival (Dec 5–6), venue TBA (Lagos). Premium tables available.",
-      "id": "off-duty-onchain-2026-12-05",
-      "name": "OFF-DUTY (Onchain Festival)",
-      "organiser": "Onchain Festival",
-      "date": "2026-12-05T00:00:00.000",
-      "area": "TBA",
-      "genres": [
-        "Rave",
-        "Electronic"
-      ],
-      "priceTiers": [
-        {
-          "name": "General Access",
-          "priceNaira": 20000,
-          "note": null
         },
         {
-          "name": "VIP Cocktail",
-          "priceNaira": 80000,
-          "note": null
-        }
-      ],
-      "ticketStatus": "ticketsOnSale",
-      "sourceLinks": [
-        "https://www.onchainfestival.org/"
-      ],
-      "lastVerified": "2026-10-22T00:00:00.000",
-      "changeLog": [
-        {
           "date": "2026-10-22T00:00:00.000",
-          "description": "Listed — two-day tech-rave festival Dec 5–6; Off Duty Rave segment Sun Dec 6 from 7 PM"
+          "description": "Re-checked — still tickets soon, no prices yet"
         }
-      ]
-    },
-    {
-      "id": "rave-with-rina-2-2026-12-12",
-      "name": "RAVE WITH RINA 2.0",
-      "organiser": "Rina Boy",
-      "series": null,
-      "date": "2026-12-12T00:00:00.000",
-      "doorsTime": "8 PM",
-      "venueName": "Amah Studios",
-      "area": "Lagos Island",
-      "address": "Eleganza House, Joseph Harden Street, Lagos Island",
+      ],
+      "date": "2026-11-21T00:00:00.000",
+      "description": null,
+      "doorsTime": null,
+      "flyerImageUrl": null,
       "genres": [
         "Rave",
         "Electronic"
       ],
-      "ageLimit": null,
+      "id": "ile-ijo-2026-11-21",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "ILÉ ÌJÓ",
+      "organiser": "Disturbing Gidi",
       "priceTiers": [
         {
           "name": "Entry",
-          "priceNaira": null,
-          "note": null
+          "note": null,
+          "priceNaira": null
         }
       ],
-      "ticketLink": null,
-      "ticketNote": "Tickets and prices via the link in bio @rinaboyxx",
-      "ticketStatus": "ticketsOnSale",
-      "flyerImageUrl": null,
+      "series": null,
       "sourceLinks": [
-        "https://www.instagram.com/reel/DeuSfhzCcRe/"
+        "https://disturbinggidi.com/"
       ],
+      "ticketLink": "https://disturbinggidi.com/",
+      "ticketNote": null,
+      "ticketStatus": "ticketsSoon",
+      "unprovenPromoter": false,
+      "venueName": "Casa 45"
+    },
+    {
+      "address": "Muri Okunola Park, Victoria Island",
+      "ageLimit": null,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — fashion x rave, tickets on sale on pv.pro"
+        }
+      ],
+      "date": "2026-11-27T00:00:00.000",
+      "description": "Fashion x rave event, 4 PM–12 AM.",
+      "doorsTime": "4 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Afrobeats"
+      ],
+      "id": "fashion-rave-2026-2026-11-27",
       "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "FASHION RAVE 2026",
+      "organiser": "Fashions Finest Africa",
+      "priceTiers": [
+        {
+          "name": "Regular",
+          "note": null,
+          "priceNaira": 7500
+        },
+        {
+          "name": "VIP",
+          "note": "admits 4",
+          "priceNaira": 150000
+        },
+        {
+          "name": "VVIP",
+          "note": "admits 10",
+          "priceNaira": 500000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://fashion-rave-2026.pv.pro/events/fashion-rave-2026",
+        "https://www.instagram.com/fashionsfinestafrica"
+      ],
+      "ticketLink": "https://fashion-rave-2026.pv.pro/events/fashion-rave-2026",
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Muri Okunola Park"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — waitlist signup only, venue TBA"
+        }
+      ],
+      "date": "2026-11-27T00:00:00.000",
+      "description": "Shimza headlining with Aniko, Pa Ngu, Sofiya Nzau and Sons of Ubuntu. Site header mentions Nov 27 & 28 but IG posts say Nov 27 — confirm second day.",
+      "doorsTime": null,
+      "flyerImageUrl": null,
+      "genres": [
+        "House",
+        "Electronic"
+      ],
+      "id": "gods-of-house-eleventh-2026-11-27",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "GODS OF HOUSE: THE ELEVENTH HOUSE",
+      "organiser": "Spektrum Entertainment",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": "Gods of House",
+      "sourceLinks": [
+        "https://goh.spektrum.live",
+        "https://www.instagram.com/p/DewafoKgvRd/"
+      ],
+      "ticketLink": "https://goh.spektrum.live",
+      "ticketNote": "Waitlist signup only — tickets not yet on sale",
+      "ticketStatus": "announced",
+      "unprovenPromoter": false,
+      "venueName": null
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Ikeja",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — heavy bassline clubbing, Jubilq listing only"
+        }
+      ],
+      "date": "2026-11-28T00:00:00.000",
+      "description": "Heavy bassline clubbing night; 'Ikeja staple' returning. Third-party listing only — tickets on jetronticket.com.",
+      "doorsTime": "3 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "id": "wilders-2-2026-11-28",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "Wilders party 2.0",
+      "organiser": "@obidum_emma",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://jubilq.com/e/35096991-9642-47b2-838a-4832dc3bce6e"
+      ],
+      "ticketLink": "https://jubilq.com/e/35096991-9642-47b2-838a-4832dc3bce6e",
+      "ticketNote": null,
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": null
+    },
+    {
+      "address": "Voda Beach, Lagos",
+      "ageLimit": null,
+      "area": "Lekki",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — beach rave 3 PM–dawn, tickets on sale"
+        }
+      ],
+      "date": "2026-12-11T00:00:00.000",
+      "description": "Beach rave 3 PM–dawn by ÉKÓ Casablanco, Team Sagacious and RAYDA.",
+      "doorsTime": "3 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Amapiano",
+        "Afrobeats"
+      ],
+      "id": "eko-beach-rave-2026-12-11",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "ÉKÓ BEACH RAVE",
+      "organiser": "ÉKÓ Casablanco / Team Sagacious / RAYDA",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": null,
+          "priceNaira": 10000
+        },
+        {
+          "name": "Regular",
+          "note": null,
+          "priceNaira": 15000
+        },
+        {
+          "name": "Final Release",
+          "note": null,
+          "priceNaira": 20000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://raydaent.com",
+        "https://www.instagram.com/raydaent"
+      ],
+      "ticketLink": "https://raydaent.com",
+      "ticketNote": "Tables ₦300K–₦2M",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Voda Beach"
+    },
+    {
+      "address": "Eleganza House, Joseph Harden Street, Lagos Island",
+      "ageLimit": null,
+      "area": "Lagos Island",
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Announced for Sat Dec 12 at Amah Studios, Lagos Island — tickets via organiser's bio link"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Re-checked — no change; still tickets via bio link"
         }
       ],
-      "unprovenPromoter": false,
-      "description": "Second edition of Rina Boy's rave — WAPSAM, MIXBANE, TULZ ON DECK."
-    },
-    {
-      "series": null,
-      "doorsTime": null,
-      "venueName": "Detty December Village",
-      "address": null,
-      "ageLimit": null,
-      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
-      "ticketNote": null,
+      "date": "2026-12-12T00:00:00.000",
+      "description": "Second edition of Rina Boy's rave — WAPSAM, MIXBANE, TULZ ON DECK.",
+      "doorsTime": "8 PM",
       "flyerImageUrl": null,
-      "unprovenPromoter": false,
-      "description": "Nightlife block running Dec 21–23 within Detty December Fest.",
-      "id": "detty-after-dark-2026-12-21",
-      "name": "Detty After Dark",
-      "organiser": "Livespot360 (Detty December Fest)",
-      "date": "2026-12-21T00:00:00.000",
-      "area": "Ikeja",
       "genres": [
         "Rave",
-        "Afrobeats"
+        "Electronic"
       ],
-      "priceTiers": [
-        {
-          "name": "Entry",
-          "priceNaira": null,
-          "note": null
-        }
-      ],
-      "ticketStatus": "announced",
-      "sourceLinks": [
-        "https://dettydecfest.com/events/"
-      ],
+      "id": "rave-with-rina-2-2026-12-12",
       "lastVerified": "2026-10-22T00:00:00.000",
-      "changeLog": [
-        {
-          "date": "2026-10-22T00:00:00.000",
-          "description": "Listed — nightlife block within Detty December Fest; per-night details TBA"
-        }
-      ]
-    },
-    {
-      "series": null,
-      "doorsTime": null,
-      "venueName": "Detty December Village",
-      "address": null,
-      "ageLimit": null,
-      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
-      "ticketNote": null,
-      "flyerImageUrl": null,
-      "unprovenPromoter": false,
-      "description": "DJ-led '& Friends' Christmas Eve takeover, part of Detty December Fest.",
-      "id": "detty-dj-tunez-2026-12-24",
-      "name": "DJ Tunez & Friends: Christmas Eve Special",
-      "organiser": "Livespot360 (Detty December Fest)",
-      "date": "2026-12-24T00:00:00.000",
-      "area": "Ikeja",
-      "genres": [
-        "Afrobeats"
-      ],
+      "name": "RAVE WITH RINA 2.0",
+      "organiser": "Rina Boy",
       "priceTiers": [
         {
           "name": "Entry",
-          "priceNaira": null,
-          "note": "Festival passes on sale; per-night price TBA"
+          "note": null,
+          "priceNaira": null
         }
       ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/reel/DeuSfhzCcRe/"
+      ],
+      "ticketLink": null,
+      "ticketNote": "Tickets and prices via the link in bio @rinaboyxx",
       "ticketStatus": "ticketsOnSale",
-      "sourceLinks": [
-        "https://dettydecfest.com/events/",
-        "https://tix.dot360.co/org/livespot/detty-december"
-      ],
-      "lastVerified": "2026-10-22T00:00:00.000",
+      "unprovenPromoter": false,
+      "venueName": "Amah Studios"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
-          "description": "Listed — DJ-led Christmas Eve takeover on the Detty Pulse Stage; festival passes on sale"
+          "description": "Listed — placeholder on organiser's Gidi SZN calendar; name and venue TBA"
         }
-      ]
-    },
-    {
-      "series": null,
-      "doorsTime": null,
-      "venueName": "Detty December Village",
-      "address": null,
-      "ageLimit": null,
-      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
-      "ticketNote": null,
-      "flyerImageUrl": null,
-      "unprovenPromoter": false,
-      "description": "Closing-night rave of Detty December Fest.",
-      "id": "detty-white-out-rave-2026-12-30",
-      "name": "White Out Rave",
-      "organiser": "Livespot360 (Detty December Fest)",
-      "date": "2026-12-30T00:00:00.000",
-      "area": "Ikeja",
-      "genres": [
-        "Rave"
       ],
+      "date": "2026-12-12T00:00:00.000",
+      "description": "Placeholder on Disturbing Gidi's Gidi SZN calendar — details to be announced.",
+      "doorsTime": null,
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "id": "disturbing-gidi-beach-party-2026-12-12",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "THE BEACH PARTY",
+      "organiser": "Disturbing Gidi",
       "priceTiers": [
         {
           "name": "Entry",
-          "priceNaira": null,
-          "note": null
+          "note": null,
+          "priceNaira": null
         }
       ],
-      "ticketStatus": "announced",
+      "series": "Gidi SZN",
       "sourceLinks": [
-        "https://dettydecfest.com/events/"
+        "https://disturbinggidi.com/"
       ],
-      "lastVerified": "2026-10-22T00:00:00.000",
+      "ticketLink": "https://disturbinggidi.com/",
+      "ticketNote": null,
+      "ticketStatus": "ticketsSoon",
+      "unprovenPromoter": false,
+      "venueName": null
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
-          "description": "Listed — Detty December Fest closing night; stage and per-night price not yet published"
+          "description": "Listed — Detty December edition, venue TBA"
         }
-      ]
+      ],
+      "date": "2026-12-18T00:00:00.000",
+      "description": "Detty December edition of The Rave Circle; venue TBA.",
+      "doorsTime": "8 PM",
+      "flyerImageUrl": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "id": "mission-03-rave-circle-2026-12-18",
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "name": "Mission 03 — The Rave Circle",
+      "organiser": "The Rave Circle",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/theravecircles"
+      ],
+      "ticketLink": null,
+      "ticketNote": null,
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": null
     }
-  ]
+  ],
+  "generatedAt": "2026-10-22T08:56:48Z"
 }
