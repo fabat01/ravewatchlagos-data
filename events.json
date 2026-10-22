@@ -1,0 +1,242 @@
+{
+  "generatedAt": "2026-10-22T05:52:32.820440Z",
+  "events": [
+    {
+      "id": "ardour-2026-11-13",
+      "name": "ARDOUR",
+      "organiser": "ARDOUR",
+      "series": null,
+      "date": "2026-11-13T00:00:00.000",
+      "doorsTime": null,
+      "venueName": null,
+      "area": "TBA",
+      "address": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": null,
+          "note": null
+        }
+      ],
+      "ticketLink": "https://www.ardour.ink/tickets",
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://www.ardour.ink/tickets",
+        "https://www.instagram.com/reel/DecfSHXNzLm/"
+      ],
+      "lastVerified": "2026-10-21T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-19T00:00:00.000",
+          "description": "Listed as teaser / signup only"
+        },
+        {
+          "date": "2026-10-20T00:00:00.000",
+          "description": "Tickets went on sale"
+        }
+      ],
+      "unprovenPromoter": false,
+      "description": null
+    },
+    {
+      "id": "go-techno-2026-11-13",
+      "name": "go TECHNO",
+      "organiser": "go TECHNO",
+      "series": null,
+      "date": "2026-11-13T00:00:00.000",
+      "doorsTime": null,
+      "venueName": null,
+      "area": "Lekki Phase 1",
+      "address": null,
+      "genres": [
+        "Techno"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": 3000,
+          "note": null
+        }
+      ],
+      "ticketLink": null,
+      "ticketNote": null,
+      "ticketStatus": "announced",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://www.instagram.com/reel/Ders4KiOLxO/",
+        "https://eventornigeria.com/explore/gotechno"
+      ],
+      "lastVerified": "2026-10-21T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-20T00:00:00.000",
+          "description": "Date public (Nov 13); venue and tickets TBA"
+        }
+      ],
+      "unprovenPromoter": true,
+      "description": null
+    },
+    {
+      "id": "the-vault-rave-2026-11-14",
+      "name": "THE VAULT RAVE",
+      "organiser": "The Vault",
+      "series": null,
+      "date": "2026-11-14T00:00:00.000",
+      "doorsTime": null,
+      "venueName": null,
+      "area": "Lekki Phase 1",
+      "address": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": 7500,
+          "note": null
+        }
+      ],
+      "ticketLink": null,
+      "ticketNote": "Phone RSVP only: 07086715320 — no online ticket link",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "sourceLinks": [],
+      "lastVerified": "2026-10-21T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-16T00:00:00.000",
+          "description": "Confirmed for Sat Nov 14"
+        }
+      ],
+      "unprovenPromoter": true,
+      "description": null
+    },
+    {
+      "id": "my-steeze-party-2026-11-14",
+      "name": "MY STEEZE PARTY",
+      "organiser": "My Steeze",
+      "series": null,
+      "date": "2026-11-14T00:00:00.000",
+      "doorsTime": null,
+      "venueName": null,
+      "area": "Ikeja",
+      "address": null,
+      "genres": [
+        "Rave",
+        "Afrobeats"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": null,
+          "note": null
+        }
+      ],
+      "ticketLink": null,
+      "ticketNote": null,
+      "ticketStatus": "announced",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://www.instagram.com/reel/DecG7TNoUwm/"
+      ],
+      "lastVerified": "2026-10-21T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-19T00:00:00.000",
+          "description": "Confirmed for Sat Nov 14, Ikeja"
+        }
+      ],
+      "unprovenPromoter": false,
+      "description": null
+    },
+    {
+      "id": "ankara-rave-xperience-2026-11-20",
+      "name": "ANKARA RAVE XPERIENCE 1.0",
+      "organiser": "Ankara Rave",
+      "series": null,
+      "date": "2026-11-20T00:00:00.000",
+      "doorsTime": null,
+      "venueName": "Red Bar Lagos",
+      "area": "Lekki Phase 1",
+      "address": null,
+      "genres": [
+        "Rave",
+        "Afrobeats"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": 0,
+          "note": "with reservation"
+        }
+      ],
+      "ticketLink": null,
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://www.instagram.com/reel/Deo6H30Osff/"
+      ],
+      "lastVerified": "2026-10-21T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-19T00:00:00.000",
+          "description": "Listed — free entry with reservation, Red Bar Lekki"
+        }
+      ],
+      "unprovenPromoter": true,
+      "description": null
+    },
+    {
+      "id": "ile-ijo-2026-11-21",
+      "name": "ILÉ ÌJÓ",
+      "organiser": "Disturbing Gidi",
+      "series": null,
+      "date": "2026-11-21T00:00:00.000",
+      "doorsTime": null,
+      "venueName": "Casa 45",
+      "area": "Victoria Island",
+      "address": null,
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": null,
+          "note": null
+        }
+      ],
+      "ticketLink": "https://disturbinggidi.com/",
+      "ticketNote": null,
+      "ticketStatus": "ticketsSoon",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://disturbinggidi.com/"
+      ],
+      "lastVerified": "2026-10-21T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-19T00:00:00.000",
+          "description": "Announced for Sat Nov 21 at Casa 45, VI — tickets soon"
+        }
+      ],
+      "unprovenPromoter": false,
+      "description": null
+    }
+  ]
+}
