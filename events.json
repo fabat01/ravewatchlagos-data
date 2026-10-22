@@ -129,7 +129,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Lemonade Studios",
-      "eventType": "rave"
+      "eventType": "club"
     },
     {
       "address": null,
@@ -168,7 +168,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": null,
-      "eventType": "rave"
+      "eventType": "club"
     },
     {
       "address": "17b Osho Drive, Ologi-Apoja, Lagos",
@@ -220,7 +220,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "In-house",
-      "eventType": "club"
+      "eventType": "rave"
     },
     {
       "address": "Unity Street, Amuwo-Odofin",
@@ -486,7 +486,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Casa 45",
-      "eventType": "rave"
+      "eventType": "club"
     },
     {
       "address": null,
@@ -671,7 +671,7 @@
       "ticketStatus": "announced",
       "unprovenPromoter": true,
       "venueName": "Horizon Lounge & Suite",
-      "eventType": "rave"
+      "eventType": "club"
     },
     {
       "address": null,
@@ -926,7 +926,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Moricks Field",
-      "eventType": "rave"
+      "eventType": "club"
     },
     {
       "address": null,
@@ -970,7 +970,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Red Bar Lagos",
-      "eventType": "rave"
+      "eventType": "club"
     },
     {
       "address": null,
@@ -1065,7 +1065,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Muri Okunola Park",
-      "eventType": "rave"
+      "eventType": "club"
     },
     {
       "address": null,
@@ -1243,7 +1243,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Voda Beach",
-      "eventType": "rave"
+      "eventType": "club"
     },
     {
       "address": "Eleganza House, Joseph Harden Street, Lagos Island",
@@ -1468,7 +1468,7 @@
       "genres": [
         "Rave"
       ],
-      "eventType": "rave",
+      "eventType": "club",
       "priceTiers": [
         {
           "name": "Entry",
@@ -1489,5 +1489,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-22T09:08:23.907338Z"
+  "generatedAt": "2026-10-22T09:36:30.604614Z"
 }
