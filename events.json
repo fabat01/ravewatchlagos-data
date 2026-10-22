@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T08:48:23.253189Z",
+  "generatedAt": "2026-10-22T08:56:23.831683Z",
   "events": [
     {
       "id": "ardour-2026-11-13",
@@ -239,6 +239,50 @@
       "description": null
     },
     {
+      "series": null,
+      "doorsTime": "6 PM",
+      "venueName": null,
+      "address": null,
+      "ageLimit": null,
+      "ticketLink": "https://www.onchainfestival.org/",
+      "ticketNote": null,
+      "flyerImageUrl": null,
+      "unprovenPromoter": true,
+      "description": "Africa's first tech rave — two-day festival (Dec 5–6), venue TBA (Lagos). Premium tables available.",
+      "id": "off-duty-onchain-2026-12-05",
+      "name": "OFF-DUTY (Onchain Festival)",
+      "organiser": "Onchain Festival",
+      "date": "2026-12-05T00:00:00.000",
+      "area": "TBA",
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "priceTiers": [
+        {
+          "name": "General Access",
+          "priceNaira": 20000,
+          "note": null
+        },
+        {
+          "name": "VIP Cocktail",
+          "priceNaira": 80000,
+          "note": null
+        }
+      ],
+      "ticketStatus": "ticketsOnSale",
+      "sourceLinks": [
+        "https://www.onchainfestival.org/"
+      ],
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — two-day tech-rave festival Dec 5–6; Off Duty Rave segment Sun Dec 6 from 7 PM"
+        }
+      ]
+    },
+    {
       "id": "rave-with-rina-2-2026-12-12",
       "name": "RAVE WITH RINA 2.0",
       "organiser": "Rina Boy",
@@ -276,6 +320,122 @@
       ],
       "unprovenPromoter": false,
       "description": "Second edition of Rina Boy's rave — WAPSAM, MIXBANE, TULZ ON DECK."
+    },
+    {
+      "series": null,
+      "doorsTime": null,
+      "venueName": "Detty December Village",
+      "address": null,
+      "ageLimit": null,
+      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
+      "ticketNote": null,
+      "flyerImageUrl": null,
+      "unprovenPromoter": false,
+      "description": "Nightlife block running Dec 21–23 within Detty December Fest.",
+      "id": "detty-after-dark-2026-12-21",
+      "name": "Detty After Dark",
+      "organiser": "Livespot360 (Detty December Fest)",
+      "date": "2026-12-21T00:00:00.000",
+      "area": "Ikeja",
+      "genres": [
+        "Rave",
+        "Afrobeats"
+      ],
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": null,
+          "note": null
+        }
+      ],
+      "ticketStatus": "announced",
+      "sourceLinks": [
+        "https://dettydecfest.com/events/"
+      ],
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — nightlife block within Detty December Fest; per-night details TBA"
+        }
+      ]
+    },
+    {
+      "series": null,
+      "doorsTime": null,
+      "venueName": "Detty December Village",
+      "address": null,
+      "ageLimit": null,
+      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
+      "ticketNote": null,
+      "flyerImageUrl": null,
+      "unprovenPromoter": false,
+      "description": "DJ-led '& Friends' Christmas Eve takeover, part of Detty December Fest.",
+      "id": "detty-dj-tunez-2026-12-24",
+      "name": "DJ Tunez & Friends: Christmas Eve Special",
+      "organiser": "Livespot360 (Detty December Fest)",
+      "date": "2026-12-24T00:00:00.000",
+      "area": "Ikeja",
+      "genres": [
+        "Afrobeats"
+      ],
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": null,
+          "note": "Festival passes on sale; per-night price TBA"
+        }
+      ],
+      "ticketStatus": "ticketsOnSale",
+      "sourceLinks": [
+        "https://dettydecfest.com/events/",
+        "https://tix.dot360.co/org/livespot/detty-december"
+      ],
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — DJ-led Christmas Eve takeover on the Detty Pulse Stage; festival passes on sale"
+        }
+      ]
+    },
+    {
+      "series": null,
+      "doorsTime": null,
+      "venueName": "Detty December Village",
+      "address": null,
+      "ageLimit": null,
+      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
+      "ticketNote": null,
+      "flyerImageUrl": null,
+      "unprovenPromoter": false,
+      "description": "Closing-night rave of Detty December Fest.",
+      "id": "detty-white-out-rave-2026-12-30",
+      "name": "White Out Rave",
+      "organiser": "Livespot360 (Detty December Fest)",
+      "date": "2026-12-30T00:00:00.000",
+      "area": "Ikeja",
+      "genres": [
+        "Rave"
+      ],
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": null,
+          "note": null
+        }
+      ],
+      "ticketStatus": "announced",
+      "sourceLinks": [
+        "https://dettydecfest.com/events/"
+      ],
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — Detty December Fest closing night; stage and per-night price not yet published"
+        }
+      ]
     }
   ]
 }
