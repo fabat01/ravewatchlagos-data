@@ -958,7 +958,8 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": null,
-      "eventType": "rave"
+      "eventType": "rave",
+      "attendingCount": 0
     },
     {
       "address": null,
@@ -1719,5 +1720,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-22T13:29:05.264600Z"
+  "generatedAt": "2026-10-22T22:11:52.283252Z"
 }
