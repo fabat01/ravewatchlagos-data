@@ -163,8 +163,8 @@
       "sourceLinks": [
         "https://www.instagram.com/reel/DeuNYjftT17/"
       ],
-      "ticketLink": null,
-      "ticketNote": "Offerings and tables available through the link in @sunservice.ig bio",
+      "ticketLink": "https://www.eventporte.com/creator-profile/sundayservice",
+      "ticketNote": "Offerings & tables via Eventporte",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": null,
@@ -481,8 +481,8 @@
       "sourceLinks": [
         "https://www.instagram.com/p/DeZZRYTtr6K/"
       ],
-      "ticketLink": null,
-      "ticketNote": "Offerings/tables via @sunservice.ig bio link",
+      "ticketLink": "https://www.eventporte.com/creator-profile/sundayservice",
+      "ticketNote": "Offerings & tables via Eventporte",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Casa 45",
@@ -1257,6 +1257,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Re-checked — no change; still tickets via bio link"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Ticket page confirmed: tix.africa/discover/ravewithrina (prices shown at checkout)"
         }
       ],
       "date": "2026-12-12T00:00:00.000",
@@ -1282,8 +1286,8 @@
       "sourceLinks": [
         "https://www.instagram.com/reel/DeuSfhzCcRe/"
       ],
-      "ticketLink": null,
-      "ticketNote": "Tickets and prices via the link in bio @rinaboyxx",
+      "ticketLink": "https://tix.africa/discover/ravewithrina",
+      "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Amah Studios",
@@ -1415,7 +1419,7 @@
       "venueName": "Detty December Village",
       "address": null,
       "ageLimit": null,
-      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
+      "ticketLink": "https://tix.dot360.co/event/detty-december-festival-christmas-eve-special",
       "ticketNote": null,
       "flyerImageUrl": null,
       "unprovenPromoter": false,
@@ -1431,21 +1435,46 @@
       "eventType": "club",
       "priceTiers": [
         {
-          "name": "Entry",
+          "name": "Early Bird",
+          "priceNaira": 10000,
+          "note": "sold out"
+        },
+        {
+          "name": "General Access",
+          "priceNaira": 25000,
+          "note": null
+        },
+        {
+          "name": "Golden Circle",
+          "priceNaira": 75000,
+          "note": null
+        },
+        {
+          "name": "VIP Standing",
+          "priceNaira": 150000,
+          "note": null
+        },
+        {
+          "name": "Tables",
           "priceNaira": null,
-          "note": "Festival passes on sale; per-night price TBA"
+          "note": "by request via concierge"
         }
       ],
       "ticketStatus": "ticketsOnSale",
       "sourceLinks": [
         "https://dettydecfest.com/events/",
-        "https://tix.dot360.co/org/livespot/detty-december"
+        "https://tix.dot360.co/org/livespot/detty-december",
+        "https://tix.dot360.co/event/detty-december-festival-christmas-eve-special"
       ],
       "lastVerified": "2026-10-22T00:00:00.000",
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — DJ-led Christmas Eve takeover on the Detty Pulse Stage; festival passes on sale"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Prices published on DOT TIX: Early Bird ₦10,000 (sold out), General Access ₦25,000, Golden Circle ₦75,000, VIP Standing ₦150,000"
         }
       ]
     },
@@ -1489,5 +1518,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-22T09:36:30.604614Z"
+  "generatedAt": "2026-10-22T09:40:39.137192Z"
 }
