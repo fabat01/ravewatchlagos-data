@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T05:52:32.820440Z",
+  "generatedAt": "2026-10-22T08:48:23.253189Z",
   "events": [
     {
       "id": "ardour-2026-11-13",
@@ -237,6 +237,45 @@
       ],
       "unprovenPromoter": false,
       "description": null
+    },
+    {
+      "id": "rave-with-rina-2-2026-12-12",
+      "name": "RAVE WITH RINA 2.0",
+      "organiser": "Rina Boy",
+      "series": null,
+      "date": "2026-12-12T00:00:00.000",
+      "doorsTime": "8 PM",
+      "venueName": "Amah Studios",
+      "area": "Lagos Island",
+      "address": "Eleganza House, Joseph Harden Street, Lagos Island",
+      "genres": [
+        "Rave",
+        "Electronic"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": null,
+          "note": null
+        }
+      ],
+      "ticketLink": null,
+      "ticketNote": "Tickets and prices via the link in bio @rinaboyxx",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://www.instagram.com/reel/DeuSfhzCcRe/"
+      ],
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Announced for Sat Dec 12 at Amah Studios, Lagos Island — tickets via organiser's bio link"
+        }
+      ],
+      "unprovenPromoter": false,
+      "description": "Second edition of Rina Boy's rave — WAPSAM, MIXBANE, TULZ ON DECK."
     }
   ]
 }
