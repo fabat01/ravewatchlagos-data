@@ -48,6 +48,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — tickets on sale via bookt.io"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Prices confirmed on the Book't ticket page: Early Bird ₦9,950 (sold out), First Release ₦11,950"
         }
       ],
       "date": "2026-10-24T00:00:00.000",
@@ -64,9 +68,14 @@
       "organiser": "Sweat It Out Lagos",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": "early bird live; tiers not published",
-          "priceNaira": null
+          "name": "Early Bird",
+          "priceNaira": 9950,
+          "note": "sold out"
+        },
+        {
+          "name": "First Release",
+          "priceNaira": 11950,
+          "note": null
         }
       ],
       "series": "LoveBox",
@@ -139,6 +148,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — daytime Sunday party, offerings live"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Prices confirmed on Eventporte: Offerings from ₦3,000 (cheapest wave sold out; ₦6,000 available), After Hours ₦15,000, Stage Access ₦30,000, tables ₦200,000–₦750,000"
         }
       ],
       "date": "2026-10-25T00:00:00.000",
@@ -154,16 +167,62 @@
       "organiser": "Sunday Service Lagos",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": "offerings and tables via bio link",
-          "priceNaira": null
+          "name": "Offerings – Before Midnight",
+          "priceNaira": 3000,
+          "note": "early bird, entry until midnight — sold out"
+        },
+        {
+          "name": "Offerings – Before Midnight",
+          "priceNaira": 6000,
+          "note": "early bird, entry until midnight"
+        },
+        {
+          "name": "Offerings – Before Midnight",
+          "priceNaira": 8000,
+          "note": "early bird, entry until midnight"
+        },
+        {
+          "name": "Offerings – Before Midnight",
+          "priceNaira": 10000,
+          "note": "early bird, entry until midnight"
+        },
+        {
+          "name": "SS After Hours",
+          "priceNaira": 15000,
+          "note": "post-midnight rave pass"
+        },
+        {
+          "name": "SS Stage Access",
+          "priceNaira": 30000,
+          "note": null
+        },
+        {
+          "name": "Table For 2",
+          "priceNaira": 200000,
+          "note": "includes ₦140k food & drinks spend"
+        },
+        {
+          "name": "Table For 4",
+          "priceNaira": 350000,
+          "note": "includes ₦230k food & drinks spend"
+        },
+        {
+          "name": "Table For 6",
+          "priceNaira": 500000,
+          "note": "includes ₦350k bottles & mixers"
+        },
+        {
+          "name": "Table For 10",
+          "priceNaira": 750000,
+          "note": "includes ₦450k bottles & mixers"
         }
       ],
       "series": "Sunday Service",
       "sourceLinks": [
-        "https://www.instagram.com/reel/DeuNYjftT17/"
+        "https://www.instagram.com/reel/DeuNYjftT17/",
+        "https://www.eventporte.com/event-details/ssximss"
       ],
-      "ticketLink": "https://www.eventporte.com/creator-profile/sundayservice",
+      "ticketLink": "https://www.eventporte.com/event/tickets/ssximss",
       "ticketNote": "Offerings & tables via Eventporte",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
@@ -457,6 +516,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — Halloween-twist Sunday Service, offerings live"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Prices confirmed on Eventporte: Offerings from ₦3,000 (₦3,000 and ₦6,000 waves sold out; from ₦8,000 available), After Hours ₦15,000, Stage Access ₦30,000, tables ₦200,000–₦750,000"
         }
       ],
       "date": "2026-11-01T00:00:00.000",
@@ -472,16 +535,62 @@
       "organiser": "Sunday Service Lagos",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": "offerings and tables via bio link",
-          "priceNaira": null
+          "name": "Offerings – Before Midnight",
+          "priceNaira": 3000,
+          "note": "early bird, entry until midnight — sold out"
+        },
+        {
+          "name": "Offerings – Before Midnight",
+          "priceNaira": 6000,
+          "note": "early bird, entry until midnight — sold out"
+        },
+        {
+          "name": "Offerings – Before Midnight",
+          "priceNaira": 8000,
+          "note": "early bird, entry until midnight"
+        },
+        {
+          "name": "Offerings – Before Midnight",
+          "priceNaira": 10000,
+          "note": "early bird, entry until midnight"
+        },
+        {
+          "name": "SS After Hours",
+          "priceNaira": 15000,
+          "note": "post-midnight rave pass"
+        },
+        {
+          "name": "SS Stage Access",
+          "priceNaira": 30000,
+          "note": null
+        },
+        {
+          "name": "Table For 2",
+          "priceNaira": 200000,
+          "note": "includes ₦140k food & drinks spend"
+        },
+        {
+          "name": "Table For 4",
+          "priceNaira": 350000,
+          "note": "includes ₦230k food & drinks spend"
+        },
+        {
+          "name": "Table For 6",
+          "priceNaira": 500000,
+          "note": "includes ₦350k bottles & mixers"
+        },
+        {
+          "name": "Table For 10",
+          "priceNaira": 750000,
+          "note": "includes ₦450k bottles & mixers"
         }
       ],
       "series": "Sunday Service",
       "sourceLinks": [
-        "https://www.instagram.com/p/DeZZRYTtr6K/"
+        "https://www.instagram.com/p/DeZZRYTtr6K/",
+        "https://www.eventporte.com/event-details/gravityservice"
       ],
-      "ticketLink": "https://www.eventporte.com/creator-profile/sundayservice",
+      "ticketLink": "https://www.eventporte.com/event/tickets/gravityservice",
       "ticketNote": "Offerings & tables via Eventporte",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
@@ -1261,6 +1370,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Ticket page confirmed: tix.africa/discover/ravewithrina (prices shown at checkout)"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Prices confirmed on tix.africa: VIP ₦15,000, All Access ₦40,000, Table ₦1,000,000, Gold Table ₦2,000,000"
         }
       ],
       "date": "2026-12-12T00:00:00.000",
@@ -1277,9 +1390,24 @@
       "organiser": "Rina Boy",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
+          "name": "VIP",
+          "priceNaira": 15000,
+          "note": "no regular tier — VIP is the entry ticket"
+        },
+        {
+          "name": "All Access",
+          "priceNaira": 40000,
+          "note": null
+        },
+        {
+          "name": "Table",
+          "priceNaira": 1000000,
+          "note": "access for 5, drinks & mixers included"
+        },
+        {
+          "name": "Gold Table",
+          "priceNaira": 2000000,
+          "note": "access for 8, drinks, shisha & mixers included"
         }
       ],
       "series": null,
@@ -1518,5 +1646,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-22T09:40:39.137192Z"
+  "generatedAt": "2026-10-22T09:46:12.529771Z"
 }
