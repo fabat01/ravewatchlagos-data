@@ -21,7 +21,7 @@
       "id": "the-rave-series-black-lagos-2026-10-22",
       "lastVerified": "2026-10-22T00:00:00.000",
       "name": "The Rave Series — Black Lagos",
-      "organiser": null,
+      "organiser": "Unknown organiser",
       "priceTiers": [
         {
           "name": "Entry",
@@ -264,7 +264,7 @@
     },
     {
       "address": "Ologun Agbaje Street, Victoria Island",
-      "ageLimit": 18,
+      "ageLimit": "18+",
       "area": "Victoria Island",
       "changeLog": [
         {
@@ -373,7 +373,7 @@
     },
     {
       "address": null,
-      "ageLimit": 18,
+      "ageLimit": "18+",
       "area": "TBA",
       "changeLog": [
         {
@@ -392,7 +392,7 @@
       "id": "ntai-rave-2026-10-31",
       "lastVerified": "2026-10-22T00:00:00.000",
       "name": "NTAI RAVE — Night-Time Anime Indulgence",
-      "organiser": null,
+      "organiser": "Unknown organiser",
       "priceTiers": [
         {
           "name": "Entry",
@@ -490,7 +490,7 @@
     },
     {
       "address": null,
-      "ageLimit": 18,
+      "ageLimit": "18+",
       "area": "Victoria Island",
       "changeLog": [
         {
