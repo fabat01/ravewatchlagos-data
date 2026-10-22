@@ -38,7 +38,8 @@
       "ticketStatus": "announced",
       "unprovenPromoter": true,
       "venueName": null,
-      "eventType": "rave"
+      "eventType": "rave",
+      "attendingCount": 3
     },
     {
       "address": "Block XVI 3 & 4, Oniru Estate, Lagos",
@@ -448,7 +449,8 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "District 19",
-      "eventType": "rave"
+      "eventType": "rave",
+      "attendingCount": 1
     },
     {
       "address": "Plot 16A Block 139A, Nike Art Gallery Rd, Ikate",
@@ -488,7 +490,8 @@
       "ticketStatus": "announced",
       "unprovenPromoter": true,
       "venueName": "Free Me Space Lekki",
-      "eventType": "rave"
+      "eventType": "rave",
+      "attendingCount": 1
     },
     {
       "address": null,
@@ -1720,5 +1723,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-22T22:11:52.283252Z"
+  "generatedAt": "2026-10-22T23:04:03.819807Z"
 }
