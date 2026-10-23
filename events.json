@@ -39,7 +39,7 @@
       "unprovenPromoter": true,
       "venueName": null,
       "eventType": "rave",
-      "attendingCount": 3
+      "attendingCount": 4
     },
     {
       "address": "Block XVI 3 & 4, Oniru Estate, Lagos",
@@ -94,7 +94,8 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Shiro Lagos",
-      "eventType": "rave"
+      "eventType": "rave",
+      "attendingCount": 3
     },
     {
       "address": "11b Ligali Ayorinde St, Iru, Victoria Island",
@@ -144,7 +145,8 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Spotlight Creative Hub",
-      "eventType": "rave"
+      "eventType": "rave",
+      "attendingCount": 1
     },
     {
       "address": "65 Queen Street, Alagomeji, Yaba",
@@ -194,7 +196,8 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Lemonade Studios",
-      "eventType": "club"
+      "eventType": "club",
+      "attendingCount": 1
     },
     {
       "address": null,
@@ -343,18 +346,22 @@
       "eventType": "rave"
     },
     {
-      "address": "Unity Street, Amuwo-Odofin",
+      "address": "Plot 225/226 Festac Link Road, opposite Unity Estate, Amuwo-Odofin, Lagos",
       "ageLimit": null,
       "area": "Amuwo-Odofin",
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — outdoor block party, Jubilq listing only"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Corrected from the organiser's poster + Jetron ticket page: date Sat Oct 31 (not Oct 30), 9 PM till dawn, venue Just Drive Auto Care Service, Festac Link Road; prices Early Bird ₦7,500 / Venue ₦10,000 / Backstage ₦20,000; tickets on sale via Jetron; organiser Peeps Entertainment"
         }
       ],
-      "date": "2026-10-30T00:00:00.000",
-      "description": "Outdoor block party with water battles; top DJs billed. Third-party listing only — organiser not confirmed.",
-      "doorsTime": "7 PM",
+      "date": "2026-10-31T00:00:00.000",
+      "description": "Outdoor block party with water battles, top DJs, music, drinks and food — come with your water gun or buy one at the venue. Date, time, venue and prices per the organiser's poster and the Jetron ticket page; the Jubilq listing text (Fri Oct 30, 7 PM) conflicts with both and loses.",
+      "doorsTime": "9 PM",
       "flyerImageUrl": null,
       "genres": [
         "Rave",
@@ -363,23 +370,34 @@
       "id": "amuwo-block-party-2026-10-30",
       "lastVerified": "2026-10-22T00:00:00.000",
       "name": "Amuwo Block Party — The Water Rave",
-      "organiser": "Unconfirmed (listed via Jubilq / jetron_ticket)",
+      "organiser": "Peeps Entertainment",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
+          "name": "Early Bird",
+          "priceNaira": 7500,
+          "note": null
+        },
+        {
+          "name": "Venue Ticket",
+          "priceNaira": 10000,
+          "note": null
+        },
+        {
+          "name": "Backstage Access",
+          "priceNaira": 20000,
+          "note": null
         }
       ],
       "series": null,
       "sourceLinks": [
-        "https://jubilq.com/e/c55eed5e-aaf5-4052-bbcd-ad35e412e6d1"
+        "https://jubilq.com/e/c55eed5e-aaf5-4052-bbcd-ad35e412e6d1",
+        "https://www.jetronticket.com/thewaterraveedition"
       ],
-      "ticketLink": "https://jubilq.com/e/c55eed5e-aaf5-4052-bbcd-ad35e412e6d1",
-      "ticketNote": null,
-      "ticketStatus": "announced",
-      "unprovenPromoter": true,
-      "venueName": null,
+      "ticketLink": "https://www.jetronticket.com/thewaterraveedition",
+      "ticketNote": "Enquiries: 09017074751, 09012880367",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": "Just Drive Auto Care Service",
       "eventType": "rave"
     },
     {
@@ -494,18 +512,22 @@
       "attendingCount": 1
     },
     {
-      "address": null,
+      "address": "Water Corporation Road, Oniru Estate, Victoria Island Annex, Lagos",
       "ageLimit": "18+",
-      "area": "TBA",
+      "area": "Victoria Island",
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — 18+ anime costume rave"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Organiser and tickets found on AniWe Convention's official event page: doors 9 PM at Pop Landmark, Oniru; early bird ₦7,500 on sale now, tiers up to ₦500K tables; sources added (Instagram announcement + official page) — no longer an unsourced listing"
         }
       ],
       "date": "2026-10-31T00:00:00.000",
-      "description": "18+ anime costume rave at Landmark. Third-party flyer only — prices and organiser unconfirmed.",
-      "doorsTime": null,
+      "description": "Anime-inspired Halloween rave by AniWe Convention — DJs, cosplay, games and themed visuals. 18+. Dress up in your fandom. The paired Upside Down House event runs earlier that evening; NTAI follows from 9 PM at Pop Landmark.",
+      "doorsTime": "9 PM",
       "flyerImageUrl": null,
       "genres": [
         "Rave",
@@ -514,21 +536,59 @@
       "id": "ntai-rave-2026-10-31",
       "lastVerified": "2026-10-22T00:00:00.000",
       "name": "NTAI RAVE — Night-Time Anime Indulgence",
-      "organiser": "Unknown organiser",
+      "organiser": "AniWe Convention",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": "flyer amounts not captured",
-          "priceNaira": null
+          "name": "Early Bird Standard",
+          "priceNaira": 7500,
+          "note": "available now"
+        },
+        {
+          "name": "2nd Release Standard",
+          "priceNaira": 10000,
+          "note": "opens Oct 24"
+        },
+        {
+          "name": "At the Door Standard",
+          "priceNaira": 12000,
+          "note": "opens Oct 30"
+        },
+        {
+          "name": "NTAI × Upside Down House Early Bird",
+          "priceNaira": 15000,
+          "note": "bundle, available now"
+        },
+        {
+          "name": "NTAI × Upside Down House 2nd Release",
+          "priceNaira": 20000,
+          "note": "bundle, opens Oct 24"
+        },
+        {
+          "name": "NTAI × Upside Down House At the Door",
+          "priceNaira": 22000,
+          "note": "bundle, opens Oct 30"
+        },
+        {
+          "name": "Duo Table (2 guests)",
+          "priceNaira": 250000,
+          "note": "table experience — premium spirits bottle, micro platter, 2 masks"
+        },
+        {
+          "name": "Exquisite Table (4 guests)",
+          "priceNaira": 500000,
+          "note": "table experience — 2 premium bottles, platter, 4 masks"
         }
       ],
       "series": null,
-      "sourceLinks": [],
-      "ticketLink": null,
+      "sourceLinks": [
+        "https://www.instagram.com/p/Dddvxksobh7/",
+        "https://aniweconvention.com/events/ntai-night-time-anime-indulgence-6576e5"
+      ],
+      "ticketLink": "https://aniweconvention.com/events/ntai-night-time-anime-indulgence-6576e5",
       "ticketNote": null,
-      "ticketStatus": "announced",
-      "unprovenPromoter": true,
-      "venueName": "Landmark",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": "Pop Landmark",
       "eventType": "rave"
     },
     {
@@ -1287,18 +1347,22 @@
       "eventType": "rave"
     },
     {
-      "address": null,
+      "address": "15 Admiralty Way, Lekki Phase 1, Lagos",
       "ageLimit": null,
-      "area": "Ikeja",
+      "area": "Lekki Phase 1",
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — heavy bassline clubbing, Jubilq listing only"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Corrected from the poster + Jetron ticket page: venue Vybz Lifestyle Lagos, 15 Admiralty Way, Lekki Phase 1 (not Ikeja), 9 PM start; prices Regular ₦10,000 / VIP ₦50,000 / tables ₦300K–₦750K; tickets on sale via Jetron; host Didiboy"
         }
       ],
       "date": "2026-11-28T00:00:00.000",
-      "description": "Heavy bassline clubbing night; 'Ikeja staple' returning. Third-party listing only — tickets on jetronticket.com.",
-      "doorsTime": "3 PM",
+      "description": "Wildersland's heavy bassline clubbing night, hosted by Didiboy. Venue, time and prices per the event poster and the Jetron ticket page; the Jubilq location tag (Ikeja) and 3 PM start conflict with both and lose.",
+      "doorsTime": "9 PM",
       "flyerImageUrl": null,
       "genres": [
         "Rave",
@@ -1307,23 +1371,44 @@
       "id": "wilders-2-2026-11-28",
       "lastVerified": "2026-10-22T00:00:00.000",
       "name": "Wilders party 2.0",
-      "organiser": "@obidum_emma",
+      "organiser": "Didiboy (Wildersland)",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
+          "name": "Regular",
+          "priceNaira": 10000,
+          "note": null
+        },
+        {
+          "name": "VIP",
+          "priceNaira": 50000,
+          "note": null
+        },
+        {
+          "name": "Table for 4",
+          "priceNaira": 300000,
+          "note": null
+        },
+        {
+          "name": "Table for 6",
+          "priceNaira": 500000,
+          "note": null
+        },
+        {
+          "name": "Platinum",
+          "priceNaira": 750000,
+          "note": null
         }
       ],
       "series": null,
       "sourceLinks": [
-        "https://jubilq.com/e/35096991-9642-47b2-838a-4832dc3bce6e"
+        "https://jubilq.com/e/35096991-9642-47b2-838a-4832dc3bce6e",
+        "https://www.jetronticket.com/wilders-party-2"
       ],
-      "ticketLink": "https://jubilq.com/e/35096991-9642-47b2-838a-4832dc3bce6e",
-      "ticketNote": null,
-      "ticketStatus": "announced",
-      "unprovenPromoter": true,
-      "venueName": null,
+      "ticketLink": "https://www.jetronticket.com/wilders-party-2",
+      "ticketNote": "Enquiries & reservations: 09066378543, 09163503828",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": "Vybz Lifestyle Lagos",
       "eventType": "rave"
     },
     {
@@ -1723,5 +1808,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-22T23:04:03.819807Z"
+  "generatedAt": "2026-10-23T00:01:19.662878Z"
 }
