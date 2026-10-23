@@ -2378,64 +2378,6 @@
       "address": null,
       "ageLimit": null,
       "flyerImageUrl": null,
-      "series": "Detty December Fest",
-      "lastVerified": "2026-10-22T00:00:00.000",
-      "changeLog": [
-        {
-          "date": "2026-10-22T00:00:00.000",
-          "description": "Listed — owambe-style party night on the Detty Pulse Stage (live bands + DJ sets), 6 PM; tickets on sale on DOT TIX (₦35,000–₦225,000)."
-        }
-      ],
-      "id": "tungba-christmas-2026-12-25",
-      "name": "Tungba Christmas — Christmas Day Special",
-      "date": "2026-12-25T00:00:00.000",
-      "organiser": "Livespot360 (Detty December Fest)",
-      "venueName": "Detty December Village (Detty Pulse Stage)",
-      "area": "Lagos",
-      "doorsTime": "6 PM",
-      "genres": [
-        "Afrobeats",
-        "Fuji/Tungba"
-      ],
-      "eventType": "club",
-      "priceTiers": [
-        {
-          "name": "General Access",
-          "priceNaira": 35000,
-          "note": null
-        },
-        {
-          "name": "Golden Circle",
-          "priceNaira": 100000,
-          "note": null
-        },
-        {
-          "name": "VIP Standing",
-          "priceNaira": 225000,
-          "note": null
-        },
-        {
-          "name": "Tables",
-          "priceNaira": null,
-          "note": "by request via WhatsApp concierge"
-        }
-      ],
-      "ticketLink": "https://tix.dot360.co/event/detty-december-festival-christmas-eve-special-copy",
-      "ticketNote": "Buy tiers directly on the DOT TIX page; tables via WhatsApp request to the Livespot concierge.",
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": false,
-      "description": "Owambe-style party night on the Detty Pulse Stage — live Tungba/Fuji bands blended with DJ sets, Christmas Day, 6 PM.",
-      "sourceLinks": [
-        "https://tix.dot360.co/event/detty-december-festival-christmas-eve-special-copy",
-        "https://livespot360.com/blog/tungba-christmas-is-bringing-the-owambe-to-detty-december-fest/",
-        "https://dettydecfest.com",
-        "https://www.brandtimes.com.ng/detty-december-fest-announces-dj-tunez-friends-and-tungba-christmas-for-the-festive-season/"
-      ]
-    },
-    {
-      "address": null,
-      "ageLimit": null,
-      "flyerImageUrl": null,
       "series": "Gidi SZN",
       "lastVerified": "2026-10-22T00:00:00.000",
       "changeLog": [
@@ -2557,5 +2499,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-23T01:58:00.000000+00:00"
+  "generatedAt": "2026-10-23T02:12:00.000000+00:00"
 }
