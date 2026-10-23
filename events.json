@@ -1808,6 +1808,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — fashion x rave, tickets on sale on pv.pro"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Genres corrected — 'Rave' removed (it is the event's branding, not a music genre); listed music is Afrobeats-led, Club Party. Abatan confirmed fashion raves stay in scope under the DJ-led test (party-first in, seated runway shows out)."
         }
       ],
       "date": "2026-11-27T00:00:00.000",
@@ -1815,7 +1819,6 @@
       "doorsTime": "4 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Afrobeats"
       ],
       "id": "fashion-rave-2026-2026-11-27",
@@ -2554,5 +2557,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-23T01:44:00.000000+00:00"
+  "generatedAt": "2026-10-23T01:58:00.000000+00:00"
 }
