@@ -471,17 +471,21 @@
       "attendingCount": 1
     },
     {
-      "address": "Plot 16A Block 139A, Nike Art Gallery Rd, Ikate",
+      "address": "Plot 16A, Block 139A, Nike Art Gallery Road, Ikate, Lekki 101222",
       "ageLimit": null,
       "area": "Lekki",
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — music spotlighting + rave, 8 PM–3 AM"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Tickets verified on sale on TicketHub: Early Bird ₦10,000 and General Admission ₦15,000. Status changed from Announced to Tickets on sale."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
-      "description": "Music spotlighting + rave, 8 PM–3 AM. Third-party post only.",
+      "description": "SPOTLIGHTS AND RAVE by The Cave Studioz, 8 PM Sat Oct 31 into Sun Nov 1. Tickets are on sale through TicketHub.",
       "doorsTime": "8 PM",
       "flyerImageUrl": null,
       "genres": [
@@ -494,20 +498,26 @@
       "organiser": "The Cave Studioz",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
+          "name": "Early Bird",
+          "priceNaira": 10000,
+          "note": null
+        },
+        {
+          "name": "General Admission",
+          "priceNaira": 15000,
+          "note": null
         }
       ],
       "series": null,
       "sourceLinks": [
+        "https://tickethub.ng/vibez-unleashed-40-spotlights-rave-a7DtyI",
         "https://www.instagram.com/tickethub.ng"
       ],
-      "ticketLink": null,
-      "ticketNote": "Posted by ticketing platform @tickethub.ng",
-      "ticketStatus": "announced",
-      "unprovenPromoter": true,
-      "venueName": "Free Me Space Lekki",
+      "ticketLink": "https://tickethub.ng/vibez-unleashed-40-spotlights-rave-a7DtyI",
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": "The Freeme Space",
       "eventType": "rave",
       "attendingCount": 1
     },
@@ -1069,7 +1079,7 @@
     {
       "address": null,
       "ageLimit": null,
-      "area": "Ikeja",
+      "area": "Ijegun",
       "changeLog": [
         {
           "date": "2026-10-19T00:00:00.000",
@@ -1078,11 +1088,15 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Re-checked — no confirmed change"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Flyer verified from the public reel: Hunters Lounge, doors 9 PM, Regular ₦5,000 and VIP ₦10,000. No online ticket link, so status remains Announced."
         }
       ],
       "date": "2026-11-14T00:00:00.000",
-      "description": null,
-      "doorsTime": null,
+      "description": "Premium rave party with DJ Walezky and DJ Akamo. The flyer lists Hunters Lounge, doors 9 PM, Regular ₦5,000 and VIP ₦10,000; reservations are by phone, with no online sales link.",
+      "doorsTime": "9 PM",
       "flyerImageUrl": null,
       "genres": [
         "Rave",
@@ -1091,12 +1105,17 @@
       "id": "my-steeze-party-2026-11-14",
       "lastVerified": "2026-10-22T00:00:00.000",
       "name": "MY STEEZE PARTY",
-      "organiser": "My Steeze",
+      "organiser": "Omoalhaja Entertainment / Hypa Records / TML Entertainment",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
+          "name": "Regular",
+          "priceNaira": 5000,
+          "note": null
+        },
+        {
+          "name": "VIP",
+          "priceNaira": 10000,
+          "note": null
         }
       ],
       "series": null,
@@ -1104,10 +1123,10 @@
         "https://www.instagram.com/reel/DecG7TNoUwm/"
       ],
       "ticketLink": null,
-      "ticketNote": null,
+      "ticketNote": "No online ticket link. The flyer lists phone reservations; prices are Regular ₦5,000 and VIP ₦10,000.",
       "ticketStatus": "announced",
       "unprovenPromoter": false,
-      "venueName": null,
+      "venueName": "Hunters Lounge",
       "eventType": "club"
     },
     {
@@ -1664,14 +1683,14 @@
     {
       "series": null,
       "doorsTime": null,
-      "venueName": "Detty December Village",
+      "venueName": "Detty Pulse Stage, Detty December Village",
       "address": null,
       "ageLimit": null,
-      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
-      "ticketNote": null,
+      "ticketLink": null,
+      "ticketNote": "Tickets are not on sale yet. Detty December Fest is taking notify-list signups for this night on its events page.",
       "flyerImageUrl": null,
       "unprovenPromoter": false,
-      "description": "Nightlife block running Dec 21–23 within Detty December Fest.",
+      "description": "Nightlife block running Dec 21–23 within Detty December Fest. Tickets are not purchasable yet; the festival site offers notify-list signup only.",
       "id": "detty-after-dark-2026-12-21",
       "name": "Detty After Dark",
       "organiser": "Livespot360 (Detty December Fest)",
@@ -1699,6 +1718,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — nightlife block within Detty December Fest; per-night details TBA"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Status verified on the festival site: tickets not on sale; notify-list signup only. Removed the general Detty ticket-page link so it does not imply this night is purchasable."
         }
       ]
     },
@@ -1770,14 +1793,14 @@
     {
       "series": null,
       "doorsTime": null,
-      "venueName": "Detty December Village",
+      "venueName": "Detty Festival Stage, Detty December Village",
       "address": null,
       "ageLimit": null,
-      "ticketLink": "https://tix.dot360.co/org/livespot/detty-december",
-      "ticketNote": null,
+      "ticketLink": null,
+      "ticketNote": "Tickets are not on sale yet. Detty December Fest is taking notify-list signups for this finale on its events page.",
       "flyerImageUrl": null,
       "unprovenPromoter": false,
-      "description": "Closing-night rave of Detty December Fest.",
+      "description": "Closing-night all-white rave of Detty December Fest. Tickets are not purchasable yet; the festival site offers notify-list signup only.",
       "id": "detty-white-out-rave-2026-12-30",
       "name": "White Out Rave",
       "organiser": "Livespot360 (Detty December Fest)",
@@ -1804,9 +1827,13 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — Detty December Fest closing night; stage and per-night price not yet published"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Status verified on the festival site: tickets not on sale; notify-list signup only. Removed the general Detty ticket-page link so it does not imply this night is purchasable."
         }
       ]
     }
   ],
-  "generatedAt": "2026-10-23T00:01:19.662878Z"
+  "generatedAt": "2026-10-23T00:14:34.429974Z"
 }
