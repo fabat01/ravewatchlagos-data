@@ -535,6 +535,61 @@
       "eventType": "rave"
     },
     {
+      "address": "3 Hassan Oduga Street, Opposite Domino's, Ikorodu, Lagos",
+      "ageLimit": null,
+      "flyerImageUrl": null,
+      "series": null,
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — two-day Amapiano/Afrobeats party at Royal Kaft Lounge, Ikorodu (Oct 30–31, 10 PM), via DOT TIX; Free Access tier sold out; General ₦5,000 / VIP ₦15,000 / Group of 5 ₦22,500."
+        }
+      ],
+      "id": "groove-district-2026-10-30",
+      "name": "Groove District",
+      "date": "2026-10-30T00:00:00.000",
+      "organiser": "Blessing Adenusi",
+      "venueName": "Royal Kaft Lounge",
+      "area": "Ikorodu",
+      "doorsTime": "10 PM",
+      "genres": [
+        "Amapiano",
+        "Afrobeats"
+      ],
+      "eventType": "club",
+      "priceTiers": [
+        {
+          "name": "Free Access",
+          "priceNaira": 0,
+          "note": "Sold out"
+        },
+        {
+          "name": "General Access",
+          "priceNaira": 5000,
+          "note": null
+        },
+        {
+          "name": "VIP Access",
+          "priceNaira": 15000,
+          "note": null
+        },
+        {
+          "name": "Group of 5",
+          "priceNaira": 22500,
+          "note": null
+        }
+      ],
+      "ticketLink": "https://tix.dot360.co/event/groove-district",
+      "ticketNote": "Two-day event, Fri Oct 30 – Sat Oct 31, doors 10 PM. 7.5% VAT added at checkout on DOT TIX.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "description": "Independent-hosted two-day party in Ikorodu — Amapiano and Afrobeats-led nights with free, general, VIP and group tiers.",
+      "sourceLinks": [
+        "https://tix.dot360.co/event/groove-district"
+      ]
+    },
+    {
       "address": "Plot 225/226 Festac Link Road, opposite Unity Estate, Amuwo-Odofin, Lagos",
       "ageLimit": null,
       "area": "Amuwo-Odofin",
@@ -1607,6 +1662,62 @@
     {
       "address": null,
       "ageLimit": null,
+      "flyerImageUrl": null,
+      "series": null,
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — Livespot's Nov 20 party night at Livespot Entertarium, 7 PM, via DOT TIX; Regular free registration / Early Bird General ₦15,000 / VIP Standing ₦100,000 / tables by WhatsApp request."
+        }
+      ],
+      "id": "turn-up-lagos-2026-11-20",
+      "name": "Turn Up Lagos",
+      "date": "2026-11-20T00:00:00.000",
+      "organiser": "Livespot",
+      "venueName": "Livespot Entertarium",
+      "area": "Lekki",
+      "doorsTime": "7 PM",
+      "genres": [
+        "Afrobeats",
+        "Amapiano",
+        "Global Sounds"
+      ],
+      "eventType": "club",
+      "priceTiers": [
+        {
+          "name": "Regular",
+          "priceNaira": 0,
+          "note": "Free registration via the DOT TIX page"
+        },
+        {
+          "name": "Early Bird General Access",
+          "priceNaira": 15000,
+          "note": null
+        },
+        {
+          "name": "VIP Standing",
+          "priceNaira": 100000,
+          "note": null
+        },
+        {
+          "name": "Tables",
+          "priceNaira": null,
+          "note": "By request — concierge confirms availability and payment on WhatsApp"
+        }
+      ],
+      "ticketLink": "https://tix.dot360.co/event/turn-up-lagos-2",
+      "ticketNote": "7.5% VAT added at checkout on DOT TIX. Tables by WhatsApp request to the Livespot concierge.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "description": "Livespot-hosted party night — Afrobeats, Amapiano and global sounds, with a free Regular registration tier alongside paid tiers.",
+      "sourceLinks": [
+        "https://tix.dot360.co/event/turn-up-lagos-2"
+      ]
+    },
+    {
+      "address": null,
+      "ageLimit": null,
       "area": "Victoria Island",
       "changeLog": [
         {
@@ -1651,6 +1762,43 @@
       "unprovenPromoter": false,
       "venueName": "Casa 45",
       "eventType": "rave"
+    },
+    {
+      "address": "Eti-Osa, Lagos",
+      "ageLimit": null,
+      "flyerImageUrl": null,
+      "series": null,
+      "lastVerified": "2026-10-22T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — two-day 'executive party' in Lekki (venue undisclosed yet; Nov 21–22, 10 PM), via DOT TIX; General Access ₦50,000 covers free drinks and free chops. Music genres not stated on the organiser's page — club-party classification pending evidence; flag for flyer/organiser check next run."
+        }
+      ],
+      "id": "dirty-house-party-2026-11-21",
+      "name": "Dirty House Party",
+      "date": "2026-11-21T00:00:00.000",
+      "organiser": "SoundandSips",
+      "venueName": "Lekki (Undisclosed yet)",
+      "area": "Lekki",
+      "doorsTime": "10 PM",
+      "genres": [],
+      "eventType": "club",
+      "priceTiers": [
+        {
+          "name": "General Access",
+          "priceNaira": 50000,
+          "note": "Covers free drinks and free chops"
+        }
+      ],
+      "ticketLink": "https://tix.dot360.co/event/dirty-house-party",
+      "ticketNote": "Two-day event, Sat Nov 21 – Sun Nov 22, 10 PM. Exact venue still undisclosed. 7.5% VAT added at checkout on DOT TIX.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "description": "Executive-style two-night party in Lekki ('Same House, Different Rules') — the listing title's 'House Party' is the party format, not the music; the organiser's page states no music genres, so it is listed as a Club Party night pending evidence.",
+      "sourceLinks": [
+        "https://tix.dot360.co/event/dirty-house-party"
+      ]
     },
     {
       "address": "Muri Okunola Park, Victoria Island",
@@ -2406,5 +2554,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-23T01:24:40.082573+00:00"
+  "generatedAt": "2026-10-23T01:44:00.000000+00:00"
 }
