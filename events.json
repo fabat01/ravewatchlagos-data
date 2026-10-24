@@ -1220,6 +1220,43 @@
       "venueName": "Solos Lagos"
     },
     {
+      "address": "Adeola Odeku Street, Victoria Island",
+      "ageLimit": null,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — Halloween edition of the PM2AM party at Casa 45, verified on the organiser's MyAccessPlug ticket page (from ₦12,500, page range ₦12,500–₦55,000; tier breakdown not text-readable)."
+        }
+      ],
+      "date": "2026-10-31T00:00:00.000",
+      "description": "Halloween edition of the PM2AM party at Casa 45 — mystery, music and nightlife collide; electrifying sets, costumes, 9PM–5AM.",
+      "doorsTime": "9 PM",
+      "eventType": "club",
+      "flyerImageUrl": "https://myaccessplug.com/_next/image?url=https%3A%2F%2Fpub-24c63eb5a7ac47199dc1482515447c07.r2.dev%2Fevents%2Fpm2am-after-dark-1792405362898.webp&w=3840&q=75",
+      "genres": [],
+      "id": "pm2am-after-dark-2026-10-31",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "PM2AM: AFTER DARK",
+      "organiser": "PM2AM",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": "from ₦12,500; page range ₦12,500–₦55,000, tier breakdown not text-readable",
+          "priceNaira": 12500
+        }
+      ],
+      "series": "PM2AM",
+      "sourceLinks": [
+        "https://myaccessplug.com/events/pm2am-after-dark"
+      ],
+      "ticketLink": "https://myaccessplug.com/events/pm2am-after-dark",
+      "ticketNote": "Tickets on sale on MyAccessPlug (from ₦12,500).",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Casa 45"
+    },
+    {
       "address": "687 Adeola Hopewell Street, VI",
       "ageLimit": null,
       "area": "Victoria Island",
@@ -3339,5 +3376,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-24T10:43:36.853271+00:00"
+  "generatedAt": "2026-10-24T10:47:07.514953+00:00"
 }
