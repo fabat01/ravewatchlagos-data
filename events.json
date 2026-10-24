@@ -66,8 +66,7 @@
       "doorsTime": "4 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Hip-hop",
-        "Rave"
+        "Hip-hop"
       ],
       "id": "oorave-2026-10-24",
       "lastVerified": "2026-10-22T00:00:00.000",
@@ -530,7 +529,6 @@
       "doorsTime": "9 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "amuwo-block-party-2026-10-30",
@@ -663,7 +661,6 @@
       "doorsTime": "8 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "vibez-unleashed-4-2026-10-31",
@@ -714,7 +711,6 @@
       "doorsTime": "9 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "ntai-rave-2026-10-31",
@@ -1000,6 +996,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — Halloween pool/beach party with music in Lekki, 1 PM–11 PM; tickets buyable on Eventbrite; organiser not named on the page."
+        },
+        {
+          "date": "2026-10-24T02:03:11.000Z",
+          "description": "Price now shown as published — $7.18 on Eventbrite (tickets are priced in USD, so the feed no longer shows TBA for an on-sale event)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -1015,7 +1015,8 @@
         {
           "name": "Entry",
           "priceNaira": null,
-          "note": "from $7.18 USD on Eventbrite (browser locale) — ₦ price not published"
+          "note": "from $7.18 USD on Eventbrite (browser locale) — ₦ price not published",
+          "priceDisplay": "$7.18"
         }
       ],
       "series": null,
@@ -1048,7 +1049,6 @@
       "doorsTime": "5 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "sammix-party-2026-11-01",
@@ -1256,7 +1256,6 @@
       "doorsTime": "9 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "void-house-2026-11-07",
@@ -1316,7 +1315,6 @@
       "doorsTime": null,
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "vibes-theorie-2026-11-07",
@@ -1365,7 +1363,6 @@
       "doorsTime": "1 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "dark-mask-rave-2026-11-07",
@@ -1406,7 +1403,6 @@
       "doorsTime": "11 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Afrobeats"
       ],
       "id": "light-rave-vol-1-2026-11-07",
@@ -1454,7 +1450,6 @@
       "doorsTime": null,
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "ardour-2026-11-13",
@@ -1564,7 +1559,6 @@
       "doorsTime": null,
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "the-vault-rave-2026-11-14",
@@ -1610,7 +1604,6 @@
       "doorsTime": "9 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Afrobeats"
       ],
       "id": "my-steeze-party-2026-11-14",
@@ -1655,7 +1648,6 @@
       "doorsTime": null,
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Afrobeats",
         "Amapiano"
       ],
@@ -1715,7 +1707,6 @@
       "doorsTime": null,
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Afrobeats"
       ],
       "id": "ankara-rave-xperience-2026-11-20",
@@ -2001,7 +1992,6 @@
       "doorsTime": "9 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "wilders-2-2026-11-28",
@@ -2161,7 +2151,6 @@
       "date": "2026-12-05T00:00:00.000",
       "area": "TBA",
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "eventType": "rave",
@@ -2283,7 +2272,6 @@
       "doorsTime": "8 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "rave-with-rina-2-2026-12-12",
@@ -2339,7 +2327,6 @@
       "doorsTime": null,
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "disturbing-gidi-beach-party-2026-12-12",
@@ -2418,7 +2405,6 @@
       "doorsTime": "8 PM",
       "flyerImageUrl": null,
       "genres": [
-        "Rave",
         "Electronic"
       ],
       "id": "mission-03-rave-circle-2026-12-18",
@@ -2451,6 +2437,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — Detty December Fest 2026 festival passes went on sale ('PASSES NOW OPEN' on dettydecfest.com; was 'sales open soon'). Covers multiple days of the 13-day Dec 18–30 programme; single-night tickets via DOT TIX where available."
+        },
+        {
+          "date": "2026-10-24T02:05:59.000Z",
+          "description": "Status corrected to Announced: passes are announced on the festival site, but the DOT TIX passes listing is a placeholder (no tiers, no checkout), so passes cannot actually be bought yet."
         }
       ],
       "date": "2026-12-18T00:00:00.000",
@@ -2464,23 +2454,24 @@
         "House"
       ],
       "id": "detty-december-fest-passes-2026-12-18",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-24T02:05:59.000Z",
       "name": "Detty December Fest 2026 — Festival Passes",
       "organiser": "Livespot360 / Detty December Fest",
       "priceTiers": [
         {
           "name": "Festival Pass",
           "priceNaira": null,
-          "note": "pass prices not text-readable on dettydecfest.com — check the site"
+          "note": "pass prices not yet published — the DOT TIX passes listing is a placeholder with no checkout"
         }
       ],
       "series": "Detty December Fest",
       "sourceLinks": [
-        "https://dettydecfest.com/events/"
+        "https://dettydecfest.com/events/",
+        "https://tix.dot360.co/org/livespot/detty-december"
       ],
       "ticketLink": "https://dettydecfest.com/events/",
-      "ticketNote": "Festival passes on sale now at dettydecfest.com (official ticketing partner DOT TIX); covers multiple days; single-night tickets for individual shows.",
-      "ticketStatus": "ticketsOnSale",
+      "ticketNote": "Festival passes announced at dettydecfest.com, but there is no live checkout yet — the DOT TIX passes listing is a placeholder. Status corrected from Tickets on sale until a real purchase route opens.",
+      "ticketStatus": "announced",
       "unprovenPromoter": false,
       "venueName": "Detty December Village",
       "eventType": "club"
@@ -2551,7 +2542,6 @@
       "date": "2026-12-21T00:00:00.000",
       "area": "Ikeja",
       "genres": [
-        "Rave",
         "Afrobeats"
       ],
       "eventType": "club",
@@ -2713,9 +2703,7 @@
       "organiser": "Livespot360 (Detty December Fest)",
       "date": "2026-12-30T00:00:00.000",
       "area": "Ikeja",
-      "genres": [
-        "Rave"
-      ],
+      "genres": [],
       "eventType": "club",
       "priceTiers": [
         {
@@ -2786,6 +2774,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — end-of-year yacht party (dance, music, fireworks), 5–8 PM; tickets buyable on Eventbrite; exact location sent to attendees."
+        },
+        {
+          "date": "2026-10-24T02:03:11.000Z",
+          "description": "Price now shown as published — $19.98 on Eventbrite (tickets are priced in USD, so the feed no longer shows TBA for an on-sale event)."
         }
       ],
       "date": "2026-12-30T00:00:00.000",
@@ -2801,7 +2793,8 @@
         {
           "name": "Entry",
           "priceNaira": null,
-          "note": "from $19.98 USD on Eventbrite (browser locale) — ₦ price not published"
+          "note": "from $19.98 USD on Eventbrite (browser locale) — ₦ price not published",
+          "priceDisplay": "$19.98"
         }
       ],
       "series": null,
@@ -2859,5 +2852,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-24T01:42:53.218060+00:00"
+  "generatedAt": "2026-10-24T02:05:59.678143+00:00"
 }
