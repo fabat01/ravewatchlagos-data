@@ -2493,6 +2493,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — two-day dance-music festival at Orange Island: Dec 19 Underground Sound (high BPM/underground, curated by Monochroma), Dec 20 Mainstream Sound (Amapiano/Afropiano/Mara, curated by Even In The Day); notify list only on danceeko.com."
+        },
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Corroborated by independent krent.space December 2026 guide (second source; cites the official site) — dates, Orange Island venue and Afrohouse/Amapiano format confirmed; still announced, no ticket route live."
         }
       ],
       "date": "2026-12-19T00:00:00.000",
@@ -2520,7 +2524,8 @@
       ],
       "series": null,
       "sourceLinks": [
-        "https://danceeko.com/"
+        "https://danceeko.com/",
+        "https://blog.krent.space/area-guide/lagos/20-things-to-do-in-lagos-this-december-2026/"
       ],
       "ticketLink": null,
       "ticketNote": "Notify list only — 'Be the first to know when tickets drop' on danceeko.com; no purchase route live.",
@@ -2854,5 +2859,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-24T00:23:44.368879+00:00"
+  "generatedAt": "2026-10-24T01:42:53.218060+00:00"
 }
