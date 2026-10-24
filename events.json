@@ -1633,11 +1633,15 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Live RSVP route found on Bookt via the organiser's IG bio — status announced → ticketsOnSale; doors 1:00–8:00 PM per the page; venue still unnamed."
+        },
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Reconciled against the Book't event page: doors 4–11 PM (was 1–8 PM); entry free but a branded mask (₦4,000, reusable) is required and sold on the page."
         }
       ],
       "date": "2026-11-07T00:00:00.000",
-      "description": "Free dark-room rave in Ikoyi — attendees rave in the dark, masks required. 1–8 PM via free RSVP on Bookt.",
-      "doorsTime": "1 PM",
+      "description": "Dark-room rave in Ikoyi — lights out, masks on, 'hypnotic sounds' per the organiser. 4–11 PM per the Book't event page. Entry is free, but a branded mask (₦4,000) is required and reusable for their subsequent nights. Note: the poster frame on the page says Lekki Phase 1 while the page's location field says Ikoyi — Ikoyi kept; exact venue still unnamed.",
+      "doorsTime": "4 PM",
       "eventType": "rave",
       "flyerImageUrl": null,
       "genres": [
@@ -1646,21 +1650,27 @@
       "id": "dark-mask-rave-2026-11-07",
       "lastVerified": "2026-10-24T00:00:00.000",
       "name": "DARK & MASK RAVE",
-      "organiser": "@alaafinofeko",
+      "organiser": "AlaafinofEko",
       "priceTiers": [
         {
           "name": "Entry",
-          "note": "free — registration + mask required",
+          "note": "free entry",
           "priceNaira": 0
+        },
+        {
+          "name": "Branded Mask (required)",
+          "note": "required for entry; reusable for subsequent nights",
+          "priceNaira": 4000
         }
       ],
       "series": null,
       "sourceLinks": [
         "https://www.instagram.com/alaafinofeko",
-        "https://event.getbookt.io/dark-and-mask-rave"
+        "https://event.getbookt.io/dark-and-mask-rave",
+        "https://event.getbookt.io/creator/AlaafinofEko-_16630_2553"
       ],
       "ticketLink": "https://event.getbookt.io/dark-and-mask-rave",
-      "ticketNote": "Free RSVP via Bookt (live route from the organiser's IG bio); mask required; venue in Ikoyi not named",
+      "ticketNote": "Entry is free, but a branded mask (₦4,000, reusable for later nights) is required — sold on the Book't event page; sales end Nov 7, 11 PM.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": null
@@ -2781,11 +2791,15 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — discovered via the Book't platform sweep on The Party House's Book't organiser profile (announced for Sat Dec 12, 8:00 PM). The event's own Book't ticket page — tiers, prices, purchase route — was not reachable in open sources at sweep time, so prices are TBA."
+        },
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Ticket page verified live on Book't: Sinatra Place, Ogba; tickets on sale — Early Bird ₦5,000 / Group of 5 ₦20,000 / Regular ₦10,000 / Stage Access ₦20,000 / VIP ₦50,000; status announced → ticketsOnSale. Time per the event page is 2–10 PM (poster says 8 PM–dawn; page time kept)."
         }
       ],
       "date": "2026-12-12T00:00:00.000",
-      "description": "The Party House's Detty December edition of its Sage City Water City party series, announced on the organiser's Book't profile. The series' 2025 edition paired music with water games and party games in Ikeja; this edition is billed by the organiser as a Detty December Rave. Music programme and ticket tiers not yet published in reachable sources.",
-      "doorsTime": "8:00 PM",
+      "description": "The Party House's Detty December edition of its Sage City Water City series at Sinatra Place, Ogba — a water-themed party (water guns, party games); a DJ is billed on the night (the Stage Access tier puts you 'on stage with the DJ') but no lineup or genre is published yet. 2–10 PM per the Book't event page; the poster says 8 PM till dawn.",
+      "doorsTime": "2 PM",
       "eventType": "club",
       "flyerImageUrl": null,
       "genres": [],
@@ -2795,21 +2809,43 @@
       "organiser": "The Party House",
       "priceTiers": [
         {
-          "name": "Entry",
+          "name": "Early Bird",
           "note": null,
-          "priceNaira": null
+          "priceNaira": 5000
+        },
+        {
+          "name": "Early Bird — Group of 5",
+          "note": "access for a group of 5",
+          "priceNaira": 20000
+        },
+        {
+          "name": "Regular",
+          "note": null,
+          "priceNaira": 10000
+        },
+        {
+          "name": "Stage Access",
+          "note": null,
+          "priceNaira": 20000
+        },
+        {
+          "name": "VIP",
+          "note": "access to the VIP area",
+          "priceNaira": 50000
         }
       ],
       "series": "Sage City",
       "sourceLinks": [
         "https://event.getbookt.io/creator/The-Party-House_15682_2448",
-        "https://trendmyevent.com/event/sage-city-water-city-wild-west-wrangler-party/"
+        "https://trendmyevent.com/event/sage-city-water-city-wild-west-wrangler-party/",
+        "https://event.getbookt.io/sage-city-water-city-detty-december-fest-lagos-party-vibe",
+        "https://event.getbookt.io/creator/THE-PARTY-HOUSE-_15682_2582"
       ],
-      "ticketLink": null,
-      "ticketNote": "Announced on The Party House's Book't organiser profile; no ticket tiers or purchase route are published in reachable sources yet — check The Party House on Book't for the ticket drop.",
-      "ticketStatus": "announced",
+      "ticketLink": "https://event.getbookt.io/sage-city-water-city-detty-december-fest-lagos-party-vibe",
+      "ticketNote": "Tickets on sale on Book't — Early Bird ₦5,000 up to VIP ₦50,000.",
+      "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": null
+      "venueName": "Sinatra Place"
     },
     {
       "address": null,
@@ -3427,5 +3463,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-24T10:54:30.000000+00:00"
+  "generatedAt": "2026-10-24T11:00:21.000000+00:00"
 }
