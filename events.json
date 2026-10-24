@@ -1278,6 +1278,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — Halloween edition of the PM2AM party at Casa 45, verified on the organiser's MyAccessPlug ticket page (from ₦12,500, page range ₦12,500–₦55,000; tier breakdown not text-readable)."
+        },
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Second ticket route found on tix.africa (₦8,740) during the cross-platform gap-check; MyAccessPlug remains the primary route."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -1299,10 +1303,11 @@
       ],
       "series": "PM2AM",
       "sourceLinks": [
-        "https://myaccessplug.com/events/pm2am-after-dark"
+        "https://myaccessplug.com/events/pm2am-after-dark",
+        "https://tix.africa/discover/pm2amafterdark"
       ],
       "ticketLink": "https://myaccessplug.com/events/pm2am-after-dark",
-      "ticketNote": "Tickets on sale on MyAccessPlug (from ₦12,500).",
+      "ticketNote": "Tickets on sale on MyAccessPlug (from ₦12,500). Also listed on tix.africa at ₦8,740.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Casa 45"
@@ -2074,6 +2079,43 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Livespot Entertarium"
+    },
+    {
+      "address": "288b Ajose Adeogun St, Victoria Island",
+      "ageLimit": null,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — DJ-led party at Trib3 Lagos verified on its tix.africa page (DJ Nightwayve headlining, with DJs, hypemen and drummers); free entry."
+        }
+      ],
+      "date": "2026-11-20T00:00:00.000",
+      "description": "Party With No Limits at Trib3 Lagos — DJ Nightwayve headlines, with DJs, hypemen and drummers. 7 PM–4 AM. Free entry.",
+      "doorsTime": "7 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "the-night-wayve-experience-2026-11-20",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "The Night Wayve Experience (Party With No Limits)",
+      "organiser": "Unknown organiser",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": "free",
+          "priceNaira": 0
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://tix.africa/discover/pwnl"
+      ],
+      "ticketLink": "https://tix.africa/discover/pwnl",
+      "ticketNote": "Free event listed on tix.africa — check the page to register.",
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": "Trib3 Lagos"
     },
     {
       "address": null,
@@ -3463,5 +3505,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-24T11:00:21.000000+00:00"
+  "generatedAt": "2026-10-24T11:09:11.000000+00:00"
 }
