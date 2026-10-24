@@ -583,6 +583,57 @@
       "venueName": "The HOUSE Lagos"
     },
     {
+      "address": null,
+      "ageLimit": null,
+      "area": "Lekki",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — tickets on sale via Book't (event page verified directly on the platform)."
+        }
+      ],
+      "date": "2026-10-30T00:00:00.000",
+      "description": "Afro EDM house party from Ecliptica Collective — the Halloween edition of Haux Therapy. Private location in Lekki Phase 1; the address is sent to ticket holders after booking. Event page header says 4 PM–6 AM (its details section also says 9 PM till late — go by the ticket page).",
+      "doorsTime": "4 PM",
+      "eventType": "rave",
+      "flyerImageUrl": null,
+      "genres": [
+        "House",
+        "Electronic"
+      ],
+      "id": "haux-therapy-halloween-edition-2026-10-30",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "Haux Therapy: Halloween Edition (Afro EDM House Party)",
+      "organiser": "Ecliptica Collective",
+      "priceTiers": [
+        {
+          "name": "Online Tickets",
+          "note": "max 2 per person",
+          "priceNaira": 10000
+        },
+        {
+          "name": "Private Room",
+          "note": "max 1 per person",
+          "priceNaira": 50000
+        },
+        {
+          "name": "At the Door",
+          "note": "payable at the door, per the event poster",
+          "priceNaira": 30000
+        }
+      ],
+      "series": "Haux Therapy",
+      "sourceLinks": [
+        "https://event.getbookt.io/haux-therapy-halloween-edition-afro-edm-house-party",
+        "https://event.getbookt.io/creator/Ecliptica-Collective_16720_2615"
+      ],
+      "ticketLink": "https://event.getbookt.io/haux-therapy-halloween-edition-afro-edm-house-party",
+      "ticketNote": "Tickets on sale on Book't. Venue address is sent to ticket holders after booking.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Private location, Lekki Phase 1"
+    },
+    {
       "address": "Plot 225/226 Festac Link Road, opposite Unity Estate, Amuwo-Odofin, Lagos",
       "ageLimit": null,
       "area": "Amuwo-Odofin",
@@ -3376,5 +3427,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-24T10:47:07.514953+00:00"
+  "generatedAt": "2026-10-24T10:54:30.000000+00:00"
 }
