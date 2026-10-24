@@ -55,7 +55,7 @@
       "address": "65 Queen Street, Alagomeji, Yaba",
       "ageLimit": null,
       "area": "Yaba",
-      "attendingCount": 1,
+      "attendingCount": 3,
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
@@ -324,6 +324,78 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": null
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Ilashe",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — beach house party at Libertine Lagos, Ilashe, found on ThePartyCompany's inside listing; all tiers buyable (prices incl. fees)."
+        }
+      ],
+      "date": "2026-10-28T00:00:00.000",
+      "description": "Beach house party at Libertine Lagos, Ilashe — jetty meetup 12PM–6PM, party 6PM–6AM.",
+      "doorsTime": "6 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "escape-to-ilashe-2026-10-28",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "Escape to Ilashe",
+      "organiser": "Softlife Experience Company",
+      "priceTiers": [
+        {
+          "name": "Standard Access",
+          "note": "incl. fees",
+          "priceNaira": 163810
+        },
+        {
+          "name": "Exclusive Access",
+          "note": "incl. fees",
+          "priceNaira": 218360
+        },
+        {
+          "name": "Standard Couples",
+          "note": "incl. fees",
+          "priceNaira": 305640
+        },
+        {
+          "name": "Exclusive Couples",
+          "note": "incl. fees",
+          "priceNaira": 414740
+        },
+        {
+          "name": "Standard Group of 5",
+          "note": "incl. fees",
+          "priceNaira": 763860
+        },
+        {
+          "name": "Exclusive Group of 5",
+          "note": "incl. fees",
+          "priceNaira": 1091160
+        },
+        {
+          "name": "Standard Group of 10",
+          "note": "incl. fees",
+          "priceNaira": 1527560
+        },
+        {
+          "name": "Exclusive Group of 10",
+          "note": "incl. fees",
+          "priceNaira": 1963960
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://thepartycompany.ng/index.php?event=escape-to-ilashe"
+      ],
+      "ticketLink": "https://thepartycompany.ng/index.php?event=escape-to-ilashe",
+      "ticketNote": "Tickets live on ThePartyCompany (prices incl. fees); jetty meetup 12PM–6PM, party 6PM–6AM.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Libertine Lagos"
     },
     {
       "address": "17b Osho Drive, Ologi-Apoja, Lagos",
@@ -655,6 +727,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Tickets verified on sale on TicketHub: Early Bird ₦10,000 and General Admission ₦15,000. Status changed from Announced to Tickets on sale."
+        },
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "TicketHub now lists a free General Admission – Green Access tier alongside Early Bird ₦10,000 and General Admission ₦15,000."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -679,6 +755,11 @@
           "name": "General Admission",
           "note": null,
           "priceNaira": 15000
+        },
+        {
+          "name": "General Admission - Green Access",
+          "note": null,
+          "priceNaira": 0
         }
       ],
       "series": null,
@@ -779,6 +860,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — monthly beach-party series, Halloween edition, 7 PM; announced, prices not published anywhere reachable (no checkout route found)."
+        },
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Tickets now live on ThePartyCompany (was Announced with no reachable checkout): Pre-Sale ₦5,615 and Early Bird ₦7,797 sold out; Early Bird Wave 2 ₦9,979, Regular ₦14,343/₦16,525 and VIP tables on sale. Venue confirmed as Nautica Beach Resort, Elegushi Beach Road."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -791,14 +876,44 @@
         "Dance"
       ],
       "id": "fire-and-sand-halloween-2026-10-31",
-      "lastVerified": "2026-10-22T00:00:00.000",
+      "lastVerified": "2026-10-24T00:00:00.000",
       "name": "FIRE&SAND — Halloween Edition",
       "organiser": "The Party Company",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
+          "name": "Pre-Sale",
+          "note": "sold out, incl. fees",
+          "priceNaira": 5615
+        },
+        {
+          "name": "Early Bird",
+          "note": "sold out, incl. fees",
+          "priceNaira": 7797
+        },
+        {
+          "name": "Early Bird Wave 2",
+          "note": "incl. fees",
+          "priceNaira": 9979
+        },
+        {
+          "name": "Regular",
+          "note": "incl. fees",
+          "priceNaira": 14343
+        },
+        {
+          "name": "Regular",
+          "note": "incl. fees",
+          "priceNaira": 16525
+        },
+        {
+          "name": "VIP Cocktail Table (for 6)",
+          "note": "incl. fees",
+          "priceNaira": 218360
+        },
+        {
+          "name": "Cabana VIP (for 10)",
+          "note": "incl. fees",
+          "priceNaira": 398375
         }
       ],
       "series": "FIRE&SAND",
@@ -807,11 +922,11 @@
         "https://thepartycompany.ng/",
         "https://www.instagram.com/reel/DeM4oC9NJPN/"
       ],
-      "ticketLink": null,
-      "ticketNote": "Organiser page says \"Book your tickets now\" and marks the night PAID, but no checkout link is reachable in open sources — purchase route unverified; check thepartycompany.ng.",
-      "ticketStatus": "announced",
+      "ticketLink": "https://thepartycompany.ng/index.php?event=firesand-halloween-edition",
+      "ticketNote": "Tickets live on ThePartyCompany (prices incl. booking and processing fees); poster 7PM–3AM.",
+      "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "Nautica Beach"
+      "venueName": "Nautica Beach Resort"
     },
     {
       "address": "Plot B20 Wole Olateju Cres, Lekki Phase 1",
@@ -1029,6 +1144,80 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": null
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — Halloween party at Sketch Lagos found on Jubilq's inside listing; date taken from the poster/details (Oct 31) over the listing text (Oct 30); price and live purchase route unverified."
+        }
+      ],
+      "date": "2026-10-31T00:00:00.000",
+      "description": "Halloween party at Sketch Lagos — 'No costume No entry'; rooms themed Pyramid of Giza (GA) and Valley of Kings (PA). Date per the poster/details (Oct 31); the Jubilq listing text says Oct 30 and loses.",
+      "doorsTime": null,
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "yati-halloween-iii-2026-10-31",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "YATI HALLOWEEN III — Back to Egypt",
+      "organiser": "Unknown organiser",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://jubilq.com/e/5576f9f9-2bbf-4bfd-8770-a4fad11c6f23"
+      ],
+      "ticketLink": "https://jubilq.com/e/5576f9f9-2bbf-4bfd-8770-a4fad11c6f23",
+      "ticketNote": "Tickets via the external platform linked from the Jubilq page; price not published in reachable text and buyability unverified — poster may carry it. Jubilq host shown as @obidum_emma (not assumed to be the organiser).",
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": "Sketch Lagos"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — Halloween poolside party at Solos Lagos found on Jubilq's inside listing; price TBA (poster tiers only approximate, not recorded as exact)."
+        }
+      ],
+      "date": "2026-10-31T00:00:00.000",
+      "description": "Halloween poolside party at Solos Lagos, Victoria Island — music, tattoos, karaoke and water guns, 11AM–6PM.",
+      "doorsTime": "11 AM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "floo-state-not-a-pool-party-2026-10-31",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "FloO state — Not A Pool Party",
+      "organiser": "Unknown organiser",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://jubilq.com/e/911b8164-f2b1-454e-b4f2-17ea14145d69"
+      ],
+      "ticketLink": "https://jubilq.com/e/911b8164-f2b1-454e-b4f2-17ea14145d69",
+      "ticketNote": "Tickets via the external platform linked from the Jubilq page; poster tiers are approximate only (≈₦8,000/₦10,000/₦15,000, poster-only) and are not recorded as exact prices.",
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": "Solos Lagos"
     },
     {
       "address": "687 Adeola Hopewell Street, VI",
@@ -1431,6 +1620,7 @@
       "address": null,
       "ageLimit": null,
       "area": "TBA",
+      "attendingCount": 0,
       "changeLog": [
         {
           "date": "2026-10-19T00:00:00.000",
@@ -1752,7 +1942,7 @@
         "Global Sounds"
       ],
       "id": "turn-up-lagos-2026-11-20",
-      "lastVerified": "2026-10-22T00:00:00.000",
+      "lastVerified": "2026-10-24T00:00:00.000",
       "name": "Turn Up Lagos",
       "organiser": "Livespot",
       "priceTiers": [
@@ -1852,7 +2042,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "dirty-house-party-2026-11-21",
-      "lastVerified": "2026-10-22T00:00:00.000",
+      "lastVerified": "2026-10-24T00:00:00.000",
       "name": "Dirty House Party",
       "organiser": "SoundandSips",
       "priceTiers": [
@@ -1940,6 +2130,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — waitlist signup only, venue TBA"
+        },
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Spektrum ticket page publishes Early Bird ₦50,000 / Regular ₦100,000 (online sales close 6pm Nov 27, door ₦150,000) and marks online tickets sold out — status kept Announced pending a clear live-route check, since the page is internally contradictory on availability."
         }
       ],
       "date": "2026-11-27T00:00:00.000",
@@ -1952,23 +2146,29 @@
         "Electronic"
       ],
       "id": "gods-of-house-eleventh-2026-11-27",
-      "lastVerified": "2026-10-22T00:00:00.000",
+      "lastVerified": "2026-10-24T00:00:00.000",
       "name": "GODS OF HOUSE: THE ELEVENTH HOUSE",
       "organiser": "Spektrum Entertainment",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
+          "name": "Early Bird",
+          "note": "online sales close 6pm Fri Nov 27; page marks tickets sold out",
+          "priceNaira": 50000
+        },
+        {
+          "name": "Regular",
+          "note": "online sales close 6pm Fri Nov 27; page marks tickets sold out",
+          "priceNaira": 100000
         }
       ],
       "series": "Gods of House",
       "sourceLinks": [
         "https://goh.spektrum.live",
-        "https://www.instagram.com/p/DewafoKgvRd/"
+        "https://www.instagram.com/p/DewafoKgvRd/",
+        "https://spektrum.live/tc-events/goh-ticks-nov-2026/"
       ],
       "ticketLink": "https://goh.spektrum.live",
-      "ticketNote": "Waitlist signup only — tickets not yet on sale",
+      "ticketNote": "Spektrum ticket page marks online tickets sold out but lists door tickets at ₦150,000 after 6pm Nov 27 — online route unverified; check goh.spektrum.live.",
       "ticketStatus": "announced",
       "unprovenPromoter": false,
       "venueName": null
@@ -2073,6 +2273,48 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "The Clubhouse Lagos"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Lekki",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — live-DJ beach night at Elegushi Beach found on ThePartyCompany's inside listing; All-Access VIP ₦21,980 incl. fees buyable."
+        }
+      ],
+      "date": "2026-11-28T00:00:00.000",
+      "description": "Live-DJ beach night at Elegushi Beach — Afrobeats, Amapiano, R&B and House.",
+      "doorsTime": null,
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [
+        "Afrobeats",
+        "Amapiano",
+        "R&B",
+        "House"
+      ],
+      "id": "the-balcony-experience-2026-11-28",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "The Balcony Experience",
+      "organiser": "Temiloluwa Adekanmi",
+      "priceTiers": [
+        {
+          "name": "All-Access VIP",
+          "note": "incl. fees",
+          "priceNaira": 21980
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://thepartycompany.ng/index.php?event=the-balcony-experience"
+      ],
+      "ticketLink": "https://thepartycompany.ng/index.php?event=the-balcony-experience",
+      "ticketNote": "All-Access VIP ₦21,980 incl. fees, buyable on ThePartyCompany.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Elegushi Beach"
     },
     {
       "address": "Victoria Island",
@@ -2183,6 +2425,55 @@
       "venueName": null
     },
     {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — tech rave from the Rayda crew found on ThePartyCompany's inside listing; VIP ₦87,440 and Premium Table ₦2,182,160 buyable, General Access ₦21,980 expired; venue and possible Dec 6 second night unconfirmed."
+        }
+      ],
+      "date": "2026-12-05T00:00:00.000",
+      "description": "Africa's first tech rave, all-white dress code, from the Rayda crew behind Eko Beach Rave. Venue not yet named; the listing description also mentions Dec 6 — single-date record pending confirmation of a second night.",
+      "doorsTime": null,
+      "eventType": "rave",
+      "flyerImageUrl": null,
+      "genres": [
+        "Electronic"
+      ],
+      "id": "eko-casablanco-tech-rave-2026-12-05",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "Eko Casablanco Tech Rave",
+      "organiser": "ÉKÓ Casablanco / Team Sagacious / RAYDA",
+      "priceTiers": [
+        {
+          "name": "General Access",
+          "note": "expired, incl. fees",
+          "priceNaira": 21980
+        },
+        {
+          "name": "VIP",
+          "note": "incl. fees",
+          "priceNaira": 87440
+        },
+        {
+          "name": "Premium Table",
+          "note": "incl. fees",
+          "priceNaira": 2182160
+        }
+      ],
+      "series": "Eko Casablanco",
+      "sourceLinks": [
+        "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave"
+      ],
+      "ticketLink": "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave",
+      "ticketNote": "VIP and Premium Table buyable on ThePartyCompany (prices incl. fees); General Access expired. Venue not named on the listing; description also mentions Dec 6.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": null
+    },
+    {
       "address": "Voda Beach, Lagos",
       "ageLimit": null,
       "area": "Lekki",
@@ -2198,6 +2489,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Start time moved 6:45 PM → 3:00 PM WAT; venue confirmed Voda Beach (thepartycompany.ng)"
+        },
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Second ticket route found: ThePartyCompany also sells this night at ₦11,070 incl. fees (same Dec 11 Voda Beach night, same Rayda crew); primary tiers via raydaent.com unchanged (Early Bird ₦10,000 / Regular ₦15,000 / Final Release ₦20,000)."
         }
       ],
       "date": "2026-12-11T00:00:00.000",
@@ -2427,6 +2722,68 @@
       "ticketStatus": "announced",
       "unprovenPromoter": false,
       "venueName": null
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — DJ-led beach party at Barracuda Beach found on Jubilq's inside listing; tiers poster-only, time conflict noted (poster 7PM till dawn vs 9PM vs listing 3PM–11PM)."
+        }
+      ],
+      "date": "2026-12-12T00:00:00.000",
+      "description": "DJ-led beach party at Barracuda Beach — DJs and hype, beachside energy. Time per the poster (7PM till dawn; the poster also shows 9PM and the listing says 3PM–11PM — time unverified).",
+      "doorsTime": "7 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "fantasy-after-dark-2026-12-12",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "Fantasy After Dark — Beach Party",
+      "organiser": "Unknown organiser",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": "poster-only",
+          "priceNaira": 10000
+        },
+        {
+          "name": "Regular",
+          "note": "poster-only",
+          "priceNaira": 15000
+        },
+        {
+          "name": "Gate",
+          "note": "poster-only",
+          "priceNaira": 20000
+        },
+        {
+          "name": "Group of 5 Early",
+          "note": "poster-only",
+          "priceNaira": 45000
+        },
+        {
+          "name": "Group of 5 Regular",
+          "note": "poster-only",
+          "priceNaira": 65000
+        },
+        {
+          "name": "Group of 5 Gate",
+          "note": "poster-only",
+          "priceNaira": 90000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://jubilq.com/e/4b51be65-52a3-4a36-be0b-fa65674e4dae"
+      ],
+      "ticketLink": "https://jubilq.com/e/4b51be65-52a3-4a36-be0b-fa65674e4dae",
+      "ticketNote": "Tickets via the external platform linked from the Jubilq page; buyability unverified in reachable text — tiers are poster-only. Jubilq host shown as @obidum_emma (not assumed to be the organiser).",
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": "Barracuda Beach"
     },
     {
       "address": null,
@@ -2685,6 +3042,98 @@
       "venueName": "Detty December Village"
     },
     {
+      "address": "34c Beckley Estate Rd, Abule Egba, Lagos",
+      "ageLimit": "18+",
+      "area": "Abule Egba",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — eighth edition of the Rave In The Daze series, 6PM till dawn at Maxx MSquare, Abule Egba; Presale ₦5,000 on sale now on the organiser's own ticketing site (shabamolaent.com)."
+        }
+      ],
+      "date": "2026-12-26T00:00:00.000",
+      "description": "Eighth edition of the Rave In The Daze series — The Luxury Experience, 6PM till dawn at Maxx MSquare, Abule Egba. Strictly 18+, QR ticket emailed after payment, re-entry allowed.",
+      "doorsTime": "6 PM",
+      "eventType": "rave",
+      "flyerImageUrl": "https://shabamolaent.com/img/photos/flyer-rave-in-the-daze.jpg",
+      "genres": [
+        "Afrobeats",
+        "Amapiano"
+      ],
+      "id": "rave-in-the-daze-2026-12-26",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "Rave In The Daze: The Luxury Experience",
+      "organiser": "Shabamola Entertainment",
+      "priceTiers": [
+        {
+          "name": "Presale",
+          "note": "first release, on sale now",
+          "priceNaira": 5000
+        },
+        {
+          "name": "Early Bird",
+          "note": "opens when Presale sells out",
+          "priceNaira": 7000
+        },
+        {
+          "name": "Regular",
+          "note": "coming soon",
+          "priceNaira": 10000
+        },
+        {
+          "name": "Late Comers",
+          "note": "final release, coming soon",
+          "priceNaira": 15000
+        }
+      ],
+      "series": "Rave In The Daze",
+      "sourceLinks": [
+        "https://shabamolaent.com/events/rave-in-the-daze"
+      ],
+      "ticketLink": "https://shabamolaent.com/events/rave-in-the-daze",
+      "ticketNote": "Presale ₦5,000 on sale now; later waves open as earlier ones sell out. QR ticket emailed after payment; re-entry allowed.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Maxx MSquare"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — DJ Muller-led party found on Jubilq's inside listing; price unverified, live purchase route unverified."
+        }
+      ],
+      "date": "2026-12-27T00:00:00.000",
+      "description": "DJ Muller-led day-to-night party, 1PM–1AM.",
+      "doorsTime": "1 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "eko-experience-with-dj-muller-2026-12-27",
+      "lastVerified": "2026-10-24T00:00:00.000",
+      "name": "Eko Experience with DJ Muller",
+      "organiser": "DJ Muller",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://jubilq.com/e/37fd764b-3ace-4797-b8f2-086d18d9e1fc"
+      ],
+      "ticketLink": "https://jubilq.com/e/37fd764b-3ace-4797-b8f2-086d18d9e1fc",
+      "ticketNote": "Tickets via the external platform linked from the Jubilq page; price unverified (the Jubilq index 'Free' label is not confirmed).",
+      "ticketStatus": "announced",
+      "unprovenPromoter": true,
+      "venueName": null
+    },
+    {
       "address": null,
       "ageLimit": null,
       "area": "Lagos",
@@ -2890,5 +3339,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-24T10:17:22.000000+00:00"
+  "generatedAt": "2026-10-24T10:43:36.853271+00:00"
 }
