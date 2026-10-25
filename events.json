@@ -4,7 +4,7 @@
    "address": "11b Ligali Ayorinde St, Iru, Victoria Island",
    "ageLimit": null,
    "area": "Victoria Island",
-   "attendingCount": 1,
+   "attendingCount": 6,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -55,7 +55,7 @@
    "address": "65 Queen Street, Alagomeji, Yaba",
    "ageLimit": null,
    "area": "Yaba",
-   "attendingCount": 3,
+   "attendingCount": 6,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -188,7 +188,8 @@
    "ticketNote": "Buy on EventPorte; early bird sold out, regular ₦10,000 available.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Romeo's House"
+   "venueName": "Romeo's House",
+   "attendingCount": 1
   },
   {
    "address": "4b Musa Yar' Adua Street, Lagos",
@@ -395,7 +396,8 @@
    "ticketNote": "Tickets live on ThePartyCompany (prices incl. fees); jetty meetup 12PM–6PM, party 6PM–6AM.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Libertine Lagos"
+   "venueName": "Libertine Lagos",
+   "attendingCount": 1
   },
   {
    "address": "17b Osho Drive, Ologi-Apoja, Lagos",
@@ -453,7 +455,7 @@
    "address": "3 Hassan Oduga Street, Opposite Domino's, Ikorodu, Lagos",
    "ageLimit": null,
    "area": "Ikorodu",
-   "attendingCount": 0,
+   "attendingCount": 1,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -631,7 +633,8 @@
    "ticketNote": "Tickets on sale on Book't. Venue address is sent to ticket holders after booking.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Private location, Lekki Phase 1"
+   "venueName": "Private location, Lekki Phase 1",
+   "attendingCount": 1
   },
   {
    "address": "Elite Gardens Estate, VGC, Lekki, Lagos",
@@ -641,6 +644,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Listed — Halloween-night party at Elite Gardens Estate, VGC; DJs DJ JAZKID, SNOOPYDVIBE, AKPOS on the Jubilq poster; price not published, tickets via bio link, so status Announced."
+    },
+    {
+     "date": "2026-10-24T00:00:00.000",
+     "description": "Poster enrichment: Kompa added to genres; only 50 guests, BYOB noted."
     }
    ],
    "date": "2026-10-30T00:00:00.000",
@@ -652,7 +659,8 @@
     "Afrobeats",
     "Amapiano",
     "Afro House",
-    "Street Pop"
+    "Street Pop",
+    "Kompa"
    ],
    "id": "sexy-bold-unapologetic-sbu-2026-10-30",
    "lastVerified": "2026-10-24T00:00:00.000",
@@ -670,7 +678,7 @@
     "https://jubilq.com/e/aaff46f9-5a99-4ac5-9c87-bb70a2da4881"
    ],
    "ticketLink": "https://jubilq.com/e/aaff46f9-5a99-4ac5-9c87-bb70a2da4881",
-   "ticketNote": "Tickets via link in organiser's bio per poster; price not published. DJs: DJ JAZKID, SNOOPYDVIBE, AKPOS.",
+   "ticketNote": "Tickets via link in organiser's bio per poster; price not published. DJs: DJ JAZKID, SNOOPYDVIBE, AKPOS. Only 50 guests, BYOB.",
    "ticketStatus": "announced",
    "unprovenPromoter": true,
    "venueName": "Elite Gardens Estate, VGC"
@@ -1608,6 +1616,43 @@
    "venueName": "Ebonylife Place"
   },
   {
+   "address": "Ogunlana Drive, Surulere",
+   "ageLimit": null,
+   "area": "Surulere",
+   "changeLog": [
+    {
+     "date": "2026-10-24T00:00:00.000",
+     "description": "Listed — DJ-led dance night at Cairo By LYA, Surulere, 8 PM–5 AM; tickets ₦5,000 on Eventor."
+    }
+   ],
+   "date": "2026-11-04T00:00:00.000",
+   "description": "Dreezi's Deck — a DJ-led dance night at Cairo By LYA, Surulere: 'you're coming to dance. I'll handle the music, the transitions.' 8 PM–5 AM.",
+   "doorsTime": "8 PM",
+   "eventType": "club",
+   "flyerImageUrl": null,
+   "genres": [],
+   "id": "dreezis-deck-2026-11-04",
+   "lastVerified": "2026-10-24T00:00:00.000",
+   "name": "Dreezi's Deck",
+   "organiser": "Dreezi",
+   "priceTiers": [
+    {
+     "name": "Entry",
+     "note": null,
+     "priceNaira": 5000
+    }
+   ],
+   "series": null,
+   "sourceLinks": [
+    "https://eventornigeria.com/explore/dreezis-deck"
+   ],
+   "ticketLink": "https://eventornigeria.com/explore/dreezis-deck",
+   "ticketNote": "Tickets ₦5,000 via Eventor.",
+   "ticketStatus": "ticketsOnSale",
+   "unprovenPromoter": true,
+   "venueName": "Cairo By LYA"
+  },
+  {
    "address": null,
    "ageLimit": "18+",
    "area": "Victoria Island",
@@ -2114,7 +2159,8 @@
    "ticketNote": "No online ticket link. The flyer lists phone reservations; prices are Regular ₦5,000 and VIP ₦10,000.",
    "ticketStatus": "announced",
    "unprovenPromoter": false,
-   "venueName": "Hunters Lounge"
+   "venueName": "Hunters Lounge",
+   "attendingCount": 1
   },
   {
    "address": "opp. Enyo Filling Station, Lasu-Iba First Gate, Ojo",
@@ -3900,5 +3946,5 @@
    "venueName": "Lagos Waterfront"
   }
  ],
- "generatedAt": "2026-10-24T12:06:27.000000+00:00"
+ "generatedAt": "2026-10-25T00:00:17.796110+00:00"
 }
