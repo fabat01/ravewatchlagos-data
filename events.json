@@ -134,6 +134,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — two-day Amapiano/Afrobeats party at Royal Kaft Lounge, Ikorodu (Oct 30–31, 10 PM), via DOT TIX; Free Access tier sold out; General ₦5,000 / VIP ₦15,000 / Group of 5 ₦22,500."
+        },
+        {
+          "date": "2026-10-26T00:00:00.000",
+          "description": "Now displayed as a multi-day event spanning its full published run (app v3.8)."
         }
       ],
       "date": "2026-10-30T00:00:00.000",
@@ -179,7 +183,8 @@
       "ticketNote": "Two-day event, Fri Oct 30 – Sat Oct 31, doors 10 PM. 7.5% VAT added at checkout on DOT TIX.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Royal Kaft Lounge"
+      "venueName": "Royal Kaft Lounge",
+      "endDate": "2026-10-31T00:00:00.000"
     },
     {
       "address": "146A Ligali Ayorinde Street, Lagos",
@@ -2684,6 +2689,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Programme detail confirmed on onchainfestival.org: Day 1 doors 6 PM–12 AM; Day 2 Off Duty Rave 7 PM, headline act 10 PM, close 1 AM; venue still TBA."
+        },
+        {
+          "date": "2026-10-26T00:00:00.000",
+          "description": "Now displayed as a multi-day event spanning its full published run (app v3.8)."
         }
       ],
       "date": "2026-12-05T00:00:00.000",
@@ -2718,7 +2727,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "endDate": "2026-12-06T00:00:00.000"
     },
     {
       "address": null,
@@ -3281,6 +3291,10 @@
         {
           "date": "2026-10-24T02:05:59.000Z",
           "description": "Status corrected to Announced: passes are announced on the festival site, but the DOT TIX passes listing is a placeholder (no tiers, no checkout), so passes cannot actually be bought yet."
+        },
+        {
+          "date": "2026-10-26T00:00:00.000",
+          "description": "Now displayed as a multi-day event spanning its full published run (app v3.8)."
         }
       ],
       "date": "2026-12-18T00:00:00.000",
@@ -3314,7 +3328,8 @@
       "ticketNote": "Festival passes announced at dettydecfest.com, but there is no live checkout yet — the DOT TIX passes listing is a placeholder. Status corrected from Tickets on sale until a real purchase route opens.",
       "ticketStatus": "announced",
       "unprovenPromoter": false,
-      "venueName": "Detty December Village"
+      "venueName": "Detty December Village",
+      "endDate": "2026-12-30T00:00:00.000"
     },
     {
       "address": null,
@@ -3328,6 +3343,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Corroborated by independent krent.space December 2026 guide (second source; cites the official site) — dates, Orange Island venue and Afrohouse/Amapiano format confirmed; still announced, no ticket route live."
+        },
+        {
+          "date": "2026-10-26T00:00:00.000",
+          "description": "Now displayed as a multi-day event spanning its full published run (app v3.8)."
         }
       ],
       "date": "2026-12-19T00:00:00.000",
@@ -3362,7 +3381,8 @@
       "ticketNote": "Notify list only — 'Be the first to know when tickets drop' on danceeko.com; no purchase route live.",
       "ticketStatus": "announced",
       "unprovenPromoter": false,
-      "venueName": "Orange Island"
+      "venueName": "Orange Island",
+      "endDate": "2026-12-20T00:00:00.000"
     },
     {
       "address": null,
@@ -3380,6 +3400,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Official dettydecfest.com bill confirms a 3-night run Dec 21–23 (still notify-list only, no purchase route)."
+        },
+        {
+          "date": "2026-10-26T00:00:00.000",
+          "description": "Now displayed as a multi-day event spanning its full published run (app v3.8)."
         }
       ],
       "date": "2026-12-21T00:00:00.000",
@@ -3410,7 +3434,8 @@
       "ticketNote": "Tickets are not on sale yet. Detty December Fest is taking notify-list signups for this night on its events page.",
       "ticketStatus": "announced",
       "unprovenPromoter": false,
-      "venueName": "Detty Pulse Stage, Detty December Village"
+      "venueName": "Detty Pulse Stage, Detty December Village",
+      "endDate": "2026-12-23T00:00:00.000"
     },
     {
       "address": null,
@@ -3783,5 +3808,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-26T13:57:33.536407+00:00"
+  "generatedAt": "2026-10-26T19:03:50Z"
 }
