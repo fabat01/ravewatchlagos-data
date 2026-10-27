@@ -4,7 +4,7 @@
       "address": null,
       "ageLimit": null,
       "area": "Ilashe",
-      "attendingCount": 7,
+      "attendingCount": 9,
       "changeLog": [
         {
           "date": "2026-10-24T00:00:00.000",
@@ -128,7 +128,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "In-house",
-      "attendingCount": 1
+      "attendingCount": 2
     },
     {
       "address": "3 Hassan Oduga Street, Opposite Domino's, Ikorodu, Lagos",
@@ -234,7 +234,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "LIVbykuiknosh Restaurant & Grills",
-      "attendingCount": 1
+      "attendingCount": 3
     },
     {
       "address": "4 AJ Marinho Drive, Victoria Island",
@@ -277,7 +277,7 @@
       "address": null,
       "ageLimit": null,
       "area": "Lekki",
-      "attendingCount": 2,
+      "attendingCount": 3,
       "changeLog": [
         {
           "date": "2026-10-24T00:00:00.000",
@@ -443,7 +443,7 @@
       "address": "Ologun Agbaje Street, Victoria Island",
       "ageLimit": "18+",
       "area": "Victoria Island",
-      "attendingCount": 2,
+      "attendingCount": 3,
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
@@ -676,6 +676,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Tickets now live on ThePartyCompany (was Announced with no reachable checkout): Pre-Sale ₦5,615 and Early Bird ₦7,797 sold out; Early Bird Wave 2 ₦9,979, Regular ₦14,343/₦16,525 and VIP tables on sale. Venue confirmed as Nautica Beach Resort, Elegushi Beach Road."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: ThePartyCompany listing re-verified still live (Oct 31, 7 PM, Nautica Beach)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -688,7 +692,7 @@
         "Dance"
       ],
       "id": "fire-and-sand-halloween-2026-10-31",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "FIRE&SAND — Halloween Edition",
       "organiser": "The Party Company",
       "priceTiers": [
@@ -809,6 +813,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — Halloween DJ night with DJ Brooke x Taliyah live DJ set at The Wings Office Complex, VI, 9 PM–1 AM; tickets on sale on TikkBay (from ₦50,000 + ₦1,850 service fee)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: TikkBay listing re-verified unchanged (Oct 31, 9 PM, The Wings Office Complex)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -846,6 +854,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — ÈKÓ + PARTY Season 3 at Luxx Lounge, Abule Egba, 10 PM; free RSVP live on ThePartyCompany."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: ThePartyCompany event page re-verified unchanged (Oct 31, 10 PM, Luxx Lounge, free RSVP)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -855,7 +867,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "eko-party-the-culture-race-2026-10-31",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "EKO PARTY — The Culture Race",
       "organiser": "@em_djloaded",
       "priceTiers": [
@@ -1005,7 +1017,8 @@
       "ticketNote": "Tickets via the external platform linked from the Jubilq page; price not published in reachable text and buyability unverified — poster may carry it. Jubilq host shown as @obidum_emma (not assumed to be the organiser).",
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": "Sketch Lagos"
+      "venueName": "Sketch Lagos",
+      "attendingCount": 1
     },
     {
       "address": null,
@@ -1074,6 +1087,10 @@
         {
           "date": "2026-10-25T00:00:00.000",
           "description": "Tier breakdown now confirmed on MyAccessPlug (was a single from-₦12,500 tier with unreadable breakdown): General Admission ₦12,500, Group of 3 ₦30,000, Group of 5 ₦55,000."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: MyAccessPlug discover re-verified unchanged (Oct 31, Casa 45, from ₦12,500)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -1414,6 +1431,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — DJ-led dance night at Cairo By LYA, Surulere, 8 PM–5 AM; tickets ₦5,000 on Eventor."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Eventor explore re-verified unchanged (Nov 4, 8 PM, Cairo By LYA, ₦5,000)."
         }
       ],
       "date": "2026-11-04T00:00:00.000",
@@ -1423,7 +1444,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "dreezis-deck-2026-11-04",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Dreezi's Deck",
       "organiser": "Dreezi",
       "priceTiers": [
@@ -1822,6 +1843,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Tickets went on sale on eventornigeria (₦3,000); 11 PM start"
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Eventor explore re-verified unchanged (Nov 13, 11 PM, Lekki Phase 1, ₦3,000)."
         }
       ],
       "date": "2026-11-13T00:00:00.000",
@@ -1833,7 +1858,7 @@
         "Techno"
       ],
       "id": "go-techno-2026-11-13",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "go TECHNO",
       "organiser": "go TECHNO",
       "priceTiers": [
@@ -2442,6 +2467,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Tickets reconfirmed live on ThePartyCompany: Regular ₦8,342.50 / VIP (4) ₦163,810 / VVIP ₦545,660 (incl. fees); doors moved to 5 PM"
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: ThePartyCompany listing re-verified still live (Nov 27, 5 PM); BusinessDay corroborates Balmoral Convention Centre venue already in feed."
         }
       ],
       "date": "2026-11-27T00:00:00.000",
@@ -2453,7 +2482,7 @@
         "Afrobeats"
       ],
       "id": "fashion-rave-2026-2026-11-27",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "FASHION RAVE 2026",
       "organiser": "Fashions Finest Africa",
       "priceTiers": [
@@ -4014,5 +4043,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-27T17:06:48Z"
+  "generatedAt": "2026-10-27T18:04:26Z"
 }
