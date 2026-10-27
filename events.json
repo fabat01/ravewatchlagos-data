@@ -76,7 +76,7 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "Libertine Lagos",
-   "followingCount": 5
+   "followingCount": 6
   },
   {
    "address": "17b Osho Drive, Ologi-Apoja, Lagos",
@@ -134,7 +134,7 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "In-house",
-   "followingCount": 4
+   "followingCount": 5
   },
   {
    "address": "3 Hassan Oduga Street, Opposite Domino's, Ikorodu, Lagos",
@@ -196,7 +196,7 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "Royal Kaft Lounge",
-   "followingCount": 2
+   "followingCount": 3
   },
   {
    "address": "146A Ligali Ayorinde Street, Lagos",
@@ -242,7 +242,7 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
    "venueName": "LIVbykuiknosh Restaurant & Grills",
-   "followingCount": 2
+   "followingCount": 3
   },
   {
    "address": "4 AJ Marinho Drive, Victoria Island",
@@ -346,7 +346,7 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "Private location, Lekki Phase 1",
-   "followingCount": 2
+   "followingCount": 3
   },
   {
    "address": "Elite Gardens Estate, VGC, Lekki, Lagos",
@@ -395,7 +395,7 @@
    "ticketStatus": "announced",
    "unprovenPromoter": true,
    "venueName": "Elite Gardens Estate, VGC",
-   "followingCount": 2
+   "followingCount": 3
   },
   {
    "address": "Plot 225/226 Festac Link Road, opposite Unity Estate, Amuwo-Odofin, Lagos",
@@ -533,7 +533,8 @@
    "ticketNote": "Tickets via 'Buy on Tramango' on the organiser's site",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "District 19"
+   "venueName": "District 19",
+   "followingCount": 1
   },
   {
    "address": "Plot 16A, Block 139A, Nike Art Gallery Road, Ikate, Lekki 101222",
@@ -829,7 +830,8 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "Bolívar Lounge",
-   "attendingCount": 1
+   "attendingCount": 1,
+   "followingCount": 1
   },
   {
    "address": "17A Ozumba Mbadiwe Ave, Victoria Island",
@@ -1308,6 +1310,10 @@
     {
      "date": "2026-10-22T00:00:00.000",
      "description": "Live PartyVerse ticket route added from the organiser's IG bio."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: PartyVerse page rendered in the live browser — no date/venue change (Nov 1, Zuma Lagos); poster also shows General Access ₦7,500, added alongside Early Bird ₦5,000."
     }
    ],
    "date": "2026-11-01T00:00:00.000",
@@ -1319,7 +1325,7 @@
     "Electronic"
    ],
    "id": "sammix-party-2026-11-01",
-   "lastVerified": "2026-10-22T00:00:00.000",
+   "lastVerified": "2026-10-27T00:00:00.000",
    "name": "THE SAMMIX PARTY: Rave Experience",
    "organiser": "DJ Sammix x Wenzo",
    "priceTiers": [
@@ -1327,6 +1333,11 @@
      "name": "Early Bird",
      "note": null,
      "priceNaira": 5000
+    },
+    {
+     "name": "General Access",
+     "note": "poster",
+     "priceNaira": 7500
     }
    ],
    "series": null,
@@ -1744,6 +1755,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Book't direct page header rendered 1 PM–8 PM this run — yet another header variant on this page (previously 4–11 PM / 10 PM–5 AM); headers remain unstable, so the standing 4–11 PM treatment is unchanged."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Book't summary page in the live browser shows a single ₦4,000 ticket with no free tier visible, against the feed's free entry + branded mask ₦4,000 — summary pages do not break out tiers, so the feed tiers are kept and a tier-detail check is owed next run. Time 4–11 PM and Ikoyi confirmed."
     }
    ],
    "date": "2026-11-07T00:00:00.000",
@@ -2249,6 +2264,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Listed — DJ night with SEXY DJ TOPZY and DJ AVATAR; poster time 9PM–5AM and Lekki Phase 1 used over the Jubilq listing's 3–11PM/Ikeja; price not legible, so status Announced."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: PartyVerse page rendered in the live browser — full tier table now recorded (was a single TBA tier); Early Bird Free sold out, paid tiers ₦5,000–₦500,000; venue VYBZ Lifestyle, Lekki. Status Announced → Tickets on sale. Poster DJ TOPZY confirmed among guest DJs."
     }
    ],
    "date": "2026-11-14T00:00:00.000",
@@ -2263,14 +2282,44 @@
     "Hip Hop"
    ],
    "id": "frequency-arena-2026-11-14",
-   "lastVerified": "2026-10-24T00:00:00.000",
+   "lastVerified": "2026-10-27T00:00:00.000",
    "name": "FREQUENCY ARENA",
    "organiser": "Unknown organiser",
    "priceTiers": [
     {
-     "name": "Entry",
+     "name": "Early Bird",
+     "note": "sold out",
+     "priceNaira": 0
+    },
+    {
+     "name": "Open Frequency",
+     "note": "₦10,000 at the gate",
+     "priceNaira": 5000
+    },
+    {
+     "name": "HERTZ",
      "note": null,
-     "priceNaira": null
+     "priceNaira": 10000
+    },
+    {
+     "name": "RESONANCE",
+     "note": "couples",
+     "priceNaira": 25000
+    },
+    {
+     "name": "AMPLITUDE",
+     "note": "group of 5",
+     "priceNaira": 40000
+    },
+    {
+     "name": "PEAK POWER",
+     "note": "table for 4",
+     "priceNaira": 200000
+    },
+    {
+     "name": "EXECUTIVE TABLE",
+     "note": null,
+     "priceNaira": 500000
     }
    ],
    "series": null,
@@ -2279,10 +2328,10 @@
     "https://pv.rsvp/frequency-arena"
    ],
    "ticketLink": "https://pv.rsvp/frequency-arena",
-   "ticketNote": "Poster time 9PM–5AM and Lekki Phase 1 used over listing 3–11PM/Ikeja; price not legible on poster; live purchase route not verified. DJs: SEXY DJ TOPZY, DJ AVATAR.",
-   "ticketStatus": "announced",
+   "ticketNote": "Tickets on PartyVerse: Early Bird Free sold out; Open Frequency ₦5,000 (₦10,000 at the gate); HERTZ ₦10,000; RESONANCE ₦25,000 (couples); AMPLITUDE ₦40,000 (group of 5); tables ₦200,000/₦500,000. Poster time 9 PM–5 AM, VYBZ Lifestyle, Admiralty Way, Lekki. DJs: SEXY DJ TOPZY, DJ AVATAR.",
+   "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": null
+   "venueName": "VYBZ Lifestyle"
   },
   {
    "address": null,
@@ -3084,10 +3133,14 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: ThePartyCompany page re-verified unchanged in the live browser (tiers General Access ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160 incl. fees); the page description's Dec 6 mention still does not confirm a second night, so the record stays single-date."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: ThePartyCompany detail page confirms Dec 5th & 6th, 2026 (list view shows Dec 5 only) — record now multi-day to Dec 6. Tiers unchanged (GA ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160)."
     }
    ],
    "date": "2026-12-05T00:00:00.000",
-   "description": "Africa's first tech rave, all-white dress code, from the Rayda crew behind Eko Beach Rave. Venue not yet named; the listing description also mentions Dec 6 — single-date record pending confirmation of a second night.",
+   "description": "Africa's first tech rave, all-white dress code, from the Rayda crew behind Eko Beach Rave. Venue not yet named; the event runs Dec 5–6 per ThePartyCompany detail page (the list view shows Dec 5 only).",
    "doorsTime": "2 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
@@ -3120,10 +3173,11 @@
     "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave"
    ],
    "ticketLink": "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave",
-   "ticketNote": "VIP and Premium Table buyable on ThePartyCompany (prices incl. fees); General Access expired. Venue not named on the listing; description also mentions Dec 6.",
+   "ticketNote": "VIP and Premium Table buyable on ThePartyCompany (prices incl. fees); General Access expired. Venue not named on the listing; runs Dec 5–6 per the detail page.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": null
+   "venueName": null,
+   "endDate": "2026-12-06T00:00:00.000"
   },
   {
    "address": "Voda Beach, Lagos",
@@ -3378,6 +3432,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: shows.ng 'Sales closed' claim refuted on Eventbrite itself in the live browser — tickets ON SALE ($25 General Admission, sales end Dec 12, Ivy Bar Restaurant); feed ticketsOnSale stands."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Eventbrite page re-verified in the live browser — ON SALE at $25 (feed price ₦25,000 per flyer stands); the shows.ng \"Sales closed\" label is an aggregator claim only and is rejected. Time discrepancy persists: Eventbrite header 10 PM–11:59 PM vs overview 10 PM–2 AM vs flyer 10 PM–2 AM (feed keeps flyer time)."
     }
    ],
    "date": "2026-12-12T00:00:00.000",
@@ -4265,7 +4323,8 @@
    "ticketNote": "Tickets via the external platform linked from the Jubilq page; price unverified (the Jubilq index 'Free' label is not confirmed).",
    "ticketStatus": "announced",
    "unprovenPromoter": true,
-   "venueName": "Eridan Space"
+   "venueName": "Eridan Space",
+   "attendingCount": 0
   },
   {
    "address": null,
@@ -4406,6 +4465,10 @@
     {
      "date": "2026-10-24T02:03:11.000Z",
      "description": "Price now shown as published — $19.98 on Eventbrite (tickets are priced in USD, so the feed no longer shows TBA for an on-sale event)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Eventbrite page re-verified in the live browser — still on sale from $19.98, Dec 30, 5–8 PM, Lekki Phase 1, no change (earlier text-fetch 429 did not recur)."
     }
    ],
    "date": "2026-12-30T00:00:00.000",
@@ -4415,7 +4478,7 @@
    "flyerImageUrl": null,
    "genres": [],
    "id": "uds-yacht-party-2026-12-30",
-   "lastVerified": "2026-10-25T00:00:00.000",
+   "lastVerified": "2026-10-27T00:00:00.000",
    "name": "UDS YACHT PARTY",
    "organiser": "Ugly Duck Society",
    "priceTiers": [
@@ -4482,5 +4545,5 @@
    "attendingCount": 0
   }
  ],
- "generatedAt": "2026-10-27T23:08:10Z"
+ "generatedAt": "2026-10-27T23:14:13Z"
 }
