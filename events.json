@@ -9,6 +9,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Listed — beach house party at Libertine Lagos, Ilashe, found on ThePartyCompany's inside listing; all tiers buyable (prices incl. fees)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: ThePartyCompany page re-verified live — all 8 tiers match the feed exactly (Standard ₦163,810 through Exclusive Group of 10 ₦1,963,960, incl. fees)."
     }
    ],
    "date": "2026-10-28T00:00:00.000",
@@ -18,7 +22,7 @@
    "flyerImageUrl": null,
    "genres": [],
    "id": "escape-to-ilashe-2026-10-28",
-   "lastVerified": "2026-10-26T00:00:00.000",
+   "lastVerified": "2026-10-27T00:00:00.000",
    "name": "Escape to Ilashe",
    "organiser": "Softlife Experience Company",
    "priceTiers": [
@@ -280,7 +284,8 @@
    "ticketNote": "Free entry — reserve on Eventbrite.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "The HOUSE Lagos"
+   "venueName": "The HOUSE Lagos",
+   "followingCount": 0
   },
   {
    "address": null,
@@ -1008,7 +1013,8 @@
    "ticketNote": "Tickets buyable on Eventbrite (from $7.18 USD); exact location undisclosed; early-bird buy 1 get 2 — one ticket admits two.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": null
+   "venueName": null,
+   "attendingCount": 0
   },
   {
    "address": null,
@@ -1287,7 +1293,8 @@
    "ticketNote": "Free entry — register on TicketHub. Movie night 6–10 PM; DJ dance fest 10 PM–late.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "The Scope by Piers"
+   "venueName": "The Scope by Piers",
+   "followingCount": 0
   },
   {
    "address": "687 Adeola Hopewell Street, VI",
@@ -1331,7 +1338,8 @@
    "ticketNote": "Book via the live PartyVerse RSVP route in the organiser's IG bio",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Zuma Lagos"
+   "venueName": "Zuma Lagos",
+   "attendingCount": 0
   },
   {
    "address": "Adeola Odeku Street, VI",
@@ -1588,7 +1596,8 @@
    "ticketNote": "Free entry tier live on the party's own site; table reservations for 1-10 also listed (page range ₦0–₦250,000).",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "Trib3 Lagos"
+   "venueName": "Trib3 Lagos",
+   "attendingCount": 0
   },
   {
    "address": null,
@@ -1731,6 +1740,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "CONFLICT (unresolved, record unchanged): Book't header reads 4–11 PM (the feed's reconciled time) but the same page's ticket section reads Sat 7 Nov 10 PM – Sun 8 Nov 5 AM. Mask tier ₦4,000, free entry, sales end Nov 7 11 PM, organiser AlaafinofEko and Ikoyi venue all re-confirmed. Poster says Lekki Phase 1 against the page header's Ikoyi — area discrepancy also stands. Do not change the feed time on a single Book't section alone; next run must check the poster/organiser post."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Book't direct page header rendered 1 PM–8 PM this run — yet another header variant on this page (previously 4–11 PM / 10 PM–5 AM); headers remain unstable, so the standing 4–11 PM treatment is unchanged."
     }
    ],
    "date": "2026-11-07T00:00:00.000",
@@ -1768,7 +1781,8 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": null,
-   "followingCount": 1
+   "followingCount": 1,
+   "attendingCount": 0
   },
   {
    "address": "33/34 Igbe-afaa Rd, Olumo-MTN Bustop, Igbogbo-Ikorodu",
@@ -1817,6 +1831,10 @@
     {
      "date": "2026-10-25T00:00:00.000",
      "description": "Listed — sunset pool party plus a rave after dark with Factory Reset Sound System, poster-verified on Jubilq; venue and price not stated on the poster/page (Jubilq's own page fields conflict and are not used)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Jubilq page still live for Nov 7 — sunset pool party plus a rave after dark with Factory Reset Sound System, tickets via an external platform; still no venue or price published in reachable text."
     }
    ],
    "date": "2026-11-07T00:00:00.000",
@@ -1826,7 +1844,7 @@
    "flyerImageUrl": null,
    "genres": [],
    "id": "reines-rave-wet-dream-2026-11-07",
-   "lastVerified": "2026-10-25T00:00:00.000",
+   "lastVerified": "2026-10-27T00:00:00.000",
    "name": "Reine's Rave (WET DREAM)",
    "organiser": "Reine",
    "priceTiers": [
@@ -2807,6 +2825,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Listed — live-DJ beach night at Elegushi Beach found on ThePartyCompany's inside listing; All-Access VIP ₦21,980 incl. fees buyable."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: ThePartyCompany page re-verified live — DJ-led copy confirmed (Afrobeats/Amapiano/R&B/House, live DJs); the tier table did not render in the text view, so the feed tier (₦21,980 All-Access VIP) stands."
     }
    ],
    "date": "2026-11-28T00:00:00.000",
@@ -2821,7 +2843,7 @@
     "House"
    ],
    "id": "the-balcony-experience-2026-11-28",
-   "lastVerified": "2026-10-25T00:00:00.000",
+   "lastVerified": "2026-10-27T00:00:00.000",
    "name": "The Balcony Experience",
    "organiser": "Temiloluwa Adekanmi",
    "priceTiers": [
@@ -4284,7 +4306,8 @@
    "ticketNote": "Organiser's own site: TICKETS SOON — part of the Ember SZN four-night run; the Halloween edition sold via Tramango.",
    "ticketStatus": "ticketsSoon",
    "unprovenPromoter": false,
-   "venueName": "Casa 45"
+   "venueName": "Casa 45",
+   "attendingCount": 0
   },
   {
    "address": null,
@@ -4326,7 +4349,8 @@
    "ticketNote": "Tickets are not on sale yet. Detty December Fest is taking notify-list signups for this finale on its events page.",
    "ticketStatus": "announced",
    "unprovenPromoter": false,
-   "venueName": "Detty Festival Stage, Detty December Village"
+   "venueName": "Detty Festival Stage, Detty December Village",
+   "attendingCount": 0
   },
   {
    "address": "Lekki County, Ajah, Lagos (boat access only)",
@@ -4367,7 +4391,8 @@
    "ticketNote": "₦5,000 published; no online ticket link — booking via phone 09049482394. Accessible only by boat.",
    "ticketStatus": "announced",
    "unprovenPromoter": true,
-   "venueName": "Ilashe Beach"
+   "venueName": "Ilashe Beach",
+   "attendingCount": 0
   },
   {
    "address": "Lekki Phase 1 (exact location sent to attendees)",
@@ -4409,7 +4434,8 @@
    "ticketNote": "Tickets buyable on Eventbrite; exact location sent to attendees.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": null
+   "venueName": null,
+   "attendingCount": 0
   },
   {
    "address": null,
@@ -4452,8 +4478,9 @@
    "ticketNote": "Join the official update list at nyelagos.com; no ticket or reservation route is live. After-party venues chosen separately.",
    "ticketStatus": "announced",
    "unprovenPromoter": false,
-   "venueName": "Lagos Waterfront"
+   "venueName": "Lagos Waterfront",
+   "attendingCount": 0
   }
  ],
- "generatedAt": "2026-10-27T22:03:12Z"
+ "generatedAt": "2026-10-27T23:08:10Z"
 }
