@@ -1216,6 +1216,43 @@
       "venueName": "Octo Lagos"
     },
     {
+      "address": "Pier Place, 14 Montgomery Road, Sabo, Yaba, Lagos",
+      "ageLimit": null,
+      "area": "Yaba",
+      "changeLog": [
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Listed — Halloween movie night + DJ dance fest at The Scope by Piers, verified on its TicketHub detail page (movie night 6–10 PM, DANCE FEST 10 PM–late with a DJ takeover; no DJ named). Free registration."
+        }
+      ],
+      "date": "2026-10-31T00:00:00.000",
+      "description": "Halloween night at The Scope by Piers — movie night 6–10 PM, then a DANCE FEST from 10 PM to late with a DJ takeover (no DJ named). Free registration.",
+      "doorsTime": "6 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "from-screams-to-beats-2026-10-31",
+      "lastVerified": "2026-10-27T00:00:00.000",
+      "name": "FROM SCREAMS TO BEATS",
+      "organiser": "Your Memories Ng",
+      "priceTiers": [
+        {
+          "name": "Regular",
+          "note": "free entry — standard registration",
+          "priceNaira": 0
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://tickethub.ng/from-screams-to-beats-W78sOf"
+      ],
+      "ticketLink": "https://tickethub.ng/from-screams-to-beats-W78sOf",
+      "ticketNote": "Free entry — register on TicketHub. Movie night 6–10 PM; DJ dance fest 10 PM–late.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "The Scope by Piers"
+    },
+    {
       "address": "687 Adeola Hopewell Street, VI",
       "ageLimit": null,
       "area": "Victoria Island",
@@ -1279,6 +1316,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Eventporte page confirms ₦3,000/₦6,000/₦8,000 offerings sold out; Before Midnight ₦10,000, After Hours ₦15,000, Stage Access ₦30,000 on sale (live page lists tables for 5/10/15 — record's smaller-table tiers to be fully re-read next run)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Eventporte live page supersedes the feed table list — tables are now Table For 5 ₦500,000 (N350k bottles & mixers), Table For 10 ₦1,000,000 (N700k spend), Table For 15 ₦2,000,000 (N1.5m bottles & mixers); the old 2/4/6/10-person table tiers are removed. Offerings unchanged (₦3,000/₦6,000/₦8,000 sold out; ₦10,000, After Hours ₦15,000, Stage Access ₦30,000 on sale)."
         }
       ],
       "date": "2026-11-01T00:00:00.000",
@@ -1325,24 +1366,19 @@
           "priceNaira": 30000
         },
         {
-          "name": "Table For 2",
-          "note": "includes ₦140k food & drinks spend",
-          "priceNaira": 200000
-        },
-        {
-          "name": "Table For 4",
-          "note": "includes ₦230k food & drinks spend",
-          "priceNaira": 350000
-        },
-        {
-          "name": "Table For 6",
+          "name": "Table For 5",
           "note": "includes ₦350k bottles & mixers",
           "priceNaira": 500000
         },
         {
           "name": "Table For 10",
-          "note": "includes ₦450k bottles & mixers",
-          "priceNaira": 750000
+          "note": "includes ₦700k food & drinks spend",
+          "priceNaira": 1000000
+        },
+        {
+          "name": "Table For 15",
+          "note": "includes ₦1.5m bottles & mixers",
+          "priceNaira": 2000000
         }
       ],
       "series": "Sunday Service",
@@ -1365,6 +1401,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — daytime Afrobeats party/festival at Ebonylife Place, 1–11 PM; free entry (daylight sold out) + tables on sale on pv.pro."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Live-browser tier check resolves the text-view ambiguity — the SOLD OUT free tier is All-Day Entry (2 PM–12 AM), NOT Daylight Entry (2–7 PM, still available); the feed had the sold-out note on the wrong tier and it is corrected here. Tables: Cocktail only 9 left, others only 10 left."
         }
       ],
       "date": "2026-11-01T00:00:00.000",
@@ -1376,38 +1416,38 @@
         "Afrobeats"
       ],
       "id": "daybreeze-2026-11-01",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "DayBreeze",
       "organiser": "DayBreeze (Percentage Club)",
       "priceTiers": [
         {
           "name": "Daylight Entry (2–7 PM)",
-          "note": "sold out",
+          "note": null,
           "priceNaira": 0
         },
         {
           "name": "All-Day Entry (2 PM–12 AM)",
-          "note": null,
+          "note": "sold out",
           "priceNaira": 0
         },
         {
           "name": "Cocktail Table for 4",
-          "note": null,
+          "note": "only 9 left",
           "priceNaira": 150000
         },
         {
           "name": "Bench Table for 6",
-          "note": null,
+          "note": "only 10 left",
           "priceNaira": 250000
         },
         {
           "name": "Sofa Table for 6",
-          "note": null,
+          "note": "only 10 left",
           "priceNaira": 500000
         },
         {
           "name": "Sofa Table for 10",
-          "note": null,
+          "note": "only 10 left",
           "priceNaira": 1000000
         }
       ],
@@ -1530,6 +1570,10 @@
         {
           "date": "2026-10-25T00:00:00.000",
           "description": "Twin Flame tier now listed at ₦14,000 on aftrhrs.ng (was coming soon); First Release ₦8,000 still the main wave."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: AFTR HRS live page — Second Release now priced ₦9,000 (was TBA, still coming soon); Final Release is ₦10,000 coming soon with ₦15,000 at the door per the page (feed previously carried only the ₦15,000 door figure). Early Bird ₦6,500 sold out, First Release ₦8,000 and Twin Flame ₦14,000 on sale, unchanged."
         }
       ],
       "date": "2026-11-07T00:00:00.000",
@@ -1558,7 +1602,7 @@
         {
           "name": "Second Release",
           "note": "coming soon",
-          "priceNaira": null
+          "priceNaira": 9000
         },
         {
           "name": "Twin Flame",
@@ -1567,8 +1611,8 @@
         },
         {
           "name": "Final Release (at the door)",
-          "note": "coming soon",
-          "priceNaira": 15000
+          "note": "coming soon; ₦15,000 at the door per page",
+          "priceNaira": 10000
         }
       ],
       "series": "AFTR HRS rave series",
@@ -2280,6 +2324,10 @@
         {
           "date": "2026-10-25T00:00:00.000",
           "description": "Upgraded from Announced to tickets on sale: tix.africa page verified live — Early Bird free, Premium table (4) ₦150,000, Executive table (6) ₦250,000; headliner DJ Nightwayve."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: tix.africa live page re-verified unchanged (Nov 20, 7 PM–4 AM, Trib3; Early Bird free / Premium Table for 4 ₦150,000 / Executive Table for 6 ₦250,000; headliner DJ Nightwayve)."
         }
       ],
       "date": "2026-11-20T00:00:00.000",
@@ -2289,7 +2337,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "the-night-wayve-experience-2026-11-20",
-      "lastVerified": "2026-10-25T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "The Night Wayve Experience (Party With No Limits)",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -2422,6 +2470,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — all-female DJ night at Trib3 Lagos (DJ Dayzee, DJ Elsie), 9PM–4AM; regular entry free on tix.africa; poster table packages not in checkout."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: tix.africa live page re-verified unchanged (Nov 21, 9 PM–4 AM, Trib3; Regular free, admits one lady; DJ Dayzee and DJ Elsie; poster tables ₦400k–₦1m by WhatsApp)."
         }
       ],
       "date": "2026-11-21T00:00:00.000",
@@ -2431,7 +2483,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "velvet-nitez-2026-11-21",
-      "lastVerified": "2026-10-25T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Velvet Nitez",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -3095,6 +3147,10 @@
         {
           "date": "2026-10-25T00:00:00.000",
           "description": "Doors moved to 9 PM per the tix.africa ticket page (was 8 PM from the organiser reel); tiers re-verified unchanged (VIP ₦15,000, All Access ₦40,000, Table ₦1,000,000, Gold Table ₦2,000,000)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: tix.africa live page re-verified unchanged (Dec 12, 9 PM–4 AM, AMAH Studio; VIP ₦15,000 / All Access ₦40,000 / Table ₦1,000,000 / Gold Table ₦2,000,000; lineup Tulz On Deck, Wapsam)."
         }
       ],
       "date": "2026-12-12T00:00:00.000",
@@ -3106,7 +3162,7 @@
         "Electronic"
       ],
       "id": "rave-with-rina-2-2026-12-12",
-      "lastVerified": "2026-10-25T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "RAVE WITH RINA 2.0",
       "organiser": "Rina Boy",
       "priceTiers": [
@@ -3459,6 +3515,64 @@
       "eventType": "rave"
     },
     {
+      "address": "Federal Palace Hotel, 6-8 Ahmadu Bello Way, Victoria Island, Lagos",
+      "ageLimit": null,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Listed — international DJ Ms DSF headline live DJ set at Balmoral Convention Center, verified on its tix.africa ticket page and Wetinuneed listing (Early Bird ₦16,300). Time conflict noted: tix.africa says 8 PM–2 AM, Wetinuneed lists 9 PM and the poster reads 9 PM–3 AM — checkout time kept."
+        }
+      ],
+      "date": "2026-12-13T00:00:00.000",
+      "description": "International DJ Ms DSF brings her headline live DJ set to Lagos, with special guest appearances, at Balmoral Convention Center. Time conflict: the tix.africa ticket page says 8 PM–2 AM, while Wetinuneed lists 9 PM and the poster reads 9 PM–3 AM.",
+      "doorsTime": "8 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "ms-dsf-friends-lagos-litmas-rave-2026-12-13",
+      "lastVerified": "2026-10-27T00:00:00.000",
+      "name": "Ms DSF & Friends: Lagos LITmas Rave",
+      "organiser": "BluePeak Talent & Event",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": "incl. ₦1,300 fee",
+          "priceNaira": 16300
+        },
+        {
+          "name": "LITmas Gang",
+          "note": "group of 4, incl. ₦5,200 fee",
+          "priceNaira": 65200
+        },
+        {
+          "name": "First Release General Admission",
+          "note": "incl. ₦1,700 fee",
+          "priceNaira": 21700
+        },
+        {
+          "name": "Get Me Lit Table",
+          "note": "entry for 6, VIP lounge, ₦700k bar spend, incl. ₦80,100 fee",
+          "priceNaira": 1080100
+        },
+        {
+          "name": "BIG DSF Table",
+          "note": "entry for 10, VIP lounge, incl. ₦160,100 fee",
+          "priceNaira": 2160100
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://tix.africa/discover/ms-dsf-friends",
+        "https://mail.wetinuneed.com/event/live/victoria-island/ms-dsf-friends-lagos-litmas-rave"
+      ],
+      "ticketLink": "https://tix.africa/discover/ms-dsf-friends",
+      "ticketNote": "Tickets on sale on tix.africa (prices incl. fees as shown).",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Balmoral Convention Center"
+    },
+    {
       "address": null,
       "ageLimit": null,
       "area": "TBA",
@@ -3610,6 +3724,66 @@
       "unprovenPromoter": false,
       "venueName": "Orange Island",
       "endDate": "2026-12-20T00:00:00.000"
+    },
+    {
+      "address": "Federal Palace Hotel, Victoria Island, Lagos",
+      "ageLimit": null,
+      "area": "Victoria Island",
+      "changeLog": [
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Listed — Afro-Electronic Dance Music event headlined by Heaven Sam with Ms DSF and Dope Caesar, verified on the organiser ticket page roadblockng.com/tickets/lagos (Balmoral, Federal Palace, VI). Regular section marked CLOSED (opens again soon) on the page; VIP Super Early Bird link shown."
+        }
+      ],
+      "date": "2026-12-19T00:00:00.000",
+      "description": "Africa's Definitive Afro-Electronic Dance Music event — headlined by Heaven Sam, joined by global DJ Ms DSF and Nigerian powerhouse Dope Caesar; over 6,000 ravers expected, all-white or all-black dress code. Produced by Oracle Experience, powered by Desperados.",
+      "doorsTime": null,
+      "eventType": "rave",
+      "flyerImageUrl": null,
+      "genres": [
+        "Electronic"
+      ],
+      "id": "roadblock-2026-2026-12-19",
+      "lastVerified": "2026-10-27T00:00:00.000",
+      "name": "Roadblock 2026",
+      "organiser": "Oracle Experience",
+      "priceTiers": [
+        {
+          "name": "Regular — Super Early Bird",
+          "note": "sold out",
+          "priceNaira": 10000
+        },
+        {
+          "name": "Regular — First Release",
+          "note": null,
+          "priceNaira": 15000
+        },
+        {
+          "name": "Regular — Second Release",
+          "note": null,
+          "priceNaira": 20000
+        },
+        {
+          "name": "VIP — Super Early Bird",
+          "note": null,
+          "priceNaira": 50000
+        },
+        {
+          "name": "VIP — Second Release",
+          "note": null,
+          "priceNaira": 75000
+        }
+      ],
+      "series": "Roadblock",
+      "sourceLinks": [
+        "https://roadblockng.com/tickets/lagos/",
+        "https://www.nairaland.com/8710856/roadblock-2026-set-transform-lagos"
+      ],
+      "ticketLink": "https://roadblockng.com/tickets/lagos/",
+      "ticketNote": "Regular section marked CLOSED (opens again soon) on the organiser ticket page; VIP Super Early Bird link shown. VVIP Private Lounges strictly by reservation (no price listed).",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": "Balmoral, Federal Palace"
     },
     {
       "address": null,
@@ -4043,5 +4217,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-27T18:04:26Z"
+  "generatedAt": "2026-10-27T18:17:37Z"
 }
