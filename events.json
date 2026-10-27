@@ -2249,6 +2249,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Second ticket route found on tix.africa (₦54,100 single tier); DOT TIX remains the primary route."
+        },
+        {
+          "date": "2026-10-26T00:00:00.000",
+          "description": "Multi-day span now verified on the DOT TIX checkout itself (event page header and metadata: 21–22 Nov 2026, 10 PM) — endDate set to Nov 22 under the v3.8 rule; the event stays listed through Nov 22. Previously held single-day because only 'two-night' wording existed."
         }
       ],
       "date": "2026-11-21T00:00:00.000",
@@ -2277,7 +2281,8 @@
       "ticketNote": "Two-day event, Sat Nov 21 – Sun Nov 22, 10 PM. Exact venue still undisclosed. 7.5% VAT added at checkout on DOT TIX.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Lekki (Undisclosed yet)"
+      "venueName": "Lekki (Undisclosed yet)",
+      "endDate": "2026-11-22T00:00:00.000"
     },
     {
       "address": null,
@@ -3808,5 +3813,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-26T19:03:50Z"
+  "generatedAt": "2026-10-27T00:10:52Z"
 }
