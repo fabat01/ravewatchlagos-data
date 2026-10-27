@@ -244,16 +244,20 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — after-work Friday party with music and dancing at The HOUSE Lagos, 7 PM–1 AM; free on Eventbrite."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Eventbrite event page re-verified in the live browser (Oct 30, 7 PM–1 AM, The HOUSE Lagos; free, 'Reserve a spot', badge SALES END SOON, not sold out; overview names DJ Solectric)."
         }
       ],
       "date": "2026-10-30T00:00:00.000",
-      "description": "After-work Friday party with music and dancing at The HOUSE Lagos, 7 PM–1 AM. 21+.",
+      "description": "After-work Friday party with music and dancing at The HOUSE Lagos, 7 PM–1 AM. 21+. Ft DJ Solectric per the Eventbrite overview.",
       "doorsTime": "7 PM",
       "eventType": "club",
       "flyerImageUrl": null,
       "genres": [],
       "id": "friday-libations-with-coco-2026-10-30",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Friday Libations with Coco",
       "organiser": "Vibes With An Outsider",
       "priceTiers": [
@@ -2828,6 +2832,43 @@
       "venueName": "J&J Hotel and Lounge"
     },
     {
+      "address": "Block 1-6 Debo Street, Selewu Igbogbo, Ikorodu, Lagos",
+      "ageLimit": null,
+      "area": "Ikorodu",
+      "changeLog": [
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Listed — silent disco with DJs MCLEV, KENNEX and ARYZ across 3 channels, verified on its shows.ng detail page (page window 10 PM–5 AM; flyer says 10 PM–midnight)."
+        }
+      ],
+      "date": "2026-11-28T00:00:00.000",
+      "description": "Silent disco with DJs MCLEV, KENNEX and ARYZ across 3 channels at F'N'C Sport Complex, Ikorodu — 10 PM–5 AM per the shows.ng page (flyer says 10 PM–midnight).",
+      "doorsTime": "10 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "silent-disco-2-2026-11-28",
+      "lastVerified": "2026-10-27T00:00:00.000",
+      "name": "Silent Disco 2.0",
+      "organiser": "Foot N Cups",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": 7000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://shows.ng/event/silent-disco-2-0"
+      ],
+      "ticketLink": "https://shows.ng/event/silent-disco-2-0",
+      "ticketNote": "Tickets on shows.ng (General / Book now). Page window 10 PM–5 AM; flyer says 10 PM–midnight.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "F'N'C Sport Complex"
+    },
+    {
       "address": "Victoria Island",
       "ageLimit": null,
       "area": "Victoria Island",
@@ -3579,6 +3620,43 @@
       "venueName": "Balmoral Convention Center"
     },
     {
+      "address": "Sea coach jetty, beside Farm city, Lekki Phase 1, Lagos",
+      "ageLimit": null,
+      "area": "Lekki Phase 1",
+      "changeLog": [
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Listed — all-white yacht party verified on MyAccessPlug (Dec 13, 9–11 PM, ₦25,000); flyer names DJ SMART and DJ JAYMIX, plus a third DJ name not fully legible, and hypeman Farouq Eleniyan."
+        }
+      ],
+      "date": "2026-12-13T00:00:00.000",
+      "description": "All-white yacht party with DJ SMART and DJ JAYMIX (flyer; a third DJ name was not fully legible), plus hypeman Farouq Eleniyan, 9–11 PM at the Sea coach jetty, Lekki Phase 1.",
+      "doorsTime": "9 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "white-affair-2026-12-13",
+      "lastVerified": "2026-10-27T00:00:00.000",
+      "name": "WHITE AFFAIR (All white yacht party)",
+      "organiser": "Smilehouse Ent.",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": 25000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://myaccessplug.com/events/white-affair-all-white-yacht-party"
+      ],
+      "ticketLink": "https://myaccessplug.com/events/white-affair-all-white-yacht-party",
+      "ticketNote": "Tickets on MyAccessPlug (Buy Now ₦25,000). Flyer DJs DJ SMART and DJ JAYMIX; third DJ name not fully legible.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "Sea coach jetty"
+    },
+    {
       "address": null,
       "ageLimit": null,
       "area": "TBA",
@@ -3790,6 +3868,59 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Balmoral, Federal Palace"
+    },
+    {
+      "address": "Eleko Beach, Ibeju-Lekki, Lagos",
+      "ageLimit": null,
+      "area": "Ibeju-Lekki",
+      "changeLog": [
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Listed — beach rave headlined by EXPENSIVE DJ JAYBOI, verified on Wetinuneed detail + tix.africa checkout (Dec 20, 10 PM till dawn; flyer tiers Regular ₦2,000 / VIP ₦20,000 / Silver Table ₦50,000 / Gold Table ₦80,000). tix.africa header date Oct 20 contradicts Wetinuneed, About text and flyer, all Dec 20 — Dec 20 kept."
+        }
+      ],
+      "date": "2026-12-20T00:00:00.000",
+      "description": "Beach rave with EXPENSIVE DJ JAYBOI at YOLO BY THE SEA, Eleko Beach — music, dance, cocktails and beach vibes, 10 PM till dawn.",
+      "doorsTime": "10 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "beach-rave-with-expensive-dj-jayboi-2026-12-20",
+      "lastVerified": "2026-10-27T00:00:00.000",
+      "name": "BEACH RAVE With EXPENSIVE DJ JAYBOI",
+      "organiser": "BluePeak Talent & Event",
+      "priceTiers": [
+        {
+          "name": "Regular",
+          "note": null,
+          "priceNaira": 2000
+        },
+        {
+          "name": "VIP",
+          "note": null,
+          "priceNaira": 20000
+        },
+        {
+          "name": "Silver Table",
+          "note": null,
+          "priceNaira": 50000
+        },
+        {
+          "name": "Gold Table",
+          "note": null,
+          "priceNaira": 80000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://wetinuneed.com/event/live/ibeju/beach-rave-with-expensive-dj-jayboi",
+        "https://tix.africa/discover/beach-rave-with-expensive-dj-jayboi"
+      ],
+      "ticketLink": "https://tix.africa/discover/beach-rave-with-expensive-dj-jayboi",
+      "ticketNote": "Tickets on tix.africa (checkout totals Regular ₦2,260 / VIP ₦21,700 incl. fees). tix.africa header date Oct 20 contradicts Wetinuneed, About text and flyer, all Dec 20 — Dec 20 kept.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "YOLO BY THE SEA"
     },
     {
       "address": null,
@@ -4223,5 +4354,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-27T19:16:28Z"
+  "generatedAt": "2026-10-27T19:24:58Z"
 }
