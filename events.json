@@ -4,7 +4,7 @@
    "address": null,
    "ageLimit": null,
    "area": "Ilashe",
-   "attendingCount": 13,
+   "attendingCount": 18,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -72,13 +72,13 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "Libertine Lagos",
-   "followingCount": 1
+   "followingCount": 5
   },
   {
    "address": "17b Osho Drive, Ologi-Apoja, Lagos",
    "ageLimit": null,
    "area": "TBA",
-   "attendingCount": 4,
+   "attendingCount": 8,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -130,13 +130,13 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "In-house",
-   "followingCount": 1
+   "followingCount": 4
   },
   {
    "address": "3 Hassan Oduga Street, Opposite Domino's, Ikorodu, Lagos",
    "ageLimit": null,
    "area": "Ikorodu",
-   "attendingCount": 4,
+   "attendingCount": 7,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -192,13 +192,13 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "Royal Kaft Lounge",
-   "followingCount": 1
+   "followingCount": 2
   },
   {
    "address": "146A Ligali Ayorinde Street, Lagos",
    "ageLimit": null,
    "area": "Lagos",
-   "attendingCount": 3,
+   "attendingCount": 5,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -237,13 +237,14 @@
    "ticketNote": "Free entry — reserve on Eventbrite.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "LIVbykuiknosh Restaurant & Grills"
+   "venueName": "LIVbykuiknosh Restaurant & Grills",
+   "followingCount": 2
   },
   {
    "address": "4 AJ Marinho Drive, Victoria Island",
    "ageLimit": "21+",
    "area": "Victoria Island",
-   "attendingCount": 2,
+   "attendingCount": 4,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -285,7 +286,7 @@
    "address": null,
    "ageLimit": null,
    "area": "Lekki",
-   "attendingCount": 4,
+   "attendingCount": 5,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -339,13 +340,14 @@
    "ticketNote": "Tickets on sale on Book't. Venue address is sent to ticket holders after booking.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Private location, Lekki Phase 1"
+   "venueName": "Private location, Lekki Phase 1",
+   "followingCount": 2
   },
   {
    "address": "Elite Gardens Estate, VGC, Lekki, Lagos",
    "ageLimit": null,
    "area": "Lekki",
-   "attendingCount": 1,
+   "attendingCount": 2,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -387,13 +389,14 @@
    "ticketNote": "Tickets via link in organiser's bio per poster; price not published. DJs: DJ JAZKID, SNOOPYDVIBE, AKPOS. Only 50 guests, BYOB.",
    "ticketStatus": "announced",
    "unprovenPromoter": true,
-   "venueName": "Elite Gardens Estate, VGC"
+   "venueName": "Elite Gardens Estate, VGC",
+   "followingCount": 2
   },
   {
    "address": "Plot 225/226 Festac Link Road, opposite Unity Estate, Amuwo-Odofin, Lagos",
    "ageLimit": null,
    "area": "Amuwo-Odofin",
-   "attendingCount": 2,
+   "attendingCount": 3,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -446,7 +449,8 @@
    "ticketNote": "Enquiries: 09017074751, 09012880367",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "Just Drive Auto Care Service"
+   "venueName": "Just Drive Auto Care Service",
+   "followingCount": 2
   },
   {
    "address": "Ologun Agbaje Street, Victoria Island",
@@ -530,7 +534,7 @@
    "address": "Plot 16A, Block 139A, Nike Art Gallery Road, Ikate, Lekki 101222",
    "ageLimit": null,
    "area": "Lekki",
-   "attendingCount": 1,
+   "attendingCount": 2,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -593,7 +597,7 @@
    "address": "Water Corporation Road, Oniru Estate, Victoria Island Annex, Lagos",
    "ageLimit": "18+",
    "area": "Victoria Island",
-   "attendingCount": 1,
+   "attendingCount": 2,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -671,7 +675,8 @@
    "ticketNote": null,
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "Pop Landmark"
+   "venueName": "Pop Landmark",
+   "followingCount": 1
   },
   {
    "address": null,
@@ -751,7 +756,9 @@
    "ticketNote": "Tickets live on ThePartyCompany (prices incl. booking and processing fees); poster 7PM–3AM.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "Nautica Beach Resort"
+   "venueName": "Nautica Beach Resort",
+   "attendingCount": 1,
+   "followingCount": 1
   },
   {
    "address": "Plot B20 Wole Olateju Cres, Lekki Phase 1",
@@ -816,7 +823,8 @@
    "ticketNote": "Ticket buttons on the organiser page route to tix.africa checkout; table enquiries 0803 776 0586 / 0703 868 7998.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Bolívar Lounge"
+   "venueName": "Bolívar Lounge",
+   "attendingCount": 1
   },
   {
    "address": "17A Ozumba Mbadiwe Ave, Victoria Island",
@@ -857,7 +865,9 @@
    "ticketNote": "Buy on TikkBay (secure checkout, QR ticket on phone, no printing needed). 21+ only; RSVP mandatory. Page lists end 9 PM–1 AM in copy (metadata says ~11 PM).",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "The Wings Office Complex"
+   "venueName": "The Wings Office Complex",
+   "attendingCount": 1,
+   "followingCount": 1
   },
   {
    "address": "Abule Egba, Lagos",
@@ -947,7 +957,8 @@
    "ticketNote": "Eventbrite page shows TICKETS SOLD OUT for the series (no free reservation available in the logged-out view; the page does not break out per-date availability). Was free entry.",
    "ticketStatus": "soldOut",
    "unprovenPromoter": false,
-   "venueName": "Octo Lagos"
+   "venueName": "Octo Lagos",
+   "followingCount": 1
   },
   {
    "address": "Lekki, Lagos (exact location undisclosed)",
@@ -965,6 +976,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: CONFLICT NOTED, record unchanged — a shows.ng Lagos listing shows Wimpy Hotel Limited, Okun Ajah and From ₦5,400, against the Eventbrite checkout's undisclosed location and $7.18 USD price; the checkout version is kept (listing text loses to checkout) and the Eventbrite page still needs a direct re-read (its text fetch failed this run)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Eventbrite page re-read in the live browser (owed re-read closed) — still on sale, SALES END SOON, from $7.18, venue Undisclosed/Lekki, 1:01–11 PM, BUY 1 GET 2; checkout version kept, shows.ng Wimpy Hotel/₦5,400 conflict persists."
     }
    ],
    "date": "2026-10-31T00:00:00.000",
@@ -1193,7 +1208,8 @@
    "ticketNote": "15 DJ sets per poster; no individual DJ named.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Tito's Lounge"
+   "venueName": "Tito's Lounge",
+   "attendingCount": 1
   },
   {
    "address": "4b Musa Yar' Adua Street, Lagos",
@@ -3606,6 +3622,43 @@
    "venueName": "Retta Park Hotel"
   },
   {
+   "id": "waves-on-the-beach-3-2026-12-12",
+   "name": "WAVES ON THE BEACH 3",
+   "organiser": "Unknown organiser",
+   "series": null,
+   "date": "2026-12-12T00:00:00.000",
+   "doorsTime": "10 AM",
+   "venueName": "TAKWA BAY BEACH RESORT",
+   "area": "Lagos Island",
+   "address": "Takwa Bay, Lagos Island",
+   "genres": [],
+   "ageLimit": null,
+   "priceTiers": [
+    {
+     "name": "Entry",
+     "priceNaira": 50000,
+     "note": "Poster price ₦50,000 per person; Eventbrite panel shows Free with Reserve a spot — conflict, poster kept"
+    }
+   ],
+   "ticketLink": "https://www.eventbrite.com/e/waves-on-the-beach-3-tickets-2003632687304",
+   "ticketNote": "Reserve a spot on Eventbrite (panel shows Free); poster prices entry at ₦50,000 per person — confirm at checkout.",
+   "ticketStatus": "ticketsOnSale",
+   "flyerImageUrl": null,
+   "sourceLinks": [
+    "https://www.eventbrite.com/e/waves-on-the-beach-3-tickets-2003632687304"
+   ],
+   "lastVerified": "2026-10-27T00:00:00.000",
+   "changeLog": [
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "Listed — beach party with pulsating DJ sets at Takwa Bay Beach Resort, 10 AM–5:05 PM; PRICE CONFLICT: Eventbrite panel shows Free/Reserve a spot while the poster prices entry at ₦50,000 per person — poster kept, confirm at checkout."
+    }
+   ],
+   "unprovenPromoter": true,
+   "description": "Beach party with pulsating DJ sets at Takwa Bay Beach Resort, 10 AM–5:05 PM.",
+   "eventType": "club"
+  },
+  {
    "address": "Federal Palace Hotel, 6-8 Ahmadu Bello Way, Victoria Island, Lagos",
    "ageLimit": null,
    "area": "Victoria Island",
@@ -4402,5 +4455,5 @@
    "venueName": "Lagos Waterfront"
   }
  ],
- "generatedAt": "2026-10-27T21:25:32Z"
+ "generatedAt": "2026-10-27T22:03:12Z"
 }
