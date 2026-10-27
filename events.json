@@ -81,6 +81,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Listed — DJ party 9 PM–dawn, tickets on sale on tix.africa"
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: tix.africa checkout shows Early Birds sold out; checkout totals Regular ₦5,500 / Door ₦7,660 include fees vs poster base prices ₦5,000/₦7,000. Poster prices kept; poster 9 PM start kept over page-header 10 PM."
         }
       ],
       "date": "2026-10-30T00:00:00.000",
@@ -94,13 +98,13 @@
         "House"
       ],
       "id": "inner-circle-2026-10-30",
-      "lastVerified": "2026-10-22T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "INNER CIRCLE (DJ Special)",
       "organiser": "Inner Circle",
       "priceTiers": [
         {
           "name": "Early Bird",
-          "note": "75% sold",
+          "note": "sold out",
           "priceNaira": 3500
         },
         {
@@ -195,6 +199,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — weekly Friday late-night party at LIVbykuiknosh: guest DJs, Afrohouse and amapiano, dancers; 10 PM till late; free on Eventbrite."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Eventbrite page shows conflicting times (search snippet 5 PM, page 9 PM, overview “10pm till late”); 10 PM kept."
         }
       ],
       "date": "2026-10-30T00:00:00.000",
@@ -207,7 +215,7 @@
         "Amapiano"
       ],
       "id": "livafterdark-2026-10-30",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "LIVafterDark",
       "organiser": "LIVbykuiknosh",
       "priceTiers": [
@@ -352,7 +360,7 @@
         "Kompa"
       ],
       "id": "sexy-bold-unapologetic-sbu-2026-10-30",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "SEXY, BOLD, UNAPOLOGETIC - SBU",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -385,6 +393,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Corrected from the organiser's poster + Jetron ticket page: date Sat Oct 31 (not Oct 30), 9 PM till dawn, venue Just Drive Auto Care Service, Festac Link Road; prices Early Bird ₦7,500 / Venue ₦10,000 / Backstage ₦20,000; tickets on sale via Jetron; organiser Peeps Entertainment"
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Jetron checkout shows Early Bird ₦7,975 deadline exceeded; Block entry ₦10,600 and Backstage ₦21,100 on sale (poster base prices ₦7,500/₦10,000/₦20,000 kept)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -396,13 +408,13 @@
         "Electronic"
       ],
       "id": "amuwo-block-party-2026-10-30",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Amuwo Block Party — The Water Rave",
       "organiser": "Peeps Entertainment",
       "priceTiers": [
         {
           "name": "Early Bird",
-          "note": null,
+          "note": "early-bird deadline passed on Jetron checkout",
           "priceNaira": 7500
         },
         {
@@ -522,6 +534,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "TicketHub now lists a free General Admission – Green Access tier alongside Early Bird ₦10,000 and General Admission ₦15,000."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: TicketHub live page shows no free Green Access tier — tiers now Early Bird ₦10,000 / General Admission ₦15,000 / Stage Access-VIP ₦50,000 (live URL …-a7DtyI confirmed)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -533,7 +549,7 @@
         "Electronic"
       ],
       "id": "vibez-unleashed-4-2026-10-31",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "VIBEZ UNLEASHED 4.0",
       "organiser": "The Cave Studioz",
       "priceTiers": [
@@ -548,9 +564,9 @@
           "priceNaira": 15000
         },
         {
-          "name": "General Admission - Green Access",
+          "name": "Stage Access-VIP",
           "note": null,
-          "priceNaira": 0
+          "priceNaira": 50000
         }
       ],
       "series": null,
@@ -576,6 +592,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Organiser and tickets found on AniWe Convention's official event page: doors 9 PM at Pop Landmark, Oniru; early bird ₦7,500 on sale now, tiers up to ₦500K tables; sources added (Instagram announcement + official page) — no longer an unsourced listing"
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Official AniWe page re-verified live at the feed's suffixed URL (the unsuffixed URL returning “Event not found” was a wrong-URL artefact, not a removal). Early Bird tiers sales-ended; 2nd Release tiers available now; At the Door tiers open Oct 30."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -587,18 +607,18 @@
         "Electronic"
       ],
       "id": "ntai-rave-2026-10-31",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "NTAI RAVE — Night-Time Anime Indulgence",
       "organiser": "AniWe Convention",
       "priceTiers": [
         {
           "name": "Early Bird Standard",
-          "note": "available now",
+          "note": "sales ended",
           "priceNaira": 7500
         },
         {
           "name": "2nd Release Standard",
-          "note": "opens Oct 24",
+          "note": "available now",
           "priceNaira": 10000
         },
         {
@@ -608,12 +628,12 @@
         },
         {
           "name": "NTAI × Upside Down House Early Bird",
-          "note": "bundle, available now",
+          "note": "bundle, sales ended",
           "priceNaira": 15000
         },
         {
           "name": "NTAI × Upside Down House 2nd Release",
-          "note": "bundle, opens Oct 24",
+          "note": "bundle, available now",
           "priceNaira": 20000
         },
         {
@@ -954,16 +974,20 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — Halloween party at Sketch Lagos found on Jubilq's inside listing; date taken from the poster/details (Oct 31) over the listing text (Oct 30); price and live purchase route unverified."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Poster confirms Sat Oct 31, 4 PM, Sketch Lagos (page/list text said Oct 30 — poster outranks)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
       "description": "Halloween party at Sketch Lagos — 'No costume No entry'; rooms themed Pyramid of Giza (GA) and Valley of Kings (PA). Date per the poster/details (Oct 31); the Jubilq listing text says Oct 30 and loses.",
-      "doorsTime": null,
+      "doorsTime": "4 PM",
       "eventType": "club",
       "flyerImageUrl": null,
       "genres": [],
       "id": "yati-halloween-iii-2026-10-31",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "YATI HALLOWEEN III — Back to Egypt",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -991,23 +1015,32 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — Halloween poolside party at Solos Lagos found on Jubilq's inside listing; price TBA (poster tiers only approximate, not recorded as exact)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Poster confirms Sat Oct 31, 4 PM–12 AM, Solos, 30b Oju Olobun Ct, VI; EB ₦8,000 / Regular ₦10,000 (poster also shows a ₦15,000 tier, name not legible)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
       "description": "Halloween poolside party at Solos Lagos, Victoria Island — music, tattoos, karaoke and water guns, 11AM–6PM.",
-      "doorsTime": "11 AM",
+      "doorsTime": "4 PM",
       "eventType": "club",
       "flyerImageUrl": null,
       "genres": [],
       "id": "floo-state-not-a-pool-party-2026-10-31",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "FloO state — Not A Pool Party",
       "organiser": "Unknown organiser",
       "priceTiers": [
         {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
+          "name": "Early Bird",
+          "note": "poster-only",
+          "priceNaira": 8000
+        },
+        {
+          "name": "Regular",
+          "note": "poster-only",
+          "priceNaira": 10000
         }
       ],
       "series": null,
@@ -1103,7 +1136,7 @@
         "Amapiano"
       ],
       "id": "one-of-one-2026-10-31",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "One Of One",
       "organiser": "Fayemi Damola",
       "priceTiers": [
@@ -1225,6 +1258,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Reclassified as a Rave — judged by the music (house-led; the organiser's own ticket page sells a 'Post-Midnight Rave Pass'), not the listing's 'DJ set' tag"
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Eventporte page confirms ₦3,000/₦6,000/₦8,000 offerings sold out; Before Midnight ₦10,000, After Hours ₦15,000, Stage Access ₦30,000 on sale (live page lists tables for 5/10/15 — record's smaller-table tiers to be fully re-read next run)."
         }
       ],
       "date": "2026-11-01T00:00:00.000",
@@ -1236,7 +1273,7 @@
         "House"
       ],
       "id": "sunday-service-gravity-2026-11-01",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Sunday Service: Gravity Service (Halloween)",
       "organiser": "Sunday Service Lagos",
       "priceTiers": [
@@ -1252,7 +1289,7 @@
         },
         {
           "name": "Offerings – Before Midnight",
-          "note": "early bird, entry until midnight",
+          "note": "early bird, entry until midnight — sold out",
           "priceNaira": 8000
         },
         {
@@ -1731,7 +1768,7 @@
         "Electronic"
       ],
       "id": "ardour-2026-11-13",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "ARDOUR",
       "organiser": "ARDOUR",
       "priceTiers": [
@@ -1836,7 +1873,7 @@
         "Afrobeats"
       ],
       "id": "splah-city-30-2026-11-13",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "SPLAH CITY 3.0",
       "organiser": "Adeyemi Adedeji",
       "priceTiers": [
@@ -1890,7 +1927,7 @@
         "African Dance Music"
       ],
       "id": "village-people-lagos-2026-11-13",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Village People Lagos",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -2461,6 +2498,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Spektrum ticket page publishes Early Bird ₦50,000 / Regular ₦100,000 (online sales close 6pm Nov 27, door ₦150,000) and marks online tickets sold out — status kept Announced pending a clear live-route check, since the page is internally contradictory on availability."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Spektrum ticket page confirms tickets on sale — Early Bird ₦50,000 sold out, Regular ₦100,000 on sale, door ₦150,000. Status corrected from Announced; event is Nov 27 only (6 PM)."
         }
       ],
       "date": "2026-11-27T00:00:00.000",
@@ -2473,19 +2514,24 @@
         "Electronic"
       ],
       "id": "gods-of-house-eleventh-2026-11-27",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "GODS OF HOUSE: THE ELEVENTH HOUSE",
       "organiser": "Spektrum Entertainment",
       "priceTiers": [
         {
           "name": "Early Bird",
-          "note": "online sales close 6pm Fri Nov 27; page marks tickets sold out",
+          "note": "sold out; online sales close 6pm Fri Nov 27",
           "priceNaira": 50000
         },
         {
           "name": "Regular",
-          "note": "online sales close 6pm Fri Nov 27; page marks tickets sold out",
+          "note": "on sale; online sales close 6pm Fri Nov 27",
           "priceNaira": 100000
+        },
+        {
+          "name": "At the Door",
+          "note": "door price after online sales close",
+          "priceNaira": 150000
         }
       ],
       "series": "Gods of House",
@@ -2496,7 +2542,7 @@
       ],
       "ticketLink": "https://goh.spektrum.live",
       "ticketNote": "Spektrum ticket page marks online tickets sold out but lists door tickets at ₦150,000 after 6pm Nov 27 — online route unverified; check goh.spektrum.live.",
-      "ticketStatus": "announced",
+      "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": null
     },
@@ -2512,6 +2558,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Corrected from the poster + Jetron ticket page: venue Vybz Lifestyle Lagos, 15 Admiralty Way, Lekki Phase 1 (not Ikeja), 9 PM start; prices Regular ₦10,000 / VIP ₦50,000 / tables ₦300K–₦750K; tickets on sale via Jetron; host Didiboy"
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Jetron checkout shows Early Bird ₦7,500 on sale alongside poster tiers."
         }
       ],
       "date": "2026-11-28T00:00:00.000",
@@ -2523,10 +2573,15 @@
         "Electronic"
       ],
       "id": "wilders-2-2026-11-28",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Wilders party 2.0",
       "organiser": "Didiboy (Wildersland)",
       "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": "Jetron checkout",
+          "priceNaira": 7500
+        },
         {
           "name": "Regular",
           "note": null,
@@ -2705,11 +2760,15 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Second ticket route found on Book't (General ₦20,000 / VIP ₦50,000 / Voltage Table ₦1,000,000 / Velvet Current ₦1,500,000); Book't page says 12PM–3PM while its poster says 6PM, so doors time stays unset pending organiser confirmation; DOT TIX remains the primary route."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Book't second route: header 12–3 PM vs ticket section 6–9 PM; poster 6 PM kept. DOT TIX tiers unchanged."
         }
       ],
       "date": "2026-11-29T00:00:00.000",
       "description": "Bare Fashion Evening's 2026 edition is a party-night first — designer showcases woven into a DJ-led night with live performers and percussionists, not a seated runway show. Prices and doors TBA.",
-      "doorsTime": null,
+      "doorsTime": "6 PM",
       "eventType": "club",
       "flyerImageUrl": null,
       "genres": [
@@ -2766,18 +2825,22 @@
         {
           "date": "2026-10-26T00:00:00.000",
           "description": "Now displayed as a multi-day event spanning its full published run (app v3.8)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Official programme gives Day 1 2 PM–12 AM, Day 2 2 PM–1 AM (was 6 PM)."
         }
       ],
       "date": "2026-12-05T00:00:00.000",
       "description": "Africa's first tech rave — two-day festival (Dec 5–6), venue TBA (Lagos). Premium tables available.",
-      "doorsTime": "6 PM",
+      "doorsTime": "2 PM",
       "eventType": "rave",
       "flyerImageUrl": null,
       "genres": [
         "Electronic"
       ],
       "id": "off-duty-onchain-2026-12-05",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "OFF-DUTY (Onchain Festival)",
       "organiser": "Onchain Festival",
       "priceTiers": [
@@ -2876,6 +2939,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Second ticket route found: ThePartyCompany also sells this night at ₦11,070 incl. fees (same Dec 11 Voda Beach night, same Rayda crew); primary tiers via raydaent.com unchanged (Early Bird ₦10,000 / Regular ₦15,000 / Final Release ₦20,000)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Raydaent lists Eko Beach Rave (19:45) and X Festival (18:00) as separate Dec 11 Voda Beach listings; ThePartyCompany sells EKO BEACH RAVE at ₦11,070 incl. fees. Record kept combined pending a split decision — X Festival's own DJ/genre evidence not yet verified."
         }
       ],
       "date": "2026-12-11T00:00:00.000",
@@ -2889,7 +2956,7 @@
         "Afro House"
       ],
       "id": "eko-beach-rave-2026-12-11",
-      "lastVerified": "2026-10-25T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Eko Beach Rave & X Festival",
       "organiser": "ÉKÓ Casablanco / Team Sagacious / RAYDA",
       "priceTiers": [
@@ -2945,7 +3012,7 @@
         "Gqom"
       ],
       "id": "the-underworld-rave-velvet-chaos-2026-12-11",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "THE UNDERWORLD RAVE: VELVET CHAOS",
       "organiser": "Doherty diamond",
       "priceTiers": [
@@ -3093,6 +3160,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — DJ-curated Afrobeats night at Ivy Bar Restaurant, 10 PM; ₦25,000 per flyer; tickets buyable on Eventbrite. (Held out 2026-10-22 as aggregator-only; now verified via Eventbrite with a live purchase route.)"
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Eventbrite header 10 PM–11:59 PM vs overview “10pm to 2am” — header kept; page notes “No formal DJ set”, High Priestess curates sound."
         }
       ],
       "date": "2026-12-12T00:00:00.000",
@@ -3104,7 +3175,7 @@
         "Afrobeats"
       ],
       "id": "the-goddess-afrobeats-portal-2026-12-12",
-      "lastVerified": "2026-10-25T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "The Goddess Afrobeats Portal",
       "organiser": "Ezinne Osuagwu",
       "priceTiers": [
@@ -3195,53 +3266,57 @@
     {
       "address": null,
       "ageLimit": null,
-      "area": "TBA",
+      "area": "Okun Ajah",
       "changeLog": [
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — DJ-led beach party at Barracuda Beach found on Jubilq's inside listing; tiers poster-only, time conflict noted (poster 7PM till dawn vs 9PM vs listing 3PM–11PM)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Jubilq poster supersedes earlier record — Sat Dec 12, 9 PM till dawn, The Country Beach, Okun Ajah; new poster ladder EB ₦15,000 / EB Group of 5 ₦65,000 / Regular ₦20,000 / Regular Group of 5 ₦90,000 / VIP Table for 5 ₦300,000 / Gate ₦25,000."
         }
       ],
       "date": "2026-12-12T00:00:00.000",
       "description": "DJ-led beach party at Barracuda Beach — DJs and hype, beachside energy. Time per the poster (7PM till dawn; the poster also shows 9PM and the listing says 3PM–11PM — time unverified).",
-      "doorsTime": "7 PM",
+      "doorsTime": "9 PM",
       "eventType": "club",
       "flyerImageUrl": null,
       "genres": [],
       "id": "fantasy-after-dark-2026-12-12",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Fantasy After Dark — Beach Party",
       "organiser": "Unknown organiser",
       "priceTiers": [
         {
           "name": "Early Bird",
           "note": "poster-only",
-          "priceNaira": 10000
-        },
-        {
-          "name": "Regular",
-          "note": "poster-only",
           "priceNaira": 15000
         },
         {
-          "name": "Gate",
-          "note": "poster-only",
-          "priceNaira": 20000
-        },
-        {
-          "name": "Group of 5 Early",
-          "note": "poster-only",
-          "priceNaira": 45000
-        },
-        {
-          "name": "Group of 5 Regular",
+          "name": "Early Bird — Group of 5",
           "note": "poster-only",
           "priceNaira": 65000
         },
         {
-          "name": "Group of 5 Gate",
+          "name": "Regular",
+          "note": "poster-only",
+          "priceNaira": 20000
+        },
+        {
+          "name": "Regular — Group of 5",
           "note": "poster-only",
           "priceNaira": 90000
+        },
+        {
+          "name": "VIP Table for 5",
+          "note": "poster-only",
+          "priceNaira": 300000
+        },
+        {
+          "name": "Gate",
+          "note": "poster-only",
+          "priceNaira": 25000
         }
       ],
       "series": null,
@@ -3252,7 +3327,7 @@
       "ticketNote": "Tickets via the external platform linked from the Jubilq page; buyability unverified in reachable text — tiers are poster-only. Jubilq host shown as @obidum_emma (not assumed to be the organiser).",
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": "Barracuda Beach"
+      "venueName": "The Country Beach"
     },
     {
       "address": "165 Ogunlana Dr, Surulere, Lagos",
@@ -3277,7 +3352,7 @@
         "Gqom"
       ],
       "id": "afro-rave-the-heatwave-2026-12-12",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "AFRO RAVE: the heatwave",
       "organiser": "The Link Up Yard X the PLAYHOUSE",
       "priceTiers": [
@@ -3316,6 +3391,43 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Cairo by LYA"
+    },
+    {
+      "id": "wet-wild-rave-party-2026-12-12",
+      "name": "WET & WILD RAVE PARTY",
+      "organiser": "TEAM",
+      "series": null,
+      "date": "2026-12-12T00:00:00.000",
+      "doorsTime": "8 PM",
+      "venueName": "Retta Park Hotel",
+      "address": "36 Godwin Obasi St, Ago Palace Way, Lagos",
+      "area": "Ago Palace Way",
+      "genres": [],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "WET & WILD TICKET",
+          "note": null,
+          "priceNaira": 10000
+        }
+      ],
+      "ticketLink": "https://shows.ng/event/wet-wild-rave-party",
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://shows.ng/event/wet-wild-rave-party"
+      ],
+      "lastVerified": "2026-10-27T00:00:00.000",
+      "changeLog": [
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Listed — Dec 12, 8 PM till dawn, Retta Park Hotel, Ago Palace Way; poster names DJs Tusure, Jazblast and Godbless; ticket ₦10,000 on shows.ng. Genres not named on poster; brand-new promoter flagged unproven."
+        }
+      ],
+      "unprovenPromoter": true,
+      "description": "Wet & Wild Rave 2026 — an electrifying night of music, comedy, games, swimming pool fun and karaoke with DJs Tusure, Jazblast and Godbless, 8 PM till dawn at Retta Park Hotel, Ago Palace Way.",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -3428,6 +3540,10 @@
         {
           "date": "2026-10-26T00:00:00.000",
           "description": "Now displayed as a multi-day event spanning its full published run (app v3.8)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Official site + Jetron corroborate Dec 19–20, Orange Island, Day 01 underground / Day 02 mainstream (Amapiano, Afropiano, Mara). Tickets page is a community presale behind a password (“Public sale opens soon”) — no price published; the ₦15,000 snippet figure is not used."
         }
       ],
       "date": "2026-12-19T00:00:00.000",
@@ -3443,7 +3559,7 @@
         "Mara"
       ],
       "id": "dance-eko-2026-2026-12-19",
-      "lastVerified": "2026-10-26T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Dance Èkó 2026",
       "organiser": "KVLT WRLD (Day 01 curated by Monochroma, Day 02 by Even In The Day)",
       "priceTiers": [
@@ -3456,7 +3572,8 @@
       "series": null,
       "sourceLinks": [
         "https://danceeko.com/",
-        "https://blog.krent.space/area-guide/lagos/20-things-to-do-in-lagos-this-december-2026/"
+        "https://blog.krent.space/area-guide/lagos/20-things-to-do-in-lagos-this-december-2026/",
+        "https://www.jetronticket.com/dance-eko-2026"
       ],
       "ticketLink": null,
       "ticketNote": "Notify list only — 'Be the first to know when tickets drop' on danceeko.com; no purchase route live.",
@@ -3653,11 +3770,15 @@
     {
       "address": null,
       "ageLimit": null,
-      "area": "TBA",
+      "area": "Ikeja",
       "changeLog": [
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — DJ Muller-led party found on Jubilq's inside listing; price unverified, live purchase route unverified."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "2026-10-27: Poster confirms Dec 27, DJ Muller, Eridan Space, Ikeja; no price on poster."
         }
       ],
       "date": "2026-12-27T00:00:00.000",
@@ -3667,7 +3788,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "eko-experience-with-dj-muller-2026-12-27",
-      "lastVerified": "2026-10-24T00:00:00.000",
+      "lastVerified": "2026-10-27T00:00:00.000",
       "name": "Eko Experience with DJ Muller",
       "organiser": "DJ Muller",
       "priceTiers": [
@@ -3685,7 +3806,7 @@
       "ticketNote": "Tickets via the external platform linked from the Jubilq page; price unverified (the Jubilq index 'Free' label is not confirmed).",
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": "Eridan Space"
     },
     {
       "address": null,
@@ -3893,5 +4014,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-27T16:44:44Z"
+  "generatedAt": "2026-10-27T17:06:48Z"
 }
