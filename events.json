@@ -474,6 +474,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Organiser published genre list (Afrobeat, Afro Tech, Amapiano, House, Mara) and reconfirmed tiers on disturbinggidi.com; 18+ confirmed."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Supabase following count now 0 (was 1); DISTURBIA tiers re-verified unchanged on disturbinggidi.com (Chucky/Scream sold out, Annabelle ₦7,500, Conjuring ₦20,000, Resident Evil ₦35,000, Final Destination ₦15,000); ILÉ ÌJÓ / Beach Party / Gidi EOY still TICKETS SOON."
     }
    ],
    "date": "2026-10-31T00:00:00.000",
@@ -534,7 +538,7 @@
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
    "venueName": "District 19",
-   "followingCount": 1
+   "followingCount": 0
   },
   {
    "address": "Plot 16A, Block 139A, Nike Art Gallery Road, Ikate, Lekki 101222",
@@ -4545,5 +4549,5 @@
    "attendingCount": 0
   }
  ],
- "generatedAt": "2026-10-27T23:14:13Z"
+ "generatedAt": "2026-10-27T23:26:38Z"
 }
