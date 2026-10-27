@@ -278,6 +278,10 @@
     {
      "date": "2026-10-26T00:00:00.000",
      "description": "Re-checked directly on Book't: event live, tickets on sale, Oct 30–31. The page header time rendered differently again this run (1 PM–3 AM, after 4 PM–6 AM previously) — header times on this page are unstable; the record's standing time treatment is unchanged."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "Re-checked directly on Book't in the live browser: header 4 PM–6 AM matches the feed; ticket section 9 PM–11 AM and poster '9 PM till late' differ as before; tiers unchanged (Online ₦10,000, Private Room ₦50,000, door ₦30,000 poster-only). Standing time treatment unchanged."
     }
    ],
    "date": "2026-10-30T00:00:00.000",
@@ -290,7 +294,7 @@
     "Electronic"
    ],
    "id": "haux-therapy-halloween-edition-2026-10-30",
-   "lastVerified": "2026-10-26T00:00:00.000",
+   "lastVerified": "2026-10-27T00:00:00.000",
    "name": "Haux Therapy: Halloween Edition (Afro EDM House Party)",
    "organiser": "Ecliptica Collective",
    "priceTiers": [
@@ -864,6 +868,10 @@
     {
      "date": "2026-10-25T00:00:00.000",
      "description": "Status changed to soldOut: Eventbrite page verified in live browser shows 'TICKETS SOLD OUT' with no free reservation option (was free entry — reserve on Eventbrite)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "Conflict resolved on the Eventbrite event page itself in the live browser: badge and ticket panel both read SOLD OUT ('Sold out / Multiple dates'), no Free wording — the 2026-10-26 list-view 'Free' label was a list-view artefact, not the event page. Feed soldOut stands; per-date Oct 31 status is not separately exposed on the page (no date picker visible)."
     }
    ],
    "date": "2026-10-31T00:00:00.000",
@@ -876,7 +884,7 @@
     "Hip Hop"
    ],
    "id": "blueprint-saturdays-2026-10-31",
-   "lastVerified": "2026-10-25T00:00:00.000",
+   "lastVerified": "2026-10-27T00:00:00.000",
    "name": "BLUEPRINT SATURDAYS",
    "organiser": "Octo Lagos",
    "priceTiers": [
@@ -1577,6 +1585,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Reconciled against the Book't event page: doors 4–11 PM (was 1–8 PM); entry free but a branded mask (₦4,000, reusable) is required and sold on the page."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "CONFLICT (unresolved, record unchanged): Book't header reads 4–11 PM (the feed's reconciled time) but the same page's ticket section reads Sat 7 Nov 10 PM – Sun 8 Nov 5 AM. Mask tier ₦4,000, free entry, sales end Nov 7 11 PM, organiser AlaafinofEko and Ikoyi venue all re-confirmed. Poster says Lekki Phase 1 against the page header's Ikoyi — area discrepancy also stands. Do not change the feed time on a single Book't section alone; next run must check the poster/organiser post."
     }
    ],
    "date": "2026-11-07T00:00:00.000",
@@ -1588,7 +1600,7 @@
     "Electronic"
    ],
    "id": "dark-mask-rave-2026-11-07",
-   "lastVerified": "2026-10-24T00:00:00.000",
+   "lastVerified": "2026-10-27T00:00:00.000",
    "name": "DARK & MASK RAVE",
    "organiser": "AlaafinofEko",
    "priceTiers": [
@@ -3124,6 +3136,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Ticket page verified live on Book't: Sinatra Place, Ogba; tickets on sale — Early Bird ₦5,000 / Group of 5 ₦20,000 / Regular ₦10,000 / Stage Access ₦20,000 / VIP ₦50,000; status announced → ticketsOnSale. Time per the event page is 2–10 PM (poster says 8 PM–dawn; page time kept)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "Re-checked directly on Book't in the live browser: header 2–10 PM matches the feed; ticket section 8 PM–4 AM matches the poster (8 PM–dawn); all tiers available and unchanged (EB ₦5,000 / Group of 5 ₦20,000 / Regular ₦10,000 / Stage Access ₦20,000 / VIP ₦50,000); Sinatra Place, Ogba, Ikeja confirmed. Record unchanged."
     }
    ],
    "date": "2026-12-12T00:00:00.000",
@@ -3133,7 +3149,7 @@
    "flyerImageUrl": null,
    "genres": [],
    "id": "sage-city-water-city-detty-december-rave-2026-12-12",
-   "lastVerified": "2026-10-25T00:00:00.000",
+   "lastVerified": "2026-10-27T00:00:00.000",
    "name": "Sage City Water City Detty December Rave",
    "organiser": "The Party House",
    "priceTiers": [
