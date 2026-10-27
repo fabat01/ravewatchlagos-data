@@ -4,7 +4,7 @@
       "address": null,
       "ageLimit": null,
       "area": "Ilashe",
-      "attendingCount": 9,
+      "attendingCount": 11,
       "changeLog": [
         {
           "date": "2026-10-24T00:00:00.000",
@@ -128,13 +128,13 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "In-house",
-      "attendingCount": 2
+      "attendingCount": 3
     },
     {
       "address": "3 Hassan Oduga Street, Opposite Domino's, Ikorodu, Lagos",
       "ageLimit": null,
       "area": "Ikorodu",
-      "attendingCount": 2,
+      "attendingCount": 4,
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
@@ -271,13 +271,14 @@
       "ticketNote": "Free entry — reserve on Eventbrite.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "The HOUSE Lagos"
+      "venueName": "The HOUSE Lagos",
+      "attendingCount": 2
     },
     {
       "address": null,
       "ageLimit": null,
       "area": "Lekki",
-      "attendingCount": 3,
+      "attendingCount": 4,
       "changeLog": [
         {
           "date": "2026-10-24T00:00:00.000",
@@ -437,7 +438,8 @@
       "ticketNote": "Enquiries: 09017074751, 09012880367",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "Just Drive Auto Care Service"
+      "venueName": "Just Drive Auto Care Service",
+      "attendingCount": 2
     },
     {
       "address": "Ologun Agbaje Street, Victoria Island",
@@ -2019,7 +2021,8 @@
       "ticketNote": "Tickets via jetrontickets.com/villagepeople per poster; live purchase route not yet verified on Jetron. Poster time 11PM–5AM used over listing 5–11PM; 18+, valid government ID and QR ticket required.",
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": "AMAH Studios"
+      "venueName": "AMAH Studios",
+      "attendingCount": 1
     },
     {
       "address": null,
@@ -2060,7 +2063,8 @@
       "ticketNote": "Phone RSVP only: 07086715320 — no online ticket link",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "attendingCount": 1
     },
     {
       "address": null,
@@ -2211,7 +2215,8 @@
       "ticketNote": "Poster time 9PM–5AM and Lekki Phase 1 used over listing 3–11PM/Ikeja; price not legible on poster; live purchase route not verified. DJs: SEXY DJ TOPZY, DJ AVATAR.",
       "ticketStatus": "announced",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "attendingCount": 1
     },
     {
       "address": null,
@@ -2254,7 +2259,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Red Bar Lagos"
+      "venueName": "Red Bar Lagos",
+      "attendingCount": 0
     },
     {
       "address": null,
@@ -4217,5 +4223,5 @@
       "venueName": "Lagos Waterfront"
     }
   ],
-  "generatedAt": "2026-10-27T18:17:37Z"
+  "generatedAt": "2026-10-27T19:16:28Z"
 }
