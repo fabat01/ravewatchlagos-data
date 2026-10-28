@@ -265,6 +265,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Eventbrite event page re-verified in the live browser (Oct 30, 7 PM–1 AM, The HOUSE Lagos; free, 'Reserve a spot', badge SALES END SOON, not sold out; overview names DJ Solectric)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Supabase following count 0 → 1."
     }
    ],
    "date": "2026-10-30T00:00:00.000",
@@ -272,7 +276,7 @@
    "doorsTime": "7 PM",
    "eventType": "club",
    "flyerImageUrl": null,
-   "followingCount": 0,
+   "followingCount": 1,
    "genres": [],
    "id": "friday-libations-with-coco-2026-10-30",
    "lastVerified": "2026-10-27T00:00:00.000",
@@ -426,6 +430,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Jetron checkout shows Early Bird ₦7,975 deadline exceeded; Block entry ₦10,600 and Backstage ₦21,100 on sale (poster base prices ₦7,500/₦10,000/₦20,000 kept)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Supabase following count 2 → 3."
     }
    ],
    "date": "2026-10-31T00:00:00.000",
@@ -433,7 +441,7 @@
    "doorsTime": "9 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
-   "followingCount": 2,
+   "followingCount": 3,
    "genres": [
     "Electronic"
    ],
@@ -4454,6 +4462,43 @@
    "venueName": "Maxx MSquare"
   },
   {
+   "address": "Water Corporation Drive, Oniru, Lagos",
+   "ageLimit": null,
+   "area": "Victoria Island",
+   "changeLog": [
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "Listed — Amber Night 2026 on Eventor (Dec 26, Landmark Centre, ₦7,500); poster featuring list includes DJ SETS, which lifts the earlier no-DJ-evidence hold. Venue conflict noted: listing says Landmark Centre, poster text reads POP LANDMARK."
+    }
+   ],
+   "date": "2026-12-26T00:00:00.000",
+   "description": "Amber Night 2026 — DJ sets plus music, food, live performance and side quests at Landmark Centre, Oniru, from 12 PM. Poster venue text reads POP LANDMARK against the listing's Landmark Centre — venue conflict noted, listing kept.",
+   "doorsTime": "12 PM",
+   "eventType": "club",
+   "flyerImageUrl": null,
+   "genres": [],
+   "id": "amber-night-2026-2026-12-26",
+   "lastVerified": "2026-10-27T00:00:00.000",
+   "name": "Amber Night 2026",
+   "organiser": "Unknown organiser",
+   "priceTiers": [
+    {
+     "name": "Entry",
+     "note": null,
+     "priceNaira": 7500
+    }
+   ],
+   "series": null,
+   "sourceLinks": [
+    "https://eventornigeria.com/explore/amber-night"
+   ],
+   "ticketLink": "https://eventornigeria.com/explore/amber-night",
+   "ticketNote": "Single ₦7,500 tier shown on Eventor; poster venue text reads POP LANDMARK against the listing's Landmark Centre.",
+   "ticketStatus": "ticketsOnSale",
+   "unprovenPromoter": true,
+   "venueName": "Landmark Centre"
+  },
+  {
    "address": null,
    "ageLimit": null,
    "area": "Ikeja",
@@ -4754,5 +4799,5 @@
    "venueName": "Lagos Waterfront"
   }
  ],
- "generatedAt": "2026-10-28T01:54:46Z"
+ "generatedAt": "2026-10-28T02:32:59Z"
 }
