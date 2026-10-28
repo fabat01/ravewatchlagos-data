@@ -4,7 +4,7 @@
    "address": null,
    "ageLimit": null,
    "area": "Ilashe",
-   "attendingCount": 19,
+   "attendingCount": 20,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -13,6 +13,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: ThePartyCompany page re-verified live — all 8 tiers match the feed exactly (Standard ₦163,810 through Exclusive Group of 10 ₦1,963,960, incl. fees)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: ThePartyCompany detail page re-verified — all 8 tiers match feed exactly; party 6 PM–6 AM, jetty meetup 12 PM–6 PM."
     }
    ],
    "date": "2026-10-28T00:00:00.000",
@@ -82,7 +86,7 @@
    "address": "17b Osho Drive, Ologi-Apoja, Lagos",
    "ageLimit": null,
    "area": "TBA",
-   "attendingCount": 9,
+   "attendingCount": 8,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -98,7 +102,7 @@
    "doorsTime": "9 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
-   "followingCount": 5,
+   "followingCount": 6,
    "genres": [
     "Afrobeats",
     "Hip Hop",
@@ -149,6 +153,10 @@
     {
      "date": "2026-10-26T00:00:00.000",
      "description": "Now displayed as a multi-day event spanning its full published run (app v3.8)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: DOT TIX re-verified (Oct 30–31, doors 10 PM, Royal Kaft Lounge, Ikorodu, from ₦5,000) — matches feed."
     }
    ],
    "date": "2026-10-30T00:00:00.000",
@@ -157,7 +165,7 @@
    "endDate": "2026-10-31T00:00:00.000",
    "eventType": "club",
    "flyerImageUrl": null,
-   "followingCount": 3,
+   "followingCount": 4,
    "genres": [
     "Amapiano",
     "Afrobeats"
@@ -218,7 +226,7 @@
    "doorsTime": "10 PM",
    "eventType": "club",
    "flyerImageUrl": null,
-   "followingCount": 4,
+   "followingCount": 3,
    "genres": [
     "Afro House",
     "Amapiano"
@@ -304,6 +312,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "Re-checked directly on Book't in the live browser: header 4 PM–6 AM matches the feed; ticket section 9 PM–11 AM and poster '9 PM till late' differ as before; tiers unchanged (Online ₦10,000, Private Room ₦50,000, door ₦30,000 poster-only). Standing time treatment unchanged."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Book't city page rendered 9 cards after settle + reload (flashes \"no events\" first); event page tiers unchanged (Online ₦10,000, Private Room ₦50,000, door ₦30,000 poster-only)."
     }
    ],
    "date": "2026-10-30T00:00:00.000",
@@ -561,6 +573,14 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: TicketHub live page shows no free Green Access tier — tiers now Early Bird ₦10,000 / General Admission ₦15,000 / Stage Access-VIP ₦50,000 (live URL …-a7DtyI confirmed)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: TicketHub homepage card reads \"Free\" against the feed's paid tiers — card artefact suspected (same pattern as Afro Rave); detail-page re-check owed before any change."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: TicketHub detail page re-verified — tiers match feed exactly and are buyable (Early Bird ₦10,000, General Admission ₦15,000, Stage Access-VIP ₦50,000, live quantity selectors, no sold-out label); the homepage \"Free\" card is wrong, as suspected."
     }
    ],
    "date": "2026-10-31T00:00:00.000",
@@ -705,6 +725,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: ThePartyCompany listing re-verified still live (Oct 31, 7 PM, Nautica Beach)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: ThePartyCompany detail page re-verified — all tiers match feed exactly (Pre-Sale ₦5,615 and Early Bird ₦7,797 sold out; Wave 2 ₦9,979; Regular ₦14,343/₦16,525; VIP tables)."
     }
    ],
    "date": "2026-10-31T00:00:00.000",
@@ -893,6 +917,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: ThePartyCompany event page re-verified unchanged (Oct 31, 10 PM, Luxx Lounge, free RSVP)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: ThePartyCompany detail page re-verified — free RSVP, Luxx Lounge, Abule Egba, unchanged."
     }
    ],
    "date": "2026-10-31T00:00:00.000",
@@ -1142,6 +1170,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: MyAccessPlug discover re-verified unchanged (Oct 31, Casa 45, from ₦12,500)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: MyAccessPlug re-verified exactly (Oct 31, Casa 45; GA ₦12,500, Group of 3 ₦30,000, Group of 5 ₦55,000, Buy Now live)."
     }
    ],
    "date": "2026-10-31T00:00:00.000",
@@ -1543,6 +1575,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Eventor explore re-verified unchanged (Nov 4, 8 PM, Cairo By LYA, ₦5,000)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Eventor re-verified (Nov 4, 8 PM, Cairo By LYA, Surulere; General ₦5,000) — matches feed."
     }
    ],
    "date": "2026-11-04T00:00:00.000",
@@ -1774,6 +1810,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Live-browser tier-detail check RESOLVES the tier question — a single ₦4,000 ticket on Book't (mask included, reusable), superseding the earlier free-entry + separate-mask treatment; the page's mask note ('Your branded mask is N4000 and it's reusable for our subsequent nights') is retained in the ticket note. Time 4–11 PM and Ikoyi re-confirmed."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Book't city page (9 cards after settle + reload) and event page re-verified — single ₦4,000 ticket (mask included) matches feed; no separate free tier visible; 4–11 PM, Ikoyi location field confirmed."
     }
    ],
    "date": "2026-11-07T00:00:00.000",
@@ -1974,6 +2014,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Eventor explore re-verified unchanged (Nov 13, 11 PM, Lekki Phase 1, ₦3,000)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Eventor re-verified (Nov 13, 11 PM, Lekki Phase 1; Pay What You Want from ₦3,000 and from ₦5,000; 7-hour Hardgroove/Tribal/experimental Techno set) — matches feed."
     }
    ],
    "date": "2026-11-13T00:00:00.000",
@@ -2014,6 +2058,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Listed — water-party night at Scandic Hotel Iyana Era, 8PM till dawn; Afrobeats tag on the TicketHub page is the only genre evidence; tiers ₦3,000–₦100,000 buyable."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: TicketHub re-verified (Nov 13, 8 PM, Scandic Hotel, from ₦3,000) — matches feed."
     }
    ],
    "date": "2026-11-13T00:00:00.000",
@@ -2398,6 +2446,10 @@
     {
      "date": "2026-10-22T00:00:00.000",
      "description": "Listed — Livespot's Nov 20 party night at Livespot Entertarium, 7 PM, via DOT TIX; Regular free registration / Early Bird General ₦15,000 / VIP Standing ₦100,000 / tables by WhatsApp request."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: DOT TIX re-verified (Nov 20, 7 PM, Livespot Entertarium; free access with paid tickets) — matches feed."
     }
    ],
    "date": "2026-11-20T00:00:00.000",
@@ -2462,6 +2514,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: tix.africa live page re-verified unchanged (Nov 20, 7 PM–4 AM, Trib3; Early Bird free / Premium Table for 4 ₦150,000 / Executive Table for 6 ₦250,000; headliner DJ Nightwayve)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: tix.africa + Wetinuneed re-verified (Nov 20, 7 PM, 288b Ajose Adeogun St, Victoria Island, free) — matches feed."
     }
    ],
    "date": "2026-11-20T00:00:00.000",
@@ -2565,6 +2621,10 @@
     {
      "date": "2026-10-26T00:00:00.000",
      "description": "Multi-day span now verified on the DOT TIX checkout itself (event page header and metadata: 21–22 Nov 2026, 10 PM) — endDate set to Nov 22 under the v3.8 rule; the event stays listed through Nov 22. Previously held single-day because only 'two-night' wording existed."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: DOT TIX re-verified (Nov 21–22, 10 PM, Lekki undisclosed, from ₦50,000) — matches feed."
     }
    ],
    "date": "2026-11-21T00:00:00.000",
@@ -2887,6 +2947,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: ThePartyCompany page re-verified live — DJ-led copy confirmed (Afrobeats/Amapiano/R&B/House, live DJs); the tier table did not render in the text view, so the feed tier (₦21,980 All-Access VIP) stands."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: ThePartyCompany detail page re-verified — All-Access VIP ₦21,980, Elegushi beach, live DJs (Afrobeats/Amapiano/R&B/House); matches feed."
     }
    ],
    "date": "2026-11-28T00:00:00.000",
@@ -2975,6 +3039,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "Listed — silent disco with DJs MCLEV, KENNEX and ARYZ across 3 channels, verified on its shows.ng detail page (page window 10 PM–5 AM; flyer says 10 PM–midnight)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: shows.ng Lagos list re-verified (Nov 28, 10 PM, Ikorodu, from ₦7,000, not marked sales closed) — matches feed."
     }
    ],
    "date": "2026-11-28T00:00:00.000",
@@ -3028,10 +3096,14 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Book't second route: header 12–3 PM vs ticket section 6–9 PM; poster 6 PM kept. DOT TIX tiers unchanged."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Book't second route corroborates (Balmoral Convention Centre, \"Fashion Rave Experience\" with DJ sets; header 12–3 PM vs 6 PM arrival); DOT TIX tiers and 6 PM kept as primary, not merged."
     }
    ],
    "date": "2026-11-29T00:00:00.000",
-   "description": "Bare Fashion Evening's 2026 edition is a party-night first — designer showcases woven into a DJ-led night with live performers and percussionists, not a seated runway show. Prices and doors TBA.",
+   "description": "Bare Fashion Evening's 2026 edition is a party-night first — designer showcases woven into a DJ-led night with live performers and percussionists, not a seated runway show.",
    "doorsTime": "6 PM",
    "eventType": "club",
    "flyerImageUrl": null,
@@ -3150,6 +3222,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: ThePartyCompany detail page confirms Dec 5th & 6th, 2026 (list view shows Dec 5 only) — record now multi-day to Dec 6. Tiers unchanged (GA ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: ThePartyCompany detail page confirms the two-day Dec 5–6 range; tiers match feed (GA ₦21,980 expired, VIP ₦87,440, Premium Table ₦2,182,160)."
     }
    ],
    "date": "2026-12-05T00:00:00.000",
@@ -3271,6 +3347,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Listed — Gothic × Alte rave night (Afro Tech/Afro House/3Step/Gqom); venue undisclosed until ticket purchase; DJ lineup coming soon; tiers ₦10,000–₦40,000 buyable on TicketHub."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: TicketHub re-verified (Dec 11, 7 PM, location revealed after ticket, from ₦10,000) — matches feed."
     }
    ],
    "date": "2026-12-11T00:00:00.000",
@@ -3343,6 +3423,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: tix.africa live page re-verified unchanged (Dec 12, 9 PM–4 AM, AMAH Studio; VIP ₦15,000 / All Access ₦40,000 / Table ₦1,000,000 / Gold Table ₦2,000,000; lineup Tulz On Deck, Wapsam)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: MyAccessPlug second route corroborates (Dec 12, 9 PM–6 AM, AMAH Studio, Eleganza House; VIP ₦15,000, All Access ₦40,000, Table ₦1,000,000 match feed) — its Gold Table ₦4,000,000 vs the tix.africa primary ₦2,000,000 is NOT merged; tix.africa tiers kept. MyAccessPlug title lacks \"2.0\"."
     }
    ],
    "date": "2026-12-12T00:00:00.000",
@@ -3382,7 +3466,8 @@
    "series": null,
    "sourceLinks": [
     "https://www.instagram.com/reel/DeuSfhzCcRe/",
-    "https://tix.africa/discover/ravewithrina"
+    "https://tix.africa/discover/ravewithrina",
+    "https://myaccessplug.com/events/rave-with-rina"
    ],
    "ticketLink": "https://tix.africa/discover/ravewithrina",
    "ticketNote": null,
@@ -3453,6 +3538,14 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Eventbrite re-checked in the live browser — still listed with no sold-out/sales-ended marker (ticket panel still loading, so no fuller price confirmation); shows.ng still shows 'Sales closed' for the same Dec 12 Ivy Bar listing — aggregator claim only, Eventbrite version kept. Time discrepancy persists (title 10–11:59 PM vs overview/flyer 10 PM–2 AM)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: CONFLICT NOTED, record unchanged — shows.ng lists this event as \"Sales closed\" against the feed's Eventbrite ticketsOnSale; direct Eventbrite re-check owed (follow-up task). Aggregator claim only; checkout kept."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: CONFLICT RESOLVED in the feed's favour — Eventbrite detail page re-read live: \"Get tickets\" live, no sold-out/sales-ended message, $25 / poster ₦25K, Dec 12, Ivy Bar Restaurant; shows.ng \"Sales closed\" was an aggregator claim only. Caveat stands: the page says \"No formal DJ set. No random playlist. The High Priestess curates the sound\" — kept as a DJ-curated Afrobeats night per the organiser's framing, flagged."
     }
    ],
    "date": "2026-12-12T00:00:00.000",
@@ -3500,6 +3593,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "Re-checked directly on Book't in the live browser: header 2–10 PM matches the feed; ticket section 8 PM–4 AM matches the poster (8 PM–dawn); all tiers available and unchanged (EB ₦5,000 / Group of 5 ₦20,000 / Regular ₦10,000 / Stage Access ₦20,000 / VIP ₦50,000); Sinatra Place, Ogba, Ikeja confirmed. Record unchanged."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Book't re-verified — tiers match feed exactly; header 2–10 PM vs poster 8 PM–dawn standing conflict unchanged."
     }
    ],
    "date": "2026-12-12T00:00:00.000",
@@ -3626,6 +3723,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Listed — Afro rave at Cairo by LYA, Surulere; poster time 9PM used over header 10PM; Earlybird ₦4,500 sold out, other tiers ₦6,000–₦150,000 buyable on TicketHub."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: TicketHub detail page re-verified — paid tiers match feed exactly (Earlybird ₦4,500 sold out, Regular ₦6,000, Group of 5 ₦25,000, Silver Table ₦100,000, Gold Table ₦150,000); the search card's \"Free\" label is a card artefact, not the page. Genres Afrobeat/Afrotech/Amapiano/3Step/Gqom, 18+ confirmed."
     }
    ],
    "date": "2026-12-12T00:00:00.000",
@@ -3806,6 +3907,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Wetinuneed listing re-verified live (Dec 13, Balmoral, single ₦16,300 on Wetinuneed vs tix.africa tiers kept; 9 PM Wetinuneed/poster vs 8 PM–2 AM tix.africa conflict already logged); source link corrected from the mail subdomain to the clean Wetinuneed URL."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Wetinuneed corroborates (Dec 13, Victoria Island, ₦16,300; \"international DJ Ms DSF takes over the decks\") — matches feed."
     }
    ],
    "date": "2026-12-13T00:00:00.000",
@@ -4232,6 +4337,10 @@
     {
      "date": "2026-10-24T00:00:00.000",
      "description": "Full tier list published on DOT TIX (EB sold out); venue corrected — Detty December Village (Detty Pulse Stage), area reset to Lagos (unverified)"
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: DOT TIX Detty December collection + dettydecfest.com programme re-verified — DJ Tunez & Friends Dec 24 from ₦25,000; programme still 10 shows, no new DJ-led night; Tungba Christmas (Dec 25) stays excluded by Abatan's decision."
     }
    ],
    "date": "2026-12-24T00:00:00.000",
@@ -4645,5 +4754,5 @@
    "venueName": "Lagos Waterfront"
   }
  ],
- "generatedAt": "2026-10-28T01:20:34Z"
+ "generatedAt": "2026-10-28T01:54:46Z"
 }
