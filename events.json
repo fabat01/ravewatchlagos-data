@@ -103,6 +103,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Supabase attending count 8 → 9."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase following count 6 → 5."
         }
       ],
       "date": "2026-10-30T00:00:00.000",
@@ -110,7 +114,7 @@
       "doorsTime": "9 PM",
       "eventType": "rave",
       "flyerImageUrl": null,
-      "followingCount": 6,
+      "followingCount": 5,
       "genres": [
         "Afrobeats",
         "Hip Hop",
@@ -356,6 +360,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase following count 4 → 3."
         }
       ],
       "date": "2026-10-30T00:00:00.000",
@@ -363,7 +371,7 @@
       "doorsTime": "4 PM",
       "eventType": "rave",
       "flyerImageUrl": null,
-      "followingCount": 4,
+      "followingCount": 3,
       "genres": [
         "House",
         "Electronic"
@@ -413,6 +421,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Poster enrichment: Kompa added to genres; only 50 guests, BYOB noted."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
         }
       ],
       "date": "2026-10-30T00:00:00.000",
@@ -429,7 +441,7 @@
         "Kompa"
       ],
       "id": "sexy-bold-unapologetic-sbu-2026-10-30",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "SEXY, BOLD, UNAPOLOGETIC - SBU",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -470,6 +482,14 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Supabase following count 2 → 3."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase following count 3 → 2."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -477,12 +497,12 @@
       "doorsTime": "9 PM",
       "eventType": "rave",
       "flyerImageUrl": null,
-      "followingCount": 3,
+      "followingCount": 2,
       "genres": [
         "Electronic"
       ],
       "id": "amuwo-block-party-2026-10-30",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "Amuwo Block Party — The Water Rave",
       "organiser": "Peeps Entertainment",
       "priceTiers": [
@@ -1161,6 +1181,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Poster confirms Sat Oct 31, 4 PM, Sketch Lagos (page/list text said Oct 30 — poster outranks)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -1170,7 +1194,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "yati-halloween-iii-2026-10-31",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "YATI HALLOWEEN III — Back to Egypt",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -1203,16 +1227,24 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Poster confirms Sat Oct 31, 4 PM–12 AM, Solos, 30b Oju Olobun Ct, VI; EB ₦8,000 / Regular ₦10,000 (poster also shows a ₦15,000 tier, name not legible)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Poster DJs (DJ Teevibez, DJ Willa, DJ OTB) and poster time (4 PM–12 AM) confirmed in the live browser; the stale 11 AM–6 PM listing window removed from the description."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
-      "description": "Halloween poolside party at Solos Lagos, Victoria Island — music, tattoos, karaoke and water guns, 11AM–6PM.",
+      "description": "Halloween poolside party at Solos Lagos, Victoria Island — music, tattoos, karaoke and water guns, 4 PM–12 AM per the poster. Music policy: DJ Teevibez, DJ Willa, DJ OTB.",
       "doorsTime": "4 PM",
       "eventType": "club",
       "flyerImageUrl": null,
       "genres": [],
       "id": "floo-state-not-a-pool-party-2026-10-31",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "FloO state — Not A Pool Party",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -2043,6 +2075,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Jubilq page still live for Nov 7 — sunset pool party plus a rave after dark with Factory Reset Sound System, tickets via an external platform; still no venue or price published in reachable text."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
         }
       ],
       "date": "2026-11-07T00:00:00.000",
@@ -2052,7 +2088,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "reines-rave-wet-dream-2026-11-07",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "Reine's Rave (WET DREAM)",
       "organiser": "Reine",
       "priceTiers": [
@@ -2544,6 +2580,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: PartyVerse page rendered in the live browser — full tier table now recorded (was a single TBA tier); Early Bird Free sold out, paid tiers ₦5,000–₦500,000; venue VYBZ Lifestyle, Lekki. Status Announced → Tickets on sale. Poster DJ TOPZY confirmed among guest DJs."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
         }
       ],
       "date": "2026-11-14T00:00:00.000",
@@ -2558,7 +2598,7 @@
         "Hip Hop"
       ],
       "id": "frequency-arena-2026-11-14",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "FREQUENCY ARENA",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -2937,6 +2977,102 @@
       "venueName": "Trib3 Lagos"
     },
     {
+      "id": "vice-city-water-splash-party-2026-11-21",
+      "name": "VICE CITY: Water Splash Party",
+      "organiser": "UPTXWN Wave",
+      "series": null,
+      "date": "2026-11-21T00:00:00.000",
+      "doorsTime": "9 PM",
+      "venueName": "Moricks Field",
+      "area": "Ikorodu",
+      "address": "Moricks Field, Ikorodu, Lagos",
+      "genres": [],
+      "ageLimit": null,
+      "eventType": "club",
+      "priceTiers": [
+        {
+          "name": "Regular",
+          "note": null,
+          "priceNaira": 3500
+        },
+        {
+          "name": "Gang (5)",
+          "note": "group of 5",
+          "priceNaira": 15000
+        }
+      ],
+      "ticketLink": "https://uptxwnwave.sellenda.com.ng/events/vice-city-water-splash-party",
+      "ticketNote": "Tickets on sale on Sellenda (organiser storefront subdomain; still Sellenda). DJ evidence is generic ('live performances, DJs, high-energy entertainment') — no individual DJ or genre named.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://uptxwnwave.sellenda.com.ng/events/vice-city-water-splash-party"
+      ],
+      "lastVerified": "2026-10-28T00:00:00.000",
+      "unprovenPromoter": true,
+      "description": "UPTXWN Wave's tropical water splash party at Moricks Field — nonstop music, live performances and DJs, water and wavy energy, 9 PM.",
+      "changeLog": [
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "Listed — Sellenda detail page verified in the live browser (Nov 21, 9 PM, Moricks Field, Ikorodu; Regular ₦3,500 / Gang of 5 ₦15,000 on sale). No individual DJ or genre named."
+        }
+      ]
+    },
+    {
+      "id": "lasgidi-carnival-mara-rave-2026-11-26",
+      "name": "LASGIDI CARNIVAL (MARA RAVE)",
+      "organiser": "Oluwapelumi Babatunde",
+      "series": null,
+      "date": "2026-11-26T00:00:00.000",
+      "doorsTime": null,
+      "venueName": "1b Ogunshe street, sawmill oke-gbegun, Sagamu Rd",
+      "area": "Ikorodu",
+      "address": "1b ogunshe street, sawmill oke-gbegun, Sagamu Rd, Ikorodu, Lagos 104101",
+      "genres": [
+        "Mara"
+      ],
+      "ageLimit": null,
+      "eventType": "rave",
+      "priceTiers": [
+        {
+          "name": "Preorder",
+          "note": "sales ended",
+          "priceNaira": 3500
+        },
+        {
+          "name": "Regular",
+          "note": null,
+          "priceNaira": 5000
+        },
+        {
+          "name": "MARA LAPO table",
+          "note": null,
+          "priceNaira": 150000
+        },
+        {
+          "name": "MARA NEPO table",
+          "note": null,
+          "priceNaira": 200000
+        }
+      ],
+      "ticketLink": "https://bwe.sellenda.com.ng/events/lasgidi-carnival-mara-rave",
+      "ticketNote": "Tickets on sale on Sellenda (organiser storefront subdomain; still Sellenda). Poster: EYO DANCE / LIVE PERFORMANCE / DJ & HYPEMAN / RAVE; poster prices PREORDER 3.5K / EARLY BIRD 5K / AT THE GATE 7K — the live tier table's Regular ₦5,000 is kept, the ₦7,000 gate price is not a live tier. Doors time unset: Sellenda shows 00:00 WAT as shown.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://bwe.sellenda.com.ng/events/lasgidi-carnival-mara-rave"
+      ],
+      "lastVerified": "2026-10-28T00:00:00.000",
+      "unprovenPromoter": true,
+      "description": "Lasgidi Carnival mara rave in Ikorodu — Eyo dance, live performance, DJ and hypeman, rave and Lagos vibes.",
+      "changeLog": [
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "Listed — Sellenda detail page verified in the live browser (Nov 26, Ikorodu; Regular ₦5,000 on sale, Preorder ₦3,500 sales ended, tables ₦150,000/₦200,000). Doors time unset: Sellenda shows 00:00 WAT as shown."
+        }
+      ]
+    },
+    {
       "address": "Muri Okunola Park, Victoria Island",
       "ageLimit": null,
       "area": "Victoria Island",
@@ -3069,6 +3205,43 @@
       "venueName": null
     },
     {
+      "id": "all-black-rave-2026-11-27",
+      "name": "The All Black Rave",
+      "organiser": "The Vibe District",
+      "series": null,
+      "date": "2026-11-27T00:00:00.000",
+      "doorsTime": null,
+      "venueName": "Moricks Lounge",
+      "area": "Ikorodu",
+      "address": "Moricks Lounge, Ikorodu, Lagos",
+      "genres": [],
+      "ageLimit": null,
+      "eventType": "rave",
+      "priceTiers": [
+        {
+          "name": "General admission",
+          "note": null,
+          "priceNaira": 2000
+        }
+      ],
+      "ticketLink": "https://www.sellenda.com.ng/events/the-vibe-district-party-",
+      "ticketNote": "Tickets on sale on Sellenda. Sellenda shows the time as 08:59 WAT, which is not a plausible doors time for a rave — doors time left unset pending confirmation. DJ Bobo Blavk named on the page (name as read; the page text truncates it).",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://www.sellenda.com.ng/events/the-vibe-district-party-"
+      ],
+      "lastVerified": "2026-10-28T00:00:00.000",
+      "unprovenPromoter": true,
+      "description": "The Vibe District's Inception — an all-black themed rave in Ikorodu with DJ Bobo Blavk on the decks, red carpet, heavy music and energy. Dress in all black.",
+      "changeLog": [
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "Listed — Sellenda detail page verified in the live browser (Nov 27, Moricks Lounge, Ikorodu; General admission ₦2,000 on sale). Doors time unset: Sellenda shows 08:59 WAT as shown."
+        }
+      ]
+    },
+    {
       "address": "15 Admiralty Way, Lekki Phase 1, Lagos",
       "ageLimit": null,
       "area": "Lekki Phase 1",
@@ -3084,6 +3257,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Jetron checkout shows Early Bird ₦7,500 on sale alongside poster tiers."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
         }
       ],
       "date": "2026-11-28T00:00:00.000",
@@ -3095,7 +3272,7 @@
         "Electronic"
       ],
       "id": "wilders-2-2026-11-28",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "Wilders party 2.0",
       "organiser": "Didiboy (Wildersland)",
       "priceTiers": [
@@ -3334,6 +3511,43 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "F'N'C Sport Complex"
+    },
+    {
+      "id": "psycho-rave-yard-party-2026-11-28",
+      "name": "PSYCHO RAVE: YARD PARTY 1.0",
+      "organiser": "Psycho party Entertainment",
+      "series": null,
+      "date": "2026-11-28T00:00:00.000",
+      "doorsTime": "9 PM",
+      "venueName": "1B Ogunshe Street, Oke gbegun, Before First gate, Sagamu road",
+      "area": "Ikorodu",
+      "address": "1B Ogunshe Street, Oke gbegun, Before First gate, Sagamu road, Ikorodu, Lagos",
+      "genres": [],
+      "ageLimit": null,
+      "eventType": "rave",
+      "priceTiers": [
+        {
+          "name": "Early bird",
+          "note": null,
+          "priceNaira": 3000
+        }
+      ],
+      "ticketLink": "https://www.sellenda.com.ng/events/yard-party-10-",
+      "ticketNote": "Tickets on sale on Sellenda. DJ evidence is generic ('Dj and Hype' in the event text) plus the rave billing — no individual DJ or genre named.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://www.sellenda.com.ng/events/yard-party-10-"
+      ],
+      "lastVerified": "2026-10-28T00:00:00.000",
+      "unprovenPromoter": true,
+      "description": "All-night yard rave in Ikorodu — good music, DJ and hype, instrumental and good vibes, 9 PM.",
+      "changeLog": [
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "Listed — Sellenda detail page verified in the live browser (Nov 28, 9 PM, Ikorodu; Early bird ₦3,000 on sale). No individual DJ or genre named; held-note transparency in ticketNote."
+        }
+      ]
     },
     {
       "address": "Victoria Island",
@@ -3718,6 +3932,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: tix.africa detail re-verified — VIP ₦15,000, All Access ₦40,000, Table ₦1,000,000, Gold Table ₦2,000,000; DJ Tulz On Deck. Detail title omits \"2.0\"; feed name kept."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: MyAccessPlug listing re-checked in the live browser (title 'Rave With Rina', no '2.0'; AMAH Studio; Gold Table ₦4,000,000 vs the feed's tix.africa Gold Table ₦2,000,000) — NOT merged; tix.africa tiers kept primary, as before."
         }
       ],
       "date": "2026-12-12T00:00:00.000",
@@ -3968,10 +4186,14 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (organiser/platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Description time corrected to the poster (9 PM till dawn); listing 3–11 PM loses. Tiers re-verified unchanged in the live browser."
         }
       ],
       "date": "2026-12-12T00:00:00.000",
-      "description": "DJ-led beach party at Barracuda Beach — DJs and hype, beachside energy. Time per the poster (7PM till dawn; the poster also shows 9PM and the listing says 3PM–11PM — time unverified).",
+      "description": "DJ-led beach party at The Country Beach, Okun Ajah — DJs and hype, beachside energy, 9 PM till dawn per the poster (the Jubilq listing says 3–11 PM).",
       "doorsTime": "9 PM",
       "eventType": "club",
       "flyerImageUrl": null,
@@ -4305,6 +4527,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "Listed — all-white yacht party verified on MyAccessPlug (Dec 13, 9–11 PM, ₦25,000); flyer names DJ SMART and DJ JAYMIX, plus a third DJ name not fully legible, and hypeman Farouq Eleniyan."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
         }
       ],
       "date": "2026-12-13T00:00:00.000",
@@ -4314,7 +4540,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "white-affair-2026-12-13",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "WHITE AFFAIR (All white yacht party)",
       "organiser": "Smilehouse Ent.",
       "priceTiers": [
@@ -5054,6 +5280,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Wetinuneed listing re-verified unchanged (Dec 30, 8 PM, Lekki County, Ajah; ₦5,000)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
         }
       ],
       "date": "2026-12-30T00:00:00.000",
@@ -5063,7 +5293,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "ilashe-beach-fest-2026-12-30",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "Ilashe Beach Fest",
       "organiser": "BluePeak Talent & Event",
       "priceTiers": [
@@ -5150,7 +5380,7 @@
       "address": null,
       "ageLimit": null,
       "area": "Lagos",
-      "attendingCount": 1,
+      "attendingCount": 0,
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
@@ -5163,6 +5393,14 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (organiser/platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase attending count 1 → 0."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase following count 1 → 0."
         }
       ],
       "date": "2026-12-31T00:00:00.000",
@@ -5193,8 +5431,8 @@
       "ticketStatus": "announced",
       "unprovenPromoter": false,
       "venueName": "Lagos Waterfront",
-      "followingCount": 1
+      "followingCount": 0
     }
   ],
-  "generatedAt": "2026-10-28T13:59:58Z"
+  "generatedAt": "2026-10-28T15:02:04Z"
 }
