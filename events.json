@@ -28,7 +28,7 @@
       "doorsTime": "6 PM",
       "eventType": "club",
       "flyerImageUrl": null,
-      "followingCount": 7,
+      "followingCount": 6,
       "genres": [],
       "id": "escape-to-ilashe-2026-10-28",
       "lastVerified": "2026-10-28T00:00:00.000",
@@ -90,7 +90,7 @@
       "address": "17b Osho Drive, Ologi-Apoja, Lagos",
       "ageLimit": null,
       "area": "TBA",
-      "attendingCount": 9,
+      "attendingCount": 8,
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
@@ -226,7 +226,7 @@
       "address": "146A Ligali Ayorinde Street, Lagos",
       "ageLimit": null,
       "area": "Lagos",
-      "attendingCount": 6,
+      "attendingCount": 5,
       "changeLog": [
         {
           "date": "2026-10-24T00:00:00.000",
@@ -5115,7 +5115,7 @@
       "address": null,
       "ageLimit": null,
       "area": "Lagos",
-      "attendingCount": 0,
+      "attendingCount": 1,
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
@@ -5157,8 +5157,9 @@
       "ticketNote": "Join the official update list at nyelagos.com; no ticket or reservation route is live. After-party venues chosen separately.",
       "ticketStatus": "announced",
       "unprovenPromoter": false,
-      "venueName": "Lagos Waterfront"
+      "venueName": "Lagos Waterfront",
+      "followingCount": 1
     }
   ],
-  "generatedAt": "2026-10-28T12:54:56Z"
+  "generatedAt": "2026-10-28T13:50:29Z"
 }
