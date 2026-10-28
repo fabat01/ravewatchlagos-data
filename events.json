@@ -3756,6 +3756,45 @@
    "eventType": "club"
   },
   {
+   "address": "14 Wole Olateju Crescent, Lekki Phase 1, Lagos",
+   "ageLimit": null,
+   "area": "Lekki Phase 1",
+   "changeLog": [
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "Listed — party at Terraform Bar & Restaurant, Lekki Phase 1, 6 PM, heavy Amapiano per the Wetinuneed listing; headline price ₦20,000, no other tiers shown; BUY TICKET button shown on the listing (checkout not followed through this run), so status Announced."
+    }
+   ],
+   "date": "2026-12-12T00:00:00.000",
+   "description": "Party at Terraform Bar & Restaurant, Lekki Phase 1 — heavy Amapiano per the Wetinuneed listing, 6 PM.",
+   "doorsTime": "6 PM",
+   "eventType": "club",
+   "flyerImageUrl": null,
+   "genres": [
+    "Amapiano"
+   ],
+   "id": "the-w-s-fest-2026-12-12",
+   "lastVerified": "2026-10-27T00:00:00.000",
+   "name": "The W's Fest — No Ls, Just Ws",
+   "organiser": "Unknown organiser",
+   "priceTiers": [
+    {
+     "name": "Entry",
+     "note": "headline price on Wetinuneed; no other tiers shown",
+     "priceNaira": 20000
+    }
+   ],
+   "series": null,
+   "sourceLinks": [
+    "https://wetinuneed.com/event/social/lekki-phase-1/the-w-s-fest-no-ls-just-ws"
+   ],
+   "ticketLink": "https://wetinuneed.com/event/social/lekki-phase-1/the-w-s-fest-no-ls-just-ws",
+   "ticketNote": "BUY TICKET button shown on the Wetinuneed listing; checkout not followed through in this sweep, so listed as Announced rather than on sale.",
+   "ticketStatus": "announced",
+   "unprovenPromoter": true,
+   "venueName": "Terraform Bar & Restaurant"
+  },
+  {
    "address": "Federal Palace Hotel, 6-8 Ahmadu Bello Way, Victoria Island, Lagos",
    "ageLimit": null,
    "area": "Victoria Island",
@@ -3763,6 +3802,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "Listed — international DJ Ms DSF headline live DJ set at Balmoral Convention Center, verified on its tix.africa ticket page and Wetinuneed listing (Early Bird ₦16,300). Time conflict noted: tix.africa says 8 PM–2 AM, Wetinuneed lists 9 PM and the poster reads 9 PM–3 AM — checkout time kept."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Wetinuneed listing re-verified live (Dec 13, Balmoral, single ₦16,300 on Wetinuneed vs tix.africa tiers kept; 9 PM Wetinuneed/poster vs 8 PM–2 AM tix.africa conflict already logged); source link corrected from the mail subdomain to the clean Wetinuneed URL."
     }
    ],
    "date": "2026-12-13T00:00:00.000",
@@ -3805,7 +3848,7 @@
    "series": null,
    "sourceLinks": [
     "https://tix.africa/discover/ms-dsf-friends",
-    "https://mail.wetinuneed.com/event/live/victoria-island/ms-dsf-friends-lagos-litmas-rave"
+    "https://wetinuneed.com/event/live/victoria-island/ms-dsf-friends-lagos-litmas-rave"
    ],
    "ticketLink": "https://tix.africa/discover/ms-dsf-friends",
    "ticketNote": "Tickets on sale on tix.africa (prices incl. fees as shown).",
@@ -4562,5 +4605,5 @@
    "attendingCount": 0
   }
  ],
- "generatedAt": "2026-10-28T00:10:04Z"
+ "generatedAt": "2026-10-28T00:37:50Z"
 }
