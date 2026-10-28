@@ -20,6 +20,7 @@
    "doorsTime": "6 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 7,
    "genres": [],
    "id": "escape-to-ilashe-2026-10-28",
    "lastVerified": "2026-10-27T00:00:00.000",
@@ -75,14 +76,13 @@
    "ticketNote": "Tickets live on ThePartyCompany (prices incl. fees); jetty meetup 12PM–6PM, party 6PM–6AM.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Libertine Lagos",
-   "followingCount": 6
+   "venueName": "Libertine Lagos"
   },
   {
    "address": "17b Osho Drive, Ologi-Apoja, Lagos",
    "ageLimit": null,
    "area": "TBA",
-   "attendingCount": 8,
+   "attendingCount": 9,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -98,6 +98,7 @@
    "doorsTime": "9 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
+   "followingCount": 5,
    "genres": [
     "Afrobeats",
     "Hip Hop",
@@ -133,8 +134,7 @@
    "ticketNote": null,
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "In-house",
-   "followingCount": 5
+   "venueName": "In-house"
   },
   {
    "address": "3 Hassan Oduga Street, Opposite Domino's, Ikorodu, Lagos",
@@ -157,6 +157,7 @@
    "endDate": "2026-10-31T00:00:00.000",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 3,
    "genres": [
     "Amapiano",
     "Afrobeats"
@@ -195,14 +196,13 @@
    "ticketNote": "Two-day event, Fri Oct 30 – Sat Oct 31, doors 10 PM. 7.5% VAT added at checkout on DOT TIX.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Royal Kaft Lounge",
-   "followingCount": 3
+   "venueName": "Royal Kaft Lounge"
   },
   {
    "address": "146A Ligali Ayorinde Street, Lagos",
    "ageLimit": null,
    "area": "Lagos",
-   "attendingCount": 5,
+   "attendingCount": 6,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -218,6 +218,7 @@
    "doorsTime": "10 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 4,
    "genres": [
     "Afro House",
     "Amapiano"
@@ -241,8 +242,7 @@
    "ticketNote": "Free entry — reserve on Eventbrite.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "LIVbykuiknosh Restaurant & Grills",
-   "followingCount": 3
+   "venueName": "LIVbykuiknosh Restaurant & Grills"
   },
   {
    "address": "4 AJ Marinho Drive, Victoria Island",
@@ -264,6 +264,7 @@
    "doorsTime": "7 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 0,
    "genres": [],
    "id": "friday-libations-with-coco-2026-10-30",
    "lastVerified": "2026-10-27T00:00:00.000",
@@ -284,8 +285,7 @@
    "ticketNote": "Free entry — reserve on Eventbrite.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "The HOUSE Lagos",
-   "followingCount": 0
+   "venueName": "The HOUSE Lagos"
   },
   {
    "address": null,
@@ -311,6 +311,7 @@
    "doorsTime": "4 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
+   "followingCount": 3,
    "genres": [
     "House",
     "Electronic"
@@ -345,8 +346,7 @@
    "ticketNote": "Tickets on sale on Book't. Venue address is sent to ticket holders after booking.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Private location, Lekki Phase 1",
-   "followingCount": 3
+   "venueName": "Private location, Lekki Phase 1"
   },
   {
    "address": "Elite Gardens Estate, VGC, Lekki, Lagos",
@@ -368,6 +368,7 @@
    "doorsTime": "9 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 3,
    "genres": [
     "Afrobeats",
     "Amapiano",
@@ -394,8 +395,7 @@
    "ticketNote": "Tickets via link in organiser's bio per poster; price not published. DJs: DJ JAZKID, SNOOPYDVIBE, AKPOS. Only 50 guests, BYOB.",
    "ticketStatus": "announced",
    "unprovenPromoter": true,
-   "venueName": "Elite Gardens Estate, VGC",
-   "followingCount": 3
+   "venueName": "Elite Gardens Estate, VGC"
   },
   {
    "address": "Plot 225/226 Festac Link Road, opposite Unity Estate, Amuwo-Odofin, Lagos",
@@ -421,6 +421,7 @@
    "doorsTime": "9 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
+   "followingCount": 2,
    "genres": [
     "Electronic"
    ],
@@ -454,8 +455,7 @@
    "ticketNote": "Enquiries: 09017074751, 09012880367",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "Just Drive Auto Care Service",
-   "followingCount": 2
+   "venueName": "Just Drive Auto Care Service"
   },
   {
    "address": "Ologun Agbaje Street, Victoria Island",
@@ -485,6 +485,7 @@
    "doorsTime": "7 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
+   "followingCount": 0,
    "genres": [
     "Afrobeats",
     "Afro Tech",
@@ -537,8 +538,7 @@
    "ticketNote": "Tickets via 'Buy on Tramango' on the organiser's site",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "District 19",
-   "followingCount": 0
+   "venueName": "District 19"
   },
   {
    "address": "Plot 16A, Block 139A, Nike Art Gallery Road, Ikate, Lekki 101222",
@@ -627,6 +627,7 @@
    "doorsTime": "9 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
+   "followingCount": 1,
    "genres": [
     "Electronic"
    ],
@@ -685,13 +686,13 @@
    "ticketNote": null,
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "Pop Landmark",
-   "followingCount": 1
+   "venueName": "Pop Landmark"
   },
   {
    "address": null,
    "ageLimit": null,
    "area": "Lekki",
+   "attendingCount": 1,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -711,6 +712,7 @@
    "doorsTime": "7 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 1,
    "genres": [
     "Afrobeats",
     "Dance"
@@ -766,14 +768,13 @@
    "ticketNote": "Tickets live on ThePartyCompany (prices incl. booking and processing fees); poster 7PM–3AM.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "Nautica Beach Resort",
-   "attendingCount": 1,
-   "followingCount": 1
+   "venueName": "Nautica Beach Resort"
   },
   {
    "address": "Plot B20 Wole Olateju Cres, Lekki Phase 1",
    "ageLimit": null,
    "area": "Lekki Phase 1",
+   "attendingCount": 1,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -789,6 +790,7 @@
    "doorsTime": "6 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 1,
    "genres": [
     "Soul",
     "R&B",
@@ -833,14 +835,13 @@
    "ticketNote": "Ticket buttons on the organiser page route to tix.africa checkout; table enquiries 0803 776 0586 / 0703 868 7998.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Bolívar Lounge",
-   "attendingCount": 1,
-   "followingCount": 1
+   "venueName": "Bolívar Lounge"
   },
   {
    "address": "17A Ozumba Mbadiwe Ave, Victoria Island",
    "ageLimit": "21+",
    "area": "Victoria Island",
+   "attendingCount": 1,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -856,6 +857,7 @@
    "doorsTime": "9 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 1,
    "genres": [],
    "id": "the-floating-club-halloween-edition-2026-10-31",
    "lastVerified": "2026-10-27T00:00:00.000",
@@ -876,9 +878,7 @@
    "ticketNote": "Buy on TikkBay (secure checkout, QR ticket on phone, no printing needed). 21+ only; RSVP mandatory. Page lists end 9 PM–1 AM in copy (metadata says ~11 PM).",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "The Wings Office Complex",
-   "attendingCount": 1,
-   "followingCount": 1
+   "venueName": "The Wings Office Complex"
   },
   {
    "address": "Abule Egba, Lagos",
@@ -900,6 +900,7 @@
    "doorsTime": "10 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 1,
    "genres": [],
    "id": "eko-party-the-culture-race-2026-10-31",
    "lastVerified": "2026-10-27T00:00:00.000",
@@ -920,8 +921,7 @@
    "ticketNote": "Free entry — RSVP on ThePartyCompany.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Luxx Lounge",
-   "followingCount": 1
+   "venueName": "Luxx Lounge"
   },
   {
    "address": "4b Musa Yar' Adua Street, Lagos",
@@ -946,6 +946,7 @@
    "doorsTime": "7 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 2,
    "genres": [
     "R&B",
     "Hip Hop"
@@ -969,13 +970,13 @@
    "ticketNote": "Eventbrite page shows TICKETS SOLD OUT for the series (no free reservation available in the logged-out view; the page does not break out per-date availability). Was free entry.",
    "ticketStatus": "soldOut",
    "unprovenPromoter": false,
-   "venueName": "Octo Lagos",
-   "followingCount": 2
+   "venueName": "Octo Lagos"
   },
   {
    "address": "Lekki, Lagos (exact location undisclosed)",
    "ageLimit": null,
    "area": "Lekki",
+   "attendingCount": 0,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -1025,8 +1026,7 @@
    "ticketNote": "Tickets buyable on Eventbrite (from $7.18 USD); exact location undisclosed on that checkout; early-bird buy 1 get 2 — one ticket admits two. shows.ng poster names the DJ lineup and lists Wimpy Hotel, Okun Ajah (see description); shows.ng ticket ₦5,400 for costume holders.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": null,
-   "attendingCount": 0
+   "venueName": null
   },
   {
    "address": null,
@@ -1186,6 +1186,7 @@
    "address": "RayPower Drive, Alagbado, Lagos",
    "ageLimit": null,
    "area": "Alagbado",
+   "attendingCount": 1,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -1226,8 +1227,7 @@
    "ticketNote": "15 DJ sets per poster; no individual DJ named.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Tito's Lounge",
-   "attendingCount": 1
+   "venueName": "Tito's Lounge"
   },
   {
    "address": "4b Musa Yar' Adua Street, Lagos",
@@ -1285,6 +1285,7 @@
    "doorsTime": "6 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 0,
    "genres": [],
    "id": "from-screams-to-beats-2026-10-31",
    "lastVerified": "2026-10-27T00:00:00.000",
@@ -1305,13 +1306,13 @@
    "ticketNote": "Free entry — register on TicketHub. Movie night 6–10 PM; DJ dance fest 10 PM–late.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "The Scope by Piers",
-   "followingCount": 0
+   "venueName": "The Scope by Piers"
   },
   {
    "address": "687 Adeola Hopewell Street, VI",
    "ageLimit": null,
    "area": "Victoria Island",
+   "attendingCount": 0,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -1359,13 +1360,13 @@
    "ticketNote": "Book via the live PartyVerse RSVP route in the organiser's IG bio",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Zuma Lagos",
-   "attendingCount": 0
+   "venueName": "Zuma Lagos"
   },
   {
    "address": "Adeola Odeku Street, VI",
    "ageLimit": null,
    "area": "Victoria Island",
+   "attendingCount": 1,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -1393,6 +1394,7 @@
    "doorsTime": "4 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
+   "followingCount": 1,
    "genres": [
     "House"
    ],
@@ -1457,9 +1459,7 @@
    "ticketNote": "Offerings & tables via Eventporte",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "Casa 45",
-   "attendingCount": 1,
-   "followingCount": 1
+   "venueName": "Casa 45"
   },
   {
    "address": "Victoria Island",
@@ -1550,6 +1550,7 @@
    "doorsTime": "8 PM",
    "eventType": "club",
    "flyerImageUrl": null,
+   "followingCount": 1,
    "genres": [],
    "id": "dreezis-deck-2026-11-04",
    "lastVerified": "2026-10-27T00:00:00.000",
@@ -1570,13 +1571,13 @@
    "ticketNote": "Tickets ₦5,000 via Eventor.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Cairo By LYA",
-   "followingCount": 1
+   "venueName": "Cairo By LYA"
   },
   {
    "address": "No. 288B, Ajose Adeogun, Victoria Island, Lagos",
    "ageLimit": null,
    "area": "Victoria Island",
+   "attendingCount": 0,
    "changeLog": [
     {
      "date": "2026-10-27T00:00:00.000",
@@ -1617,8 +1618,7 @@
    "ticketNote": "Free entry tier live on the party's own site; table reservations for 1-10 also listed (page range ₦0–₦250,000).",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": "Trib3 Lagos",
-   "attendingCount": 0
+   "venueName": "Trib3 Lagos"
   },
   {
    "address": null,
@@ -1745,6 +1745,7 @@
    "address": null,
    "ageLimit": null,
    "area": "Ikoyi",
+   "attendingCount": 0,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -1780,6 +1781,7 @@
    "doorsTime": "4 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
+   "followingCount": 1,
    "genres": [
     "Electronic"
    ],
@@ -1804,9 +1806,7 @@
    "ticketNote": "Ticket ₦4,000 on Book't (includes the branded mask, reusable for subsequent nights, per the page's mask note); sales end Nov 7, 11 PM.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": null,
-   "followingCount": 1,
-   "attendingCount": 0
+   "venueName": null
   },
   {
    "address": "33/34 Igbe-afaa Rd, Olumo-MTN Bustop, Igbogbo-Ikorodu",
@@ -3155,6 +3155,7 @@
    "date": "2026-12-05T00:00:00.000",
    "description": "Africa's first tech rave, all-white dress code, from the Rayda crew behind Eko Beach Rave. Venue not yet named; the event runs Dec 5–6 per ThePartyCompany detail page (the list view shows Dec 5 only).",
    "doorsTime": "2 PM",
+   "endDate": "2026-12-06T00:00:00.000",
    "eventType": "rave",
    "flyerImageUrl": null,
    "genres": [
@@ -3189,8 +3190,7 @@
    "ticketNote": "VIP and Premium Table buyable on ThePartyCompany (prices incl. fees); General Access expired. Venue not named on the listing; runs Dec 5–6 per the detail page.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
-   "venueName": null,
-   "endDate": "2026-12-06T00:00:00.000"
+   "venueName": null
   },
   {
    "address": "Voda Beach, Lagos",
@@ -3719,41 +3719,41 @@
    "venueName": "Retta Park Hotel"
   },
   {
-   "id": "waves-on-the-beach-3-2026-12-12",
-   "name": "WAVES ON THE BEACH 3",
-   "organiser": "Unknown organiser",
-   "series": null,
-   "date": "2026-12-12T00:00:00.000",
-   "doorsTime": "10 AM",
-   "venueName": "TAKWA BAY BEACH RESORT",
-   "area": "Lagos Island",
    "address": "Takwa Bay, Lagos Island",
-   "genres": [],
    "ageLimit": null,
-   "priceTiers": [
-    {
-     "name": "Entry",
-     "priceNaira": 50000,
-     "note": "Poster price ₦50,000 per person; Eventbrite panel shows Free with Reserve a spot — conflict, poster kept"
-    }
-   ],
-   "ticketLink": "https://www.eventbrite.com/e/waves-on-the-beach-3-tickets-2003632687304",
-   "ticketNote": "Reserve a spot on Eventbrite (panel shows Free); poster prices entry at ₦50,000 per person — confirm at checkout.",
-   "ticketStatus": "ticketsOnSale",
-   "flyerImageUrl": null,
-   "sourceLinks": [
-    "https://www.eventbrite.com/e/waves-on-the-beach-3-tickets-2003632687304"
-   ],
-   "lastVerified": "2026-10-27T00:00:00.000",
+   "area": "Lagos Island",
    "changeLog": [
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "Listed — beach party with pulsating DJ sets at Takwa Bay Beach Resort, 10 AM–5:05 PM; PRICE CONFLICT: Eventbrite panel shows Free/Reserve a spot while the poster prices entry at ₦50,000 per person — poster kept, confirm at checkout."
     }
    ],
-   "unprovenPromoter": true,
+   "date": "2026-12-12T00:00:00.000",
    "description": "Beach party with pulsating DJ sets at Takwa Bay Beach Resort, 10 AM–5:05 PM.",
-   "eventType": "club"
+   "doorsTime": "10 AM",
+   "eventType": "club",
+   "flyerImageUrl": null,
+   "genres": [],
+   "id": "waves-on-the-beach-3-2026-12-12",
+   "lastVerified": "2026-10-27T00:00:00.000",
+   "name": "WAVES ON THE BEACH 3",
+   "organiser": "Unknown organiser",
+   "priceTiers": [
+    {
+     "name": "Entry",
+     "note": "Poster price ₦50,000 per person; Eventbrite panel shows Free with Reserve a spot — conflict, poster kept",
+     "priceNaira": 50000
+    }
+   ],
+   "series": null,
+   "sourceLinks": [
+    "https://www.eventbrite.com/e/waves-on-the-beach-3-tickets-2003632687304"
+   ],
+   "ticketLink": "https://www.eventbrite.com/e/waves-on-the-beach-3-tickets-2003632687304",
+   "ticketNote": "Reserve a spot on Eventbrite (panel shows Free); poster prices entry at ₦50,000 per person — confirm at checkout.",
+   "ticketStatus": "ticketsOnSale",
+   "unprovenPromoter": true,
+   "venueName": "TAKWA BAY BEACH RESORT"
   },
   {
    "address": "14 Wole Olateju Crescent, Lekki Phase 1, Lagos",
@@ -4348,6 +4348,7 @@
    "address": null,
    "ageLimit": null,
    "area": "Ikeja",
+   "attendingCount": 0,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -4383,13 +4384,53 @@
    "ticketNote": "Tickets via the external platform linked from the Jubilq page; price unverified (the Jubilq index 'Free' label is not confirmed).",
    "ticketStatus": "announced",
    "unprovenPromoter": true,
-   "venueName": "Eridan Space",
-   "attendingCount": 0
+   "venueName": "Eridan Space"
+  },
+  {
+   "address": "Inside Esporta Hotel, 15 Adekunle Fajuyi Way, Ikeja GRA",
+   "ageLimit": null,
+   "area": "Ikeja",
+   "changeLog": [
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "Listed — AFRO SUNDOWN × OLEKU RAVE sound-clash night (Afrobeats/Amapiano DJ sets) at DRNK Lagos, Ikeja, free entry, verified on its Wetinuneed detail page."
+    }
+   ],
+   "date": "2026-12-27T00:00:00.000",
+   "description": "AFRO SUNDOWN × OLEKU RAVE sound clash — Millennial Anthems vs Gen Z Hits with electric DJ sets (Afrobeats, Amapiano), hypemen, karaoke and games at DRNK Lagos, Ikeja. Free entry.",
+   "doorsTime": "6 PM",
+   "eventType": "club",
+   "flyerImageUrl": null,
+   "genres": [
+    "Afrobeats",
+    "Amapiano"
+   ],
+   "id": "afro-sundown-oleku-rave-outside-2026-12-27",
+   "lastVerified": "2026-10-27T00:00:00.000",
+   "name": "AFRO SUNDOWN × OLEKU RAVE PRESENT: OUTSIDE",
+   "organiser": "AFRO SUNDOWN × OLEKU RAVE",
+   "priceTiers": [
+    {
+     "name": "Entry",
+     "note": "free entry",
+     "priceNaira": 0
+    }
+   ],
+   "series": null,
+   "sourceLinks": [
+    "https://wetinuneed.com/event/parties/ikeja/afro-sundown-oleku-rave-present-outside"
+   ],
+   "ticketLink": "https://wetinuneed.com/event/parties/ikeja/afro-sundown-oleku-rave-present-outside",
+   "ticketNote": "Free entry — reserve via the Wetinuneed listing; tables via the RSVP contact on the listing.",
+   "ticketStatus": "announced",
+   "unprovenPromoter": true,
+   "venueName": "DRNK Lagos"
   },
   {
    "address": null,
    "ageLimit": null,
    "area": "Lagos",
+   "attendingCount": 0,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -4425,13 +4466,13 @@
    "ticketNote": "Organiser's own site: TICKETS SOON — part of the Ember SZN four-night run; the Halloween edition sold via Tramango.",
    "ticketStatus": "ticketsSoon",
    "unprovenPromoter": false,
-   "venueName": "Casa 45",
-   "attendingCount": 0
+   "venueName": "Casa 45"
   },
   {
    "address": null,
    "ageLimit": null,
    "area": "Ikeja",
+   "attendingCount": 0,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -4468,13 +4509,13 @@
    "ticketNote": "Tickets are not on sale yet. Detty December Fest is taking notify-list signups for this finale on its events page.",
    "ticketStatus": "announced",
    "unprovenPromoter": false,
-   "venueName": "Detty Festival Stage, Detty December Village",
-   "attendingCount": 0
+   "venueName": "Detty Festival Stage, Detty December Village"
   },
   {
    "address": "Lekki County, Ajah, Lagos (boat access only)",
    "ageLimit": null,
    "area": "Ajah",
+   "attendingCount": 0,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -4510,13 +4551,13 @@
    "ticketNote": "₦5,000 published; no online ticket link — booking via phone 09049482394. Accessible only by boat.",
    "ticketStatus": "announced",
    "unprovenPromoter": true,
-   "venueName": "Ilashe Beach",
-   "attendingCount": 0
+   "venueName": "Ilashe Beach"
   },
   {
    "address": "Lekki Phase 1 (exact location sent to attendees)",
    "ageLimit": null,
    "area": "Lekki Phase 1",
+   "attendingCount": 0,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -4557,13 +4598,13 @@
    "ticketNote": "Tickets buyable on Eventbrite; exact location sent to attendees.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": null,
-   "attendingCount": 0
+   "venueName": null
   },
   {
    "address": null,
    "ageLimit": null,
    "area": "Lagos",
+   "attendingCount": 0,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -4601,9 +4642,8 @@
    "ticketNote": "Join the official update list at nyelagos.com; no ticket or reservation route is live. After-party venues chosen separately.",
    "ticketStatus": "announced",
    "unprovenPromoter": false,
-   "venueName": "Lagos Waterfront",
-   "attendingCount": 0
+   "venueName": "Lagos Waterfront"
   }
  ],
- "generatedAt": "2026-10-28T00:37:50Z"
+ "generatedAt": "2026-10-28T01:20:34Z"
 }
