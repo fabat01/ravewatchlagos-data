@@ -1198,6 +1198,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: MyAccessPlug re-verified exactly (Oct 31, Casa 45; GA ₦12,500, Group of 3 ₦30,000, Group of 5 ₦55,000, Buy Now live)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: MyAccessPlug detail page re-verified in the live browser — Stage Access ₦40,000 and table tiers to ₦1,000,000 added (GA/Group tiers unchanged)."
     }
    ],
    "date": "2026-10-31T00:00:00.000",
@@ -1222,9 +1226,29 @@
      "priceNaira": 30000
     },
     {
+     "name": "Stage Access",
+     "note": "MyAccessPlug detail page",
+     "priceNaira": 40000
+    },
+    {
      "name": "Group of 5",
      "note": null,
      "priceNaira": 55000
+    },
+    {
+     "name": "VIP Table (table for 8)",
+     "note": "MyAccessPlug detail page",
+     "priceNaira": 500000
+    },
+    {
+     "name": "VVIP Table (table for 8)",
+     "note": "MyAccessPlug detail page",
+     "priceNaira": 750000
+    },
+    {
+     "name": "Front Row Seating Stage Table (table for 10)",
+     "note": "MyAccessPlug detail page",
+     "priceNaira": 1000000
     }
    ],
    "series": "PM2AM",
@@ -1233,7 +1257,7 @@
     "https://tix.africa/discover/pm2amafterdark"
    ],
    "ticketLink": "https://myaccessplug.com/events/pm2am-after-dark",
-   "ticketNote": "Tickets on sale on MyAccessPlug: General Admission ₦12,500; Group of 3 ₦30,000; Group of 5 ₦55,000. Also listed on tix.africa (First Release sold out; Second Release ₦13,600).",
+   "ticketNote": "Tickets on sale on MyAccessPlug: General Admission ₦12,500; Group of 3 ₦30,000; Stage Access ₦40,000; Group of 5 ₦55,000; VIP Table (8) ₦500,000; VVIP Table (8) ₦750,000; Front Row Stage Table (10) ₦1,000,000. Also listed on tix.africa (First Release sold out; Second Release ₦13,600).",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "Casa 45"
@@ -3814,6 +3838,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "Listed — Dec 12, 8 PM till dawn, Retta Park Hotel, Ago Palace Way; poster names DJs Tusure, Jazblast and Godbless; ticket ₦10,000 on shows.ng. Genres not named on poster; brand-new promoter flagged unproven."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: shows.ng detail page re-verified in the live browser — poster Table for 5 ₦100,000 added alongside the ₦10,000 ticket; poster DJs Tusure, Jazblast, Godbless already in record."
     }
    ],
    "date": "2026-12-12T00:00:00.000",
@@ -3831,6 +3859,11 @@
      "name": "WET & WILD TICKET",
      "note": null,
      "priceNaira": 10000
+    },
+    {
+     "name": "Table for 5",
+     "note": "poster",
+     "priceNaira": 100000
     }
    ],
    "series": null,
@@ -4815,5 +4848,5 @@
    "venueName": "Lagos Waterfront"
   }
  ],
- "generatedAt": "2026-10-28T03:13:44Z"
+ "generatedAt": "2026-10-28T10:13:10Z"
 }
