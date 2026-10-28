@@ -4,7 +4,7 @@
    "address": null,
    "ageLimit": null,
    "area": "Ilashe",
-   "attendingCount": 18,
+   "attendingCount": 19,
    "changeLog": [
     {
      "date": "2026-10-24T00:00:00.000",
@@ -401,7 +401,7 @@
    "address": "Plot 225/226 Festac Link Road, opposite Unity Estate, Amuwo-Odofin, Lagos",
    "ageLimit": null,
    "area": "Amuwo-Odofin",
-   "attendingCount": 3,
+   "attendingCount": 4,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -920,7 +920,8 @@
    "ticketNote": "Free entry — RSVP on ThePartyCompany.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
-   "venueName": "Luxx Lounge"
+   "venueName": "Luxx Lounge",
+   "followingCount": 1
   },
   {
    "address": "4b Musa Yar' Adua Street, Lagos",
@@ -969,7 +970,7 @@
    "ticketStatus": "soldOut",
    "unprovenPromoter": false,
    "venueName": "Octo Lagos",
-   "followingCount": 1
+   "followingCount": 2
   },
   {
    "address": "Lekki, Lagos (exact location undisclosed)",
@@ -991,10 +992,14 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Eventbrite page re-read in the live browser (owed re-read closed) — still on sale, SALES END SOON, from $7.18, venue Undisclosed/Lekki, 1:01–11 PM, BUY 1 GET 2; checkout version kept, shows.ng Wimpy Hotel/₦5,400 conflict persists."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: shows.ng detail page read in the live browser — poster names DJs (Celebrity Punch, Aladdin, Tee Zee, Turn Up, Suga, Nezer, Gatuso, V12, DJ Celebrity, Oluwawa), lists Wimpy Hotel, Okun Ajah, and shows poster tiers ₦5,000/₦7,500/₦9,500 (₦11,500 no costume at gate) vs shows.ng's ₦5,400 costume ticket. Eventbrite checkout (undisclosed venue, $7.18) kept as primary; figures reported separately, not merged."
     }
    ],
    "date": "2026-10-31T00:00:00.000",
-   "description": "Halloween pool/beach party with music in Lekki, 1 PM–11 PM. Exact location undisclosed.",
+   "description": "Halloween pool/beach party with music in Lekki, 1 PM–11 PM. Exact location undisclosed on the Eventbrite checkout; the shows.ng poster names DJs Celebrity Punch, Aladdin, Tee Zee, Turn Up, Suga, Nezer, Gatuso, V12, DJ Celebrity and Oluwawa, lists Wimpy Hotel, Okun Ajah as venue, and shows poster tiers ₦5,000/₦7,500/₦9,500 (₦11,500 no costume at gate) against shows.ng's single ₦5,400 costume ticket — poster/platform figures reported separately, not merged; the Eventbrite checkout version is kept as primary.",
    "doorsTime": "1 PM",
    "eventType": "club",
    "flyerImageUrl": null,
@@ -1013,10 +1018,11 @@
    ],
    "series": null,
    "sourceLinks": [
-    "https://www.eventbrite.com/e/wavesbylouiso-halloween-pool-x-beach-party-tickets-2002952873964"
+    "https://www.eventbrite.com/e/wavesbylouiso-halloween-pool-x-beach-party-tickets-2002952873964",
+    "https://shows.ng/event/wavesbylouiso-halloween-pool-x-beach-party"
    ],
    "ticketLink": "https://www.eventbrite.com/e/wavesbylouiso-halloween-pool-x-beach-party-tickets-2002952873964",
-   "ticketNote": "Tickets buyable on Eventbrite (from $7.18 USD); exact location undisclosed; early-bird buy 1 get 2 — one ticket admits two.",
+   "ticketNote": "Tickets buyable on Eventbrite (from $7.18 USD); exact location undisclosed on that checkout; early-bird buy 1 get 2 — one ticket admits two. shows.ng poster names the DJ lineup and lists Wimpy Hotel, Okun Ajah (see description); shows.ng ticket ₦5,400 for costume holders.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": null,
@@ -1763,10 +1769,14 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Book't summary page in the live browser shows a single ₦4,000 ticket with no free tier visible, against the feed's free entry + branded mask ₦4,000 — summary pages do not break out tiers, so the feed tiers are kept and a tier-detail check is owed next run. Time 4–11 PM and Ikoyi confirmed."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Live-browser tier-detail check RESOLVES the tier question — a single ₦4,000 ticket on Book't (mask included, reusable), superseding the earlier free-entry + separate-mask treatment; the page's mask note ('Your branded mask is N4000 and it's reusable for our subsequent nights') is retained in the ticket note. Time 4–11 PM and Ikoyi re-confirmed."
     }
    ],
    "date": "2026-11-07T00:00:00.000",
-   "description": "Dark-room rave in Ikoyi — lights out, masks on, 'hypnotic sounds' per the organiser. 4–11 PM per the Book't event page. Entry is free, but a branded mask (₦4,000) is required and reusable for their subsequent nights. Note: the poster frame on the page says Lekki Phase 1 while the page's location field says Ikoyi — Ikoyi kept; exact venue still unnamed.",
+   "description": "Dark-room rave in Ikoyi — lights out, masks on, 'hypnotic sounds' per the organiser. 4–11 PM per the Book't event page. Single ₦4,000 ticket on Book't, including the branded mask (reusable for their subsequent nights). Note: the poster frame on the page says Lekki Phase 1 while the page's location field says Ikoyi — Ikoyi kept; exact venue still unnamed.",
    "doorsTime": "4 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
@@ -1780,12 +1790,7 @@
    "priceTiers": [
     {
      "name": "Entry",
-     "note": "free entry",
-     "priceNaira": 0
-    },
-    {
-     "name": "Branded Mask (required)",
-     "note": "required for entry; reusable for subsequent nights",
+     "note": "includes branded mask, reusable for subsequent nights",
      "priceNaira": 4000
     }
    ],
@@ -1796,7 +1801,7 @@
     "https://event.getbookt.io/creator/AlaafinofEko-_16630_2553"
    ],
    "ticketLink": "https://event.getbookt.io/dark-and-mask-rave",
-   "ticketNote": "Entry is free, but a branded mask (₦4,000, reusable for later nights) is required — sold on the Book't event page; sales end Nov 7, 11 PM.",
+   "ticketNote": "Ticket ₦4,000 on Book't (includes the branded mask, reusable for subsequent nights, per the page's mask note); sales end Nov 7, 11 PM.",
    "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": null,
@@ -2924,6 +2929,10 @@
     {
      "date": "2026-10-25T00:00:00.000",
      "description": "Listed — mask party organised by DJ WEALTH, 10 PM–7 AM at J&J Hotel and Lounge, Ikosi Ketu; Regular ₦7,000 (includes a mask) and Group of 5 ₦25,000 on sale on TikkBay."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: TicketHub search did not surface this event in the live-browser pass, but TicketHub exact-phrase search also missed confirmed live events (One Of One, VITO, LERE) the same pass — a search limitation, not a removal. Record stands unchanged on its TikkBay route."
     }
    ],
    "date": "2026-11-28T00:00:00.000",
@@ -3440,6 +3449,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Eventbrite page re-verified in the live browser — ON SALE at $25 (feed price ₦25,000 per flyer stands); the shows.ng \"Sales closed\" label is an aggregator claim only and is rejected. Time discrepancy persists: Eventbrite header 10 PM–11:59 PM vs overview 10 PM–2 AM vs flyer 10 PM–2 AM (feed keeps flyer time)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Eventbrite re-checked in the live browser — still listed with no sold-out/sales-ended marker (ticket panel still loading, so no fuller price confirmation); shows.ng still shows 'Sales closed' for the same Dec 12 Ivy Bar listing — aggregator claim only, Eventbrite version kept. Time discrepancy persists (title 10–11:59 PM vs overview/flyer 10 PM–2 AM)."
     }
    ],
    "date": "2026-12-12T00:00:00.000",
@@ -4549,5 +4562,5 @@
    "attendingCount": 0
   }
  ],
- "generatedAt": "2026-10-27T23:26:38Z"
+ "generatedAt": "2026-10-28T00:10:04Z"
 }
