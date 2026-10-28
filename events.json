@@ -1954,6 +1954,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Book't city page (9 cards after settle + reload) and event page re-verified — single ₦4,000 ticket (mask included) matches feed; no separate free tier visible; 4–11 PM, Ikoyi location field confirmed."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Book't direct URL re-verified — single BRANDED MASK tier ₦4,000, sales end Nov 7, 11 PM; header 4–11 PM vs dialog 10 PM–5 AM time conflict persists (standing treatment, doors kept at 4 PM)."
         }
       ],
       "date": "2026-11-07T00:00:00.000",
@@ -1966,7 +1970,7 @@
         "Electronic"
       ],
       "id": "dark-mask-rave-2026-11-07",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "DARK & MASK RAVE",
       "organiser": "AlaafinofEko",
       "priceTiers": [
@@ -2459,7 +2463,7 @@
     {
       "address": "opp. Enyo Filling Station, Lasu-Iba First Gate, Ojo",
       "ageLimit": null,
-      "area": "Ojo",
+      "area": "Ikorodu",
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
@@ -2468,41 +2472,52 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Organiser bio-link ticket route found (Sellenda) and added to sourceLinks; its page returned title only via text, so date/price could not be re-read there — record unchanged, ticketLink stays null until the route is read directly."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Purchase route VERIFIED on Sellenda (live browser) — ticketLink set; tiers replaced with the live Sellenda table (Early Access ₦3,000 sales ended; Regular ₦5,000, Stage Access ₦10,000, Group of 4 ₦18,000 on sale; second Stage Access ₦10,000 sales ended). Stale Group-of-4 ₦16,000, Gate ₦7,000 and tables ₦150K–₦500K figures removed (not on the live checkout). Doors set to 9 PM (21:00 WAT); area corrected to Ikorodu; Afro House + Mara added from poster tags. Sellenda checkout final step not tested (selector + Continue visible while logged out)."
         }
       ],
       "date": "2026-11-14T00:00:00.000",
-      "description": "Campus rave anniversary (Afrobeats/Amapiano/Afrohouse/Mara). Flyer lists 'Saturday 15th' but Nov 14 is the Saturday — confirm date with organiser.",
-      "doorsTime": null,
+      "description": "Campus rave anniversary (Afrobeats/Amapiano/Afrohouse/Mara) at Moricks Field, Ikorodu, 9 PM. Date confirmed as Sat Nov 14 on Sellenda (flyer said \"Saturday 15th\"; Nov 14 is the Saturday).",
+      "doorsTime": "9 PM",
       "eventType": "club",
       "flyerImageUrl": null,
       "genres": [
         "Afrobeats",
-        "Amapiano"
+        "Amapiano",
+        "Afro House",
+        "Mara"
       ],
       "id": "faaja-campus-rave-2026-11-14",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "Faaja 1 SZN One Year Anniversary (Campus Rave)",
       "organiser": "Campus Rave",
       "priceTiers": [
         {
-          "name": "Regular",
-          "note": null,
-          "priceNaira": 5000
+          "name": "Early Access",
+          "priceNaira": 3000,
+          "note": "sales ended"
+        },
+        {
+          "name": "Regular FAAJA",
+          "priceNaira": 5000,
+          "note": "on sale on Sellenda"
         },
         {
           "name": "Stage Access",
-          "note": null,
-          "priceNaira": 10000
+          "priceNaira": 10000,
+          "note": "on sale on Sellenda"
+        },
+        {
+          "name": "Stage Access",
+          "priceNaira": 10000,
+          "note": "second listing, sales ended"
         },
         {
           "name": "Group of 4",
-          "note": null,
-          "priceNaira": 16000
-        },
-        {
-          "name": "Gate",
-          "note": null,
-          "priceNaira": 7000
+          "priceNaira": 18000,
+          "note": "on sale on Sellenda"
         }
       ],
       "series": null,
@@ -2510,8 +2525,8 @@
         "https://www.instagram.com/campusraveikd",
         "https://sellenda.com.ng/events/faaja-szn-1-year-anniversary-rave"
       ],
-      "ticketLink": null,
-      "ticketNote": "Tables ₦150K–₦500K",
+      "ticketLink": "https://sellenda.com.ng/events/faaja-szn-1-year-anniversary-rave",
+      "ticketNote": "Tickets on sale on Sellenda (ticket selector visible while logged out; final checkout step not tested). Organiser: CAMPUS RAVE ENTERTAINMENT. Non-refundable; free ticket transfer and official resale noted on the page.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Moricks Field"
@@ -2726,6 +2741,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: tix.africa + Wetinuneed re-verified (Nov 20, 7 PM, 288b Ajose Adeogun St, Victoria Island, free) — matches feed."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: tix.africa detail re-verified — Early Bird free, Premium table (4) ₦150,000, Executive table (6) ₦250,000; venue resolved as Trib3 Lagos (already in feed); DJ Nightwayve headliner."
         }
       ],
       "date": "2026-11-20T00:00:00.000",
@@ -2735,7 +2754,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "the-night-wayve-experience-2026-11-20",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "The Night Wayve Experience (Party With No Limits)",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -3695,6 +3714,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: MyAccessPlug second route corroborates (Dec 12, 9 PM–6 AM, AMAH Studio, Eleganza House; VIP ₦15,000, All Access ₦40,000, Table ₦1,000,000 match feed) — its Gold Table ₦4,000,000 vs the tix.africa primary ₦2,000,000 is NOT merged; tix.africa tiers kept. MyAccessPlug title lacks \"2.0\"."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: tix.africa detail re-verified — VIP ₦15,000, All Access ₦40,000, Table ₦1,000,000, Gold Table ₦2,000,000; DJ Tulz On Deck. Detail title omits \"2.0\"; feed name kept."
         }
       ],
       "date": "2026-12-12T00:00:00.000",
@@ -3706,7 +3729,7 @@
         "Electronic"
       ],
       "id": "rave-with-rina-2-2026-12-12",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "RAVE WITH RINA 2.0",
       "organiser": "Rina Boy",
       "priceTiers": [
@@ -4370,6 +4393,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: DOT TIX Livespot/Detty collection still lists only the 3 single-night events (Wizkid Dec 18, DJ Tunez Dec 24, Tungba Dec 25) — no separate pass product; festival site still shows “Passes Now Open”. Record stays Announced; a DOT TIX listing gap, not a cancellation."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Detty December Fest programme re-verified — same 10 shows Dec 18–30 (DJ Tunez Dec 24, Detty After Dark Dec 21–23, White Out Dec 30 as the DJ-led nights; Tungba Dec 25 stays excluded); no new DJ-led night."
         }
       ],
       "date": "2026-12-18T00:00:00.000",
@@ -4385,7 +4412,7 @@
         "House"
       ],
       "id": "detty-december-fest-passes-2026-12-18",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "Detty December Fest 2026 — Festival Passes",
       "organiser": "Livespot360 / Detty December Fest",
       "priceTiers": [
@@ -4609,6 +4636,10 @@
         {
           "date": "2026-10-26T00:00:00.000",
           "description": "Now displayed as a multi-day event spanning its full published run (app v3.8)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Detty December Fest programme re-verified — Detty After Dark Dec 21–23 on the Pulse Stage, still announced; no new DJ-led night in the 10-show programme."
         }
       ],
       "date": "2026-12-21T00:00:00.000",
@@ -4621,7 +4652,7 @@
         "Afrobeats"
       ],
       "id": "detty-after-dark-2026-12-21",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "Detty After Dark",
       "organiser": "Livespot360 (Detty December Fest)",
       "priceTiers": [
@@ -4976,6 +5007,10 @@
         {
           "date": "2026-10-22T00:00:00.000",
           "description": "Status verified on the festival site: tickets not on sale; notify-list signup only. Removed the general Detty ticket-page link so it does not imply this night is purchasable."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Detty December Fest programme re-verified — White Out Rave Dec 30 finale, still announced; no new DJ-led night in the 10-show programme."
         }
       ],
       "date": "2026-12-30T00:00:00.000",
@@ -4985,7 +5020,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "detty-white-out-rave-2026-12-30",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "White Out Rave",
       "organiser": "Livespot360 (Detty December Fest)",
       "priceTiers": [
@@ -5161,5 +5196,5 @@
       "followingCount": 1
     }
   ],
-  "generatedAt": "2026-10-28T13:50:29Z"
+  "generatedAt": "2026-10-28T13:59:58Z"
 }
