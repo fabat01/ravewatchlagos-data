@@ -86,7 +86,7 @@
    "address": "17b Osho Drive, Ologi-Apoja, Lagos",
    "ageLimit": null,
    "area": "TBA",
-   "attendingCount": 8,
+   "attendingCount": 9,
    "changeLog": [
     {
      "date": "2026-10-22T00:00:00.000",
@@ -95,6 +95,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: tix.africa checkout shows Early Birds sold out; checkout totals Regular ₦5,500 / Door ₦7,660 include fees vs poster base prices ₦5,000/₦7,000. Poster prices kept; poster 9 PM start kept over page-header 10 PM."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Supabase attending count 8 → 9."
     }
    ],
    "date": "2026-10-30T00:00:00.000",
@@ -157,6 +161,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: DOT TIX re-verified (Oct 30–31, doors 10 PM, Royal Kaft Lounge, Ikorodu, from ₦5,000) — matches feed."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Supabase following count 4 → 3."
     }
    ],
    "date": "2026-10-30T00:00:00.000",
@@ -165,7 +173,7 @@
    "endDate": "2026-10-31T00:00:00.000",
    "eventType": "club",
    "flyerImageUrl": null,
-   "followingCount": 4,
+   "followingCount": 3,
    "genres": [
     "Amapiano",
     "Afrobeats"
@@ -269,6 +277,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Supabase following count 0 → 1."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Supabase following count 1 → 0."
     }
    ],
    "date": "2026-10-30T00:00:00.000",
@@ -276,7 +288,7 @@
    "doorsTime": "7 PM",
    "eventType": "club",
    "flyerImageUrl": null,
-   "followingCount": 1,
+   "followingCount": 0,
    "genres": [],
    "id": "friday-libations-with-coco-2026-10-30",
    "lastVerified": "2026-10-27T00:00:00.000",
@@ -320,6 +332,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "2026-10-27: Book't city page rendered 9 cards after settle + reload (flashes \"no events\" first); event page tiers unchanged (Online ₦10,000, Private Room ₦50,000, door ₦30,000 poster-only)."
+    },
+    {
+     "date": "2026-10-27T00:00:00.000",
+     "description": "2026-10-27: Supabase following count 3 → 4."
     }
    ],
    "date": "2026-10-30T00:00:00.000",
@@ -327,7 +343,7 @@
    "doorsTime": "4 PM",
    "eventType": "rave",
    "flyerImageUrl": null,
-   "followingCount": 3,
+   "followingCount": 4,
    "genres": [
     "House",
     "Electronic"
@@ -4799,5 +4815,5 @@
    "venueName": "Lagos Waterfront"
   }
  ],
- "generatedAt": "2026-10-28T02:32:59Z"
+ "generatedAt": "2026-10-28T03:13:44Z"
 }
