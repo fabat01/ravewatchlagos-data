@@ -854,6 +854,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Supabase following count 1 → 2."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28 (browser reconciliation): ThePartyCompany detail page now shows Early Bird Wave 2 ₦9,979 as Sold Out; all other tiers match feed exactly (Regular ₦14,343/₦16,525, VIP tables ₦218,360/₦398,375)."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -883,7 +887,7 @@
         },
         {
           "name": "Early Bird Wave 2",
-          "note": "incl. fees",
+          "note": "sold out, incl. fees",
           "priceNaira": 9979
         },
         {
@@ -932,10 +936,14 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Organiser page re-verified unchanged (Oct 31, 6 PM–3 AM, Bolívar Lounge; tiers ₦15,000/₦50,000/₦200,000/₦500,000/₦1,000,000)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28 (browser reconciliation): Wetinuneed poster lineup added (DJ Pioneer, Flexy, Cypha, Cherry, DJ Strange, Da Partyslayer; host Nola Crown); tiers match feed exactly."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
-      "description": "Throwback 90s/2000s, soul, R&B and Afrobeats DJ party with DJ Pioneer & All-Star DJs at Bolívar Lounge, 6 PM–3 AM. Note: a \"surprise legendary guest artiste\" is billed — watch for format drift.",
+      "description": "Throwback 90s/2000s, soul, R&B and Afrobeats DJ party with DJ Pioneer, Flexy, Cypha, Cherry, DJ Strange and Da Partyslayer at Bolívar Lounge, 6 PM–3 AM. Host: Nola Crown. Note: a \"surprise legendary guest artiste\" is billed — watch for format drift.",
       "doorsTime": "6 PM",
       "eventType": "club",
       "flyerImageUrl": null,
@@ -946,7 +954,7 @@
         "Afrobeats"
       ],
       "id": "corporate-fun-fest-2026-10-31",
-      "lastVerified": "2026-10-27T00:00:00.000",
+      "lastVerified": "2026-10-28T00:00:00.000",
       "name": "CORPORATE FUN FEST",
       "organiser": "Vibe Nation / DJ Pioneer",
       "priceTiers": [
@@ -2627,10 +2635,14 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28 (browser reconciliation): shows.ng detail adds ELHAY as Host DJ alongside SEXY DJ TOPZY and DJ AVATAR; tiers and genres match feed exactly. Header 09:00 vs poster 9 PM–5 AM ambiguity noted, not adopted — feed keeps 9 PM."
         }
       ],
       "date": "2026-11-14T00:00:00.000",
-      "description": "DJ night with SEXY DJ TOPZY and DJ AVATAR — Afrobeats, amapiano, Afro house and hip-hop.",
+      "description": "DJ night with ELHAY (Host DJ), SEXY DJ TOPZY and DJ AVATAR — Afrobeats, amapiano, Afro house and hip-hop.",
       "doorsTime": "9 PM",
       "eventType": "club",
       "flyerImageUrl": null,
@@ -3596,6 +3608,58 @@
           "description": "Listed — Sellenda detail page verified in the live browser (Nov 28, 9 PM, Ikorodu; Early bird ₦3,000 on sale). No individual DJ or genre named; held-note transparency in ticketNote."
         }
       ]
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Surulere",
+      "changeLog": [
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "Listed — silent-disco party at 10emple Rooftop Lounge, Itire Surulere, 9 PM–4 AM; poster names DJ FABIO as Exclusive Deejay and MASTER YOMMY as host; previously held for lack of DJ evidence, lifted on the poster-named DJ."
+        }
+      ],
+      "date": "2026-11-28T00:00:00.000",
+      "description": "Silent-disco party at 10emple Rooftop Lounge, Itire Surulere, 9 PM–4 AM — DJ FABIO (Exclusive Deejay) with host MASTER YOMMY; headsets provided. No music genre is named on the poster ('Ambient Soundscapes' is a descriptor, not a genre).",
+      "doorsTime": "9 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "silence-premium-party-2026-11-28",
+      "lastVerified": "2026-10-28T00:00:00.000",
+      "name": "Silence Premium Party",
+      "organiser": "Unknown organiser",
+      "priceTiers": [
+        {
+          "name": "Party Riders",
+          "note": "entrance + headset",
+          "priceNaira": 10000
+        },
+        {
+          "name": "Presidential",
+          "note": null,
+          "priceNaira": 400002
+        },
+        {
+          "name": "Governors",
+          "note": null,
+          "priceNaira": 150000
+        },
+        {
+          "name": "Senatorial",
+          "note": null,
+          "priceNaira": 250000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://tix.africa/discover/silencepremiunparty"
+      ],
+      "ticketLink": "https://tix.africa/discover/silencepremiunparty",
+      "ticketNote": "Tickets on sale on tix.africa; no tier marked sold out (quantity selectors live). Silent-disco format — headsets provided.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "10emple Rooftop Lounge"
     },
     {
       "address": "Victoria Island",
@@ -4781,6 +4845,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (organiser/platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28 (browser reconciliation): 'Final Release ₦50,000' re-confirmed as page-template duplication — live page and live checkout show no such tier in either section (Regular section ends at Second Release ₦20,000; VIP ₦50,000 is the Super Early Bird, verified in checkout and removed from cart, no purchase). Tiers unchanged."
         }
       ],
       "date": "2026-12-19T00:00:00.000",
@@ -5482,5 +5550,5 @@
       "followingCount": 0
     }
   ],
-  "generatedAt": "2026-10-28T15:02:04Z"
+  "generatedAt": "2026-10-29T02:08:13Z"
 }
