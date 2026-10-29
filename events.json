@@ -4,7 +4,7 @@
       "address": null,
       "ageLimit": null,
       "area": "Ilashe",
-      "attendingCount": 19,
+      "attendingCount": 21,
       "changeLog": [
         {
           "date": "2026-10-24T00:00:00.000",
@@ -21,6 +21,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (organiser/platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase attending count 19 → 21, Supabase following count 6 → 7."
         }
       ],
       "date": "2026-10-28T00:00:00.000",
@@ -28,7 +32,7 @@
       "doorsTime": "6 PM",
       "eventType": "club",
       "flyerImageUrl": null,
-      "followingCount": 6,
+      "followingCount": 7,
       "genres": [],
       "id": "escape-to-ilashe-2026-10-28",
       "lastVerified": "2026-10-28T00:00:00.000",
@@ -90,7 +94,7 @@
       "address": "17b Osho Drive, Ologi-Apoja, Lagos",
       "ageLimit": null,
       "area": "TBA",
-      "attendingCount": 8,
+      "attendingCount": 9,
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
@@ -107,6 +111,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Supabase following count 6 → 5."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase attending count 8 → 9, Supabase following count 5 → 6."
         }
       ],
       "date": "2026-10-30T00:00:00.000",
@@ -114,7 +122,7 @@
       "doorsTime": "9 PM",
       "eventType": "rave",
       "flyerImageUrl": null,
-      "followingCount": 5,
+      "followingCount": 6,
       "genres": [
         "Afrobeats",
         "Hip Hop",
@@ -156,7 +164,7 @@
       "address": "3 Hassan Oduga Street, Opposite Domino's, Ikorodu, Lagos",
       "ageLimit": null,
       "area": "Ikorodu",
-      "attendingCount": 7,
+      "attendingCount": 8,
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
@@ -177,6 +185,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase attending count 7 → 8."
         }
       ],
       "date": "2026-10-30T00:00:00.000",
@@ -335,7 +347,7 @@
       "address": null,
       "ageLimit": null,
       "area": "Lekki",
-      "attendingCount": 5,
+      "attendingCount": 6,
       "changeLog": [
         {
           "date": "2026-10-24T00:00:00.000",
@@ -364,6 +376,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Supabase following count 4 → 3."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase attending count 5 → 6."
         }
       ],
       "date": "2026-10-30T00:00:00.000",
@@ -490,6 +506,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Supabase following count 3 → 2."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase following count 2 → 3."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -497,7 +517,7 @@
       "doorsTime": "9 PM",
       "eventType": "rave",
       "flyerImageUrl": null,
-      "followingCount": 2,
+      "followingCount": 3,
       "genres": [
         "Electronic"
       ],
@@ -673,6 +693,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase following count None → 1."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -713,7 +737,8 @@
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "The Freeme Space"
+      "venueName": "The Freeme Space",
+      "followingCount": 1
     },
     {
       "address": "Water Corporation Road, Oniru Estate, Victoria Island Annex, Lagos",
@@ -825,6 +850,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase following count 1 → 2."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -832,7 +861,7 @@
       "doorsTime": "7 PM",
       "eventType": "club",
       "flyerImageUrl": null,
-      "followingCount": 1,
+      "followingCount": 2,
       "genres": [
         "Afrobeats",
         "Dance"
@@ -974,6 +1003,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (organiser/platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase following count 1 → 2."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -981,7 +1014,7 @@
       "doorsTime": "9 PM",
       "eventType": "club",
       "flyerImageUrl": null,
-      "followingCount": 1,
+      "followingCount": 2,
       "genres": [],
       "id": "the-floating-club-halloween-edition-2026-10-31",
       "lastVerified": "2026-10-28T00:00:00.000",
@@ -1137,6 +1170,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase following count None → 0."
         }
       ],
       "date": "2026-10-31T00:00:00.000",
@@ -1166,7 +1203,8 @@
       "ticketNote": "Tickets buyable on Eventbrite (from $7.18 USD); exact location undisclosed on that checkout; early-bird buy 1 get 2 — one ticket admits two. shows.ng poster names the DJ lineup and lists Wimpy Hotel, Okun Ajah (see description); shows.ng ticket ₦5,400 for costume holders.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": null
+      "venueName": null,
+      "followingCount": 0
     },
     {
       "address": null,
@@ -1670,6 +1708,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "2026-10-27: Live-browser tier check resolves the text-view ambiguity — the SOLD OUT free tier is All-Day Entry (2 PM–12 AM), NOT Daylight Entry (2–7 PM, still available); the feed had the sold-out note on the wrong tier and it is corrected here. Tables: Cocktail only 9 left, others only 10 left."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase following count None → 0."
         }
       ],
       "date": "2026-11-01T00:00:00.000",
@@ -1725,7 +1767,8 @@
       "ticketNote": "Free daylight entry sold out; all-day free entry and tables on sale on pv.pro.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "Ebonylife Place"
+      "venueName": "Ebonylife Place",
+      "followingCount": 0
     },
     {
       "address": "Ogunlana Drive, Surulere",
@@ -2900,6 +2943,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "2026-10-28: Supabase attending count None → 0."
         }
       ],
       "date": "2026-11-21T00:00:00.000",
@@ -2929,7 +2976,8 @@
       "ticketNote": "Two-day event, Sat Nov 21 – Sun Nov 22, 10 PM. Exact venue still undisclosed. 7.5% VAT added at checkout on DOT TIX.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Lekki (Undisclosed yet)"
+      "venueName": "Lekki (Undisclosed yet)",
+      "attendingCount": 0
     },
     {
       "address": null,
