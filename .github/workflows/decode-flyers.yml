@@ -1,0 +1,53 @@
+name: Decode flyer images
+
+# Runs automatically whenever a push adds base64 flyer files.
+# Flyers travel as TEXT (.b64) because the publish channel cannot carry
+# binary files. This workflow decodes them into real .webp images and
+# commits them back. Commits made by this workflow do not retrigger it
+# (GitHub does not start workflows for GITHUB_TOKEN pushes), so no loop.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'images/incoming/**'
+
+permissions:
+  contents: write
+
+jobs:
+  decode:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Decode base64 flyers into webp images
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          mkdir -p images/posters
+          changed=0
+          for f in images/incoming/*.b64; do
+            base="$(basename "$f" .b64)"
+            out="images/posters/${base}.webp"
+            base64 -d "$f" > "$out.tmp"
+            if [ "$(head -c 4 "$out.tmp")" != "RIFF" ]; then
+              echo "Skipping $f - decoded content is not a WebP image"
+              rm -f "$out.tmp"
+              continue
+            fi
+            mv "$out.tmp" "$out"
+            rm -f "$f"
+            changed=1
+            echo "Decoded $f -> $out"
+          done
+          if [ "$changed" = "0" ]; then
+            echo "Nothing to decode."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add images/
+          git commit -m "Decode flyer images"
+          git push
