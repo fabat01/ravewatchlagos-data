@@ -3044,53 +3044,6 @@
       ]
     },
     {
-      "id": "fashion-rave-2026-2026-11-27",
-      "name": "FASHION RAVE 2026",
-      "organiser": "Unknown organiser",
-      "series": "",
-      "date": "2026-11-27",
-      "doorsTime": "5 PM",
-      "venueName": "Muri Okunola Park",
-      "area": "Victoria Island",
-      "address": "",
-      "genres": [],
-      "ageLimit": null,
-      "priceTiers": [
-        {
-          "name": "Regular Tickets",
-          "priceNaira": 8343,
-          "note": "₦8,342.50 incl. booking and processing fees"
-        },
-        {
-          "name": "VIP Tickets (Group of 4)",
-          "priceNaira": 163810,
-          "note": "incl. booking and processing fees"
-        },
-        {
-          "name": "VVIP Tickets (Cubana)",
-          "priceNaira": 545660,
-          "note": "incl. booking and processing fees"
-        }
-      ],
-      "ticketLink": "https://thepartycompany.ng/index.php?event=fashion-rave-2026",
-      "ticketNote": "",
-      "ticketStatus": "ticketsOnSale",
-      "flyerImageUrl": null,
-      "sourceLinks": [
-        "https://thepartycompany.ng/index.php?event=fashion-rave-2026"
-      ],
-      "lastVerified": "2026-10-31",
-      "changeLog": [
-        {
-          "date": "2026-10-31",
-          "description": "Added in the Oct 31 sweep."
-        }
-      ],
-      "unprovenPromoter": true,
-      "description": "Fashion party billed as the biggest fashion party in Africa featuring an incredible lineup of DJs; no DJ names published. Time converted from the platform display of 11:00 AM EST with its West Africa Time note (5 PM WAT) — re-verify next run.",
-      "eventType": "rave"
-    },
-    {
       "id": "all-black-rave-2026-11-27",
       "name": "The All Black Rave",
       "organiser": "The Vibe District",
@@ -3155,6 +3108,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: Re-verified unchanged (live-browser platform page re-read this run)."
+        },
+        {
+          "date": "2026-10-31",
+          "description": "Browser re-verified Oct 31 via ThePartyCompany detail: tiers exact (Regular ₦8,342.50 / VIP Group of 4 ₦163,810 / VVIP ₦545,660, incl. fees); no change."
         }
       ],
       "date": "2026-11-27T00:00:00.000",
@@ -3166,7 +3123,7 @@
         "Afrobeats"
       ],
       "id": "fashion-rave-2026-2026-11-27",
-      "lastVerified": "2026-10-30",
+      "lastVerified": "2026-10-31",
       "name": "FASHION RAVE 2026",
       "organiser": "Fashions Finest Africa",
       "priceTiers": [
@@ -4087,43 +4044,6 @@
       ]
     },
     {
-      "id": "eko-beach-rave-2026-12-11",
-      "name": "EKO BEACH RAVE",
-      "organiser": "Eko Casablanco",
-      "series": "",
-      "date": "2026-12-11",
-      "doorsTime": "3 PM",
-      "venueName": "Voda Beach",
-      "area": "Lekki",
-      "address": "",
-      "genres": [],
-      "ageLimit": null,
-      "priceTiers": [
-        {
-          "name": "Ticket Fee",
-          "priceNaira": 11070,
-          "note": "₦11,070.00 incl. booking and processing fees"
-        }
-      ],
-      "ticketLink": "https://thepartycompany.ng/index.php?event=eko-beach-rave",
-      "ticketNote": "",
-      "ticketStatus": "ticketsOnSale",
-      "flyerImageUrl": null,
-      "sourceLinks": [
-        "https://thepartycompany.ng/index.php?event=eko-beach-rave"
-      ],
-      "lastVerified": "2026-10-31",
-      "changeLog": [
-        {
-          "date": "2026-10-31",
-          "description": "Added in the Oct 31 sweep."
-        }
-      ],
-      "unprovenPromoter": true,
-      "description": "EKO BEACH RAVE & X FESTIVAL: DJs, music, bike riding, beach energy; host @ekocasablanco. Time converted from the platform display of 9:00 AM EST with its West Africa Time note (3 PM WAT) — re-verify next run.",
-      "eventType": "rave"
-    },
-    {
       "address": "Voda Beach, Lagos",
       "ageLimit": null,
       "area": "Lekki",
@@ -4155,6 +4075,10 @@
         {
           "date": "2026-10-28T00:00:00.000",
           "description": "2026-10-28: ThePartyCompany second route noted (₦11,070 ticket fee incl. fees); organiser Rayda tiers kept primary, not merged."
+        },
+        {
+          "date": "2026-10-31",
+          "description": "Browser corroboration Oct 31 via ThePartyCompany second route (single Ticket Fee ₦11,070 incl. fees); organiser-route tiers (Early Bird ₦10,000 / Regular ₦15,000 / Final Release ₦20,000) NOT merged, per the second-route rule."
         }
       ],
       "date": "2026-12-11T00:00:00.000",
@@ -4168,7 +4092,7 @@
         "Afro House"
       ],
       "id": "eko-beach-rave-2026-12-11",
-      "lastVerified": "2026-10-30",
+      "lastVerified": "2026-10-31",
       "name": "Eko Beach Rave & X Festival",
       "organiser": "ÉKÓ Casablanco / Team Sagacious / RAYDA",
       "priceTiers": [
@@ -6193,5 +6117,5 @@
       "followingCount": 0
     }
   ],
-  "generatedAt": "2026-11-01T00:33:43Z"
+  "generatedAt": "2026-11-01T01:44:32Z"
 }
