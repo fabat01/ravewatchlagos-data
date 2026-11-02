@@ -30,7 +30,7 @@ jobs:
           changed=0
           for f in images/incoming/*.b64; do
             base="$(basename "$f" .b64)"
-            out="images/posters/${base}.webp"
+            out="images/posters/${base}"
             base64 -d "$f" > "$out.tmp"
             if [ "$(head -c 4 "$out.tmp")" != "RIFF" ]; then
               echo "Skipping $f - decoded content is not a WebP image"
