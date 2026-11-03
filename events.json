@@ -3139,7 +3139,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Sinatra Place",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/09123f536af62300222ef3581daad3013b76a737a17990c459b0bfb6072a5827-detail.webp"
     },
     {
       "address": "23A Babatunde Anjous Avenue, Lekki Phase 1",
@@ -3199,7 +3199,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Ivy Bar Restaurant",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3bf40a7e82fa684b9397ee47e73dc3f05d6b9030264d8412bf210120a8161700-detail.webp"
     },
     {
       "address": "14 Wole Olateju Crescent, Lekki Phase 1, Lagos",
@@ -3239,7 +3239,7 @@
       "ticketStatus": "announced",
       "unprovenPromoter": true,
       "venueName": "Terraform Bar & Restaurant",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/d29ff9e8b455c2e1349b3d4cc197ef913763b11d2c63590baa6f80f6723390b8-detail.webp"
     },
     {
       "address": "Takwa Bay, Lagos Island",
@@ -3277,7 +3277,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "TAKWA BAY BEACH RESORT",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/eb1f3bf70f166cf73c3bc839f23c8c3149c48a2b43029cc8a93c511d4045bb92-detail.webp"
     },
     {
       "address": "36 Godwin Obasi St, Ago Palace Way, Lagos",
@@ -3328,7 +3328,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Retta Park Hotel",
-      "flyerDetailImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/64f197232e7f9008fb397194145eacc536ad3ed1b163f1bdd1139c75543dac02-detail.webp",
       "djs": [
         "DJ Tusure",
         "DJ Jazblast",
@@ -3410,7 +3410,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Balmoral Convention Center",
-      "flyerDetailImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/ec7ffb761f2437634cce06eee1b67c5e0adb919dd88be80724ef4b8ed6606e60-detail.webp",
       "djs": [
         "Ms DSF"
       ]
@@ -3455,7 +3455,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Sea coach jetty",
-      "flyerDetailImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/c4d3ce5704af9c42f4efa68d256057b7027936b102a6d451457207159583e102-detail.webp",
       "djs": [
         "DJ SMART",
         "DJ JAYMIX"
@@ -3936,7 +3936,7 @@
       "ticketStatus": "announced",
       "unprovenPromoter": false,
       "venueName": "Orange Island",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/42a10641a0e455664a8b68f51bfa03a0f11b79a9b938a14680f44d0706ae03e1-detail.webp"
     },
     {
       "address": "Eleko Beach, Ibeju-Lekki, Lagos",
@@ -3994,7 +3994,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "YOLO BY THE SEA",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/548073b4b0965ee633a85930c5ea76365a2fba57fa8d7e2ef22b902c0e639f84-detail.webp"
     },
     {
       "id": "cultur-fm-lagos-2026-12-23",
@@ -4088,7 +4088,7 @@
       "ticketStatus": "announced",
       "unprovenPromoter": false,
       "venueName": "Detty Pulse Stage, Detty December Village",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3ad31cc64ffab2088922b48fbb6f7f7610e27c4717f9b084fc30e71dfa5a1c34-detail.webp"
     },
     {
       "address": null,
@@ -4454,7 +4454,7 @@
       "ticketStatus": "announced",
       "unprovenPromoter": false,
       "venueName": "Detty December Village",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3ad31cc64ffab2088922b48fbb6f7f7610e27c4717f9b084fc30e71dfa5a1c34-detail.webp"
     },
     {
       "address": null,
@@ -4498,7 +4498,7 @@
       "ticketStatus": "announced",
       "unprovenPromoter": false,
       "venueName": "Detty Festival Stage, Detty December Village",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3ad31cc64ffab2088922b48fbb6f7f7610e27c4717f9b084fc30e71dfa5a1c34-detail.webp"
     },
     {
       "address": "Lekki County, Ajah, Lagos (boat access only)",
@@ -4694,5 +4694,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-03T00:10:50Z"
+  "generatedAt": "2026-11-03T00:13:32Z"
 }
