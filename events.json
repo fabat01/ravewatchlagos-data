@@ -4166,7 +4166,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Detty December Village",
-      "flyerDetailImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/506df2e146bea96bf58d9ca34a3a6db84ea35c0f4b8b096afa7d592fe37600f9-detail.webp",
       "djs": [
         "DJ Tunez"
       ]
@@ -4207,7 +4207,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Landmark Centre",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/7cb70df12e6b2c9eeae053f385efba93f7a612d4055fe461eff9717e3ca1e99a-detail.webp"
     },
     {
       "address": "34c Beckley Estate Rd, Abule Egba, Lagos",
@@ -4263,7 +4263,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Maxx MSquare",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/2e254d3cb1b98854db3c863283fc8fa447ef0fa581b4f154ed3965b517da47fb-detail.webp"
     },
     {
       "address": "Inside Esporta Hotel, 15 Adekunle Fajuyi Way, Ikeja GRA",
@@ -4304,7 +4304,7 @@
       "ticketStatus": "announced",
       "unprovenPromoter": true,
       "venueName": "DRNK Lagos",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/4feab69bf224a4b6db84be0231af218eff3577dd3c1a1354cb6ead9a0e8642f6-detail.webp"
     },
     {
       "address": null,
@@ -4351,7 +4351,7 @@
       "ticketStatus": "announced",
       "unprovenPromoter": true,
       "venueName": "Eridan Space",
-      "flyerDetailImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/5f3be1b598bc9eaaabae3037c5e674fdd38a751fab4fa1031f931c3376789cca-detail.webp",
       "djs": [
         "DJ Muller"
       ]
@@ -4541,7 +4541,7 @@
       "ticketStatus": "announced",
       "unprovenPromoter": true,
       "venueName": "Ilashe Beach",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/27e134d87c8a76619b421a6aa371f863f24a97921348f9827f0538b28c0833df-detail.webp"
     },
     {
       "address": "Lekki Phase 1 (exact location sent to attendees)",
@@ -4601,7 +4601,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": null,
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/51ad572c09e5eca787a0ff360b2699f3d62eb4e080c443027f2cef8117a9613d-detail.webp"
     },
     {
       "address": null,
@@ -4647,7 +4647,7 @@
       "unprovenPromoter": false,
       "venueName": "Lagos Waterfront",
       "followingCount": 0,
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/461fb7fed1f66a7db307a3c8b060f68ffd6fa18c0ef1e7009836d17bf67e554a-detail.webp"
     },
     {
       "id": "jokers-night-2027-01-01",
@@ -4694,5 +4694,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-03T00:13:32Z"
+  "generatedAt": "2026-11-03T00:14:06Z"
 }
