@@ -1540,7 +1540,7 @@
       "unprovenPromoter": true,
       "venueName": "Lekki (Undisclosed yet)",
       "attendingCount": 0,
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/afc3f30de8d81a3c181290fb1ab63d5de724844acda8e4180f6832842b58b9ef-detail.webp"
     },
     {
       "id": "lasgidi-carnival-mara-rave-2026-11-26",
@@ -1595,7 +1595,7 @@
           "description": "Listed — Nov 26, Ikorodu; Regular ₦5,000 on sale, Preorder ₦3,500 ended, tables ₦150,000/₦200,000. Doors time hasn't been published yet."
         }
       ],
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3b2a40aefa592adb958f0aa327cd809680438781a12009a36963107814ac4ded-detail.webp"
     },
     {
       "id": "all-black-rave-2026-11-27",
@@ -1637,7 +1637,7 @@
           "description": "DJ name spelling corrected to BoboBlavk."
         }
       ],
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/7402c665dbaaafde300f94858437a5f06591f92a3d1aaf4cbd6f016f92d29868-detail.webp"
     },
     {
       "address": "Muri Okunola Park, Victoria Island",
@@ -1697,7 +1697,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Muri Okunola Park",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/5180caa32bef710d5de5d5a627d336f9e363790cb2ac66f31de15cda55ccd919-detail.webp"
     },
     {
       "address": null,
@@ -1759,7 +1759,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": null,
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/e0a6bbf35bf771de9d0ac735f236738001804725ac04ead191a27d5dfe5c8732-detail.webp"
     },
     {
       "id": "tolk-n-do-tour-oworo-rave-2026-11-28",
@@ -1844,7 +1844,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "The Clubhouse Lagos",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/1887d02e4d187e406504e01af54856f42c45c5884019183fb80bdf408e9e71a5-detail.webp"
     },
     {
       "address": "Cele Bus Stop, 1 Love-All St, Ikosi Ketu, Kosofe, Lagos",
@@ -1887,7 +1887,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "J&J Hotel and Lounge",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/61dfe9ef73925dc9f4e896175c9ed0dfa9ddab40e1e9282351de6f359f29907f-detail.webp"
     },
     {
       "id": "psycho-rave-yard-party-2026-11-28",
@@ -1925,7 +1925,7 @@
           "description": "Listed — Nov 28, 9 PM, Ikorodu; Early bird ₦3,000 on sale. No individual DJ or genre announced."
         }
       ],
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/466c6db8a26fae7273b0563897398b87d2434c0c63dd96fb2da719eec88d89fe-detail.webp"
     },
     {
       "address": null,
@@ -1986,7 +1986,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "10emple Rooftop Lounge",
-      "flyerDetailImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/62d6fbbf9f60917fb9d6dc4be0330a0b4d2c501e374f1772cda1ef7788980da7-detail.webp",
       "djs": [
         "DJ FABIO"
       ]
@@ -2035,7 +2035,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "F'N'C Sport Complex",
-      "flyerDetailImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/efcda34413489a12d6f715a3a795e6d925cb853c0bbeccdccd0c2ed6f1d9a437-detail.webp",
       "djs": [
         "DJ MCLEV",
         "DJ KENNEX",
@@ -4694,5 +4694,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-03T00:04:16Z"
+  "generatedAt": "2026-11-03T00:05:09Z"
 }
