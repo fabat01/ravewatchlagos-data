@@ -2083,7 +2083,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Elegushi Beach",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/63fd3f80a880af51479f7deecfa513b055f06d42f90a5fa887af9af99ab145da-detail.webp"
     },
     {
       "address": "15 Admiralty Way, Lekki Phase 1, Lagos",
@@ -2157,7 +2157,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Vybz Lifestyle Lagos",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/7e12ccaf43ee655dddbbb834be53b7c168c0fa3a97ad4dfeba59e72590ddf2dd-detail.webp"
     },
     {
       "id": "chunesday-festival-2026-11-29",
@@ -2273,7 +2273,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Balmoral Convention Centre, Federal Palace Hotel",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/1354fc2e554841437120361a798826dbf5dd97d0eeb246021251ebff0d95f89c-detail.webp"
     },
     {
       "id": "the-playground-lock-off-edition-2026-12-04",
@@ -2409,7 +2409,7 @@
           "description": "Lineup: DJ Wicked Dj 10sion."
         }
       ],
-      "flyerDetailImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/9fcf84d188ea0b21c792fa49dc896613e2fcd0e85bace85fa1e9809b11e94998-detail.webp",
       "djs": [
         "DJ Wicked Dj 10sion"
       ]
@@ -2521,7 +2521,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": null,
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/93c280aabc341553891842edba0887be642674fb6c156da49bc814e4e41c7ede-detail.webp"
     },
     {
       "address": null,
@@ -2716,7 +2716,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": null,
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/cfa39b4208ae6319dc9a6daa9123a509bf35ed8af08e38ef96427e9fd2588539-detail.webp"
     },
     {
       "id": "colour-rave-fest-2026-2026-12-12",
@@ -2874,7 +2874,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Cairo by LYA",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/dff6ae036d25daf6a66ff35e0be8f52aac7402e408e21ae817b51f3249337bbb-detail.webp"
     },
     {
       "address": null,
@@ -2914,7 +2914,7 @@
       "ticketStatus": "ticketsSoon",
       "unprovenPromoter": false,
       "venueName": null,
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/6de439b2ea6cd28c79301efceb49862fa992dd7d6258dd10ffad53d0286d7afb-detail.webp"
     },
     {
       "address": null,
@@ -2985,7 +2985,7 @@
       "ticketStatus": "announced",
       "unprovenPromoter": true,
       "venueName": "The Country Beach",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/9e603f55648f78b02d9a591ac2b6da6cb9ec751e7ac72eb9c78d9c5d038a9158-detail.webp"
     },
     {
       "address": "Eleganza House, Joseph Harden Street, Lagos Island",
@@ -3067,7 +3067,7 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Amah Studios",
-      "flyerDetailImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/c9da5a622eb38da82bde551241b9c43a709156647148a2dc74163f3f7e3fbf79-detail.webp",
       "djs": [
         "Tulz On Deck"
       ]
@@ -4397,7 +4397,7 @@
       "ticketStatus": "ticketsSoon",
       "unprovenPromoter": false,
       "venueName": "Casa 45",
-      "flyerDetailImageUrl": null
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/6de439b2ea6cd28c79301efceb49862fa992dd7d6258dd10ffad53d0286d7afb-detail.webp"
     },
     {
       "address": null,
@@ -4694,5 +4694,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-03T00:05:09Z"
+  "generatedAt": "2026-11-03T00:10:50Z"
 }
