@@ -1,46 +1,6 @@
 {
   "events": [
     {
-      "address": "Ogunlana Drive, Surulere",
-      "ageLimit": null,
-      "area": "Surulere",
-      "changeLog": [
-        {
-          "date": "2026-10-24T00:00:00.000",
-          "description": "Listed — DJ-led dance night at Cairo By LYA, Surulere, 8 PM–5 AM; tickets ₦5,000 on Eventor."
-        }
-      ],
-      "date": "2026-11-04T00:00:00.000",
-      "description": "Dreezi's Deck — a DJ-led dance night at Cairo By LYA, Surulere: 'you're coming to dance. I'll handle the music, the transitions.' 8 PM–5 AM.",
-      "doorsTime": "8 PM",
-      "eventType": "club",
-      "flyerImageUrl": null,
-      "followingCount": 1,
-      "genres": [],
-      "id": "dreezis-deck-2026-11-04",
-      "lastVerified": "2026-11-02",
-      "name": "Dreezi's Deck",
-      "organiser": "Dreezi",
-      "priceTiers": [
-        {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": 5000
-        }
-      ],
-      "series": null,
-      "sourceLinks": [
-        "https://eventornigeria.com/explore/dreezis-deck"
-      ],
-      "ticketLink": "https://eventornigeria.com/explore/dreezis-deck",
-      "ticketNote": "Tickets ₦5,000 via Eventor.",
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": true,
-      "venueName": "Cairo By LYA",
-      "attendingCount": 1,
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/9c98dbcf281f0e471308cacaea9f16def1a9879ad84900fddb3444f2f0c777cc-detail.webp"
-    },
-    {
       "id": "bandana-bash-2026-11-05",
       "name": "Bandana Bash",
       "organiser": "Unknown organiser",
@@ -80,7 +40,7 @@
       "unprovenPromoter": true,
       "eventType": "club",
       "description": "Bandana-themed 18+ party at 84 Front Lounge off LASU Road with DJs and drinks, 10 PM.",
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
@@ -139,7 +99,7 @@
       "unprovenPromoter": false,
       "eventType": "club",
       "description": "Ikorodu rave night with amapiano, afro house and afrobeats DJs at A and B Lounge, 8 PM–3 AM.",
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
@@ -152,9 +112,19 @@
         {
           "date": "2026-11-04",
           "description": "Tickets now on sale on tix.africa: Single ₦5,000, Group of 4 ₦18,000, VIP ₦15,000."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "DJ lineup announced: SexydjTiwaKiss, CDJ-PSYCHE, DJ ENIZY ENY and AYO KEYZ."
         }
       ],
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/4f39d5af6384b2a98b762d1b0074b4a94f7f4c728d6ea1a68b3219c7a566bd8f-detail.webp"
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/4f39d5af6384b2a98b762d1b0074b4a94f7f4c728d6ea1a68b3219c7a566bd8f-detail.webp",
+      "djs": [
+        "SexydjTiwaKiss",
+        "CDJ-PSYCHE",
+        "DJ ENIZY ENY",
+        "AYO KEYZ"
+      ]
     },
     {
       "id": "rave-fest-2026-11-06",
@@ -190,7 +160,7 @@
         "https://tix.africa/discover/theravefest",
         "https://tix.africa/discover/theravefest/checkout?step=tickets"
       ],
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-01",
@@ -214,6 +184,118 @@
         "Insight",
         "MZH"
       ]
+    },
+    {
+      "id": "amapiano-district-the-anniversary-2026-11-06",
+      "name": "Amapiano District: The Anniversary (DISTRICT 004)",
+      "organiser": "Amapiano District",
+      "series": null,
+      "date": "2026-11-06T00:00:00.000",
+      "doorsTime": "4 PM",
+      "venueName": "Casa 45",
+      "area": "Victoria Island",
+      "address": "35 Adeola Odeku Street, Victoria Island",
+      "genres": [
+        "Amapiano"
+      ],
+      "ageLimit": "18+",
+      "priceTiers": [
+        {
+          "name": "First Wave",
+          "priceNaira": 11000,
+          "note": null
+        },
+        {
+          "name": "Second Wave",
+          "priceNaira": 16500,
+          "note": null
+        },
+        {
+          "name": "Third Wave",
+          "priceNaira": 22000,
+          "note": null
+        },
+        {
+          "name": "Fourth Wave",
+          "priceNaira": 29700,
+          "note": null
+        },
+        {
+          "name": "ICEBOX (Unlimited Smirnoff Ice)",
+          "priceNaira": 44000,
+          "note": null
+        },
+        {
+          "name": "Stage Access (Second Wave)",
+          "priceNaira": 66000,
+          "note": null
+        },
+        {
+          "name": "Fourth Wave (Trio)",
+          "priceNaira": 82500,
+          "note": null
+        },
+        {
+          "name": "Third Wave (Group of 5)",
+          "priceNaira": 88000,
+          "note": null
+        },
+        {
+          "name": "Stage Access (Fourth Wave)",
+          "priceNaira": 88000,
+          "note": null
+        },
+        {
+          "name": "VIP TABLE FOR 6",
+          "priceNaira": 517000,
+          "note": null
+        },
+        {
+          "name": "VIP TABLE FOR 8",
+          "priceNaira": 770000,
+          "note": null
+        },
+        {
+          "name": "VVIP LOUNGE TABLE FOR 10",
+          "priceNaira": 1012000,
+          "note": null
+        },
+        {
+          "name": "VVIP STAGE TABLE FOR 10",
+          "priceNaira": 1540000,
+          "note": null
+        },
+        {
+          "name": "VVIP STAGE TABLE FOR 12",
+          "priceNaira": 2035000,
+          "note": null
+        }
+      ],
+      "ticketLink": "https://faaji.app/party/adis4",
+      "ticketNote": "Tickets on sale on Faaji — prices include Faaji fees. First Wave ₦11,000; tables from ₦517,000.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "flyerDetailImageUrl": null,
+      "djs": [
+        "031 Choppa",
+        "Niino b2b Frvky",
+        "DJ Peejaay",
+        "Farati"
+      ],
+      "sourceLinks": [
+        "https://faaji.app/party/adis4",
+        "https://www.instagram.com/p/DfUKGBCFooM/"
+      ],
+      "lastVerified": "2026-11-05",
+      "changeLog": [
+        {
+          "date": "2026-11-05",
+          "description": "Listed — Amapiano District's fourth anniversary at Casa 45, with 031 Choppa, Niino b2b Frvky, DJ Peejaay and Farati."
+        }
+      ],
+      "unprovenPromoter": false,
+      "description": "Four years of rhythm, culture and the District — the Amapiano District anniversary at Casa 45, with 031 Choppa, Niino b2b Frvky, DJ Peejaay and Farati on the decks. 4 PM.",
+      "eventType": "club"
     },
     {
       "address": "No. 288B, Ajose Adeogun, Victoria Island, Lagos",
@@ -240,7 +322,7 @@
         "Hip Hop"
       ],
       "id": "the-rnb-party-2026-11-06",
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "name": "THE RNB PARTY",
       "organiser": "THE RNB PARTY",
       "priceTiers": [
@@ -336,7 +418,7 @@
         "https://www.jaiyetracker.com/event/ikorodu-silent-disco-party-1107",
         "https://tix.africa/discover/ikddiscoparty"
       ],
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-02",
@@ -345,7 +427,149 @@
       ],
       "unprovenPromoter": true,
       "description": "Silent disco party at Kels Mayor Lounge, Ikorodu — several DJs on separate headphone channels, 4 PM–4 AM. Early Bird ₦7,000 includes a headset and a cocktail.",
-      "eventType": "club"
+      "eventType": "club",
+      "followingCount": 0
+    },
+    {
+      "id": "phantom-dance-2026-11-07",
+      "name": "Phantom Dance",
+      "organiser": "Unknown organiser",
+      "series": null,
+      "date": "2026-11-07",
+      "doorsTime": "8 PM",
+      "venueName": "Casa45",
+      "area": "Victoria Island",
+      "address": "35 Adeola Odeku Street, Victoria Island",
+      "genres": [
+        "Afrobeats"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Early Access",
+          "priceNaira": 10000,
+          "note": null
+        },
+        {
+          "name": "Stage Access",
+          "priceNaira": 30000,
+          "note": null
+        },
+        {
+          "name": "Group of 3",
+          "priceNaira": 25000,
+          "note": null
+        },
+        {
+          "name": "Group of 5",
+          "priceNaira": 40000,
+          "note": null
+        }
+      ],
+      "ticketLink": "https://popouttickets.com/events/SincityekoXKamolseffect",
+      "ticketNote": "Tickets on sale on Popout: Early Access ₦10,000; Stage Access ₦30,000; Group of 3 ₦25,000; Group of 5 ₦40,000.",
+      "ticketStatus": "ticketsOnSale",
+      "sourceLinks": [
+        "https://www.jaiyetracker.com/event/phantom-dance-1107",
+        "https://popouttickets.com/events/SincityekoXKamolseffect"
+      ],
+      "unprovenPromoter": false,
+      "eventType": "club",
+      "description": "Post-Halloween dance party at Casa 45, Victoria Island, 8 PM–5 AM.",
+      "flyerImageUrl": null,
+      "lastVerified": "2026-11-05",
+      "changeLog": [
+        {
+          "date": "2026-11-04",
+          "description": "Listed — Phantom Dance at Casa45, Victoria Island, 9 PM–1 AM: Afrobeats night, Single ₦5,000 via Popout."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Venue, time and prices corrected: Casa 45, 35 Adeola Odeku Street, 8 PM–5 AM; Early Access ₦10,000, Stage Access ₦30,000."
+        }
+      ],
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/8e31d31de252233c209f8d7b6a69d09942a07a9822d4909048d8f11cc53b8bbb-detail.webp",
+      "followingCount": 0
+    },
+    {
+      "id": "say-less-lets-dance-2026-11-07",
+      "name": "Say Less, Let's Dance",
+      "organiser": "Unknown organiser",
+      "series": null,
+      "date": "2026-11-07",
+      "doorsTime": "8 PM",
+      "venueName": null,
+      "area": "TBA",
+      "address": null,
+      "genres": [
+        "Electronic"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Standard",
+          "priceNaira": 16350,
+          "note": "listed ₦15,000; includes ₦1,350 fee"
+        }
+      ],
+      "ticketLink": "https://www.linkupnaija.com/events/387b52fb-cfba-4569-9219-419d9bc810a7",
+      "ticketNote": "Request to join via LinkUpNaija — the host approves every guest; the exact venue is disclosed to confirmed guests.",
+      "ticketStatus": "announced",
+      "sourceLinks": [
+        "https://www.linkupnaija.com/events/387b52fb-cfba-4569-9219-419d9bc810a7"
+      ],
+      "unprovenPromoter": false,
+      "eventType": "rave",
+      "description": "Electronic-themed night, 8 PM. Request to join via LinkUpNaija; the exact venue is disclosed to confirmed guests.",
+      "flyerImageUrl": null,
+      "lastVerified": "2026-11-05",
+      "changeLog": [
+        {
+          "date": "2026-11-04",
+          "description": "Listed — Say Less, Let's Dance, Nov 7, 8 PM: electronic-themed night via LinkUpNaija; venue disclosed to confirmed guests."
+        }
+      ],
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/40c81f9b84600a01a4ce924f6fd01d9dea033f4290c20d59268537dbcbc8185d-detail.webp"
+    },
+    {
+      "id": "v26-x-amapiano-party-2026-11-07",
+      "name": "V26 x Amapiano Party",
+      "organiser": "Unknown organiser",
+      "series": null,
+      "date": "2026-11-07",
+      "doorsTime": "3 PM",
+      "venueName": "Red Bar Lagos",
+      "area": "Lekki Phase 1",
+      "address": "4B Wole Olateju Crescent, Lekki Phase 1",
+      "genres": [
+        "Amapiano"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Single",
+          "priceNaira": 10600,
+          "note": null
+        }
+      ],
+      "ticketLink": "https://www.jetronticket.com/v26xamapianoparty",
+      "ticketNote": "Tickets on sale on Jetron: Single ₦10,600.",
+      "ticketStatus": "ticketsOnSale",
+      "sourceLinks": [
+        "https://www.jetronticket.com/v26xamapianoparty"
+      ],
+      "unprovenPromoter": false,
+      "eventType": "club",
+      "description": "Amapiano party at Red Bar Lagos, Lekki Phase 1, 3 PM–5 AM, with DJ sets.",
+      "flyerImageUrl": null,
+      "lastVerified": "2026-11-05",
+      "changeLog": [
+        {
+          "date": "2026-11-04",
+          "description": "Listed — V26 x Amapiano Party at Red Bar Lagos, Lekki Phase 1, 3 PM–5 AM; Single ₦10,600 on Jetron."
+        }
+      ],
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/40df72dc3946fcf87580934e174cbecd11219cdf04af20908dd6ca3fe559a255-detail.webp"
     },
     {
       "id": "wet-rave-pool-party-2026-11-07",
@@ -375,7 +599,7 @@
         "https://www.jaiyetracker.com/event/wet-rave-pool-party-1107",
         "https://popouttickets.com/events/WETRAVE"
       ],
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-02",
@@ -420,7 +644,7 @@
         "https://www.jaiyetracker.com/event/wet-and-wild-rave-pool-party-2-0-1107",
         "https://popouttickets.com/events/Wetandwild"
       ],
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-02",
@@ -441,6 +665,71 @@
         "DJ Reemark",
         "Cognoscente"
       ]
+    },
+    {
+      "id": "bruce-never-lies-2026-11-07",
+      "name": "Bruce Never Lies",
+      "organiser": "Bruce Never Lies",
+      "series": null,
+      "date": "2026-11-07T00:00:00.000",
+      "doorsTime": "9:30 PM",
+      "venueName": "BamBoa Lagos",
+      "area": "Victoria Island",
+      "address": "82 Adetokunbo Ademola Street, Victoria Island",
+      "genres": [
+        "Afro House"
+      ],
+      "ageLimit": "18+",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "priceNaira": 15000,
+          "note": "Standing access only; not valid for entry after 10:30 PM"
+        },
+        {
+          "name": "Group Of 4",
+          "priceNaira": 1500000,
+          "note": "F&B spend ₦1,000,000, table fee ₦400,000"
+        },
+        {
+          "name": "Pool Side Table (Group of 6)",
+          "priceNaira": 3000000,
+          "note": "F&B spend ₦2,400,000, table fee ₦600,000"
+        },
+        {
+          "name": "Cabana (Group of 10)",
+          "priceNaira": 5000000,
+          "note": "F&B spend ₦4,000,000, table fee ₦1,000,000"
+        }
+      ],
+      "ticketLink": "https://www.eventporte.com/bruceneverlies",
+      "ticketNote": "Tickets on sale on Eventporte: Early Bird ₦15,000 (standing only, not valid after 10:30 PM); tables ₦1,500,000–₦5,000,000.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "flyerDetailImageUrl": null,
+      "djs": [
+        "MBALLA",
+        "Sigag Lauren",
+        "Faisaltheraver",
+        "Jarlight",
+        "Visky Beat",
+        "Oluwabruce"
+      ],
+      "sourceLinks": [
+        "https://www.eventporte.com/bruceneverlies",
+        "https://www.eventporte.com/event-details/bruceneverlies",
+        "https://www.instagram.com/p/DfUKGBCFooM/"
+      ],
+      "lastVerified": "2026-11-05",
+      "changeLog": [
+        {
+          "date": "2026-11-05",
+          "description": "Listed — Bruce Never Lies brings its Afro-house night to Bam Boa, headlined by MBALLA with Sigag Lauren, Faisaltheraver, Jarlight, Visky Beat and curator Oluwabruce."
+        }
+      ],
+      "unprovenPromoter": false,
+      "description": "Bruce Never Lies brings its Afro-house night to Bam Boa, headlined by MBALLA with Sigag Lauren, Faisaltheraver, Jarlight, Visky Beat and curator Oluwabruce. 9:30 PM–5 AM.",
+      "eventType": "rave"
     },
     {
       "address": null,
@@ -483,7 +772,7 @@
         "Electronic"
       ],
       "id": "dark-mask-rave-2026-11-07",
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "name": "DARK & MASK RAVE",
       "organiser": "AlaafinofEko",
       "priceTiers": [
@@ -505,6 +794,54 @@
       "unprovenPromoter": true,
       "venueName": null,
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/f64c4d25c3f2bac86ab9e8460c17a238ec96134e1715f68790c2f5873bed610f-detail.webp"
+    },
+    {
+      "id": "halloween-costume-party-season-2-cavehouse-2026-11-07",
+      "name": "Halloween Costume Party Season 2: CaveHouse Edition",
+      "organiser": "Unknown organiser",
+      "series": null,
+      "date": "2026-11-07T00:00:00.000",
+      "doorsTime": "9 PM",
+      "venueName": "CaveHouse",
+      "area": "Lagos Island",
+      "address": "9 Broad Street, Lagos Island",
+      "genres": [],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Single",
+          "priceNaira": 10000,
+          "note": null
+        },
+        {
+          "name": "Table for 5",
+          "priceNaira": 300000,
+          "note": null
+        }
+      ],
+      "ticketLink": "https://popouttickets.com/events/Halloweenparty2",
+      "ticketNote": "Tickets on sale on Popout: single ₦10,000; table for 5 ₦300,000.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "flyerDetailImageUrl": null,
+      "djs": [
+        "DJ Rock",
+        "DJ Paulow",
+        "DJ Saulty"
+      ],
+      "sourceLinks": [
+        "https://popouttickets.com/events/Halloweenparty2"
+      ],
+      "lastVerified": "2026-11-05",
+      "changeLog": [
+        {
+          "date": "2026-11-05",
+          "description": "Listed — Halloween costume party at CaveHouse, Lagos Island, with DJ Rock, DJ Paulow and DJ Saulty."
+        }
+      ],
+      "unprovenPromoter": false,
+      "description": "Halloween costume party at CaveHouse, Lagos Island, with DJ Rock, DJ Paulow and DJ Saulty. 9 PM–5:30 AM.",
+      "eventType": "club"
     },
     {
       "address": "33/34 Igbe-afaa Rd, Olumo-MTN Bustop, Igbogbo-Ikorodu",
@@ -553,7 +890,8 @@
         "DJ Pluto",
         "DJ Coolcash",
         "DJ Shay"
-      ]
+      ],
+      "attendingCount": 0
     },
     {
       "address": "No 15 Ashabi Cole Street, Agidingbi, Ikeja, Lagos",
@@ -582,7 +920,7 @@
         "R&B"
       ],
       "id": "mainland-silent-disco-rave-2026-11-07",
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "name": "Lagos: Mainland Silent Disco Rave",
       "organiser": "House of Oni",
       "priceTiers": [
@@ -668,6 +1006,61 @@
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/af82246314924134e8a6d3835718376652b521b85e75a90ac442d4cebb665854-detail.webp"
     },
     {
+      "id": "tamba-champion-album-pre-release-rave-2026-11-07",
+      "name": "TAMBA Presents \"CHAMPION\" Album Pre-Release Rave",
+      "organiser": "TAMBA",
+      "series": null,
+      "date": "2026-11-07T00:00:00.000",
+      "doorsTime": "9 PM",
+      "venueName": "Moroko Lagos",
+      "area": "Lagos",
+      "address": null,
+      "genres": [],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Early CHAMPION",
+          "priceNaira": 7500,
+          "note": "sold out"
+        },
+        {
+          "name": "Standard CHAMPION",
+          "priceNaira": 10000,
+          "note": null
+        },
+        {
+          "name": "CHAMPION Table for 6",
+          "priceNaira": 500000,
+          "note": "Admits 6; only 3 left"
+        }
+      ],
+      "ticketLink": "https://tambaworld.com/",
+      "ticketNote": "Tickets on sale on the TAMBA site: Standard ₦10,000 (Early tickets sold out); table for 6 ₦500,000.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "flyerDetailImageUrl": null,
+      "djs": [
+        "Yosa",
+        "SUNRISE",
+        "Demi Andre",
+        "DJ Green"
+      ],
+      "sourceLinks": [
+        "https://tambaworld.com/",
+        "https://www.instagram.com/p/DfXM-AyoFBa/"
+      ],
+      "lastVerified": "2026-11-05",
+      "changeLog": [
+        {
+          "date": "2026-11-05",
+          "description": "Listed — TAMBA presents the official pre-release rave for IFEME's CHAMPION album at Moroko Lagos, with guest DJs Yosa, SUNRISE, Demi Andre and DJ Green."
+        }
+      ],
+      "unprovenPromoter": false,
+      "description": "TAMBA presents the official pre-release rave for IFEME's CHAMPION album at Moroko Lagos — guest DJs Yosa, SUNRISE, Demi Andre and DJ Green, plus vocal performances from the album. 9 PM.",
+      "eventType": "club"
+    },
+    {
       "address": null,
       "ageLimit": null,
       "area": "TBA",
@@ -751,6 +1144,10 @@
         {
           "date": "2026-11-01",
           "description": "Prices confirmed (Early Bird ₦6,500 sold out; First Release ₦8,000 and Twin Flame ₦14,000 on sale; Second Release ₦9,000 and Final Release ₦10,000 coming soon)."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Correction: VOID HOUSE is on its third edition."
         }
       ],
       "date": "2026-11-07T00:00:00.000",
@@ -762,7 +1159,7 @@
         "Electronic"
       ],
       "id": "void-house-2026-11-07",
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "name": "VOID HOUSE",
       "organiser": "AFTR HRS",
       "priceTiers": [
@@ -799,157 +1196,16 @@
       "ticketLink": "https://www.aftrhrs.ng/",
       "ticketNote": null,
       "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": true,
+      "unprovenPromoter": false,
       "venueName": "Pop Landmark",
       "followingCount": 1,
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/6c315c202118c490cfcaa4a22451b109bbe479df98798f8c35901fcd29b86226-detail.webp"
     },
     {
-      "id": "phantom-dance-2026-11-07",
-      "name": "Phantom Dance",
-      "organiser": "Unknown organiser",
-      "series": null,
-      "date": "2026-11-07",
-      "doorsTime": "9 PM",
-      "venueName": "Casa45",
-      "area": "Victoria Island",
-      "address": "10 Musa Yar'Adua Street, Victoria Island",
-      "genres": [
-        "Afrobeats"
-      ],
-      "ageLimit": null,
-      "priceTiers": [
-        {
-          "name": "Single (Regular)",
-          "priceNaira": 5000,
-          "note": null
-        },
-        {
-          "name": "Single (Stage Access)",
-          "priceNaira": 20000,
-          "note": null
-        },
-        {
-          "name": "Table for 4",
-          "priceNaira": 200000,
-          "note": null
-        },
-        {
-          "name": "Table for 6",
-          "priceNaira": 300000,
-          "note": null
-        },
-        {
-          "name": "Table for 8",
-          "priceNaira": 400000,
-          "note": null
-        }
-      ],
-      "ticketLink": "https://popouttickets.com/events/SincityekoXKamolseffect",
-      "ticketNote": "Tickets via Popout: Single ₦5,000, Stage Access ₦20,000, tables ₦200,000–₦400,000; tickets aren't confirmed on sale yet.",
-      "ticketStatus": "announced",
-      "sourceLinks": [
-        "https://www.jaiyetracker.com/event/phantom-dance-1107",
-        "https://popouttickets.com/events/SincityekoXKamolseffect"
-      ],
-      "unprovenPromoter": false,
-      "eventType": "club",
-      "description": "Afrobeats dance night at Casa45, Victoria Island, 9 PM–1 AM.",
-      "flyerImageUrl": null,
-      "lastVerified": "2026-11-04",
-      "changeLog": [
-        {
-          "date": "2026-11-04",
-          "description": "Listed — Phantom Dance at Casa45, Victoria Island, 9 PM–1 AM: Afrobeats night, Single ₦5,000 via Popout."
-        }
-      ],
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/8e31d31de252233c209f8d7b6a69d09942a07a9822d4909048d8f11cc53b8bbb-detail.webp"
-    },
-    {
-      "id": "v26-x-amapiano-party-2026-11-07",
-      "name": "V26 x Amapiano Party",
-      "organiser": "Unknown organiser",
-      "series": null,
-      "date": "2026-11-07",
-      "doorsTime": "3 PM",
-      "venueName": "Red Bar Lagos",
-      "area": "Lekki Phase 1",
-      "address": "4B Wole Olateju Crescent, Lekki Phase 1",
-      "genres": [
-        "Amapiano"
-      ],
-      "ageLimit": null,
-      "priceTiers": [
-        {
-          "name": "Single",
-          "priceNaira": 10600,
-          "note": null
-        }
-      ],
-      "ticketLink": "https://www.jetronticket.com/v26xamapianoparty",
-      "ticketNote": "Tickets on sale on Jetron: Single ₦10,600.",
-      "ticketStatus": "ticketsOnSale",
-      "sourceLinks": [
-        "https://www.jetronticket.com/v26xamapianoparty"
-      ],
-      "unprovenPromoter": false,
-      "eventType": "club",
-      "description": "Amapiano party at Red Bar Lagos, Lekki Phase 1, 3 PM–5 AM, with DJ sets.",
-      "flyerImageUrl": null,
-      "lastVerified": "2026-11-04",
-      "changeLog": [
-        {
-          "date": "2026-11-04",
-          "description": "Listed — V26 x Amapiano Party at Red Bar Lagos, Lekki Phase 1, 3 PM–5 AM; Single ₦10,600 on Jetron."
-        }
-      ],
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/40df72dc3946fcf87580934e174cbecd11219cdf04af20908dd6ca3fe559a255-detail.webp"
-    },
-    {
-      "id": "say-less-lets-dance-2026-11-07",
-      "name": "Say Less, Let's Dance",
-      "organiser": "Unknown organiser",
-      "series": null,
-      "date": "2026-11-07",
-      "doorsTime": "8 PM",
-      "venueName": null,
-      "area": "TBA",
-      "address": null,
-      "genres": [
-        "Electronic"
-      ],
-      "ageLimit": null,
-      "priceTiers": [
-        {
-          "name": "Standard",
-          "priceNaira": 16350,
-          "note": "listed ₦15,000; includes ₦1,350 fee"
-        }
-      ],
-      "ticketLink": "https://www.linkupnaija.com/events/387b52fb-cfba-4569-9219-419d9bc810a7",
-      "ticketNote": "Request to join via LinkUpNaija — the host approves every guest; the exact venue is disclosed to confirmed guests.",
-      "ticketStatus": "announced",
-      "sourceLinks": [
-        "https://www.linkupnaija.com/events/387b52fb-cfba-4569-9219-419d9bc810a7"
-      ],
-      "unprovenPromoter": false,
-      "eventType": "rave",
-      "description": "Electronic-themed night, 8 PM. Request to join via LinkUpNaija; the exact venue is disclosed to confirmed guests.",
-      "flyerImageUrl": null,
-      "lastVerified": "2026-11-04",
-      "changeLog": [
-        {
-          "date": "2026-11-04",
-          "description": "Listed — Say Less, Let's Dance, Nov 7, 8 PM: electronic-themed night via LinkUpNaija; venue disclosed to confirmed guests."
-        }
-      ],
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/40c81f9b84600a01a4ce924f6fd01d9dea033f4290c20d59268537dbcbc8185d-detail.webp"
-    },
-    {
       "address": null,
       "ageLimit": null,
       "area": "TBA",
-      "attendingCount": 3,
+      "attendingCount": 4,
       "changeLog": [
         {
           "date": "2026-10-19T00:00:00.000",
@@ -1014,67 +1270,7 @@
       "unprovenPromoter": false,
       "venueName": null,
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/dfd577568cfe0dd977c1aa700f022ed48af983df9b447b04d26926a516a717df-detail.webp",
-      "followingCount": 2
-    },
-    {
-      "address": null,
-      "ageLimit": null,
-      "area": "Lekki Phase 1",
-      "attendingCount": 1,
-      "changeLog": [
-        {
-          "date": "2026-10-20T00:00:00.000",
-          "description": "Date public (Nov 13); venue and tickets TBA"
-        },
-        {
-          "date": "2026-10-22T00:00:00.000",
-          "description": "Tickets went on sale on eventornigeria (₦3,000); 11 PM start"
-        },
-        {
-          "date": "2026-10-28T00:00:00.000",
-          "description": "Ticket list completed: two Pay What You Want options on sale — from ₦3,000 and from ₦5,000."
-        },
-        {
-          "date": "2026-10-30",
-          "description": "Venue confirmed as UNDA BY LYA on Eventor (was blank)."
-        }
-      ],
-      "date": "2026-11-13T00:00:00.000",
-      "description": null,
-      "doorsTime": "11:00 PM",
-      "eventType": "rave",
-      "flyerImageUrl": null,
-      "genres": [
-        "Techno"
-      ],
-      "id": "go-techno-2026-11-13",
-      "lastVerified": "2026-11-02",
-      "name": "go TECHNO",
-      "organiser": "go TECHNO",
-      "priceTiers": [
-        {
-          "name": "Pay What You Want (From 3,000)",
-          "priceNaira": 3000,
-          "note": "minimum"
-        },
-        {
-          "name": "Pay What You Want (From 5,000)",
-          "priceNaira": 5000,
-          "note": "minimum"
-        }
-      ],
-      "series": null,
-      "sourceLinks": [
-        "https://www.instagram.com/reel/Ders4KiOLxO/",
-        "https://eventornigeria.com/explore/gotechno"
-      ],
-      "ticketLink": "https://eventornigeria.com/explore/gotechno",
-      "ticketNote": null,
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": true,
-      "venueName": "UNDA BY LYA",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/f339aa5c5d782dbfa1b6c2b8ecadac20ec10a9a0402f6698966ad412cb96e484-detail.webp",
-      "followingCount": 1
+      "followingCount": 3
     },
     {
       "address": "Scandic Hotel Iyana Era, Etigbin East Bus Stop, after Shibiri, Lagos",
@@ -1095,7 +1291,7 @@
         "Afrobeats"
       ],
       "id": "splah-city-30-2026-11-13",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "name": "SPLAH CITY 3.0",
       "organiser": "Adeyemi Adedeji",
       "priceTiers": [
@@ -1153,7 +1349,7 @@
         "African Dance Music"
       ],
       "id": "village-people-lagos-2026-11-13",
-      "lastVerified": "2026-10-30",
+      "lastVerified": "2026-11-05",
       "name": "Village People Lagos",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -1177,8 +1373,68 @@
       "ticketStatus": "announced",
       "unprovenPromoter": true,
       "venueName": "AMAH Studios",
-      "followingCount": 1,
+      "followingCount": 2,
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/acf0793b3eeb6d2d49c544f61c9ad21616146e0d9f2d2985a9d7f9e9be013b5e-detail.webp"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Lekki Phase 1",
+      "attendingCount": 1,
+      "changeLog": [
+        {
+          "date": "2026-10-20T00:00:00.000",
+          "description": "Date public (Nov 13); venue and tickets TBA"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Tickets went on sale on eventornigeria (₦3,000); 11 PM start"
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "Ticket list completed: two Pay What You Want options on sale — from ₦3,000 and from ₦5,000."
+        },
+        {
+          "date": "2026-10-30",
+          "description": "Venue confirmed as UNDA BY LYA on Eventor (was blank)."
+        }
+      ],
+      "date": "2026-11-13T00:00:00.000",
+      "description": null,
+      "doorsTime": "11:00 PM",
+      "eventType": "rave",
+      "flyerImageUrl": null,
+      "genres": [
+        "Techno"
+      ],
+      "id": "go-techno-2026-11-13",
+      "lastVerified": "2026-11-05",
+      "name": "go TECHNO",
+      "organiser": "go TECHNO",
+      "priceTiers": [
+        {
+          "name": "Pay What You Want (From 3,000)",
+          "priceNaira": 3000,
+          "note": "minimum"
+        },
+        {
+          "name": "Pay What You Want (From 5,000)",
+          "priceNaira": 5000,
+          "note": "minimum"
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/reel/Ders4KiOLxO/",
+        "https://eventornigeria.com/explore/gotechno"
+      ],
+      "ticketLink": "https://eventornigeria.com/explore/gotechno",
+      "ticketNote": null,
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "UNDA BY LYA",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/f339aa5c5d782dbfa1b6c2b8ecadac20ec10a9a0402f6698966ad412cb96e484-detail.webp",
+      "followingCount": 2
     },
     {
       "id": "silent-disco-7-penthouse-2026-11-14",
@@ -1217,7 +1473,7 @@
       "sourceLinks": [
         "https://www.linkupnaija.com/events/c58ad90c-ad94-4d85-b559-3db8377b3761"
       ],
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-02",
@@ -1228,7 +1484,113 @@
       "description": "Silent disco on the Palm Terrace Rooftop at Four Points by Sheraton Lagos — headphones, multiple DJ channels under the stars, 6 PM–midnight. Request to join via LinkUpNaija.",
       "eventType": "club",
       "attendingCount": 1,
-      "followingCount": 1
+      "followingCount": 2
+    },
+    {
+      "address": "Admiralty Way, opposite Farmcity, Lekki Phase 1",
+      "ageLimit": null,
+      "area": "Lekki Phase 1",
+      "attendingCount": 1,
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — DJ night with SEXY DJ TOPZY and DJ AVATAR, 9 PM–5 AM in Lekki Phase 1. Prices weren't published yet."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Tickets now on sale: full prices published — Early Bird (free) sold out; paid tiers ₦5,000–₦500,000. Venue: VYBZ Lifestyle, Lekki."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "ELHAY added as host DJ, alongside SEXY DJ TOPZY and DJ AVATAR. Doors confirmed 9 PM–5 AM; prices and genres unchanged."
+        },
+        {
+          "date": "2026-11-01",
+          "description": "Venue corrected to Muri Okunola Park, VI (was VYBZ Lifestyle). Prices and lineup (ELHAY, TOPZY, AVATAR) confirmed."
+        },
+        {
+          "date": "2026-11-02",
+          "description": "Lineup: SEXY DJ TOPZY, DJ AVATAR."
+        },
+        {
+          "date": "2026-11-02",
+          "description": "Lineup confirmed: ELHAY (host DJ), SEXY DJ TOPZY and DJ AVATAR (guest DJs); 7FIGURES OLORIN is a guest artist and KJM is the host. Doors 9 PM–5 AM and all prices confirmed. The venue is still being finalised — Muri Okunola Park is shown for now."
+        },
+        {
+          "date": "2026-11-02",
+          "description": "Venue corrected to VYBZ Lifestyle, Admiralty Way, Lekki (was Muri Okunola Park). Lineup updated: D. THRILL joins ELHAY and SEXY DJ TOPZY."
+        }
+      ],
+      "date": "2026-11-14T00:00:00.000",
+      "description": "DJ night with ELHAY (Host DJ), SEXY DJ TOPZY and D. THRILL at VYBZ Lifestyle, Lekki — Afrobeats, amapiano, Afro house and hip-hop.",
+      "doorsTime": "9 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [
+        "Afrobeats",
+        "Amapiano",
+        "Afro House",
+        "Hip Hop"
+      ],
+      "id": "frequency-arena-2026-11-14",
+      "lastVerified": "2026-11-05",
+      "name": "FREQUENCY ARENA",
+      "organiser": "Unknown organiser",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": "sold out",
+          "priceNaira": 0
+        },
+        {
+          "name": "Open Frequency",
+          "note": "₦10,000 at the gate",
+          "priceNaira": 5000
+        },
+        {
+          "name": "HERTZ",
+          "note": null,
+          "priceNaira": 10000
+        },
+        {
+          "name": "RESONANCE",
+          "note": "couples",
+          "priceNaira": 25000
+        },
+        {
+          "name": "AMPLITUDE",
+          "note": "group of 5",
+          "priceNaira": 40000
+        },
+        {
+          "name": "PEAK POWER",
+          "note": "table for 4 — page simultaneously says '6GUESTS', 'Access for 4 Guest', 'covers 6 entry tags', ₦110,000 menu credit (inconsistency preserved)",
+          "priceNaira": 200000
+        },
+        {
+          "name": "EXECUTIVE TABLE",
+          "note": null,
+          "priceNaira": 500000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://jubilq.com/e/2c168f07-84fb-47dd-a082-5f53816b0d5e",
+        "https://pv.rsvp/frequency-arena",
+        "https://shows.ng/event/frequency-arena"
+      ],
+      "ticketLink": "https://pv.rsvp/frequency-arena",
+      "ticketNote": "Tickets on PartyVerse: Early Bird Free sold out; Open Frequency ₦5,000 (₦10,000 at the gate); HERTZ ₦10,000; RESONANCE ₦25,000 (couples); AMPLITUDE ₦40,000 (group of 5); tables ₦200,000/₦500,000. 9 PM–5 AM at VYBZ Lifestyle, Admiralty Way, Lekki.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "VYBZ Lifestyle",
+      "followingCount": 0,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/ec54d426fce3895c4981e1a9a8bdc0ae4f425130dbfe845c48bf0622d921a1cb-detail.webp",
+      "djs": [
+        "ELHAY",
+        "SEXY DJ TOPZY",
+        "D. THRILL"
+      ]
     },
     {
       "address": "opp. Enyo Filling Station, Lasu-Iba First Gate, Ojo",
@@ -1305,112 +1667,6 @@
       "unprovenPromoter": true,
       "venueName": "Moricks Field",
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/cbdfce1ee65257ca34621d86df078bcd7d78ec407354a461f913924bcea270d1-detail.webp"
-    },
-    {
-      "address": "Admiralty Way, opposite Farmcity, Lekki Phase 1",
-      "ageLimit": null,
-      "area": "Lekki Phase 1",
-      "attendingCount": 1,
-      "changeLog": [
-        {
-          "date": "2026-10-24T00:00:00.000",
-          "description": "Listed — DJ night with SEXY DJ TOPZY and DJ AVATAR, 9 PM–5 AM in Lekki Phase 1. Prices weren't published yet."
-        },
-        {
-          "date": "2026-10-27T00:00:00.000",
-          "description": "Tickets now on sale: full prices published — Early Bird (free) sold out; paid tiers ₦5,000–₦500,000. Venue: VYBZ Lifestyle, Lekki."
-        },
-        {
-          "date": "2026-10-28T00:00:00.000",
-          "description": "ELHAY added as host DJ, alongside SEXY DJ TOPZY and DJ AVATAR. Doors confirmed 9 PM–5 AM; prices and genres unchanged."
-        },
-        {
-          "date": "2026-11-01",
-          "description": "Venue corrected to Muri Okunola Park, VI (was VYBZ Lifestyle). Prices and lineup (ELHAY, TOPZY, AVATAR) confirmed."
-        },
-        {
-          "date": "2026-11-02",
-          "description": "Lineup: SEXY DJ TOPZY, DJ AVATAR."
-        },
-        {
-          "date": "2026-11-02",
-          "description": "Lineup confirmed: ELHAY (host DJ), SEXY DJ TOPZY and DJ AVATAR (guest DJs); 7FIGURES OLORIN is a guest artist and KJM is the host. Doors 9 PM–5 AM and all prices confirmed. The venue is still being finalised — Muri Okunola Park is shown for now."
-        },
-        {
-          "date": "2026-11-02",
-          "description": "Venue corrected to VYBZ Lifestyle, Admiralty Way, Lekki (was Muri Okunola Park). Lineup updated: D. THRILL joins ELHAY and SEXY DJ TOPZY."
-        }
-      ],
-      "date": "2026-11-14T00:00:00.000",
-      "description": "DJ night with ELHAY (Host DJ), SEXY DJ TOPZY and D. THRILL at VYBZ Lifestyle, Lekki — Afrobeats, amapiano, Afro house and hip-hop.",
-      "doorsTime": "9 PM",
-      "eventType": "club",
-      "flyerImageUrl": null,
-      "genres": [
-        "Afrobeats",
-        "Amapiano",
-        "Afro House",
-        "Hip Hop"
-      ],
-      "id": "frequency-arena-2026-11-14",
-      "lastVerified": "2026-11-02",
-      "name": "FREQUENCY ARENA",
-      "organiser": "Unknown organiser",
-      "priceTiers": [
-        {
-          "name": "Early Bird",
-          "note": "sold out",
-          "priceNaira": 0
-        },
-        {
-          "name": "Open Frequency",
-          "note": "₦10,000 at the gate",
-          "priceNaira": 5000
-        },
-        {
-          "name": "HERTZ",
-          "note": null,
-          "priceNaira": 10000
-        },
-        {
-          "name": "RESONANCE",
-          "note": "couples",
-          "priceNaira": 25000
-        },
-        {
-          "name": "AMPLITUDE",
-          "note": "group of 5",
-          "priceNaira": 40000
-        },
-        {
-          "name": "PEAK POWER",
-          "note": "table for 4 — page simultaneously says '6GUESTS', 'Access for 4 Guest', 'covers 6 entry tags', ₦110,000 menu credit (inconsistency preserved)",
-          "priceNaira": 200000
-        },
-        {
-          "name": "EXECUTIVE TABLE",
-          "note": null,
-          "priceNaira": 500000
-        }
-      ],
-      "series": null,
-      "sourceLinks": [
-        "https://jubilq.com/e/2c168f07-84fb-47dd-a082-5f53816b0d5e",
-        "https://pv.rsvp/frequency-arena",
-        "https://shows.ng/event/frequency-arena"
-      ],
-      "ticketLink": "https://pv.rsvp/frequency-arena",
-      "ticketNote": "Tickets on PartyVerse: Early Bird Free sold out; Open Frequency ₦5,000 (₦10,000 at the gate); HERTZ ₦10,000; RESONANCE ₦25,000 (couples); AMPLITUDE ₦40,000 (group of 5); tables ₦200,000/₦500,000. 9 PM–5 AM at VYBZ Lifestyle, Admiralty Way, Lekki.",
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": true,
-      "venueName": "VYBZ Lifestyle",
-      "followingCount": 0,
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/ec54d426fce3895c4981e1a9a8bdc0ae4f425130dbfe845c48bf0622d921a1cb-detail.webp",
-      "djs": [
-        "ELHAY",
-        "SEXY DJ TOPZY",
-        "D. THRILL"
-      ]
     },
     {
       "address": null,
@@ -1557,7 +1813,7 @@
       ],
       "description": "Party with Dj Rainbow, 3 PM–1:30 AM. Tickets from ₦20,000 on MyAccessPlug.",
       "flyerImageUrl": null,
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-04",
@@ -1602,7 +1858,7 @@
       "eventType": "club",
       "description": "Groove night with Amapiano, 3-Step and Afrotech sounds, 10 PM. Announced on Instagram by Groove Station. Tickets ₦7,450 on Groove Station; the venue hasn't been announced yet.",
       "flyerImageUrl": null,
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-04",
@@ -1696,7 +1952,7 @@
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/0128e714ab3a94320640632c97ec28f44e9335fe5a631ef8ef8f6732341852a2-detail.webp"
     },
     {
-      "address": null,
+      "address": "288b Ajose Adeogun St, Victoria Island",
       "ageLimit": null,
       "area": "Victoria Island",
       "changeLog": [
@@ -1715,53 +1971,42 @@
         {
           "date": "2026-11-02",
           "description": "Lineup: DJ Nightwayve."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Venue corrected back to Trib3 Lagos, 288b Ajose Adeogun Street, Victoria Island, and prices updated: Early Bird (Second Wave) free; Premium table for 4 ₦150,000; Executive table for 6 ₦250,000."
         }
       ],
       "date": "2026-11-20T00:00:00.000",
-      "description": "Party With No Limits at Muri Okunola Park — DJ Nightwayve headlines, with DJs, hypemen and drummers. 7 PM–4 AM per the poster.",
+      "description": "Party With No Limits at Trib3 Lagos — DJ Nightwayve headlines, with DJs, hypemen and drummers. 7 PM–4 AM.",
       "doorsTime": "7 PM",
       "eventType": "club",
       "flyerImageUrl": null,
       "genres": [],
       "id": "the-night-wayve-experience-2026-11-20",
-      "lastVerified": "2026-11-01",
+      "lastVerified": "2026-11-05",
       "name": "The Night Wayve Experience (Party With No Limits)",
       "organiser": "Unknown organiser",
       "priceTiers": [
         {
-          "name": "Early Bird",
-          "note": null,
-          "priceNaira": 10000
+          "name": "Early Bird (First Wave)",
+          "priceNaira": 0,
+          "note": "sold out"
         },
         {
-          "name": "Regular",
-          "note": null,
-          "priceNaira": 15000
+          "name": "Early Bird (Second Wave)",
+          "priceNaira": 0,
+          "note": null
         },
         {
-          "name": "VIP",
-          "note": null,
-          "priceNaira": 25000
+          "name": "Premium (Table For 4)",
+          "priceNaira": 150000,
+          "note": null
         },
         {
-          "name": "Silver Table",
-          "note": null,
-          "priceNaira": 200000
-        },
-        {
-          "name": "Gold Table",
-          "note": null,
-          "priceNaira": 400000
-        },
-        {
-          "name": "Platinum Table",
-          "note": null,
-          "priceNaira": 500000
-        },
-        {
-          "name": "Diamond Table",
-          "note": null,
-          "priceNaira": 1000000
+          "name": "Executive (Table For 6)",
+          "priceNaira": 250000,
+          "note": null
         }
       ],
       "series": null,
@@ -1769,10 +2014,10 @@
         "https://tix.africa/discover/pwnl"
       ],
       "ticketLink": "https://tix.africa/discover/pwnl",
-      "ticketNote": "Tickets on sale on tix.africa — Early Bird ₦10,000; Regular ₦15,000; VIP ₦25,000; tables ₦200,000–₦1,000,000. Headliner DJ Nightwayve.",
+      "ticketNote": "Tickets on sale on tix.africa — Early Bird (Second Wave) free; Premium table for 4 ₦150,000; Executive table for 6 ₦250,000. Headliner DJ Nightwayve.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "Muri Okunola Park",
+      "venueName": "Trib3 Lagos",
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3ab736d7ae00e4c2c339c01ccc172b64e8aaedf352a0594936e132704a0dbd39-detail.webp",
       "djs": [
         "DJ Nightwayve"
@@ -1800,7 +2045,7 @@
         "Global Sounds"
       ],
       "id": "turn-up-lagos-2026-11-20",
-      "lastVerified": "2026-10-30",
+      "lastVerified": "2026-11-05",
       "name": "Turn Up Lagos",
       "organiser": "Livespot",
       "priceTiers": [
@@ -1872,7 +2117,7 @@
       "unprovenPromoter": true,
       "eventType": "rave",
       "description": "Gen Z rave hosted by Wapsam in Ikeja with DJs and dancing, 8 PM–5 AM at Sinatra Place, 16B Ladipo Oluwole Street.",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
@@ -1929,7 +2174,7 @@
       "unprovenPromoter": true,
       "eventType": "club",
       "description": "18+ freshers night in Epe with top DJs and hype men, ladies free, at Victoria Point Hotel.",
-      "lastVerified": "2026-11-01",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
@@ -1942,6 +2187,60 @@
       ],
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/d4f1c64921eba3f06c8bd8562b3e4c3154d89cc4eebd9776e73cf6279156b177-detail.webp",
       "attendingCount": 1,
+      "followingCount": 1
+    },
+    {
+      "address": "D' Place By Papiee's, Lekki Phase 1",
+      "ageLimit": null,
+      "area": "Lekki",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — two-day 'executive party' in Lekki (venue still to be announced; Nov 21–22, 10 PM), via DOT TIX; General Access ₦50,000 covers free drinks and free chops. Music genres haven't been published."
+        },
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Second ticket route found on tix.africa (₦54,100 single tier); DOT TIX remains the primary route."
+        },
+        {
+          "date": "2026-10-26T00:00:00.000",
+          "description": "Dates confirmed: runs Nov 21–22 (10 PM) — listed through Nov 22."
+        },
+        {
+          "date": "2026-11-03",
+          "description": "Venue announced: D' Place By Papiee's, Lekki Phase 1; doors 6 PM."
+        }
+      ],
+      "date": "2026-11-21T00:00:00.000",
+      "description": "Executive-style two-night party in Lekki — 'Same House, Different Rules'. No music genres have been published for the night yet.",
+      "doorsTime": "6 PM",
+      "endDate": "2026-11-22T00:00:00.000",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "dirty-house-party-2026-11-21",
+      "lastVerified": "2026-11-05",
+      "name": "Dirty House Party",
+      "organiser": "SoundandSips",
+      "priceTiers": [
+        {
+          "name": "General Access",
+          "note": "Covers free drinks and free chops",
+          "priceNaira": 50000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://tix.dot360.co/event/dirty-house-party",
+        "https://tix.africa/discover/dirtyhousepartyticket"
+      ],
+      "ticketLink": "https://tix.dot360.co/event/dirty-house-party",
+      "ticketNote": "Two-day event, Sat Nov 21 – Sun Nov 22, 10 PM. Exact venue still undisclosed. 7.5% VAT added at checkout on DOT TIX.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "D' Place By Papiee's",
+      "attendingCount": 0,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/afc3f30de8d81a3c181290fb1ab63d5de724844acda8e4180f6832842b58b9ef-detail.webp",
       "followingCount": 1
     },
     {
@@ -1972,7 +2271,7 @@
         "Afro House"
       ],
       "id": "ile-ijo-2026-11-21",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "name": "ILÉ ÌJÓ",
       "organiser": "Disturbing Gidi",
       "priceTiers": [
@@ -1992,53 +2291,6 @@
       "unprovenPromoter": false,
       "venueName": "Casa 45",
       "flyerDetailImageUrl": null,
-      "followingCount": 1
-    },
-    {
-      "address": null,
-      "ageLimit": null,
-      "area": "Victoria Island",
-      "changeLog": [
-        {
-          "date": "2026-10-24T00:00:00.000",
-          "description": "Listed — all-female DJ night at Trib3 Lagos (DJ Dayzee, DJ Elsie), 9PM–4AM; regular entry free on tix.africa; poster table packages not in checkout."
-        },
-        {
-          "date": "2026-11-02",
-          "description": "Lineup: DJ Dayzee, DJ Elsie."
-        }
-      ],
-      "date": "2026-11-21T00:00:00.000",
-      "description": "All-female DJ night at Trib3 Lagos — DJ Dayzee and DJ Elsie, 9PM–4AM; regular entry free (admits one lady).",
-      "doorsTime": "9 PM",
-      "eventType": "club",
-      "flyerImageUrl": null,
-      "genres": [],
-      "id": "velvet-nitez-2026-11-21",
-      "lastVerified": "2026-11-01",
-      "name": "Velvet Nitez",
-      "organiser": "Unknown organiser",
-      "priceTiers": [
-        {
-          "name": "Regular",
-          "note": "admits one lady",
-          "priceNaira": 0
-        }
-      ],
-      "series": null,
-      "sourceLinks": [
-        "https://tix.africa/discover/velvetnitez"
-      ],
-      "ticketLink": "https://tix.africa/discover/velvetnitez",
-      "ticketNote": "All-female DJ lineup: DJ Dayzee and DJ Elsie. Poster table packages ₦400,000–₦1,000,000 not in checkout.",
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": true,
-      "venueName": "Trib3 Lagos",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/2b2807eb990b3f855110cc6d3be1c384a404b8bd8834f8848bfb4ebb656befbb-detail.webp",
-      "djs": [
-        "DJ Dayzee",
-        "DJ Elsie"
-      ],
       "followingCount": 1
     },
     {
@@ -2085,57 +2337,50 @@
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/d7cdf4caa4cfe04a3de0e7680faa04152ddab8c1f9680582d84cbdc35ba0557b-detail.webp"
     },
     {
-      "address": "D' Place By Papiee's, Lekki Phase 1",
+      "address": null,
       "ageLimit": null,
-      "area": "Lekki",
+      "area": "Victoria Island",
       "changeLog": [
         {
-          "date": "2026-10-22T00:00:00.000",
-          "description": "Listed — two-day 'executive party' in Lekki (venue still to be announced; Nov 21–22, 10 PM), via DOT TIX; General Access ₦50,000 covers free drinks and free chops. Music genres haven't been published."
-        },
-        {
           "date": "2026-10-24T00:00:00.000",
-          "description": "Second ticket route found on tix.africa (₦54,100 single tier); DOT TIX remains the primary route."
+          "description": "Listed — all-female DJ night at Trib3 Lagos (DJ Dayzee, DJ Elsie), 9PM–4AM; regular entry free on tix.africa; poster table packages not in checkout."
         },
         {
-          "date": "2026-10-26T00:00:00.000",
-          "description": "Dates confirmed: runs Nov 21–22 (10 PM) — listed through Nov 22."
-        },
-        {
-          "date": "2026-11-03",
-          "description": "Venue announced: D' Place By Papiee's, Lekki Phase 1; doors 6 PM."
+          "date": "2026-11-02",
+          "description": "Lineup: DJ Dayzee, DJ Elsie."
         }
       ],
       "date": "2026-11-21T00:00:00.000",
-      "description": "Executive-style two-night party in Lekki — 'Same House, Different Rules'. No music genres have been published for the night yet.",
-      "doorsTime": "6 PM",
-      "endDate": "2026-11-22T00:00:00.000",
+      "description": "All-female DJ night at Trib3 Lagos — DJ Dayzee and DJ Elsie, 9PM–4AM; regular entry free (admits one lady).",
+      "doorsTime": "9 PM",
       "eventType": "club",
       "flyerImageUrl": null,
       "genres": [],
-      "id": "dirty-house-party-2026-11-21",
-      "lastVerified": "2026-11-03",
-      "name": "Dirty House Party",
-      "organiser": "SoundandSips",
+      "id": "velvet-nitez-2026-11-21",
+      "lastVerified": "2026-11-05",
+      "name": "Velvet Nitez",
+      "organiser": "Unknown organiser",
       "priceTiers": [
         {
-          "name": "General Access",
-          "note": "Covers free drinks and free chops",
-          "priceNaira": 50000
+          "name": "Regular",
+          "note": "admits one lady",
+          "priceNaira": 0
         }
       ],
       "series": null,
       "sourceLinks": [
-        "https://tix.dot360.co/event/dirty-house-party",
-        "https://tix.africa/discover/dirtyhousepartyticket"
+        "https://tix.africa/discover/velvetnitez"
       ],
-      "ticketLink": "https://tix.dot360.co/event/dirty-house-party",
-      "ticketNote": "Two-day event, Sat Nov 21 – Sun Nov 22, 10 PM. Exact venue still undisclosed. 7.5% VAT added at checkout on DOT TIX.",
+      "ticketLink": "https://tix.africa/discover/velvetnitez",
+      "ticketNote": "All-female DJ lineup: DJ Dayzee and DJ Elsie. Poster table packages ₦400,000–₦1,000,000 not in checkout.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
-      "venueName": "D' Place By Papiee's",
-      "attendingCount": 0,
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/afc3f30de8d81a3c181290fb1ab63d5de724844acda8e4180f6832842b58b9ef-detail.webp",
+      "venueName": "Trib3 Lagos",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/2b2807eb990b3f855110cc6d3be1c384a404b8bd8834f8848bfb4ebb656befbb-detail.webp",
+      "djs": [
+        "DJ Dayzee",
+        "DJ Elsie"
+      ],
       "followingCount": 1
     },
     {
@@ -2182,7 +2427,7 @@
       "sourceLinks": [
         "https://bwe.sellenda.com.ng/events/lasgidi-carnival-mara-rave"
       ],
-      "lastVerified": "2026-10-30",
+      "lastVerified": "2026-11-05",
       "unprovenPromoter": true,
       "description": "Lasgidi Carnival mara rave in Ikorodu — Eyo dance, live performance, DJ and hypeman, rave and Lagos vibes.",
       "changeLog": [
@@ -2220,7 +2465,7 @@
       "sourceLinks": [
         "https://www.sellenda.com.ng/events/semester-kickoff"
       ],
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-02",
@@ -2233,49 +2478,6 @@
       "djs": [
         "DJ Litwak"
       ]
-    },
-    {
-      "id": "all-black-rave-2026-11-27",
-      "name": "The All Black Rave",
-      "organiser": "The Vibe District",
-      "series": null,
-      "date": "2026-11-27T00:00:00.000",
-      "doorsTime": null,
-      "venueName": "Moricks Lounge",
-      "area": "Ikorodu",
-      "address": "Moricks Lounge, Ikorodu, Lagos",
-      "genres": [],
-      "ageLimit": null,
-      "eventType": "rave",
-      "priceTiers": [
-        {
-          "name": "General admission",
-          "note": null,
-          "priceNaira": 2000
-        }
-      ],
-      "ticketLink": "https://www.sellenda.com.ng/events/the-vibe-district-party-",
-      "ticketNote": "Tickets on sale on Sellenda. Doors time hasn't been confirmed yet. DJ BoboBlavk is on the decks and Hypeman Terry will keep the crowd moving till the end.",
-      "ticketStatus": "ticketsOnSale",
-      "flyerImageUrl": null,
-      "sourceLinks": [
-        "https://www.sellenda.com.ng/events/the-vibe-district-party-"
-      ],
-      "lastVerified": "2026-10-30",
-      "unprovenPromoter": true,
-      "description": "The Vibe District's Inception — an all-black themed rave in Ikorodu with DJ Bobo Blavk on the decks, red carpet, heavy music and energy. Dress in all black.",
-      "changeLog": [
-        {
-          "date": "2026-10-28T00:00:00.000",
-          "description": "Listed — Nov 27, Moricks Lounge, Ikorodu; general admission ₦2,000 on sale. Doors time hasn't been published yet."
-        },
-        {
-          "date": "2026-10-29T00:00:00.000",
-          "description": "DJ name spelling corrected to BoboBlavk."
-        }
-      ],
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/7402c665dbaaafde300f94858437a5f06591f92a3d1aaf4cbd6f016f92d29868-detail.webp",
-      "attendingCount": 0
     },
     {
       "address": "Muri Okunola Park, Victoria Island",
@@ -2308,7 +2510,7 @@
         "Afrobeats"
       ],
       "id": "fashion-rave-2026-2026-11-27",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "name": "FASHION RAVE 2026",
       "organiser": "Fashions Finest Africa",
       "priceTiers": [
@@ -2358,6 +2560,10 @@
         {
           "date": "2026-10-27T00:00:00.000",
           "description": "Tickets confirmed on sale: Early Bird ₦50,000 sold out, Regular ₦100,000 on sale, door tickets ₦150,000. Date confirmed: Nov 27 only (6 PM)."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Lineup announced: Shimza, Sofiya Nzau, Aniko, Skillz, Tobi Peter, Pa Ngu and Sons of Ubuntu."
         }
       ],
       "date": "2026-11-27T00:00:00.000",
@@ -2370,7 +2576,7 @@
         "Electronic"
       ],
       "id": "gods-of-house-eleventh-2026-11-27",
-      "lastVerified": "2026-10-28T00:00:00.000",
+      "lastVerified": "2026-11-05",
       "name": "GODS OF HOUSE: THE ELEVENTH HOUSE",
       "organiser": "Spektrum Entertainment",
       "priceTiers": [
@@ -2401,7 +2607,59 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": null,
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/e0a6bbf35bf771de9d0ac735f236738001804725ac04ead191a27d5dfe5c8732-detail.webp"
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/e0a6bbf35bf771de9d0ac735f236738001804725ac04ead191a27d5dfe5c8732-detail.webp",
+      "djs": [
+        "Shimza",
+        "Sofiya Nzau",
+        "Aniko",
+        "Skillz",
+        "Tobi Peter",
+        "Pa Ngu",
+        "Sons of Ubuntu"
+      ]
+    },
+    {
+      "id": "all-black-rave-2026-11-27",
+      "name": "The All Black Rave",
+      "organiser": "The Vibe District",
+      "series": null,
+      "date": "2026-11-27T00:00:00.000",
+      "doorsTime": null,
+      "venueName": "Moricks Lounge",
+      "area": "Ikorodu",
+      "address": "Moricks Lounge, Ikorodu, Lagos",
+      "genres": [],
+      "ageLimit": null,
+      "eventType": "rave",
+      "priceTiers": [
+        {
+          "name": "General admission",
+          "note": null,
+          "priceNaira": 2000
+        }
+      ],
+      "ticketLink": "https://www.sellenda.com.ng/events/the-vibe-district-party-",
+      "ticketNote": "Tickets on sale on Sellenda. Doors time hasn't been confirmed yet. DJ BoboBlavk is on the decks and Hypeman Terry will keep the crowd moving till the end.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://www.sellenda.com.ng/events/the-vibe-district-party-"
+      ],
+      "lastVerified": "2026-10-30",
+      "unprovenPromoter": true,
+      "description": "The Vibe District's Inception — an all-black themed rave in Ikorodu with DJ Bobo Blavk on the decks, red carpet, heavy music and energy. Dress in all black.",
+      "changeLog": [
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "Listed — Nov 27, Moricks Lounge, Ikorodu; general admission ₦2,000 on sale. Doors time hasn't been published yet."
+        },
+        {
+          "date": "2026-10-29T00:00:00.000",
+          "description": "DJ name spelling corrected to BoboBlavk."
+        }
+      ],
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/7402c665dbaaafde300f94858437a5f06591f92a3d1aaf4cbd6f016f92d29868-detail.webp",
+      "attendingCount": 0
     },
     {
       "id": "tolk-n-do-tour-oworo-rave-2026-11-28",
@@ -2449,6 +2707,76 @@
         "DJ SKY",
         "DJ VKING"
       ]
+    },
+    {
+      "id": "trance-8-the-matrix-2026-11-28",
+      "name": "Trance 8: The Matrix",
+      "organiser": "Club Trance",
+      "series": null,
+      "date": "2026-11-28",
+      "doorsTime": "5 PM",
+      "venueName": null,
+      "area": "TBA",
+      "address": null,
+      "genres": [
+        "Electronic"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Fastest Fingers",
+          "priceNaira": 3845,
+          "note": "sold out"
+        },
+        {
+          "name": "Early Bird",
+          "priceNaira": 5985,
+          "note": "sold out"
+        },
+        {
+          "name": "Regular (Batch 1)",
+          "priceNaira": 6948,
+          "note": null
+        },
+        {
+          "name": "Triad (Group of 3)",
+          "priceNaira": 18290,
+          "note": null
+        },
+        {
+          "name": "Syndicate (Group of 5)",
+          "priceNaira": 31130,
+          "note": null
+        },
+        {
+          "name": "Early Bird VIP",
+          "priceNaira": 21500,
+          "note": null
+        },
+        {
+          "name": "VIP",
+          "priceNaira": 32200,
+          "note": null
+        }
+      ],
+      "ticketLink": "https://www.jetronticket.com/trance8",
+      "ticketNote": "Tickets on sale on Jetron; the location is hidden and shared with ticket holders.",
+      "ticketStatus": "ticketsOnSale",
+      "sourceLinks": [
+        "https://www.jetronticket.com/trance8"
+      ],
+      "unprovenPromoter": false,
+      "eventType": "rave",
+      "description": "Trance and EDM night, 5 PM–8 AM. The location is hidden and shared with ticket holders.",
+      "flyerImageUrl": null,
+      "lastVerified": "2026-11-04",
+      "changeLog": [
+        {
+          "date": "2026-11-04",
+          "description": "Listed — Trance 8: The Matrix, Nov 28, 5 PM–8 AM: trance and EDM night on Jetron; location hidden until ticket purchase."
+        }
+      ],
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/41c6d6f1347cd2b62695302c6496952db603a14127c656b66643f94df622ae2d-detail.webp"
     },
     {
       "id": "zeal-music-tempol-2026-11-28",
@@ -2500,21 +2828,26 @@
         "https://jubilq.com/e/c21f910c-4095-4263-8b46-2e524b350bdc",
         "https://www.jetronticket.com/zealmusictempol"
       ],
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-02",
           "description": "Listed — Zeal Music Tempol Season 3 at Area J Police Headquarters, Elemoro."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Correction: Zeal Music Tempol is on its third season."
         }
       ],
-      "unprovenPromoter": true,
-      "description": "Zeal Music Tempol Season 3 (Triple Dose) at Area J Police Headquarters, Elemoro, Ibeju-Lekki — red carpet 7 PM, show 9 PM, with DEEJAY SUJAY, KLASSIC DEEJAY ZEAL and GOVNOR DJ VICKISS. Regular entry free (terms apply); tables ₦100,000–₦400,000.",
+      "unprovenPromoter": false,
+      "description": "Zeal Music Tempol Season 3 (Triple Dose) at Area J Police Headquarters, Elemoro, Ibeju-Lekki — red carpet 7 PM, show 8 PM, with DEEJAY SUJAY, KLASSIC DEEJAY ZEAL and GOVNOR DJ VICKISS. Regular entry free (terms apply); tables ₦100,000–₦400,000.",
       "eventType": "rave",
       "djs": [
         "DEEJAY SUJAY",
         "KLASSIC DEEJAY ZEAL",
         "GOVNOR DJ VICKISS"
-      ]
+      ],
+      "followingCount": 0
     },
     {
       "address": "Adeniyi Jones, Lagos",
@@ -2533,7 +2866,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "before-it-gets-detty-2026-11-28",
-      "lastVerified": "2026-11-01",
+      "lastVerified": "2026-11-05",
       "name": "Before it Gets Detty",
       "organiser": "TheNateExperience",
       "priceTiers": [
@@ -2555,6 +2888,74 @@
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/1887d02e4d187e406504e01af54856f42c45c5884019183fb80bdf408e9e71a5-detail.webp"
     },
     {
+      "id": "fire-sand-november-2026-11-28",
+      "name": "FIRE&SAND – November",
+      "organiser": "FIRE&SAND",
+      "series": null,
+      "date": "2026-11-28T00:00:00.000",
+      "doorsTime": "7 PM",
+      "venueName": "Nautica Beach Resort",
+      "area": "Lekki",
+      "address": "Elegushi Beach Road, Lekki",
+      "genres": [],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Pre-Sale",
+          "priceNaira": 5615,
+          "note": "sold out"
+        },
+        {
+          "name": "Early Bird",
+          "priceNaira": 7797,
+          "note": null
+        },
+        {
+          "name": "Early Bird Wave 2",
+          "priceNaira": 9979,
+          "note": null
+        },
+        {
+          "name": "Regular",
+          "priceNaira": 14343,
+          "note": null
+        },
+        {
+          "name": "Regular",
+          "priceNaira": 16525,
+          "note": null
+        },
+        {
+          "name": "VIP Cocktail tables",
+          "priceNaira": 218360,
+          "note": null
+        },
+        {
+          "name": "Cabana VIP",
+          "priceNaira": 398375,
+          "note": null
+        }
+      ],
+      "ticketLink": "https://thepartycompany.ng/index.php?event=firesand-november",
+      "ticketNote": "Tickets on sale on ThePartyCompany: Early Bird ₦7,797; Regular ₦14,343 and ₦16,525; VIP tables from ₦218,360. Pre-Sale sold out.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "flyerDetailImageUrl": null,
+      "sourceLinks": [
+        "https://thepartycompany.ng/index.php?event=firesand-november"
+      ],
+      "lastVerified": "2026-11-05",
+      "changeLog": [
+        {
+          "date": "2026-11-05",
+          "description": "Listed — FIRE&SAND returns to Nautica Beach Resort for its November edition."
+        }
+      ],
+      "unprovenPromoter": false,
+      "description": "FIRE&SAND returns to Nautica Beach Resort for its November edition — a beachside party, 7 PM.",
+      "eventType": "club"
+    },
+    {
       "address": "Cele Bus Stop, 1 Love-All St, Ikosi Ketu, Kosofe, Lagos",
       "ageLimit": null,
       "area": "Kosofe",
@@ -2571,7 +2972,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "halloween-mask-party-2026-11-28",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-05",
       "name": "HALLOWEEN MASK PARTY",
       "organiser": "DJ WEALTH",
       "priceTiers": [
@@ -2724,6 +3125,10 @@
         {
           "date": "2026-11-02",
           "description": "Lineup: DJ MCLEV, DJ KENNEX, DJ ARYZ."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Tickets sold out."
         }
       ],
       "date": "2026-11-28T00:00:00.000",
@@ -2733,7 +3138,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "silent-disco-2-2026-11-28",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-05",
       "name": "Silent Disco 2.0",
       "organiser": "Foot N Cups",
       "priceTiers": [
@@ -2749,7 +3154,7 @@
       ],
       "ticketLink": "https://shows.ng/event/silent-disco-2-0",
       "ticketNote": "General tickets are shown as sold out on shows.ng — being confirmed with the seller.",
-      "ticketStatus": "ticketsOnSale",
+      "ticketStatus": "soldOut",
       "unprovenPromoter": false,
       "venueName": "F'N'C Sport Complex",
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/efcda34413489a12d6f715a3a795e6d925cb853c0bbeccdccd0c2ed6f1d9a437-detail.webp",
@@ -2781,7 +3186,7 @@
         "House"
       ],
       "id": "the-balcony-experience-2026-11-28",
-      "lastVerified": "2026-10-30",
+      "lastVerified": "2026-11-05",
       "name": "The Balcony Experience",
       "organiser": "Temiloluwa Adekanmi",
       "priceTiers": [
@@ -2831,7 +3236,7 @@
         "Electronic"
       ],
       "id": "wilders-2-2026-11-28",
-      "lastVerified": "2026-10-30",
+      "lastVerified": "2026-11-05",
       "name": "Wilders party 2.0",
       "organiser": "Didiboy (Wildersland)",
       "priceTiers": [
@@ -2879,76 +3284,6 @@
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/7e12ccaf43ee655dddbbb834be53b7c168c0fa3a97ad4dfeba59e72590ddf2dd-detail.webp"
     },
     {
-      "id": "trance-8-the-matrix-2026-11-28",
-      "name": "Trance 8: The Matrix",
-      "organiser": "Club Trance",
-      "series": null,
-      "date": "2026-11-28",
-      "doorsTime": "5 PM",
-      "venueName": null,
-      "area": "TBA",
-      "address": null,
-      "genres": [
-        "Electronic"
-      ],
-      "ageLimit": null,
-      "priceTiers": [
-        {
-          "name": "Fastest Fingers",
-          "priceNaira": 3845,
-          "note": "sold out"
-        },
-        {
-          "name": "Early Bird",
-          "priceNaira": 5985,
-          "note": "sold out"
-        },
-        {
-          "name": "Regular (Batch 1)",
-          "priceNaira": 6948,
-          "note": null
-        },
-        {
-          "name": "Triad (Group of 3)",
-          "priceNaira": 18290,
-          "note": null
-        },
-        {
-          "name": "Syndicate (Group of 5)",
-          "priceNaira": 31130,
-          "note": null
-        },
-        {
-          "name": "Early Bird VIP",
-          "priceNaira": 21500,
-          "note": null
-        },
-        {
-          "name": "VIP",
-          "priceNaira": 32200,
-          "note": null
-        }
-      ],
-      "ticketLink": "https://www.jetronticket.com/trance8",
-      "ticketNote": "Tickets on sale on Jetron; the location is hidden and shared with ticket holders.",
-      "ticketStatus": "ticketsOnSale",
-      "sourceLinks": [
-        "https://www.jetronticket.com/trance8"
-      ],
-      "unprovenPromoter": false,
-      "eventType": "rave",
-      "description": "Trance and EDM night, 5 PM–8 AM. The location is hidden and shared with ticket holders.",
-      "flyerImageUrl": null,
-      "lastVerified": "2026-11-04",
-      "changeLog": [
-        {
-          "date": "2026-11-04",
-          "description": "Listed — Trance 8: The Matrix, Nov 28, 5 PM–8 AM: trance and EDM night on Jetron; location hidden until ticket purchase."
-        }
-      ],
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/41c6d6f1347cd2b62695302c6496952db603a14127c656b66643f94df622ae2d-detail.webp"
-    },
-    {
       "id": "chunesday-festival-2026-11-29",
       "name": "Chunesday Festival",
       "organiser": "Unknown organiser",
@@ -2981,7 +3316,7 @@
       "unprovenPromoter": true,
       "eventType": "club",
       "description": "The Tuesday party Chunesday turns into a full festival night of Afrobeats, Amapiano, hip-hop and throwbacks at Eridan Space, Ikeja.",
-      "lastVerified": "2026-11-01",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
@@ -3017,7 +3352,7 @@
       "sourceLinks": [
         "https://www.sellenda.com.ng/events/silent-disco-party"
       ],
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-02",
@@ -3071,7 +3406,7 @@
         "Dance"
       ],
       "id": "bare-fashion-evening-2026-11-29",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "name": "BARE FASHION EVENING: Threads of Energy",
       "organiser": "Bare Fashion Evening (Jonarry Agraka)",
       "priceTiers": [
@@ -3103,7 +3438,8 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Balmoral Convention Centre, Federal Palace Hotel",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/1354fc2e554841437120361a798826dbf5dd97d0eeb246021251ebff0d95f89c-detail.webp"
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/1354fc2e554841437120361a798826dbf5dd97d0eeb246021251ebff0d95f89c-detail.webp",
+      "attendingCount": 1
     },
     {
       "id": "the-playground-lock-off-edition-2026-12-04",
@@ -3119,47 +3455,43 @@
       "ageLimit": null,
       "priceTiers": [
         {
-          "name": "Guys",
-          "priceNaira": 3340,
-          "note": "incl. N340 fee; poster base N3,000"
+          "name": "Girls Free",
+          "priceNaira": 0,
+          "note": "free entry"
         },
         {
-          "name": "Ladies",
-          "priceNaira": 0,
-          "note": "free"
+          "name": "Guys",
+          "priceNaira": 3000,
+          "note": null
         },
         {
           "name": "VIP",
-          "priceNaira": 16300,
-          "note": "incl. N1,300 fee; poster base N15,000"
+          "priceNaira": 15000,
+          "note": null
         },
         {
           "name": "Table For 4",
-          "priceNaira": 54400,
-          "note": "incl. N4,400 fee; poster base N50,000"
+          "priceNaira": 50000,
+          "note": null
         },
         {
           "name": "Table For 8",
-          "priceNaira": 108800,
-          "note": "incl. N8,800 fee; poster base N100,000"
-        },
-        {
-          "name": "Free Tickets",
-          "priceNaira": 0,
-          "note": "8 left at check"
+          "priceNaira": 100000,
+          "note": null
         }
       ],
-      "ticketLink": "https://tix.africa/discover/the-playground-lock-off-edition",
-      "ticketNote": null,
-      "ticketStatus": "ticketsOnSale",
+      "ticketLink": "https://www.jaiyetracker.com/event/the-playground-lock-off-edition-1204",
+      "ticketNote": "Reserve a spot via Jaiye — girls free, guys ₦3,000, VIP ₦15,000, tables ₦50,000–₦100,000. Ticket sales open soon on tix.africa.",
+      "ticketStatus": "announced",
       "flyerImageUrl": null,
       "sourceLinks": [
-        "https://tix.africa/discover/the-playground-lock-off-edition"
+        "https://tix.africa/discover/the-playground-lock-off-edition",
+        "https://www.jaiyetracker.com/event/the-playground-lock-off-edition-1204"
       ],
       "unprovenPromoter": false,
       "eventType": "club",
-      "description": "DJ-led lock-off party at Pixel Lounge, Oworoshoki, 10 PM-5 AM. Poster music policy: DJ VKING, DJ SKY, DJ FRIZZY, with hypemen HypeMan DC, Richiee and Young Dollor. No genre is named on the page or poster.",
-      "lastVerified": "2026-10-30",
+      "description": "Late lounge party in Oworonshoki with DJs, hypemen and free tequila on arrival. 10 PM.",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-30",
@@ -3168,6 +3500,10 @@
         {
           "date": "2026-11-02",
           "description": "Lineup: DJ VKING, DJ SKY, DJ FRIZZY."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Ticket route moved to Jaiye while tix.africa sales open; prices updated to the poster prices: girls free, guys ₦3,000, VIP ₦15,000."
         }
       ],
       "attendingCount": 0,
@@ -3177,6 +3513,77 @@
         "DJ SKY",
         "DJ FRIZZY"
       ]
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — tech rave from the Rayda crew: VIP ₦87,440 and Premium Table ₦2,182,160 on sale; General Access ₦21,980 expired. Venue and a possible Dec 6 second night still to be confirmed."
+        },
+        {
+          "date": "2026-10-25T00:00:00.000",
+          "description": "Doors time set: 2 PM. Tickets are sold for Dec 5 (a Dec 6 date is mentioned but not confirmed)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "No changes (General Access ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160, incl. fees). A second night on Dec 6 isn't confirmed yet."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Second day confirmed: the event now runs Dec 5–6. Prices unchanged (General Access ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Runs Dec 5–6; prices confirmed (General Access ₦21,980 expired, VIP ₦87,440, Premium Table ₦2,182,160)."
+        },
+        {
+          "date": "2026-11-01",
+          "description": "No changes (General Access expired / VIP ₦87,440 / Premium Table ₦2,182,160; Dec 5–6)."
+        }
+      ],
+      "date": "2026-12-05T00:00:00.000",
+      "description": "Africa's first tech rave, all-white dress code, from the Rayda crew behind Eko Beach Rave. Runs Dec 5–6; the venue hasn't been named yet.",
+      "doorsTime": "2 PM",
+      "endDate": "2026-12-06T00:00:00.000",
+      "eventType": "rave",
+      "flyerImageUrl": null,
+      "genres": [
+        "Electronic"
+      ],
+      "id": "eko-casablanco-tech-rave-2026-12-05",
+      "lastVerified": "2026-11-05",
+      "name": "Eko Casablanco Tech Rave",
+      "organiser": "ÉKÓ Casablanco / Team Sagacious / RAYDA",
+      "priceTiers": [
+        {
+          "name": "General Access",
+          "note": "expired, incl. fees",
+          "priceNaira": 21980
+        },
+        {
+          "name": "VIP",
+          "note": "incl. fees",
+          "priceNaira": 87440
+        },
+        {
+          "name": "Premium Table",
+          "note": "incl. fees",
+          "priceNaira": 2182160
+        }
+      ],
+      "series": "Eko Casablanco",
+      "sourceLinks": [
+        "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave"
+      ],
+      "ticketLink": "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave",
+      "ticketNote": "VIP and Premium Table buyable on ThePartyCompany (prices incl. fees); General Access expired. Venue not named on the listing; runs Dec 5–6 per the detail page.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/93c280aabc341553891842edba0887be642674fb6c156da49bc814e4e41c7ede-detail.webp"
     },
     {
       "id": "vibes-voltage-splash-party-40-2026-12-05",
@@ -3222,7 +3629,7 @@
         "https://event.getbookt.io/vibes-voltage-splash-party-40-all-white-edition",
         "https://event.getbookt.io/cities/Lagos-6"
       ],
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "unprovenPromoter": false,
       "description": "All-white splash party, 4th edition, with DJ Wicked Dj 10sion — pool-party night in Victoria Island.",
       "changeLog": [
@@ -3249,77 +3656,6 @@
       ]
     },
     {
-      "address": null,
-      "ageLimit": null,
-      "area": "TBA",
-      "changeLog": [
-        {
-          "date": "2026-10-24T00:00:00.000",
-          "description": "Listed — tech rave from the Rayda crew: VIP ₦87,440 and Premium Table ₦2,182,160 on sale; General Access ₦21,980 expired. Venue and a possible Dec 6 second night still to be confirmed."
-        },
-        {
-          "date": "2026-10-25T00:00:00.000",
-          "description": "Doors time set: 2 PM. Tickets are sold for Dec 5 (a Dec 6 date is mentioned but not confirmed)."
-        },
-        {
-          "date": "2026-10-27T00:00:00.000",
-          "description": "No changes (General Access ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160, incl. fees). A second night on Dec 6 isn't confirmed yet."
-        },
-        {
-          "date": "2026-10-27T00:00:00.000",
-          "description": "Second day confirmed: the event now runs Dec 5–6. Prices unchanged (General Access ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160)."
-        },
-        {
-          "date": "2026-10-27T00:00:00.000",
-          "description": "Runs Dec 5–6; prices confirmed (General Access ₦21,980 expired, VIP ₦87,440, Premium Table ₦2,182,160)."
-        },
-        {
-          "date": "2026-11-01",
-          "description": "No changes (General Access expired / VIP ₦87,440 / Premium Table ₦2,182,160; Dec 5–6)."
-        }
-      ],
-      "date": "2026-12-05T00:00:00.000",
-      "description": "Africa's first tech rave, all-white dress code, from the Rayda crew behind Eko Beach Rave. Runs Dec 5–6; the venue hasn't been named yet.",
-      "doorsTime": "2 PM",
-      "endDate": "2026-12-06T00:00:00.000",
-      "eventType": "rave",
-      "flyerImageUrl": null,
-      "genres": [
-        "Electronic"
-      ],
-      "id": "eko-casablanco-tech-rave-2026-12-05",
-      "lastVerified": "2026-11-03",
-      "name": "Eko Casablanco Tech Rave",
-      "organiser": "ÉKÓ Casablanco / Team Sagacious / RAYDA",
-      "priceTiers": [
-        {
-          "name": "General Access",
-          "note": "expired, incl. fees",
-          "priceNaira": 21980
-        },
-        {
-          "name": "VIP",
-          "note": "incl. fees",
-          "priceNaira": 87440
-        },
-        {
-          "name": "Premium Table",
-          "note": "incl. fees",
-          "priceNaira": 2182160
-        }
-      ],
-      "series": "Eko Casablanco",
-      "sourceLinks": [
-        "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave"
-      ],
-      "ticketLink": "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave",
-      "ticketNote": "VIP and Premium Table buyable on ThePartyCompany (prices incl. fees); General Access expired. Venue not named on the listing; runs Dec 5–6 per the detail page.",
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": false,
-      "venueName": null,
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/93c280aabc341553891842edba0887be642674fb6c156da49bc814e4e41c7ede-detail.webp"
-    },
-    {
       "id": "breaking-gravity-denim-after-dark-2026-12-06",
       "name": "Breaking Gravity: Denim After Dark",
       "organiser": "Zero Gravity and Break Out",
@@ -3333,26 +3669,46 @@
       "ageLimit": null,
       "priceTiers": [
         {
-          "name": "Entry",
-          "priceNaira": null,
-          "note": "see ticket page"
+          "name": "General Access (First Wave)",
+          "priceNaira": 7975,
+          "note": null
+        },
+        {
+          "name": "Stage Access (First Wave)",
+          "priceNaira": 21100,
+          "note": null
+        },
+        {
+          "name": "Group of 3 (First Wave)",
+          "priceNaira": 29500,
+          "note": null
+        },
+        {
+          "name": "Group of 5 (First Wave)",
+          "priceNaira": 37900,
+          "note": null
         }
       ],
-      "ticketLink": "https://www.jaiyetracker.com/event/breaking-gravity-1206",
+      "ticketLink": "https://www.jetronticket.com/breakingravity",
       "ticketNote": "Tickets via Jetron (price still to be confirmed). Denim dress code; runs 8 PM–4 AM.",
-      "ticketStatus": "announced",
+      "ticketStatus": "ticketsOnSale",
       "flyerImageUrl": null,
       "sourceLinks": [
-        "https://www.jaiyetracker.com/event/breaking-gravity-1206"
+        "https://www.jaiyetracker.com/event/breaking-gravity-1206",
+        "https://www.jetronticket.com/breakingravity"
       ],
       "unprovenPromoter": true,
       "eventType": "club",
       "description": "Sunday club night at Casa 45 from Zero Gravity and Break Out, denim dress code, nonstop DJ sets 8 PM-4 AM.",
-      "lastVerified": "2026-11-01",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
           "description": "Listed — Breaking Gravity: Denim After Dark at Casa 45: nonstop DJ sets, via Jetron."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Tickets now on sale: General Access ₦7,975; Stage Access ₦21,100."
         }
       ],
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/73dcd378fc8c2408504788e74802a235743308c29050e6ee2f780e9d29cb4534-detail.webp"
@@ -3397,7 +3753,7 @@
         "Electronic"
       ],
       "id": "off-duty-onchain-2026-12-05",
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "name": "OFF-DUTY (Onchain Festival)",
       "organiser": "Onchain Festival",
       "priceTiers": [
@@ -3473,7 +3829,7 @@
         "Afro House"
       ],
       "id": "eko-beach-rave-2026-12-11",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-05",
       "name": "Eko Beach Rave & X Festival",
       "organiser": "ÉKÓ Casablanco / Team Sagacious / RAYDA",
       "priceTiers": [
@@ -3531,7 +3887,7 @@
         "Gqom"
       ],
       "id": "the-underworld-rave-velvet-chaos-2026-12-11",
-      "lastVerified": "2026-11-01",
+      "lastVerified": "2026-11-05",
       "name": "THE UNDERWORLD RAVE: VELVET CHAOS",
       "organiser": "Doherty diamond",
       "priceTiers": [
@@ -3598,12 +3954,13 @@
       "flyerImageUrl": null,
       "sourceLinks": [
         "https://www.jaiyetracker.com/event/colour-rave-fest-2026-1212",
-        "https://selar.com/colourravefest"
+        "https://selar.com/colourravefest",
+        "https://tix.africa/discover/colorravefest"
       ],
       "unprovenPromoter": true,
       "eventType": "rave",
       "description": "Afternoon-to-night colour powder rave in Ajah with DJs, and an after-party to follow.",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
@@ -3653,7 +4010,7 @@
       "unprovenPromoter": true,
       "eventType": "club",
       "description": "All-white beach party at Timeless Beach, Okun-Ajah, with DJs, food, drinks and games, noon till dawn.",
-      "lastVerified": "2026-11-01",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
@@ -3689,7 +4046,7 @@
         "Gqom"
       ],
       "id": "afro-rave-the-heatwave-2026-12-12",
-      "lastVerified": "2026-10-30",
+      "lastVerified": "2026-11-05",
       "name": "AFRO RAVE: the heatwave",
       "organiser": "The Link Up Yard X the PLAYHOUSE",
       "priceTiers": [
@@ -3729,122 +4086,6 @@
       "unprovenPromoter": true,
       "venueName": "Cairo by LYA",
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/dff6ae036d25daf6a66ff35e0be8f52aac7402e408e21ae817b51f3249337bbb-detail.webp"
-    },
-    {
-      "address": null,
-      "ageLimit": null,
-      "area": "TBA",
-      "changeLog": [
-        {
-          "date": "2026-10-22T00:00:00.000",
-          "description": "Listed — placeholder on organiser's Gidi SZN calendar; name and venue TBA"
-        }
-      ],
-      "date": "2026-12-12T00:00:00.000",
-      "description": "Placeholder on Disturbing Gidi's Gidi SZN calendar — details to be announced.",
-      "doorsTime": null,
-      "eventType": "rave",
-      "flyerImageUrl": null,
-      "genres": [
-        "Electronic"
-      ],
-      "id": "disturbing-gidi-beach-party-2026-12-12",
-      "lastVerified": "2026-11-02",
-      "name": "THE BEACH PARTY",
-      "organiser": "Disturbing Gidi",
-      "priceTiers": [
-        {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
-        }
-      ],
-      "series": "Gidi SZN",
-      "sourceLinks": [
-        "https://disturbinggidi.com/"
-      ],
-      "ticketLink": "https://disturbinggidi.com/",
-      "ticketNote": null,
-      "ticketStatus": "ticketsSoon",
-      "unprovenPromoter": false,
-      "venueName": null,
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/6de439b2ea6cd28c79301efceb49862fa992dd7d6258dd10ffad53d0286d7afb-detail.webp"
-    },
-    {
-      "address": null,
-      "ageLimit": null,
-      "area": "Okun Ajah",
-      "changeLog": [
-        {
-          "date": "2026-10-24T00:00:00.000",
-          "description": "Listed — DJ-led beach party at Barracuda Beach; prices from the poster."
-        },
-        {
-          "date": "2026-10-27T00:00:00.000",
-          "description": "Details updated from the poster: Sat Dec 12, 9 PM till dawn, The Country Beach, Okun Ajah. Prices: Early Bird ₦15,000 / Early Bird Group of 5 ₦65,000 / Regular ₦20,000 / Regular Group of 5 ₦90,000 / VIP Table for 5 ₦300,000 / Gate ₦25,000."
-        },
-        {
-          "date": "2026-10-28T00:00:00.000",
-          "description": "Start time corrected to 9 PM till dawn. Prices confirmed — no changes."
-        },
-        {
-          "date": "2026-11-02",
-          "description": "Tickets now on sale on Jetron (was announced)."
-        }
-      ],
-      "date": "2026-12-12T00:00:00.000",
-      "description": "DJ-led beach party at The Country Beach, Okun Ajah — DJs and hype, beachside energy, 9 PM till dawn.",
-      "doorsTime": "9 PM",
-      "eventType": "club",
-      "flyerImageUrl": null,
-      "genres": [],
-      "id": "fantasy-after-dark-2026-12-12",
-      "lastVerified": "2026-11-02",
-      "name": "Fantasy After Dark — Beach Party",
-      "organiser": "Unknown organiser",
-      "priceTiers": [
-        {
-          "name": "Early Bird",
-          "note": "poster-only",
-          "priceNaira": 15000
-        },
-        {
-          "name": "Early Bird — Group of 5",
-          "note": "poster-only",
-          "priceNaira": 65000
-        },
-        {
-          "name": "Regular",
-          "note": "poster-only",
-          "priceNaira": 20000
-        },
-        {
-          "name": "Regular — Group of 5",
-          "note": "poster-only",
-          "priceNaira": 90000
-        },
-        {
-          "name": "VIP Table for 5",
-          "note": "poster-only",
-          "priceNaira": 300000
-        },
-        {
-          "name": "Gate",
-          "note": "poster-only",
-          "priceNaira": 25000
-        }
-      ],
-      "series": null,
-      "sourceLinks": [
-        "https://jubilq.com/e/4b51be65-52a3-4a36-be0b-fa65674e4dae",
-        "https://www.jetronticket.com/fantasyafterdark"
-      ],
-      "ticketLink": "https://www.jetronticket.com/fantasyafterdark",
-      "ticketNote": "Tickets on sale on Jetron: Early Bird ₦15,850, Regular ₦21,100, with group and table options (poster base prices ₦15,000/₦20,000).",
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": true,
-      "venueName": "The Country Beach",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/9e603f55648f78b02d9a591ac2b6da6cb9ec751e7ac72eb9c78d9c5d038a9158-detail.webp"
     },
     {
       "address": "Eleganza House, Joseph Harden Street, Lagos Island",
@@ -3889,7 +4130,7 @@
         "Electronic"
       ],
       "id": "rave-with-rina-2-2026-12-12",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "name": "RAVE WITH RINA 2.0",
       "organiser": "Rina Boy",
       "priceTiers": [
@@ -3932,6 +4173,86 @@
       ]
     },
     {
+      "address": null,
+      "ageLimit": null,
+      "area": "Eti Osa",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — DJ-led beach party at Barracuda Beach; prices from the poster."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Details updated from the poster: Sat Dec 12, 9 PM till dawn, The Country Beach, Okun Ajah. Prices: Early Bird ₦15,000 / Early Bird Group of 5 ₦65,000 / Regular ₦20,000 / Regular Group of 5 ₦90,000 / VIP Table for 5 ₦300,000 / Gate ₦25,000."
+        },
+        {
+          "date": "2026-10-28T00:00:00.000",
+          "description": "Start time corrected to 9 PM till dawn. Prices confirmed — no changes."
+        },
+        {
+          "date": "2026-11-02",
+          "description": "Tickets now on sale on Jetron (was announced)."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Venue confirmed: New Iceland Beach Resort, Eti Osa; now billed as S.B.U — The Pool Party Edition."
+        }
+      ],
+      "date": "2026-12-12T00:00:00.000",
+      "description": "S.B.U pool party at New Iceland Beach Resort — DJs and hype, beachside energy, 9 PM till dawn.",
+      "doorsTime": "9 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "fantasy-after-dark-2026-12-12",
+      "lastVerified": "2026-11-05",
+      "name": "S.B.U — The Pool Party Edition",
+      "organiser": "Unknown organiser",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": "poster-only",
+          "priceNaira": 15000
+        },
+        {
+          "name": "Early Bird — Group of 5",
+          "note": "poster-only",
+          "priceNaira": 65000
+        },
+        {
+          "name": "Regular",
+          "note": "poster-only",
+          "priceNaira": 20000
+        },
+        {
+          "name": "Regular — Group of 5",
+          "note": "poster-only",
+          "priceNaira": 90000
+        },
+        {
+          "name": "VIP Table for 5",
+          "note": "poster-only",
+          "priceNaira": 300000
+        },
+        {
+          "name": "Gate",
+          "note": "poster-only",
+          "priceNaira": 25000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://jubilq.com/e/4b51be65-52a3-4a36-be0b-fa65674e4dae",
+        "https://www.jetronticket.com/fantasyafterdark"
+      ],
+      "ticketLink": "https://www.jetronticket.com/fantasyafterdark",
+      "ticketNote": "Tickets on sale on Jetron: Early Bird ₦15,850, Regular ₦21,100, with group and table options (poster base prices ₦15,000/₦20,000).",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": true,
+      "venueName": "New Iceland Beach Resort",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/9e603f55648f78b02d9a591ac2b6da6cb9ec751e7ac72eb9c78d9c5d038a9158-detail.webp"
+    },
+    {
       "address": "16B Ladipo Oluwole St, Ogba, Ikeja",
       "ageLimit": null,
       "area": "Ikeja",
@@ -3956,7 +4277,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "sage-city-water-city-detty-december-rave-2026-12-12",
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "name": "Sage City Water City Detty December Rave",
       "organiser": "The Party House",
       "priceTiers": [
@@ -4001,6 +4322,46 @@
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/09123f536af62300222ef3581daad3013b76a737a17990c459b0bfb6072a5827-detail.webp"
     },
     {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — placeholder on organiser's Gidi SZN calendar; name and venue TBA"
+        }
+      ],
+      "date": "2026-12-12T00:00:00.000",
+      "description": "Placeholder on Disturbing Gidi's Gidi SZN calendar — details to be announced.",
+      "doorsTime": null,
+      "eventType": "rave",
+      "flyerImageUrl": null,
+      "genres": [
+        "Electronic"
+      ],
+      "id": "disturbing-gidi-beach-party-2026-12-12",
+      "lastVerified": "2026-11-05",
+      "name": "THE BEACH PARTY",
+      "organiser": "Disturbing Gidi",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": "Gidi SZN",
+      "sourceLinks": [
+        "https://disturbinggidi.com/"
+      ],
+      "ticketLink": "https://disturbinggidi.com/",
+      "ticketNote": null,
+      "ticketStatus": "ticketsSoon",
+      "unprovenPromoter": false,
+      "venueName": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/6de439b2ea6cd28c79301efceb49862fa992dd7d6258dd10ffad53d0286d7afb-detail.webp"
+    },
+    {
       "address": "23A Babatunde Anjous Avenue, Lekki Phase 1",
       "ageLimit": null,
       "area": "Lekki Phase 1",
@@ -4039,7 +4400,7 @@
         "Afrobeats"
       ],
       "id": "the-goddess-afrobeats-portal-2026-12-12",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "name": "The Goddess Afrobeats Portal",
       "organiser": "Ezinne Osuagwu",
       "priceTiers": [
@@ -4223,7 +4584,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "ms-dsf-friends-lagos-litmas-rave-2026-12-13",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "name": "Ms DSF & Friends: Lagos LITmas Rave",
       "organiser": "BluePeak Talent & Event",
       "priceTiers": [
@@ -4286,6 +4647,10 @@
         {
           "date": "2026-11-02",
           "description": "Lineup: DJ SMART, DJ JAYMIX."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "DJ lineup updated: DJ Tanzio, DJ Smart and DJ Jaymix."
         }
       ],
       "date": "2026-12-13T00:00:00.000",
@@ -4295,7 +4660,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "white-affair-2026-12-13",
-      "lastVerified": "2026-10-28T00:00:00.000",
+      "lastVerified": "2026-11-05",
       "name": "WHITE AFFAIR (All white yacht party)",
       "organiser": "Smilehouse Ent.",
       "priceTiers": [
@@ -4316,6 +4681,7 @@
       "venueName": "Sea coach jetty",
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/c4d3ce5704af9c42f4efa68d256057b7027936b102a6d451457207159583e102-detail.webp",
       "djs": [
+        "DJ TANZIO",
         "DJ SMART",
         "DJ JAYMIX"
       ]
@@ -4374,7 +4740,7 @@
       "unprovenPromoter": true,
       "eventType": "club",
       "description": "DJ-set festival night at La Madison, Lekki, 10 PM–3 AM, with DJ sets plus special guests.",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-02",
@@ -4422,7 +4788,7 @@
       "unprovenPromoter": true,
       "eventType": "club",
       "description": "America-meets-Nigeria pool party night at Ambiance Cafe, Ikeja, with DJs till late.",
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
@@ -4503,7 +4869,7 @@
       "unprovenPromoter": true,
       "eventType": "rave",
       "description": "First edition, one stage, no clashes. First-wave lineup on the live ticket page: DJ Sunrise, DJ Toby, KND, Maze x Mxtreme, with three more names to come. The launch announcement named eight DJs including Kikelomo, Azzi on the Beat, WeAreAllChemicals and DJ Fabiyo, who are not on the live page yet; live spellings are DJ Toby and KND.",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
@@ -4529,6 +4895,63 @@
         "KND",
         "Maze x Mxtreme"
       ]
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Lagos",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — Detty December Fest 2026 festival passes ('Passes Now Open'), covering the 13-day Dec 18–30 programme; single-night tickets via DOT TIX where available."
+        },
+        {
+          "date": "2026-10-24T02:05:59.000Z",
+          "description": "Correction: passes can't actually be bought yet — the festival site announces them, but there's no checkout or prices yet."
+        },
+        {
+          "date": "2026-10-26T00:00:00.000",
+          "description": "Now displayed as a multi-day event spanning its full run (Dec 18–30)."
+        },
+        {
+          "date": "2026-10-30",
+          "description": "Passes clarified: no priced multi-day pass is published — the VVIP all-access pass is by concierge request only, with no price. Passes remain announced, not on sale."
+        }
+      ],
+      "date": "2026-12-18T00:00:00.000",
+      "description": "Detty December Fest 2026 passes, Dec 18–30. No priced multi-day pass is on sale: the only all-access option is a GOLDEN TICKET VVIP all-access pass (18–30 Dec), available by concierge request with no published price. Single-show tickets are via the DOT TIX Livespot collection.",
+      "doorsTime": null,
+      "endDate": "2026-12-30T00:00:00.000",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [
+        "Electronic",
+        "Amapiano",
+        "Afrobeats",
+        "House"
+      ],
+      "id": "detty-december-fest-passes-2026-12-18",
+      "lastVerified": "2026-11-05",
+      "name": "Detty December Fest 2026 — Festival Passes",
+      "organiser": "Livespot360 / Detty December Fest",
+      "priceTiers": [
+        {
+          "name": "Festival Pass",
+          "note": "pass prices not yet published — the DOT TIX passes listing is a placeholder with no checkout",
+          "priceNaira": null
+        }
+      ],
+      "series": "Detty December Fest",
+      "sourceLinks": [
+        "https://dettydecfest.com/events/",
+        "https://tix.dot360.co/org/livespot/detty-december"
+      ],
+      "ticketLink": "https://dettydecfest.com/events/",
+      "ticketNote": "Festival passes have been announced at dettydecfest.com, but there's no live checkout yet — passes can't be bought until a real purchase route opens.",
+      "ticketStatus": "announced",
+      "unprovenPromoter": false,
+      "venueName": "Detty December Village",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3ad31cc64ffab2088922b48fbb6f7f7610e27c4717f9b084fc30e71dfa5a1c34-detail.webp"
     },
     {
       "address": null,
@@ -4570,111 +4993,6 @@
       "venueName": null,
       "followingCount": 1,
       "flyerDetailImageUrl": null
-    },
-    {
-      "address": null,
-      "ageLimit": null,
-      "area": "Lagos",
-      "changeLog": [
-        {
-          "date": "2026-10-24T00:00:00.000",
-          "description": "Listed — Detty December Fest 2026 festival passes ('Passes Now Open'), covering the 13-day Dec 18–30 programme; single-night tickets via DOT TIX where available."
-        },
-        {
-          "date": "2026-10-24T02:05:59.000Z",
-          "description": "Correction: passes can't actually be bought yet — the festival site announces them, but there's no checkout or prices yet."
-        },
-        {
-          "date": "2026-10-26T00:00:00.000",
-          "description": "Now displayed as a multi-day event spanning its full run (Dec 18–30)."
-        },
-        {
-          "date": "2026-10-30",
-          "description": "Passes clarified: no priced multi-day pass is published — the VVIP all-access pass is by concierge request only, with no price. Passes remain announced, not on sale."
-        }
-      ],
-      "date": "2026-12-18T00:00:00.000",
-      "description": "Detty December Fest 2026 passes, Dec 18–30. No priced multi-day pass is on sale: the only all-access option is a GOLDEN TICKET VVIP all-access pass (18–30 Dec), available by concierge request with no published price. Single-show tickets are via the DOT TIX Livespot collection.",
-      "doorsTime": null,
-      "endDate": "2026-12-30T00:00:00.000",
-      "eventType": "club",
-      "flyerImageUrl": null,
-      "genres": [
-        "Electronic",
-        "Amapiano",
-        "Afrobeats",
-        "House"
-      ],
-      "id": "detty-december-fest-passes-2026-12-18",
-      "lastVerified": "2026-11-01",
-      "name": "Detty December Fest 2026 — Festival Passes",
-      "organiser": "Livespot360 / Detty December Fest",
-      "priceTiers": [
-        {
-          "name": "Festival Pass",
-          "note": "pass prices not yet published — the DOT TIX passes listing is a placeholder with no checkout",
-          "priceNaira": null
-        }
-      ],
-      "series": "Detty December Fest",
-      "sourceLinks": [
-        "https://dettydecfest.com/events/",
-        "https://tix.dot360.co/org/livespot/detty-december"
-      ],
-      "ticketLink": "https://dettydecfest.com/events/",
-      "ticketNote": "Festival passes have been announced at dettydecfest.com, but there's no live checkout yet — passes can't be bought until a real purchase route opens.",
-      "ticketStatus": "announced",
-      "unprovenPromoter": false,
-      "venueName": "Detty December Village",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3ad31cc64ffab2088922b48fbb6f7f7610e27c4717f9b084fc30e71dfa5a1c34-detail.webp"
-    },
-    {
-      "id": "pm2am-x-afrofete-tropicana-homecoming-2026-12-19",
-      "name": "PM2AM x Afrofete: Tropicana Homecoming",
-      "organiser": "PM2AM x Afrofete",
-      "series": null,
-      "date": "2026-12-19",
-      "doorsTime": "9 PM",
-      "venueName": "Voda Beach Club",
-      "area": "Lekki",
-      "address": "Voda Beach, Lekki",
-      "genres": [
-        "Afrobeats",
-        "Amapiano",
-        "Afro House"
-      ],
-      "ageLimit": null,
-      "priceTiers": [
-        {
-          "name": "Entry",
-          "priceNaira": 10000,
-          "note": "from"
-        }
-      ],
-      "ticketLink": "https://www.jaiyetracker.com/event/pm2am-x-afrofete-tropicana-homecoming-1219",
-      "ticketNote": "Tickets via tix.africa; also listed on Chowdeck and Selar. Runs 9 PM–6 AM.",
-      "ticketStatus": "announced",
-      "flyerImageUrl": null,
-      "sourceLinks": [
-        "https://www.jaiyetracker.com/event/pm2am-x-afrofete-tropicana-homecoming-1219",
-        "https://chowdeck.com/events/pm2am-x-afrofete-tropicana1792398810367",
-        "https://selar.com/pm2amxafrofete"
-      ],
-      "unprovenPromoter": true,
-      "eventType": "club",
-      "description": "Detty December homecoming beach party from the PM2AM and Afrofete crews, dancing 9 PM-6 AM at Voda Beach Club, Lekki.",
-      "lastVerified": "2026-11-03",
-      "changeLog": [
-        {
-          "date": "2026-10-31",
-          "description": "Listed — PM2AM x Afrofete: Tropicana Homecoming at Voda Beach Club, Lekki, from ₦10,000 via tix.africa."
-        },
-        {
-          "date": "2026-11-03",
-          "description": "Genres added: Afrobeats, Amapiano, Afro House."
-        }
-      ],
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/6227416bf5800a26f81ca8ffba48faf5b2ebe4849f8fca82d50311661c240332-detail.webp"
     },
     {
       "id": "aqua-rave-by-tourfrik-2026-12-19",
@@ -4721,7 +5039,7 @@
       "unprovenPromoter": true,
       "eventType": "rave",
       "description": "Badagry beach rave with water guns and DJs, 4 PM till dawn at Rosh Beach Resort, Suntan Beach.",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-10-31",
@@ -4733,6 +5051,122 @@
         }
       ],
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/70436a4d91c535e2d0cd3c06e1fa3400ab40339d6cece6e0e8c694cebc3844ff-detail.webp"
+    },
+    {
+      "id": "pm2am-x-afrofete-tropicana-homecoming-2026-12-19",
+      "name": "PM2AM x Afrofete: Tropicana Homecoming",
+      "organiser": "PM2AM x Afrofete",
+      "series": null,
+      "date": "2026-12-19",
+      "doorsTime": "9 PM",
+      "venueName": "Voda Beach Club",
+      "area": "Lekki",
+      "address": "Voda Beach, Lekki",
+      "genres": [
+        "Afrobeats",
+        "Amapiano",
+        "Afro House"
+      ],
+      "ageLimit": null,
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "priceNaira": 10000,
+          "note": "from"
+        }
+      ],
+      "ticketLink": "https://www.jaiyetracker.com/event/pm2am-x-afrofete-tropicana-homecoming-1219",
+      "ticketNote": "Tickets via tix.africa; also listed on Chowdeck and Selar. Runs 9 PM–6 AM.",
+      "ticketStatus": "announced",
+      "flyerImageUrl": null,
+      "sourceLinks": [
+        "https://www.jaiyetracker.com/event/pm2am-x-afrofete-tropicana-homecoming-1219",
+        "https://chowdeck.com/events/pm2am-x-afrofete-tropicana1792398810367",
+        "https://selar.com/pm2amxafrofete"
+      ],
+      "unprovenPromoter": true,
+      "eventType": "club",
+      "description": "Detty December homecoming beach party from the PM2AM and Afrofete crews, dancing 9 PM-6 AM at Voda Beach Club, Lekki.",
+      "lastVerified": "2026-11-05",
+      "changeLog": [
+        {
+          "date": "2026-10-31",
+          "description": "Listed — PM2AM x Afrofete: Tropicana Homecoming at Voda Beach Club, Lekki, from ₦10,000 via tix.africa."
+        },
+        {
+          "date": "2026-11-03",
+          "description": "Genres added: Afrobeats, Amapiano, Afro House."
+        }
+      ],
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/6227416bf5800a26f81ca8ffba48faf5b2ebe4849f8fca82d50311661c240332-detail.webp"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Orange Island",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — two-day dance-music festival at Orange Island: Dec 19 Underground Sound (high BPM/underground, curated by Monochroma), Dec 20 Mainstream Sound (Amapiano/Afropiano/Mara, curated by Even In The Day); notify list only on danceeko.com."
+        },
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Corroborated by independent krent.space December 2026 guide (second source; cites the official site) — dates, Orange Island venue and Afrohouse/Amapiano format confirmed; still announced, no ticket route live."
+        },
+        {
+          "date": "2026-10-26T00:00:00.000",
+          "description": "Now displayed as a multi-day event spanning its full run (Dec 19–20)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Dec 19–20, Orange Island: Day 01 underground / Day 02 mainstream (Amapiano, Afropiano, Mara). Tickets are a community presale behind a password — public sale opens soon; no prices published yet."
+        },
+        {
+          "date": "2026-10-30",
+          "description": "Community ticket sales launch Oct 31 at 12 noon (password-gated); public sale opens soon, no prices yet. Tickets aren't on public sale yet."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Ticket sales announced: community presale opens Friday, November 6 at 10 AM WAT, with public sale to follow."
+        }
+      ],
+      "date": "2026-12-19T00:00:00.000",
+      "description": "Dance Èkó 2026 — 'Lagos Must Dance', the ultimate dance-music festival. Day 01 (Dec 19) is an underground rave (high BPM to deeper sounds); Day 02 (Dec 20) is mainstream Amapiano/Afropiano/Mara. Powered by KVLT WRLD.",
+      "doorsTime": null,
+      "endDate": "2026-12-20T00:00:00.000",
+      "eventType": "rave",
+      "flyerImageUrl": null,
+      "genres": [
+        "House",
+        "Techno",
+        "Electronic",
+        "Amapiano",
+        "Mara"
+      ],
+      "id": "dance-eko-2026-2026-12-19",
+      "lastVerified": "2026-11-05",
+      "name": "Dance Èkó 2026",
+      "organiser": "KVLT WRLD (Day 01 curated by Monochroma, Day 02 by Even In The Day)",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://danceeko.com/",
+        "https://blog.krent.space/area-guide/lagos/20-things-to-do-in-lagos-this-december-2026/",
+        "https://www.jetronticket.com/dance-eko-2026",
+        "https://danceeko.com/tickets"
+      ],
+      "ticketLink": "https://danceeko.com/tickets",
+      "ticketNote": "Community presale opens Friday, November 6 at 10 AM WAT — you'll need an access code from a community member. Public sale opens soon; no prices published yet.",
+      "ticketStatus": "ticketsSoon",
+      "unprovenPromoter": false,
+      "venueName": "Orange Island",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/42a10641a0e455664a8b68f51bfa03a0f11b79a9b938a14680f44d0706ae03e1-detail.webp"
     },
     {
       "address": "Federal Palace Hotel, Victoria Island, Lagos",
@@ -4781,7 +5215,7 @@
         "Electronic"
       ],
       "id": "roadblock-2026-2026-12-19",
-      "lastVerified": "2026-11-04",
+      "lastVerified": "2026-11-05",
       "name": "Roadblock 2026",
       "organiser": "Oracle Experience",
       "priceTiers": [
@@ -4830,69 +5264,6 @@
       ]
     },
     {
-      "address": null,
-      "ageLimit": null,
-      "area": "Orange Island",
-      "changeLog": [
-        {
-          "date": "2026-10-24T00:00:00.000",
-          "description": "Listed — two-day dance-music festival at Orange Island: Dec 19 Underground Sound (high BPM/underground, curated by Monochroma), Dec 20 Mainstream Sound (Amapiano/Afropiano/Mara, curated by Even In The Day); notify list only on danceeko.com."
-        },
-        {
-          "date": "2026-10-24T00:00:00.000",
-          "description": "Corroborated by independent krent.space December 2026 guide (second source; cites the official site) — dates, Orange Island venue and Afrohouse/Amapiano format confirmed; still announced, no ticket route live."
-        },
-        {
-          "date": "2026-10-26T00:00:00.000",
-          "description": "Now displayed as a multi-day event spanning its full run (Dec 19–20)."
-        },
-        {
-          "date": "2026-10-27T00:00:00.000",
-          "description": "Dec 19–20, Orange Island: Day 01 underground / Day 02 mainstream (Amapiano, Afropiano, Mara). Tickets are a community presale behind a password — public sale opens soon; no prices published yet."
-        },
-        {
-          "date": "2026-10-30",
-          "description": "Community ticket sales launch Oct 31 at 12 noon (password-gated); public sale opens soon, no prices yet. Tickets aren't on public sale yet."
-        }
-      ],
-      "date": "2026-12-19T00:00:00.000",
-      "description": "Dance Èkó 2026 — 'Lagos Must Dance', the ultimate dance-music festival. Day 01 (Dec 19) is an underground rave (high BPM to deeper sounds); Day 02 (Dec 20) is mainstream Amapiano/Afropiano/Mara. Powered by KVLT WRLD.",
-      "doorsTime": null,
-      "endDate": "2026-12-20T00:00:00.000",
-      "eventType": "rave",
-      "flyerImageUrl": null,
-      "genres": [
-        "House",
-        "Techno",
-        "Electronic",
-        "Amapiano",
-        "Mara"
-      ],
-      "id": "dance-eko-2026-2026-12-19",
-      "lastVerified": "2026-11-03",
-      "name": "Dance Èkó 2026",
-      "organiser": "KVLT WRLD (Day 01 curated by Monochroma, Day 02 by Even In The Day)",
-      "priceTiers": [
-        {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
-        }
-      ],
-      "series": null,
-      "sourceLinks": [
-        "https://danceeko.com/",
-        "https://blog.krent.space/area-guide/lagos/20-things-to-do-in-lagos-this-december-2026/",
-        "https://www.jetronticket.com/dance-eko-2026"
-      ],
-      "ticketLink": null,
-      "ticketNote": "Community ticket sales launch Sat Oct 31 at 12 noon WAT behind a community password; public sale opens soon, no prices published yet.",
-      "ticketStatus": "announced",
-      "unprovenPromoter": false,
-      "venueName": "Orange Island",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/42a10641a0e455664a8b68f51bfa03a0f11b79a9b938a14680f44d0706ae03e1-detail.webp"
-    },
-    {
       "address": "Eleko Beach, Ibeju-Lekki, Lagos",
       "ageLimit": null,
       "area": "Ibeju-Lekki",
@@ -4917,7 +5288,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "beach-rave-with-expensive-dj-jayboi-2026-12-20",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "name": "BEACH RAVE With EXPENSIVE DJ JAYBOI",
       "organiser": "BluePeak Talent & Event",
       "priceTiers": [
@@ -4993,7 +5364,7 @@
         "Afrobeats"
       ],
       "id": "detty-after-dark-2026-12-21",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "name": "Detty After Dark",
       "organiser": "Livespot360 (Detty December Fest)",
       "priceTiers": [
@@ -5058,7 +5429,7 @@
     {
       "address": null,
       "ageLimit": null,
-      "area": "Victoria Island",
+      "area": "Lagos",
       "changeLog": [
         {
           "date": "2026-10-22T00:00:00.000",
@@ -5083,6 +5454,10 @@
         {
           "date": "2026-11-03",
           "description": "Venue confirmed: Muri Okunola Park, Victoria Island. Doors time announced: 7 PM–4 AM."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Venue corrected to Detty December Village."
         }
       ],
       "date": "2026-12-24T00:00:00.000",
@@ -5094,7 +5469,7 @@
         "Afrobeats"
       ],
       "id": "detty-dj-tunez-2026-12-24",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "name": "DJ Tunez & Friends: Christmas Eve Special",
       "organiser": "Livespot360 (Detty December Fest)",
       "priceTiers": [
@@ -5134,7 +5509,7 @@
       "ticketNote": "Tiers live on DOT TIX: Early Bird ₦10,000 sold out; General Access ₦25,000; Golden Circle ₦75,000; VIP Standing ₦150,000; tables by request.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "Muri Okunola Park",
+      "venueName": "Detty December Village",
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/506df2e146bea96bf58d9ca34a3a6db84ea35c0f4b8b096afa7d592fe37600f9-detail.webp",
       "djs": [
         "DJ Tunez"
@@ -5157,7 +5532,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "amber-night-2026-2026-12-26",
-      "lastVerified": "2026-10-30",
+      "lastVerified": "2026-11-05",
       "name": "Amber Night 2026",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -5186,6 +5561,10 @@
         {
           "date": "2026-10-24T00:00:00.000",
           "description": "Listed — eighth edition of the Rave In The Daze series, 6PM till dawn at Maxx MSquare, Abule Egba; Presale ₦5,000 on sale now on the organiser's own ticketing site (shabamolaent.com)."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Correction: Rave In The Daze is on its eighth edition."
         }
       ],
       "date": "2026-12-26T00:00:00.000",
@@ -5198,7 +5577,7 @@
         "Amapiano"
       ],
       "id": "rave-in-the-daze-2026-12-26",
-      "lastVerified": "2026-11-01",
+      "lastVerified": "2026-11-05",
       "name": "Rave In The Daze: The Luxury Experience",
       "organiser": "Shabamola Entertainment",
       "priceTiers": [
@@ -5230,7 +5609,7 @@
       "ticketLink": "https://shabamolaent.com/events/rave-in-the-daze",
       "ticketNote": "Presale ₦5,000 on sale now; later waves open as earlier ones sell out. QR ticket emailed after payment; re-entry allowed.",
       "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": true,
+      "unprovenPromoter": false,
       "venueName": "Maxx MSquare",
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/2e254d3cb1b98854db3c863283fc8fa447ef0fa581b4f154ed3965b517da47fb-detail.webp"
     },
@@ -5305,7 +5684,7 @@
       "flyerImageUrl": null,
       "genres": [],
       "id": "eko-experience-with-dj-muller-2026-12-27",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-05",
       "name": "Eko Experience with DJ Muller",
       "organiser": "DJ Muller",
       "priceTiers": [
@@ -5357,7 +5736,7 @@
         "House"
       ],
       "id": "gidi-end-of-year-party-2026-12-29",
-      "lastVerified": "2026-11-02",
+      "lastVerified": "2026-11-05",
       "name": "Gidi End of the Year Party",
       "organiser": "Disturbing Gidi",
       "priceTiers": [
@@ -5377,54 +5756,6 @@
       "unprovenPromoter": false,
       "venueName": "Casa 45",
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/6de439b2ea6cd28c79301efceb49862fa992dd7d6258dd10ffad53d0286d7afb-detail.webp"
-    },
-    {
-      "address": null,
-      "ageLimit": null,
-      "area": "Ikeja",
-      "attendingCount": 0,
-      "changeLog": [
-        {
-          "date": "2026-10-22T00:00:00.000",
-          "description": "Listed — Detty December Fest closing night; stage and per-night price not yet published"
-        },
-        {
-          "date": "2026-10-22T00:00:00.000",
-          "description": "Tickets are not on sale yet — notify-list signup only."
-        },
-        {
-          "date": "2026-11-03",
-          "description": "Doors time announced: 8 PM–4 AM."
-        }
-      ],
-      "date": "2026-12-30T00:00:00.000",
-      "description": "Closing-night all-white rave of Detty December Fest. Tickets are not purchasable yet; the festival site offers notify-list signup only.",
-      "doorsTime": "8 PM",
-      "eventType": "club",
-      "flyerImageUrl": null,
-      "genres": [],
-      "id": "detty-white-out-rave-2026-12-30",
-      "lastVerified": "2026-11-03",
-      "name": "White Out Rave",
-      "organiser": "Livespot360 (Detty December Fest)",
-      "priceTiers": [
-        {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
-        }
-      ],
-      "series": null,
-      "sourceLinks": [
-        "https://dettydecfest.com/events/",
-        "https://tix.dot360.co/org/livespot/detty-december"
-      ],
-      "ticketLink": null,
-      "ticketNote": "Tickets are not on sale yet. Detty December Fest is taking notify-list signups for this finale on its events page.",
-      "ticketStatus": "announced",
-      "unprovenPromoter": false,
-      "venueName": "Detty Festival Stage, Detty December Village",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3ad31cc64ffab2088922b48fbb6f7f7610e27c4717f9b084fc30e71dfa5a1c34-detail.webp"
     },
     {
       "address": "Lekki County, Ajah, Lagos (boat access only)",
@@ -5532,6 +5863,54 @@
     {
       "address": null,
       "ageLimit": null,
+      "area": "Ikeja",
+      "attendingCount": 0,
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — Detty December Fest closing night; stage and per-night price not yet published"
+        },
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Tickets are not on sale yet — notify-list signup only."
+        },
+        {
+          "date": "2026-11-03",
+          "description": "Doors time announced: 8 PM–4 AM."
+        }
+      ],
+      "date": "2026-12-30T00:00:00.000",
+      "description": "Closing-night all-white rave of Detty December Fest. Tickets are not purchasable yet; the festival site offers notify-list signup only.",
+      "doorsTime": "8 PM",
+      "eventType": "club",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "detty-white-out-rave-2026-12-30",
+      "lastVerified": "2026-11-05",
+      "name": "White Out Rave",
+      "organiser": "Livespot360 (Detty December Fest)",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://dettydecfest.com/events/",
+        "https://tix.dot360.co/org/livespot/detty-december"
+      ],
+      "ticketLink": null,
+      "ticketNote": "Tickets are not on sale yet. Detty December Fest is taking notify-list signups for this finale on its events page.",
+      "ticketStatus": "announced",
+      "unprovenPromoter": false,
+      "venueName": "Detty Festival Stage, Detty December Village",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3ad31cc64ffab2088922b48fbb6f7f7610e27c4717f9b084fc30e71dfa5a1c34-detail.webp"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
       "area": "Lagos",
       "attendingCount": 0,
       "changeLog": [
@@ -5582,9 +5961,9 @@
       "series": null,
       "date": "2027-01-01",
       "doorsTime": "9 PM",
-      "venueName": "Waterfront Bar / BBB Lounge",
+      "venueName": "BBB Lounge",
       "area": "Ikoyi",
-      "address": "16 Federal Civil Service Club, Ikoyi, Lagos",
+      "address": "16 Federal Civil Service Club, Ikoyi",
       "genres": [],
       "ageLimit": null,
       "priceTiers": [
@@ -5611,11 +5990,15 @@
       "unprovenPromoter": true,
       "eventType": "club",
       "description": "New Year's night 'House of DJ's' at Waterfront Bar / BBB Lounge, Ikoyi, 9 PM–6 AM. Mc Finexx and Mc Aluti are billed as hypemen and are not listed as DJs.",
-      "lastVerified": "2026-11-03",
+      "lastVerified": "2026-11-05",
       "changeLog": [
         {
           "date": "2026-11-02",
           "description": "Listed — JOKER'S NIGHT, Jan 1 2027, Waterfront Bar / BBB Lounge, Ikoyi, 9 PM–6 AM; tix.africa access pass ₦5,500 (incl. ₦500 fee). Lineup: DJ Dollars, DJ Emzy, DJ Jammit, DJ Baggi Jr."
+        },
+        {
+          "date": "2026-11-05",
+          "description": "Venue confirmed: BBB Lounge, 16 Federal Civil Service Club, Ikoyi."
         }
       ]
     },
@@ -5671,5 +6054,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-05T01:34:52Z"
+  "generatedAt": "2026-11-06T02:39:39Z"
 }
