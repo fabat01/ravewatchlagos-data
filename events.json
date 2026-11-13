@@ -200,9 +200,9 @@
       "followingCount": 0
     },
     {
-      "address": null,
+      "address": "Block 2 Plot 2, Okunde Blue Water Zone, Off Remi Olowude Street, Lekki Phase 1, Lagos",
       "ageLimit": null,
-      "area": "Lagos",
+      "area": "Lekki",
       "attendingCount": 5,
       "changeLog": [
         {
@@ -224,10 +224,22 @@
         {
           "date": "2026-11-09",
           "description": "Second-wave prices up: Regular ₦18,290, Duo ₦30,060, Stage Access ₦32,200, Group of 3 ₦46,110."
+        },
+        {
+          "date": "2026-11-13",
+          "description": "Venue announced: Glitz Event Center, Lekki. Lineup announced: K.N.D, Juju, Oko Madam, Yosa, Azzi and DJ Kiss B2B Axara."
         }
       ],
       "date": "2026-11-13T00:00:00.000",
       "description": null,
+      "djs": [
+        "K.N.D",
+        "Juju",
+        "Oko Madam",
+        "Yosa",
+        "Azzi",
+        "DJ Kiss B2B Axara"
+      ],
       "doorsTime": "9 PM",
       "eventType": "rave",
       "flyerImageUrl": null,
@@ -235,7 +247,15 @@
         "Electronic"
       ],
       "id": "ardour-2026-11-13",
-      "lastVerified": "2026-11-09",
+      "instagram": {
+        "djs": {
+          "Azzi": "@azzi_onthebeat",
+          "Juju": "@jujuofthe234",
+          "Yosa": "@yosa.jpeg"
+        },
+        "organiser": "@ardourrrrrr"
+      },
+      "lastVerified": "2026-11-13",
       "name": "ARDOUR",
       "organiser": "ARDOUR",
       "priceTiers": [
@@ -294,7 +314,7 @@
       "ticketNote": "Tickets on sale on ardour.ink: second-wave tiers available — Regular ₦18,290, Duo ₦30,060, Stage Access ₦32,200, Group of 3 ₦46,110. First-wave tiers sold out. Runs 9 PM–6 AM.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "ARDOUR",
+      "venueName": "Glitz Event Center",
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/dfd577568cfe0dd977c1aa700f022ed48af983df9b447b04d26926a516a717df-detail.webp",
       "followingCount": 3
     },
@@ -8098,5 +8118,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-12T19:13:44.647465Z"
+  "generatedAt": "2026-11-13T05:37:12.000000Z"
 }
