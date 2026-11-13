@@ -227,7 +227,7 @@
         },
         {
           "date": "2026-11-13",
-          "description": "Venue announced: Glitz Event Center, Lekki. Lineup announced: K.N.D, Juju, Oko Madam, Yosa, Azzi and DJ Kiss B2B Axara."
+          "description": "Venue announced: Glitz Event Center, Lekki. Lineup announced: K.N.D, Juju, Oko Madam, Yosa, Azzi, Tosar and DJ Kiss B2B Axara."
         }
       ],
       "date": "2026-11-13T00:00:00.000",
@@ -238,6 +238,7 @@
         "Oko Madam",
         "Yosa",
         "Azzi",
+        "Tosar",
         "DJ Kiss B2B Axara"
       ],
       "doorsTime": "9 PM",
@@ -249,11 +250,15 @@
       "id": "ardour-2026-11-13",
       "instagram": {
         "djs": {
+          "Axara": "@axarathedj",
           "Azzi": "@azzi_onthebeat",
           "Juju": "@jujuofthe234",
+          "Oko Madam": "@okomadam.wav",
+          "Tosar": "@iamtosar",
           "Yosa": "@yosa.jpeg"
         },
-        "organiser": "@ardourrrrrr"
+        "organiser": "@ardourrrrrr",
+        "venue": "@glitzeventcentre"
       },
       "lastVerified": "2026-11-13",
       "name": "ARDOUR",
@@ -8118,5 +8123,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-13T05:37:12.000000Z"
+  "generatedAt": "2026-11-13T06:03:09.000000Z"
 }
