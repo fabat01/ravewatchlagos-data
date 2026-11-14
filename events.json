@@ -4399,7 +4399,7 @@
    "ticketNote": "Tickets on sale on tix.africa — Early Bird ₦16,300. 10 PM–4 AM.",
    "ticketStatus": "ticketsOnSale",
    "flyerImageUrl": null,
-   "flyerDetailImageUrl": null,
+   "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/392ffc2ed55a8509d4d91cf957e714827f4652b543b85c4317b5b8ccb569bfa3-detail.webp",
    "djs": [
     "DJ Tohbahd"
    ],
@@ -8443,5 +8443,5 @@
    "eventType": "rave"
   }
  ],
- "generatedAt": "2026-11-14T18:28:41Z"
+ "generatedAt": "2026-11-14T19:33:53Z"
 }
