@@ -1193,7 +1193,7 @@
    "ticketNote": "Free entry — reserve a free ticket on Eventbrite.",
    "ticketStatus": "ticketsOnSale",
    "flyerImageUrl": null,
-   "flyerDetailImageUrl": null,
+   "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/d84728da5a35a5c2fc53d7055538289b909ec0e550c5fe386dc9beab615edb31-detail.webp",
    "sourceLinks": [
     "https://www.jaiyetracker.com/event/liv-after-dark-1120",
     "https://www.eventbrite.com/e/livafterdark-vi-lagos-tickets-1997505208851"
@@ -3149,7 +3149,7 @@
    "ticketNote": "Tickets from ₦6,000 on Eventbrite; couple and group-of-five tickets also available. Runs 8–10 PM.",
    "ticketStatus": "ticketsOnSale",
    "flyerImageUrl": null,
-   "flyerDetailImageUrl": null,
+   "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/75680c7c942c9ffd433c8a3d43235145474a6e29de327bdbd0367132c92187e4-detail.webp",
    "sourceLinks": [
     "https://www.jaiyetracker.com/event/silent-disco-party-3-0-1128",
     "https://www.eventbrite.com/e/silient-disco-30-tickets-2004764469495"
@@ -4576,7 +4576,7 @@
    "ticketNote": "Tickets from ₦3,000 on Popout; a mask is included with every ticket. Runs 8 PM–5 AM.",
    "ticketStatus": "ticketsOnSale",
    "flyerImageUrl": null,
-   "flyerDetailImageUrl": null,
+   "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/0d8b9f9423a3c6f9386325d1a3ace20f1ac59e08ea6daeeed052d761cd8d348b-detail.webp",
    "djs": [
     "ThaSlimeDJ",
     "ThaMaskDJ Oppizzy"
@@ -6041,7 +6041,7 @@
    "ticketNote": "Tickets on sale on tix.africa — ladies ₦21,700, gentlemen ₦64,900. The exact venue is shared with ticket holders. Runs 9 PM–6 AM.",
    "ticketStatus": "ticketsOnSale",
    "flyerImageUrl": null,
-   "flyerDetailImageUrl": null,
+   "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/ca484eaa01d8fbfa4e9e7bc8355d7409cce2caf5a8283bd0551c91d3ffb78240-detail.webp",
    "sourceLinks": [
     "https://tix.africa/discover/the-lagos-royale-the-december-house-affair-ce49f3a9-f104-47d9-acf3-2af4ec814c16"
    ],
@@ -8443,5 +8443,5 @@
    "eventType": "rave"
   }
  ],
- "generatedAt": "2026-11-14T19:33:53Z"
+ "generatedAt": "2026-11-14T19:43:35Z"
 }
