@@ -250,9 +250,11 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/e331e87759b80f98aaa3275f3d9cef8623505f95e0d059bd0f136564649e1d6e-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "ravers-guild-the-rebirth-2026-11-20",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-17",
    "name": "Ravers Guild - The Rebirth",
    "organiser": "Ravers Guild",
    "priceTiers": [
