@@ -285,6 +285,10 @@
     {
      "date": "2026-11-11",
      "description": "Ticket sales paused by the organiser — purchases are on hold until the event is unpaused; the event has not been cancelled."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Event type corrected to Rave — TEKOUSE is a techno and house night (extended DJ sets)."
     }
    ],
    "date": "2026-11-20",
@@ -295,13 +299,16 @@
     "Marquay"
    ],
    "doorsTime": "3 PM",
-   "eventType": "club",
+   "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/cdbf7c470009a64ae94be6eb9d5a83129c7b95175d8abeec31da97d9f72cd36c-detail.webp",
    "flyerImageUrl": null,
    "followingCount": 1,
-   "genres": [],
+   "genres": [
+    "Techno",
+    "House"
+   ],
    "id": "tekouse-extended-sets-2026-11-20",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-17",
    "name": "TEKOUSE: Extended Sets",
    "organiser": "Mutual Friends",
    "priceTiers": [
