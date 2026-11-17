@@ -190,6 +190,10 @@
     {
      "date": "2026-11-02",
      "description": "Listed — Rave Ctrl 2.0: Jersey Edition at Don J Hotel, Ojo."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Ticket status corrected — tickets are on sale."
     }
    ],
    "date": "2026-11-20",
@@ -218,7 +222,7 @@
    ],
    "ticketLink": "https://www.jaiyetracker.com/event/rave-ctrl-2-0-jersey-edition-1120",
    "ticketNote": "Tickets from ₦4,000 via Popout (linked from Jaiye Tracker).",
-   "ticketStatus": "announced",
+   "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
    "venueName": "Don J Hotel"
   },
@@ -542,6 +546,10 @@
     {
      "date": "2026-11-08",
      "description": "Ticket page currently unavailable — free entry, VIP standing from ₦15,000; tables by WhatsApp."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Ticket status corrected — tickets are on sale."
     }
    ],
    "date": "2026-11-20T00:00:00.000",
@@ -557,7 +565,7 @@
     "Global Sounds"
    ],
    "id": "turn-up-lagos-2026-11-20",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-17",
    "name": "Turn Up Lagos",
    "organiser": "Livespot",
    "priceTiers": [
@@ -589,7 +597,7 @@
    ],
    "ticketLink": "https://tix.dot360.co/event/turn-up-lagos-2",
    "ticketNote": "Free entry; VIP standing from ₦15,000. Tables by WhatsApp request to the Livespot concierge. The DOT TIX ticket page is currently unavailable.",
-   "ticketStatus": "announced",
+   "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
    "venueName": "Livespot Entertarium"
   },
@@ -3686,6 +3694,10 @@
     {
      "date": "2026-11-12",
      "description": "Listed — Red Bull Spin It Loud National Final 2026 at Casa 45, Victoria Island, 8 PM–11:30 PM. Free with RSVP."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Ticket status corrected — tickets are on sale."
     }
    ],
    "date": "2026-12-05",
@@ -3696,7 +3708,7 @@
    "flyerImageUrl": null,
    "genres": [],
    "id": "red-bull-spin-it-loud-national-final-2026-2026-12-05",
-   "lastVerified": "2026-11-14",
+   "lastVerified": "2026-11-17",
    "name": "Red Bull Spin It Loud National Final 2026",
    "organiser": "Red Bull",
    "priceTiers": [
@@ -3712,7 +3724,7 @@
    ],
    "ticketLink": "https://www.jaiyetracker.com/event/red-bull-spin-it-loud-national-final-2026-1205",
    "ticketNote": "Free with RSVP. Runs 8 PM–11:30 PM.",
-   "ticketStatus": "announced",
+   "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
    "venueName": "Casa 45"
   },
@@ -6603,6 +6615,10 @@
     {
      "date": "2026-11-01",
      "description": "Prices expanded: Standard ₦25,000 / Regular ₦30,000 / Premium ₦200,000 / Royal ₦250,000. Confirmed: Rosh Beach Resort, Suntan Beach, Badagry, 4 PM–6 AM."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Ticket status corrected — tickets are on sale."
     }
    ],
    "date": "2026-12-19",
@@ -6647,7 +6663,7 @@
    ],
    "ticketLink": "https://www.jaiyetracker.com/event/aqua-rave-by-tourfrik-1219",
    "ticketNote": "Tickets via tix.africa. Free ride to the venue; runs 4 PM till dawn.",
-   "ticketStatus": "announced",
+   "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "Rosh Beach Resort"
   },
@@ -6769,6 +6785,10 @@
     {
      "date": "2026-11-03",
      "description": "Genres added: Afrobeats, Amapiano, Afro House."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Ticket status corrected — tickets are on sale."
     }
    ],
    "date": "2026-12-19",
@@ -6783,7 +6803,7 @@
     "Afro House"
    ],
    "id": "pm2am-x-afrofete-tropicana-homecoming-2026-12-19",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "PM2AM x Afrofete: Tropicana Homecoming",
    "organiser": "PM2AM x Afrofete",
    "priceTiers": [
@@ -6801,7 +6821,7 @@
    ],
    "ticketLink": "https://www.jaiyetracker.com/event/pm2am-x-afrofete-tropicana-homecoming-1219",
    "ticketNote": "Tickets via tix.africa; also listed on Chowdeck and Selar. Runs 9 PM–6 AM.",
-   "ticketStatus": "announced",
+   "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": true,
    "venueName": "Voda Beach Club"
   },
@@ -8153,6 +8173,10 @@
     {
      "date": "2026-11-10",
      "description": "Listed — The Tidal Experience, a water splash invasion at Surf Club, Tarkwa Bay, 3 PM. Tickets ₦32,000."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Ticket status corrected — tickets are on sale."
     }
    ],
    "date": "2026-12-26",
@@ -8162,7 +8186,7 @@
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/ac6237ff81879725db5dc92e03acf31edfd7b767eb985cace2bab2b824ed0138-detail.webp",
    "genres": [],
    "id": "the-tidal-experience-water-splash-invasion-2026-12-26",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-17",
    "name": "The Tidal Experience – Water Splash Invasion",
    "organiser": "White Star Concept",
    "priceTiers": [
@@ -8176,7 +8200,7 @@
    ],
    "ticketLink": "https://mail.wetinuneed.com/event/parties/victoria-island/the-tidal-experience-water-splash-invasion",
    "ticketNote": "Tickets ₦32,000 — boat leaves Apex, Victoria Island at 4 PM.",
-   "ticketStatus": "announced",
+   "ticketStatus": "ticketsOnSale",
    "unprovenPromoter": false,
    "venueName": "Surf Club"
   },
@@ -8346,6 +8370,10 @@
     {
      "date": "2026-10-27T00:00:00.000",
      "description": "Listed — AFRO SUNDOWN × OLEKU RAVE sound-clash night (Afrobeats/Amapiano DJ sets) at DRNK Lagos, Ikeja, free entry."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Ticket update — online tickets show as sold out; free entry is by phone RSVP."
     }
    ],
    "date": "2026-12-27T00:00:00.000",
@@ -8359,7 +8387,7 @@
     "Amapiano"
    ],
    "id": "afro-sundown-oleku-rave-outside-2026-12-27",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "AFRO SUNDOWN × OLEKU RAVE PRESENT: OUTSIDE",
    "organiser": "AFRO SUNDOWN × OLEKU RAVE",
    "priceTiers": [
@@ -8374,7 +8402,7 @@
     "https://wetinuneed.com/event/parties/ikeja/afro-sundown-oleku-rave-present-outside"
    ],
    "ticketLink": "https://wetinuneed.com/event/parties/ikeja/afro-sundown-oleku-rave-present-outside",
-   "ticketNote": "Free entry — reserve via the Wetinuneed listing; tables via the RSVP contact on the listing.",
+   "ticketNote": "Free entry by phone RSVP — call 09030009826, 08066187620 or 08037088777. The online ticket page currently shows sold out.",
    "ticketStatus": "announced",
    "unprovenPromoter": true,
    "venueName": "DRNK Lagos"
