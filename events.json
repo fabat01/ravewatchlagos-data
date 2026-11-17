@@ -198,9 +198,11 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/35b83fac7402aa18f6dc9402238a5d859b459f7e7a33b54580d2f1276f777824-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "rave-ctrl-2-jersey-edition-2026-11-20",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "Rave Ctrl 2.0: Jersey Edition",
    "organiser": "Unknown organiser",
    "priceTiers": [
@@ -691,9 +693,11 @@
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/385ca5375ea68c1e9a707a51f0bb17f529203e25355ca1b78f7ffd835c1f9416-detail.webp",
    "flyerImageUrl": null,
    "followingCount": 1,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "side-quest-gen-z-rave-2026-11-21",
-   "lastVerified": "2026-11-14",
+   "lastVerified": "2026-11-17",
    "name": "Side Quest: A Gen Z Rave (Mainland)",
    "organiser": "Wapsam",
    "priceTiers": [
@@ -926,16 +930,22 @@
     {
      "date": "2026-11-16",
      "description": "Name corrected to Wet in the Dark 3.0 (The Rave Edition)."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Event type corrected to Rave."
     }
    ],
    "date": "2026-11-21",
    "description": "Night pool party at Zaddy Club & Lounge, Lekki — a DJ and hypeman, games, and drinks included with entry. 9 PM–4 AM.",
    "doorsTime": "9 PM",
-   "eventType": "club",
+   "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/6054b1509d2700a84084a5057f40515af293ea36bdb958cd1fa85c042bb29bb0-detail.webp",
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "wet-in-the-dark-0-3-2026-11-21",
-   "lastVerified": "2026-11-16",
+   "lastVerified": "2026-11-17",
    "name": "Wet in the Dark 3.0 (The Rave Edition)",
    "organiser": "Unknown organiser",
    "priceTiers": [
@@ -1489,10 +1499,12 @@
    "eventType": "rave",
    "flyerDetailImageUrl": null,
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "drum-a-rave-2026-11-27",
    "instagram": null,
-   "lastVerified": "2026-11-16",
+   "lastVerified": "2026-11-17",
    "name": "Drum A Rave",
    "organiser": "Drum A Rave",
    "priceTiers": [
@@ -1793,9 +1805,11 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/0db4b79e3bc06ab69ccca65cfab0c3b01e91193600f39954ff2f585cb098daa8-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "vibember-the-rave-party-2026-11-27",
-   "lastVerified": "2026-11-16",
+   "lastVerified": "2026-11-17",
    "name": "Vibember: The Rave Party",
    "organiser": "Unknown organiser",
    "priceTiers": [
@@ -2016,9 +2030,11 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/7402c665dbaaafde300f94858437a5f06591f92a3d1aaf4cbd6f016f92d29868-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "all-black-rave-2026-11-27",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-17",
    "name": "The All Black Rave",
    "organiser": "The Vibe District",
    "priceTiers": [
@@ -2088,6 +2104,10 @@
     {
      "date": "2026-11-11",
      "description": "Listed — monthly lounge rave at Drez Lounge, Idowu Egba, 7 PM–3 AM; tickets from ₦5,000."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Event type corrected to Rave."
     }
    ],
    "date": "2026-11-28",
@@ -2096,11 +2116,13 @@
     "MODIFIED DJ SBEATS"
    ],
    "doorsTime": "7 PM",
-   "eventType": "club",
+   "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/e094b308114642c489f39231acd5b26e2106d8010dc556ad4241e93d72090cfd-detail.webp",
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "drez-rave-1-0-2026-11-28",
-   "lastVerified": "2026-11-16",
+   "lastVerified": "2026-11-17",
    "name": "Drez Rave 1.0",
    "organiser": "Drez Lounge",
    "priceTiers": [
@@ -2275,6 +2297,10 @@
     {
      "date": "2026-11-08",
      "description": "Online ticket page currently unavailable — poster prices listed."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Event type corrected to Rave."
     }
    ],
    "date": "2026-11-28",
@@ -2285,12 +2311,14 @@
     "DJ VKING"
    ],
    "doorsTime": "10 PM",
-   "eventType": "club",
+   "eventType": "rave",
    "flyerDetailImageUrl": null,
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "tolk-n-do-tour-oworo-rave-2026-11-28",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-17",
    "name": "TOLK N Do Tour Oworo Rave",
    "organiser": "PARTYPULSE",
    "priceTiers": [
@@ -2765,9 +2793,11 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/466c6db8a26fae7273b0563897398b87d2434c0c63dd96fb2da719eec88d89fe-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "psycho-rave-yard-party-2026-11-28",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "PSYCHO RAVE: YARD PARTY 1.0",
    "organiser": "Psycho party Entertainment",
    "priceTiers": [
@@ -3387,10 +3417,12 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/a9917a542e97de70f08c161e69588fe7cc57e5db74f44d0862be90cef577b1b7-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "owambe-rave-movie-night-2026-12-04",
    "instagram": null,
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "Owambe Rave & Movie Night",
    "organiser": "SANTITOWN",
    "priceTiers": [
@@ -3740,9 +3772,11 @@
    "doorsTime": "7 PM",
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/d9289c32a64fa8ca402c104080405a477d95fb9c8ffa3acdc16cf06762ca6790-detail.webp",
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "the-anniversary-by-rave-room-2026-12-05",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "The Anniversary by Rave Room",
    "organiser": "Rave Room",
    "priceTiers": [
@@ -4485,9 +4519,11 @@
    "doorsTime": "8 PM",
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/359c605c051d69a6a0954fc35235065aa11df1a2acc327f5efc78e4b29465734-detail.webp",
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "raise-the-roof-vol-2-the-rave-2026-12-11",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "Raise the Roof Vol. 2: The Rave",
    "organiser": "Shally of Lagos and BadGangParty",
    "priceTiers": [
@@ -4524,6 +4560,10 @@
     {
      "date": "2026-11-13",
      "description": "Listed — Retro Rave: Nostalgia Party at Trib3 Lagos, Dec 11, 10 PM–4 AM. DJ Tohbahd on the music. Tickets from ₦16,300 on tix.africa."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Event type corrected to Rave."
     }
    ],
    "date": "2026-12-11",
@@ -4533,13 +4573,15 @@
    ],
    "doorsTime": "10 PM",
    "endDate": null,
-   "eventType": "club",
+   "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/392ffc2ed55a8509d4d91cf957e714827f4652b543b85c4317b5b8ccb569bfa3-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "retro-rave-nostalgia-party-2026-12-11",
    "instagram": null,
-   "lastVerified": "2026-11-14",
+   "lastVerified": "2026-11-17",
    "name": "Retro Rave: NOSTALGIA PARTY",
    "organiser": "Unknown organiser",
    "priceTiers": [
@@ -4766,9 +4808,11 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/5a9e347f912632a7525c22506f388f5b6f002be74b2db0271523a1da5d08c2e2-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "colour-rave-fest-2026-2026-12-12",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "Colour Rave Fest 2026",
    "organiser": "Unknown organiser",
    "priceTiers": [
@@ -4858,9 +4902,11 @@
    "doorsTime": "9 PM",
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3ee9dc37a181a87610fb238becfadedd5d01402a984f1c2f292ae0518dfd30c7-detail.webp",
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "insatiable-chapter-v-rave-2026-12-12",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "Insatiable: Chapter V Rave",
    "organiser": "Ranfire Konnect and Lagosboy Omo Eko",
    "priceTiers": [
@@ -5292,17 +5338,23 @@
     {
      "date": "2026-11-15",
      "description": "Regular ticket corrected to ₦5,000 — it is on sale on Book't at ₦5,000."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Event type corrected to Rave."
     }
    ],
    "date": "2026-12-12T00:00:00.000",
    "description": "The Party House's Detty December edition of its Sage City Water City series at Sinatra Place, Ogba — a water-themed party (water guns, party games); a DJ is billed on the night (the Stage Access tier puts you 'on stage with the DJ'), but no lineup or genre has been published yet. 8 PM–4 AM.",
    "doorsTime": "8 PM",
-   "eventType": "club",
+   "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/09123f536af62300222ef3581daad3013b76a737a17990c459b0bfb6072a5827-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "sage-city-water-city-detty-december-rave-2026-12-12",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-17",
    "name": "Sage City Water City Detty December Rave",
    "organiser": "The Party House",
    "priceTiers": [
@@ -5567,9 +5619,11 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/64f197232e7f9008fb397194145eacc536ad3ed1b163f1bdd1139c75543dac02-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "wet-wild-rave-party-2026-12-12",
-   "lastVerified": "2026-11-08",
+   "lastVerified": "2026-11-17",
    "name": "WET & WILD RAVE PARTY",
    "organiser": "TEAM",
    "priceTiers": [
@@ -5762,6 +5816,10 @@
     {
      "date": "2026-11-09",
      "description": "Full lineup announced: DJ JAM, DJ CHERO, Wapsam, Zii, Kaptain Chukwuemeka, DJ K.O.O.K.S, DJ TEEBEE, DJ FAVE join Ms DSF. New table tier: LIT Corporate ₦4,000,000."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Event type corrected to Rave."
     }
    ],
    "date": "2026-12-13T00:00:00.000",
@@ -5778,12 +5836,14 @@
     "DJ FAVE"
    ],
    "doorsTime": "9 PM",
-   "eventType": "club",
+   "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/ec7ffb761f2437634cce06eee1b67c5e0adb919dd88be80724ef4b8ed6606e60-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "ms-dsf-friends-lagos-litmas-rave-2026-12-13",
-   "lastVerified": "2026-11-16",
+   "lastVerified": "2026-11-17",
    "name": "Ms DSF & Friends: Lagos LITmas Rave",
    "organiser": "BluePeak Talent & Event",
    "priceTiers": [
@@ -6549,9 +6609,11 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/70436a4d91c535e2d0cd3c06e1fa3400ab40339d6cece6e0e8c694cebc3844ff-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "aqua-rave-by-tourfrik-2026-12-19",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "Aqua Rave by Tourfrik",
    "organiser": "Tourfrik",
    "priceTiers": [
@@ -6601,9 +6663,11 @@
    "doorsTime": "10 PM",
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/ecf97a0ad51a9262834d26aeac9e21f03020fd29c79fc25055523c21350453a4-detail.webp",
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "fws-rave-party-2026-12-19",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "FWS RAVE PARTY",
    "organiser": "Unknown organiser",
    "priceTiers": [
@@ -7303,6 +7367,10 @@
     {
      "date": "2026-11-12",
      "description": "Venue corrected to Yolo by the Sea, Eleko Beach, Ibeju-Lekki; table reservation numbers added."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Event type corrected to Rave."
     }
    ],
    "date": "2026-12-20T00:00:00.000",
@@ -7312,12 +7380,14 @@
     "DJ Vyrusky"
    ],
    "doorsTime": "10 PM",
-   "eventType": "club",
+   "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/548073b4b0965ee633a85930c5ea76365a2fba57fa8d7e2ef22b902c0e639f84-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "beach-rave-with-expensive-dj-jayboi-2026-12-20",
-   "lastVerified": "2026-11-13",
+   "lastVerified": "2026-11-17",
    "name": "BEACH RAVE With EXPENSIVE DJ JAYBOI",
    "organiser": "BluePeak Talent & Event",
    "priceTiers": [
@@ -7451,9 +7521,11 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/f63aeb07364fb921eb4f03043892479dccadebd8e0ef3a0c2221a4b532956d90-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "rave-with-salt-after-dark-2026-12-21",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-17",
    "name": "Rave With Salt: After Dark",
    "organiser": "Seasoned With Salt",
    "priceTiers": [
@@ -8650,17 +8722,23 @@
     {
      "date": "2026-11-03",
      "description": "Doors time announced: 8 PM–4 AM."
+    },
+    {
+     "date": "2026-11-17",
+     "description": "Event type corrected to Rave."
     }
    ],
    "date": "2026-12-30T00:00:00.000",
    "description": "Closing-night all-white rave of Detty December Fest. Tickets are not purchasable yet; the festival site offers notify-list signup only.",
    "doorsTime": "8 PM",
-   "eventType": "club",
+   "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/3ad31cc64ffab2088922b48fbb6f7f7610e27c4717f9b084fc30e71dfa5a1c34-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "detty-white-out-rave-2026-12-30",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-17",
    "name": "White Out Rave",
    "organiser": "Livespot360 (Detty December Fest)",
    "priceTiers": [
@@ -8697,9 +8775,11 @@
    "eventType": "rave",
    "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/524b29c64a3d92cd33aa61a9e13d830589ca638db6ae36602f89c24c070aa6a2-detail.webp",
    "flyerImageUrl": null,
-   "genres": [],
+   "genres": [
+    "Electronic"
+   ],
    "id": "dark-mask-rave-2026-12-31",
-   "lastVerified": "2026-11-15",
+   "lastVerified": "2026-11-17",
    "name": "Dark & Mask Rave",
    "organiser": "AlaafinofEko",
    "priceTiers": [
