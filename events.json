@@ -158,7 +158,7 @@
     {
       "id": "our-kind-of-house-2026-11-23",
       "name": "Our Kind Of House",
-      "organiser": "Unknown organiser",
+      "organiser": "Our Kind Of House",
       "date": "2026-11-23",
       "doorsTime": "6 PM",
       "venueName": "Icebox Lounge",
@@ -174,8 +174,8 @@
       "eventType": "rave",
       "priceTiers": [
         {
-          "name": "Free",
-          "note": null,
+          "name": "Our Kind Of House",
+          "note": "Free entry",
           "priceNaira": 0
         }
       ],
@@ -188,15 +188,19 @@
         "https://tix.africa/discover/our-kind-of-house-6f8dae1a-0314-40b9-bcaf-f043e31e4a33",
         "https://tix.africa/discover/our-kind-of-house"
       ],
-      "lastVerified": "2026-11-21",
+      "lastVerified": "2026-11-22",
       "changeLog": [
         {
           "date": "2026-11-21",
           "description": "Listed — weekly Monday house night at Icebox Lounge, Okota, 6–11 PM. Free entry."
+        },
+        {
+          "date": "2026-11-22",
+          "description": "Organiser corrected to Our Kind Of House; free ticket tier named Our Kind Of House."
         }
       ],
       "unprovenPromoter": false,
-      "description": "Weekly Monday house night at Icebox Lounge, Ago Palace Way, Okota, 6–11 PM, with DJs playing deep house, Afro house, Afro tech and 3Step. Free entry.",
+      "description": "Weekly Monday house night at Icebox Lounge, beside Pennymart supermarket on Ago Palace Way, Okota, 6–11 PM, with DJs playing deep house, Afro house, Afro tech and 3Step. Free entry. 18+.",
       "series": "Our Kind Of House"
     },
     {
@@ -207,6 +211,10 @@
         {
           "date": "2026-11-16",
           "description": "Listed — One Of Those Nights: Family Meeting — a free DJ night at Mercury Lagos with dAVESOUND on the bill."
+        },
+        {
+          "date": "2026-11-22",
+          "description": "Doors time corrected to 10 PM–6 AM."
         }
       ],
       "date": "2026-11-24",
@@ -214,7 +222,7 @@
       "djs": [
         "dAVESOUND"
       ],
-      "doorsTime": "9 PM",
+      "doorsTime": "10 PM",
       "eventType": "club",
       "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/e9b9ac8794aa8e515e908e6c03359426949d5783879abab019fa646750913f0e-detail.webp",
       "flyerImageUrl": null,
@@ -222,7 +230,7 @@
         "Afrobeats"
       ],
       "id": "one-of-those-nights-family-meeting-2026-11-24",
-      "lastVerified": "2026-11-20",
+      "lastVerified": "2026-11-22",
       "name": "One Of Those Nights: Family Meeting",
       "organiser": "Unknown organiser",
       "priceTiers": [
@@ -238,7 +246,7 @@
         "https://www.jaiyetracker.com/event/one-of-those-nights-family-meeting-1124"
       ],
       "ticketLink": "https://tix.africa/discover/oneofthosenights",
-      "ticketNote": "Free RSVP on tix.africa. DJ dAVESOUND on the bill, 9 PM–5 AM.",
+      "ticketNote": "Free RSVP on tix.africa. DJ dAVESOUND on the bill, 10 PM–6 AM (listed as 9 PM–5 AM UTC).",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Mercury Lagos",
@@ -627,7 +635,9 @@
       "ticketNote": "Tickets on sale on the organiser's site — ₦15,000, tables from ₦350,000. Exact venue to be announced.",
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
-      "venueName": "Drum A Rave Venue"
+      "venueName": "Drum A Rave Venue",
+      "attendingCount": 1,
+      "followingCount": 1
     },
     {
       "area": "Lagos",
@@ -1002,6 +1012,45 @@
       }
     },
     {
+      "id": "vaw-vibes-after-work-2026-11-27",
+      "name": "VAW: Vibes After Work",
+      "organiser": "TOK Concepts",
+      "date": "2026-11-27",
+      "doorsTime": "7 PM",
+      "venueName": "Trib3 Lagos",
+      "area": "Victoria Island",
+      "address": "Trib3 Lagos, Victoria Island",
+      "genres": [],
+      "priceTiers": [
+        {
+          "name": "VAW",
+          "priceNaira": 0,
+          "note": null
+        }
+      ],
+      "ticketLink": "https://tix.africa/discover/vibes-after-work",
+      "ticketNote": "Free entry — reserve a free ticket on tix.africa. DJs, hypemen and drinks, 7 PM till late.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/dfb2dae1e71f72500316690f26c392a248c5eada4128fdde6d432c4e47e0ce44-detail.webp",
+      "instagram": {
+        "organiser": "@Tokconcepts"
+      },
+      "sourceLinks": [
+        "https://tix.africa/discover/vibes-after-work"
+      ],
+      "lastVerified": "2026-11-22",
+      "changeLog": [
+        {
+          "date": "2026-11-22",
+          "description": "Listed — VAW: Vibes After Work — a free after-work party at Trib3 Lagos with DJs and hypemen, 7 PM till late."
+        }
+      ],
+      "unprovenPromoter": false,
+      "description": "VAW: Vibes After Work — a free after-work party at Trib3 Lagos, Victoria Island, with DJs, hypemen and drinks. 7 PM till late.",
+      "eventType": "club"
+    },
+    {
       "address": "Oak House Rooftop, 99 Bode Thomas, Surulere",
       "ageLimit": null,
       "area": "Surulere",
@@ -1049,45 +1098,6 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Oak House Rooftop"
-    },
-    {
-      "id": "vaw-vibes-after-work-2026-11-27",
-      "name": "VAW: Vibes After Work",
-      "organiser": "TOK Concepts",
-      "date": "2026-11-27",
-      "doorsTime": "7 PM",
-      "venueName": "Trib3 Lagos",
-      "area": "Victoria Island",
-      "address": "Trib3 Lagos, Victoria Island",
-      "genres": [],
-      "priceTiers": [
-        {
-          "name": "VAW",
-          "priceNaira": 0,
-          "note": null
-        }
-      ],
-      "ticketLink": "https://tix.africa/discover/vibes-after-work",
-      "ticketNote": "Free entry — reserve a free ticket on tix.africa. DJs, hypemen and drinks, 7 PM till late.",
-      "ticketStatus": "ticketsOnSale",
-      "flyerImageUrl": null,
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/dfb2dae1e71f72500316690f26c392a248c5eada4128fdde6d432c4e47e0ce44-detail.webp",
-      "instagram": {
-        "organiser": "@Tokconcepts"
-      },
-      "sourceLinks": [
-        "https://tix.africa/discover/vibes-after-work"
-      ],
-      "lastVerified": "2026-11-22",
-      "changeLog": [
-        {
-          "date": "2026-11-22",
-          "description": "Listed — VAW: Vibes After Work — a free after-work party at Trib3 Lagos with DJs and hypemen, 7 PM till late."
-        }
-      ],
-      "unprovenPromoter": false,
-      "description": "VAW: Vibes After Work — a free after-work party at Trib3 Lagos, Victoria Island, with DJs, hypemen and drinks. 7 PM till late.",
-      "eventType": "club"
     },
     {
       "address": "Muri Okunola Park, Victoria Island",
@@ -1455,6 +1465,40 @@
       "followingCount": 1
     },
     {
+      "id": "legends-vibes-x-lovn-2026-11-28",
+      "name": "LEGENDS & VIBES X LOVN",
+      "organiser": "Unknown organiser",
+      "date": "2026-11-28",
+      "doorsTime": "8 PM",
+      "venueName": "Citizen Bature Brewery",
+      "area": "Victoria Island",
+      "address": "256 Etim Inyang Crescent, Victoria Island, Lagos",
+      "genres": [],
+      "priceTiers": [
+        {
+          "name": "General Access",
+          "priceNaira": 0
+        },
+        {
+          "name": "VIBES TABLE (Group of 6)",
+          "note": "₦100,000 minimum spend on drinks, reserved seating for 6",
+          "priceNaira": 108602
+        }
+      ],
+      "ticketLink": "https://tix.africa/discover/legendsxlovn",
+      "ticketNote": "Tickets on sale on tix.africa — free General Access, or a VIBES table for 6 at ₦108,602. DJ sets, live band and live performances, 8 PM till late.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/22c7e72ae138321c301792896a2e1c7b985a8dcaf8069e66379399ae72e6ddbc-detail.webp",
+      "sourceLinks": [
+        "https://tix.africa/discover/legendsxlovn"
+      ],
+      "lastVerified": "2026-11-22",
+      "changeLog": [],
+      "description": "Legends & Vibes X LOVN at Citizen Bature Brewery — a night of DJ sets, live band and live performances, 8 PM till late. Free General Access; tables for 6 available.",
+      "eventType": "club"
+    },
+    {
       "address": "35 Adeola Odeku Street, Victoria Island",
       "ageLimit": "18+",
       "area": "Victoria Island",
@@ -1597,6 +1641,10 @@
         {
           "date": "2026-11-16",
           "description": "Listed — Shaggy Experience 2.0 — DJ Shaggy’s party on Church Street, off Onipanu."
+        },
+        {
+          "date": "2026-11-22",
+          "description": "Ticket tier corrected to Shaggy, ₦10,000."
         }
       ],
       "date": "2026-11-28",
@@ -1617,7 +1665,7 @@
       "organiser": "Celebrity DJ Shaggy",
       "priceTiers": [
         {
-          "name": "General Admission",
+          "name": "Shaggy",
           "note": null,
           "priceNaira": 10000
         }
@@ -3935,6 +3983,80 @@
       "venueName": "Tripple C Event Centre & Children Games Arcade"
     },
     {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-24T00:00:00.000",
+          "description": "Listed — tech rave from the Rayda crew: VIP ₦87,440 and Premium Table ₦2,182,160 on sale; General Access ₦21,980 expired. Venue and a possible Dec 6 second night still to be confirmed."
+        },
+        {
+          "date": "2026-10-25T00:00:00.000",
+          "description": "Doors time set: 2 PM. Tickets are sold for Dec 5 (a Dec 6 date is mentioned but not confirmed)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "No changes (General Access ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160, incl. fees). A second night on Dec 6 isn't confirmed yet."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Second day confirmed: the event now runs Dec 5–6. Prices unchanged (General Access ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160)."
+        },
+        {
+          "date": "2026-10-27T00:00:00.000",
+          "description": "Runs Dec 5–6; prices confirmed (General Access ₦21,980 expired, VIP ₦87,440, Premium Table ₦2,182,160)."
+        },
+        {
+          "date": "2026-11-01",
+          "description": "No changes (General Access expired / VIP ₦87,440 / Premium Table ₦2,182,160; Dec 5–6)."
+        }
+      ],
+      "date": "2026-12-05T00:00:00.000",
+      "description": "Africa's first tech rave, all-white dress code, from the Rayda crew behind Eko Beach Rave. Runs Dec 5–6; the venue hasn't been named yet.",
+      "doorsTime": "2 PM",
+      "endDate": "2026-12-06T00:00:00.000",
+      "eventType": "rave",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/93c280aabc341553891842edba0887be642674fb6c156da49bc814e4e41c7ede-detail.webp",
+      "flyerImageUrl": null,
+      "genres": [
+        "Electronic"
+      ],
+      "id": "eko-casablanco-tech-rave-2026-12-05",
+      "instagram": {
+        "organiser": "@ekocasablanco"
+      },
+      "lastVerified": "2026-11-19",
+      "name": "Eko Casablanco Tech Rave",
+      "organiser": "ÉKÓ Casablanco / Team Sagacious / RAYDA",
+      "priceTiers": [
+        {
+          "name": "General Access",
+          "note": "expired, incl. fees",
+          "priceNaira": 21980
+        },
+        {
+          "name": "VIP",
+          "note": "incl. fees",
+          "priceNaira": 87440
+        },
+        {
+          "name": "Premium Table",
+          "note": "incl. fees",
+          "priceNaira": 2182160
+        }
+      ],
+      "series": "Eko Casablanco",
+      "sourceLinks": [
+        "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave"
+      ],
+      "ticketLink": "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave",
+      "ticketNote": "VIP and Premium Table buyable on ThePartyCompany (prices incl. fees); General Access expired. Venue not named on the listing; runs Dec 5–6 per the detail page.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": null
+    },
+    {
       "address": "3 Ogo Oluwa Close, Carwash Oworoshoki, Ifako Expressway",
       "ageLimit": null,
       "area": "Oworoshoki",
@@ -4089,80 +4211,6 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "The Lab Lagos"
-    },
-    {
-      "address": null,
-      "ageLimit": null,
-      "area": "TBA",
-      "changeLog": [
-        {
-          "date": "2026-10-24T00:00:00.000",
-          "description": "Listed — tech rave from the Rayda crew: VIP ₦87,440 and Premium Table ₦2,182,160 on sale; General Access ₦21,980 expired. Venue and a possible Dec 6 second night still to be confirmed."
-        },
-        {
-          "date": "2026-10-25T00:00:00.000",
-          "description": "Doors time set: 2 PM. Tickets are sold for Dec 5 (a Dec 6 date is mentioned but not confirmed)."
-        },
-        {
-          "date": "2026-10-27T00:00:00.000",
-          "description": "No changes (General Access ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160, incl. fees). A second night on Dec 6 isn't confirmed yet."
-        },
-        {
-          "date": "2026-10-27T00:00:00.000",
-          "description": "Second day confirmed: the event now runs Dec 5–6. Prices unchanged (General Access ₦21,980 expired / VIP ₦87,440 / Premium Table ₦2,182,160)."
-        },
-        {
-          "date": "2026-10-27T00:00:00.000",
-          "description": "Runs Dec 5–6; prices confirmed (General Access ₦21,980 expired, VIP ₦87,440, Premium Table ₦2,182,160)."
-        },
-        {
-          "date": "2026-11-01",
-          "description": "No changes (General Access expired / VIP ₦87,440 / Premium Table ₦2,182,160; Dec 5–6)."
-        }
-      ],
-      "date": "2026-12-05T00:00:00.000",
-      "description": "Africa's first tech rave, all-white dress code, from the Rayda crew behind Eko Beach Rave. Runs Dec 5–6; the venue hasn't been named yet.",
-      "doorsTime": "2 PM",
-      "endDate": "2026-12-06T00:00:00.000",
-      "eventType": "rave",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/93c280aabc341553891842edba0887be642674fb6c156da49bc814e4e41c7ede-detail.webp",
-      "flyerImageUrl": null,
-      "genres": [
-        "Electronic"
-      ],
-      "id": "eko-casablanco-tech-rave-2026-12-05",
-      "instagram": {
-        "organiser": "@ekocasablanco"
-      },
-      "lastVerified": "2026-11-19",
-      "name": "Eko Casablanco Tech Rave",
-      "organiser": "ÉKÓ Casablanco / Team Sagacious / RAYDA",
-      "priceTiers": [
-        {
-          "name": "General Access",
-          "note": "expired, incl. fees",
-          "priceNaira": 21980
-        },
-        {
-          "name": "VIP",
-          "note": "incl. fees",
-          "priceNaira": 87440
-        },
-        {
-          "name": "Premium Table",
-          "note": "incl. fees",
-          "priceNaira": 2182160
-        }
-      ],
-      "series": "Eko Casablanco",
-      "sourceLinks": [
-        "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave"
-      ],
-      "ticketLink": "https://thepartycompany.ng/index.php?event=eko-casablanco-tech-rave",
-      "ticketNote": "VIP and Premium Table buyable on ThePartyCompany (prices incl. fees); General Access expired. Venue not named on the listing; runs Dec 5–6 per the detail page.",
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": false,
-      "venueName": null
     },
     {
       "address": "35 Adeola Odeku Street, Victoria Island",
@@ -4784,6 +4832,58 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": null,
       "venueName": "Trib3 Lagos"
+    },
+    {
+      "id": "surulere-splash-party-2-0-2026-12-11",
+      "name": "Surulere Splash Party 2.0",
+      "organiser": "Naija Splash Entertainment",
+      "date": "2026-12-11",
+      "doorsTime": "4 PM",
+      "venueName": "Surulere Local Government",
+      "area": "Surulere",
+      "address": "14 James Robertson Rd, Surulere, Lagos 101241",
+      "genres": [],
+      "priceTiers": [
+        {
+          "name": "Earlybirds",
+          "priceNaira": 5000
+        },
+        {
+          "name": "Regular",
+          "priceNaira": 8000
+        },
+        {
+          "name": "Early Bird VIP",
+          "priceNaira": 10000
+        },
+        {
+          "name": "Vip",
+          "priceNaira": 15000
+        },
+        {
+          "name": "Squad of 5",
+          "priceNaira": 20000
+        },
+        {
+          "name": "Table for 5",
+          "note": "5 left",
+          "priceNaira": 100000
+        }
+      ],
+      "ticketLink": "https://popouttickets.com/events/Suruleresplashpartyyy",
+      "ticketNote": "Tickets on sale on Popout — from ₦5,000. Doors 4 PM till dawn.",
+      "ticketStatus": "ticketsOnSale",
+      "flyerImageUrl": null,
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/602c6d1eaeb63ec5b35b277e9258ed7a107903a4831ad85f24b1530cba0fb6a6-detail.webp",
+      "sourceLinks": [
+        "https://popouttickets.com/events/Suruleresplashpartyyy",
+        "https://www.jaiyetracker.com/"
+      ],
+      "lastVerified": "2026-11-22",
+      "changeLog": [],
+      "unprovenPromoter": false,
+      "description": "Naija Splash Entertainment's Surulere Splash Party, Obleee Edition — live DJs and a party running from 4 PM till dawn at Surulere Local Government, 14 James Robertson Road.",
+      "eventType": "club"
     },
     {
       "address": "14 James Robertson Rd, Surulere",
@@ -5877,7 +5977,7 @@
       "instagram": {
         "organiser": "@afrovibesafrica"
       },
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-22",
       "name": "The W's Fest — No Ls, Just Ws",
       "organiser": "BluePeak Talent & Event",
       "priceTiers": [
@@ -7124,47 +7224,6 @@
     {
       "address": null,
       "ageLimit": null,
-      "area": "TBA",
-      "changeLog": [
-        {
-          "date": "2026-10-22T00:00:00.000",
-          "description": "Listed — Detty December edition, venue TBA"
-        }
-      ],
-      "date": "2026-12-18T00:00:00.000",
-      "description": "Detty December edition of The Rave Circle; venue TBA.",
-      "doorsTime": "8 PM",
-      "eventType": "rave",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/0aafbc191ab4f57bd09e6a872f897e549a91986bce566b9e5f9fe67b2df77722-detail.webp",
-      "flyerImageUrl": null,
-      "followingCount": 1,
-      "genres": [
-        "Electronic"
-      ],
-      "id": "mission-03-rave-circle-2026-12-18",
-      "lastVerified": "2026-11-07",
-      "name": "Mission 03 — The Rave Circle",
-      "organiser": "The Rave Circle",
-      "priceTiers": [
-        {
-          "name": "Entry",
-          "note": null,
-          "priceNaira": null
-        }
-      ],
-      "series": null,
-      "sourceLinks": [
-        "https://www.instagram.com/theravecircles"
-      ],
-      "ticketLink": null,
-      "ticketNote": null,
-      "ticketStatus": "announced",
-      "unprovenPromoter": false,
-      "venueName": null
-    },
-    {
-      "address": null,
-      "ageLimit": null,
       "area": "Lagos",
       "changeLog": [
         {
@@ -7226,6 +7285,47 @@
       "ticketStatus": "announced",
       "unprovenPromoter": false,
       "venueName": "Detty December Village"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "TBA",
+      "changeLog": [
+        {
+          "date": "2026-10-22T00:00:00.000",
+          "description": "Listed — Detty December edition, venue TBA"
+        }
+      ],
+      "date": "2026-12-18T00:00:00.000",
+      "description": "Detty December edition of The Rave Circle; venue TBA.",
+      "doorsTime": "8 PM",
+      "eventType": "rave",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/0aafbc191ab4f57bd09e6a872f897e549a91986bce566b9e5f9fe67b2df77722-detail.webp",
+      "flyerImageUrl": null,
+      "followingCount": 1,
+      "genres": [
+        "Electronic"
+      ],
+      "id": "mission-03-rave-circle-2026-12-18",
+      "lastVerified": "2026-11-07",
+      "name": "Mission 03 — The Rave Circle",
+      "organiser": "The Rave Circle",
+      "priceTiers": [
+        {
+          "name": "Entry",
+          "note": null,
+          "priceNaira": null
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://www.instagram.com/theravecircles"
+      ],
+      "ticketLink": null,
+      "ticketNote": null,
+      "ticketStatus": "announced",
+      "unprovenPromoter": false,
+      "venueName": null
     },
     {
       "address": "Suntan Beach, Badagry",
@@ -7290,6 +7390,121 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": true,
       "venueName": "Rosh Beach Resort"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Lekki",
+      "changeLog": [
+        {
+          "date": "2026-11-18",
+          "description": "Listed — Dance Èkó Festival 2026 — two days of Afro house and electronic music on Orange Island, with DJ PHAPHANE, Aniko and more. Doors 6 PM each day."
+        },
+        {
+          "date": "2026-11-19",
+          "description": "Ticket list completed — Friends of Èkó, riser and lounge tables added"
+        }
+      ],
+      "date": "2026-12-19",
+      "description": "Dance Èkó Festival 2026 — two days on Orange Island: Day 01 (Dec 19) is an underground rave, Day 02 (Dec 20) is mainstream Amapiano, with DJ PHAPHANE, Aniko and more. Doors 6 PM each day.",
+      "djs": [
+        "DJ PHAPHANE",
+        "Aniko"
+      ],
+      "doorsTime": "6 PM",
+      "endDate": "2026-12-20",
+      "eventType": "rave",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/100d9f950e2188dacac05ae3851407a8f09d56b43dea58a5d5fdf0a24df695f5-detail.webp",
+      "flyerImageUrl": null,
+      "genres": [
+        "Afro House",
+        "Electronic",
+        "Amapiano"
+      ],
+      "id": "dance-eko-festival-2026-2026-12-19",
+      "lastVerified": "2026-11-22",
+      "name": "Dance Eko Festival 2026",
+      "organiser": "KVLT WRLD",
+      "priceTiers": [
+        {
+          "name": "General Access (Day 1)",
+          "note": null,
+          "priceNaira": 21500
+        },
+        {
+          "name": "General Access (Day 2)",
+          "note": null,
+          "priceNaira": 21500
+        },
+        {
+          "name": "Stage Access (Day 1)",
+          "note": null,
+          "priceNaira": 107100
+        },
+        {
+          "name": "Stage Access (Day 2)",
+          "note": null,
+          "priceNaira": 107100
+        },
+        {
+          "name": "Friends of Èkó [DAY 1]",
+          "note": "sold out",
+          "priceNaira": 12940
+        },
+        {
+          "name": "Friends of Èkó [DAY 2]",
+          "note": "sold out",
+          "priceNaira": 12940
+        },
+        {
+          "name": "Friends of Èkó DAY [1+2] COMBO",
+          "note": "sold out",
+          "priceNaira": 25780
+        },
+        {
+          "name": "TUE Riser Tier 1",
+          "note": "access for 12",
+          "priceNaira": 3210100
+        },
+        {
+          "name": "TUE Riser Tier 2",
+          "note": "access for 8",
+          "priceNaira": 1605100
+        },
+        {
+          "name": "TUE Riser Tier 3",
+          "note": "access for 5",
+          "priceNaira": 1070100
+        },
+        {
+          "name": "TUE Lounge",
+          "note": "access for 5",
+          "priceNaira": 2140100
+        },
+        {
+          "name": "Premium",
+          "note": "access for 8",
+          "priceNaira": 3210100
+        },
+        {
+          "name": "Signature",
+          "note": "access for 12",
+          "priceNaira": 5350100
+        }
+      ],
+      "series": "Dance Eko Festival 2026",
+      "sourceLinks": [
+        "https://www.jetronticket.com/dance-eko-2026",
+        "https://www.jaiye.ng/event/dance-eko-festival-2026-1219",
+        "https://danceeko.com/",
+        "https://danceeko.com/tickets",
+        "https://blog.krent.space/area-guide/lagos/20-things-to-do-in-lagos-this-december-2026/"
+      ],
+      "ticketLink": "https://www.jetronticket.com/dance-eko-2026",
+      "ticketNote": "Tickets on sale on Jetron — General Access ₦21,500 per day, Stage Access ₦107,100. Group riser and lounge tables also available. Friends of Èkó tickets are sold out.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": "Orange Island"
     },
     {
       "id": "district-x-2026-12-19",
@@ -7385,6 +7600,68 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Rowe Park"
+    },
+    {
+      "address": null,
+      "ageLimit": null,
+      "area": "Lagos Island",
+      "changeLog": [
+        {
+          "date": "2026-11-12",
+          "description": "Listed — Float and Flex, 4th annual water hangout: boat cruise and apartment party, Lagos Island, 2 PM. Tickets from ₦30,000."
+        },
+        {
+          "date": "2026-11-13",
+          "description": "Now a two-day event — runs Dec 19–20."
+        },
+        {
+          "date": "2026-11-17",
+          "description": "A Splash table for 1 guest (₦30,000) is now listed."
+        }
+      ],
+      "date": "2026-12-19",
+      "description": "Fourth annual water hangout — a boat cruise and apartment party with music and good sound all night, from 2 PM on Lagos Island.",
+      "doorsTime": "2 PM",
+      "endDate": "2026-12-20",
+      "eventType": "club",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/aadfef14ddf366881fee7654fc144461de683c9aceae4f0156b5efb1ffa98ecf-detail.webp",
+      "flyerImageUrl": null,
+      "genres": [],
+      "id": "float-and-flex-2026-12-19",
+      "lastVerified": "2026-11-22",
+      "name": "Float and Flex",
+      "organiser": "YBMM ENTERTAINMENT",
+      "priceTiers": [
+        {
+          "name": "Early Bird",
+          "note": null,
+          "priceNaira": 30000
+        },
+        {
+          "name": "Wave VIP",
+          "note": "group of 4",
+          "priceNaira": 200000
+        },
+        {
+          "name": "Ocean Premium",
+          "note": "group of 8",
+          "priceNaira": 500000
+        },
+        {
+          "name": "Splash table",
+          "note": "1 guest",
+          "priceNaira": 30000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://tix.dot360.co/event/float-and-flex"
+      ],
+      "ticketLink": "https://tix.dot360.co/event/float-and-flex",
+      "ticketNote": "Tickets from ₦30,000. Tables by request via the concierge. The exact venue is private — details go to ticket holders.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": null
     },
     {
       "address": "Opposite Jay Hotel, Eputu, Ibeju-Lekki",
@@ -7643,183 +7920,6 @@
       "description": "Private beach party and overnight rave at Ilashe Private Beach. First boat leaves 1 PM, the rave kicks off at 10 PM. Top local and international DJs spinning Afrobeats, Amapiano and Afro House."
     },
     {
-      "address": null,
-      "ageLimit": null,
-      "area": "Lekki",
-      "changeLog": [
-        {
-          "date": "2026-11-18",
-          "description": "Listed — Dance Èkó Festival 2026 — two days of Afro house and electronic music on Orange Island, with DJ PHAPHANE, Aniko and more. Doors 6 PM each day."
-        },
-        {
-          "date": "2026-11-19",
-          "description": "Ticket list completed — Friends of Èkó, riser and lounge tables added"
-        }
-      ],
-      "date": "2026-12-19",
-      "description": "Dance Èkó Festival 2026 — two days on Orange Island: Day 01 (Dec 19) is an underground rave, Day 02 (Dec 20) is mainstream Amapiano, with DJ PHAPHANE, Aniko and more. Doors 6 PM each day.",
-      "djs": [
-        "DJ PHAPHANE",
-        "Aniko"
-      ],
-      "doorsTime": "6 PM",
-      "endDate": "2026-12-20",
-      "eventType": "rave",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/100d9f950e2188dacac05ae3851407a8f09d56b43dea58a5d5fdf0a24df695f5-detail.webp",
-      "flyerImageUrl": null,
-      "genres": [
-        "Afro House",
-        "Electronic",
-        "Amapiano"
-      ],
-      "id": "dance-eko-festival-2026-2026-12-19",
-      "lastVerified": "2026-11-19",
-      "name": "Dance Eko Festival 2026",
-      "organiser": "KVLT WRLD",
-      "priceTiers": [
-        {
-          "name": "General Access (Day 1)",
-          "note": null,
-          "priceNaira": 21500
-        },
-        {
-          "name": "General Access (Day 2)",
-          "note": null,
-          "priceNaira": 21500
-        },
-        {
-          "name": "Stage Access (Day 1)",
-          "note": null,
-          "priceNaira": 107100
-        },
-        {
-          "name": "Stage Access (Day 2)",
-          "note": null,
-          "priceNaira": 107100
-        },
-        {
-          "name": "Friends of Èkó [DAY 1]",
-          "note": "sold out",
-          "priceNaira": 12940
-        },
-        {
-          "name": "Friends of Èkó [DAY 2]",
-          "note": "sold out",
-          "priceNaira": 12940
-        },
-        {
-          "name": "Friends of Èkó DAY [1+2] COMBO",
-          "note": "sold out",
-          "priceNaira": 25780
-        },
-        {
-          "name": "TUE Riser Tier 1",
-          "note": "access for 12",
-          "priceNaira": 3210100
-        },
-        {
-          "name": "TUE Riser Tier 2",
-          "note": "access for 8",
-          "priceNaira": 1605100
-        },
-        {
-          "name": "TUE Riser Tier 3",
-          "note": "access for 5",
-          "priceNaira": 1070100
-        },
-        {
-          "name": "TUE Lounge",
-          "note": "access for 5",
-          "priceNaira": 2140100
-        },
-        {
-          "name": "Premium",
-          "note": "access for 8",
-          "priceNaira": 3210100
-        },
-        {
-          "name": "Signature",
-          "note": "access for 12",
-          "priceNaira": 5350100
-        }
-      ],
-      "series": "Dance Eko Festival 2026",
-      "sourceLinks": [
-        "https://www.jetronticket.com/dance-eko-2026",
-        "https://www.jaiye.ng/event/dance-eko-festival-2026-1219",
-        "https://danceeko.com/",
-        "https://danceeko.com/tickets",
-        "https://blog.krent.space/area-guide/lagos/20-things-to-do-in-lagos-this-december-2026/"
-      ],
-      "ticketLink": "https://www.jetronticket.com/dance-eko-2026",
-      "ticketNote": "Tickets on sale on Jetron — General Access ₦21,500 per day, Stage Access ₦107,100. Group riser and lounge tables also available. Friends of Èkó tickets are sold out.",
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": false,
-      "venueName": "Orange Island"
-    },
-    {
-      "address": null,
-      "ageLimit": null,
-      "area": "Lagos Island",
-      "changeLog": [
-        {
-          "date": "2026-11-12",
-          "description": "Listed — Float and Flex, 4th annual water hangout: boat cruise and apartment party, Lagos Island, 2 PM. Tickets from ₦30,000."
-        },
-        {
-          "date": "2026-11-13",
-          "description": "Now a two-day event — runs Dec 19–20."
-        },
-        {
-          "date": "2026-11-17",
-          "description": "A Splash table for 1 guest (₦30,000) is now listed."
-        }
-      ],
-      "date": "2026-12-19",
-      "description": "Fourth annual water hangout — a boat cruise and apartment party with music and good sound all night, from 2 PM on Lagos Island.",
-      "doorsTime": "2 PM",
-      "endDate": "2026-12-20",
-      "eventType": "club",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/aadfef14ddf366881fee7654fc144461de683c9aceae4f0156b5efb1ffa98ecf-detail.webp",
-      "flyerImageUrl": null,
-      "genres": [],
-      "id": "float-and-flex-2026-12-19",
-      "lastVerified": "2026-11-22",
-      "name": "Float and Flex",
-      "organiser": "YBMM ENTERTAINMENT",
-      "priceTiers": [
-        {
-          "name": "Early Bird",
-          "note": null,
-          "priceNaira": 30000
-        },
-        {
-          "name": "Wave VIP",
-          "note": "group of 4",
-          "priceNaira": 200000
-        },
-        {
-          "name": "Ocean Premium",
-          "note": "group of 8",
-          "priceNaira": 500000
-        },
-        {
-          "name": "Splash table",
-          "note": "1 guest",
-          "priceNaira": 30000
-        }
-      ],
-      "series": null,
-      "sourceLinks": [
-        "https://tix.dot360.co/event/float-and-flex"
-      ],
-      "ticketLink": "https://tix.dot360.co/event/float-and-flex",
-      "ticketNote": "Tickets from ₦30,000. Tables by request via the concierge. The exact venue is private — details go to ticket holders.",
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": false,
-      "venueName": null
-    },
-    {
       "address": "Federal Palace Hotel, Victoria Island, Lagos",
       "ageLimit": null,
       "area": "Victoria Island",
@@ -7957,7 +8057,7 @@
         "Electronic"
       ],
       "id": "this-is-me-2026-12-19",
-      "lastVerified": "2026-11-17",
+      "lastVerified": "2026-11-22",
       "name": "THIS IS ME",
       "organiser": "M:E Entertainment",
       "priceTiers": [
@@ -7974,7 +8074,8 @@
         "https://www.instagram.com/genuine_ravers/",
         "https://www.thejournalistdj.com/2026/11/10/black-coffee-to-headline-12-hour-this-is-me-event-in-lagos/",
         "https://thewillnews.com/black-coffee-is-lagos-rave-communitys-latest-obsession-as-he-returns-december-19/",
-        "https://timetohouse.com/en/articles/black-coffee-this-is-me-lagos-december"
+        "https://timetohouse.com/en/articles/black-coffee-this-is-me-lagos-december",
+        "https://www.controlmg.com/article/black-coffee-this-is-me-lagos-2026"
       ],
       "ticketLink": "https://ra.co/events/2578270",
       "ticketNote": "Early Bird tickets on sale — ₦50,000, with strict entry between 4 and 6 PM. Venue still to be announced.",
@@ -8263,7 +8364,7 @@
         "Afro House"
       ],
       "id": "eko-groove-2026-12-20",
-      "lastVerified": "2026-11-21",
+      "lastVerified": "2026-11-22",
       "name": "Èkó Groove",
       "organiser": "SPINALL",
       "priceTiers": [
@@ -8323,7 +8424,7 @@
         "Amapiano"
       ],
       "id": "all-white-vol-3-0-2026-12-20",
-      "lastVerified": "2026-11-19",
+      "lastVerified": "2026-11-22",
       "name": "All White Vol 3.0",
       "organiser": "Arab Money Entertainment",
       "priceTiers": [
@@ -8801,6 +8902,44 @@
       "venueName": "Livespot Entertainment Center"
     },
     {
+      "address": null,
+      "ageLimit": null,
+      "area": "Lagos",
+      "changeLog": [
+        {
+          "date": "2026-11-13",
+          "description": "Listed — LITMAS 2.0, three nights across Dec 23–24: Café Riddim, House of Assembly and Insert Nights: Litmas. Tickets drop soon; venue to be announced."
+        }
+      ],
+      "date": "2026-12-23",
+      "description": "Litmas returns for its second edition — three nights across two days: Café Riddim, a daytime house rave at sunset on Dec 23; House of Assembly, a night of Nigerian dance music on Dec 23; and Insert Nights: Litmas, an Afrobeats Christmas Eve party on Dec 24. Venue to be announced.",
+      "djs": null,
+      "doorsTime": null,
+      "endDate": "2026-12-24",
+      "eventType": "rave",
+      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/9506b1952925a69219aaaf30df72c96ab24630638f29ac35fcab0dfccaac30af-detail.webp",
+      "flyerImageUrl": null,
+      "genres": [
+        "House",
+        "Afrobeats"
+      ],
+      "id": "litmas-2-0-2026-12-23",
+      "instagram": null,
+      "lastVerified": "2026-11-22",
+      "name": "LITMAS 2.0",
+      "organiser": "WeTalkSound",
+      "priceTiers": [],
+      "series": null,
+      "sourceLinks": [
+        "https://www.litmasfest.com/"
+      ],
+      "ticketLink": "https://www.litmasfest.com/",
+      "ticketNote": "Tickets for the nights drop soon — All Access for both days or single nights on litmasfest.com. Venue to be announced.",
+      "ticketStatus": "ticketsSoon",
+      "unprovenPromoter": false,
+      "venueName": null
+    },
+    {
       "address": "35 Adeola Odeku Street, Victoria Island",
       "ageLimit": null,
       "area": "Victoria Island",
@@ -8873,44 +9012,6 @@
       "ticketStatus": "ticketsOnSale",
       "unprovenPromoter": false,
       "venueName": "Casa 45 Night Club"
-    },
-    {
-      "address": null,
-      "ageLimit": null,
-      "area": "Lagos",
-      "changeLog": [
-        {
-          "date": "2026-11-13",
-          "description": "Listed — LITMAS 2.0, three nights across Dec 23–24: Café Riddim, House of Assembly and Insert Nights: Litmas. Tickets drop soon; venue to be announced."
-        }
-      ],
-      "date": "2026-12-23",
-      "description": "Litmas returns for its second edition — three nights across two days: Café Riddim, a daytime house rave at sunset on Dec 23; House of Assembly, a night of Nigerian dance music on Dec 23; and Insert Nights: Litmas, an Afrobeats Christmas Eve party on Dec 24. Venue to be announced.",
-      "djs": null,
-      "doorsTime": null,
-      "endDate": "2026-12-24",
-      "eventType": "rave",
-      "flyerDetailImageUrl": "https://raw.githubusercontent.com/fabat01/ravewatchlagos-data/main/images/posters/9506b1952925a69219aaaf30df72c96ab24630638f29ac35fcab0dfccaac30af-detail.webp",
-      "flyerImageUrl": null,
-      "genres": [
-        "House",
-        "Afrobeats"
-      ],
-      "id": "litmas-2-0-2026-12-23",
-      "instagram": null,
-      "lastVerified": "2026-11-19",
-      "name": "LITMAS 2.0",
-      "organiser": "WeTalkSound",
-      "priceTiers": [],
-      "series": null,
-      "sourceLinks": [
-        "https://www.litmasfest.com/"
-      ],
-      "ticketLink": "https://www.litmasfest.com/",
-      "ticketNote": "Tickets for the nights drop soon — All Access for both days or single nights on litmasfest.com. Venue to be announced.",
-      "ticketStatus": "ticketsSoon",
-      "unprovenPromoter": false,
-      "venueName": null
     },
     {
       "address": "Glitz Event Center, Lagos",
@@ -9474,6 +9575,81 @@
       "venueName": "Tarkwa Bay Beach"
     },
     {
+      "address": "Royal View Estate, Ikate, Lekki",
+      "ageLimit": "18+",
+      "area": "Lekki",
+      "changeLog": [
+        {
+          "date": "2026-11-20",
+          "description": "Listed — Lagos December Culture Festival, Dec 26–29, Royal View Estate, Sinatra and Voda Beach Club. DJ Obi, DJ Consequence, DJ Kaywise and Uncle Waffles. Day Pass ₦5,000."
+        }
+      ],
+      "date": "2026-12-26",
+      "dayVenues": [
+        {
+          "date": "2026-12-26",
+          "venue": "Royal View Estate"
+        },
+        {
+          "date": "2026-12-27",
+          "venue": "Sinatra"
+        },
+        {
+          "date": "2026-12-28",
+          "venue": "Voda Beach Club"
+        }
+      ],
+      "description": "Three days of themed December parties across Royal View Estate, Sinatra and Voda Beach Club — DJ Obi, DJ Consequence, DJ Kaywise and Uncle Waffles on the decks, with Ayra Starr as special guest on the opening night. 9 PM–4 AM.",
+      "djs": [
+        "DJ Obi",
+        "DJ Consequence",
+        "DJ Kaywise",
+        "Uncle Waffles"
+      ],
+      "doorsTime": "9 PM",
+      "endDate": "2026-12-29",
+      "eventType": "club",
+      "flyerDetailImageUrl": null,
+      "flyerImageUrl": null,
+      "genres": [
+        "Afrobeats",
+        "Amapiano",
+        "Dancehall",
+        "UK Funky"
+      ],
+      "id": "lagos-december-culture-festival-2026-12-26",
+      "instagram": null,
+      "lastVerified": "2026-11-20",
+      "name": "Lagos December Culture Festival",
+      "organiser": "Tiqstar Events",
+      "priceTiers": [
+        {
+          "name": "Day Pass",
+          "note": null,
+          "priceNaira": 5000
+        },
+        {
+          "name": "3-Day Bundle",
+          "note": null,
+          "priceNaira": 12000
+        },
+        {
+          "name": "VIP Cabana Package",
+          "note": null,
+          "priceNaira": 120000
+        }
+      ],
+      "series": null,
+      "sourceLinks": [
+        "https://tiqstar.com/events/lagos-december-culture-festival"
+      ],
+      "ticketLink": "https://tiqstar.com/events/lagos-december-culture-festival",
+      "ticketNote": "Tickets on sale on Tiqstar — Day Pass ₦5,000, 3-Day Bundle ₦12,000, VIP Cabana ₦120,000. 18+ only. Runs 9 PM–4 AM.",
+      "ticketStatus": "ticketsOnSale",
+      "unprovenPromoter": false,
+      "venueName": "Royal View Estate"
+    },
+    {
       "address": "124 Fatolu, Ipaja",
       "ageLimit": "18+",
       "area": "Ipaja",
@@ -9674,81 +9850,6 @@
       ],
       "unprovenPromoter": false,
       "description": "All-white Boxing Day night party at The Page Lagos, 11 PM–6 AM, with hype men and DJs. Dress in white."
-    },
-    {
-      "address": "Royal View Estate, Ikate, Lekki",
-      "ageLimit": "18+",
-      "area": "Lekki",
-      "changeLog": [
-        {
-          "date": "2026-11-20",
-          "description": "Listed — Lagos December Culture Festival, Dec 26–29, Royal View Estate, Sinatra and Voda Beach Club. DJ Obi, DJ Consequence, DJ Kaywise and Uncle Waffles. Day Pass ₦5,000."
-        }
-      ],
-      "date": "2026-12-26",
-      "dayVenues": [
-        {
-          "date": "2026-12-26",
-          "venue": "Royal View Estate"
-        },
-        {
-          "date": "2026-12-27",
-          "venue": "Sinatra"
-        },
-        {
-          "date": "2026-12-28",
-          "venue": "Voda Beach Club"
-        }
-      ],
-      "description": "Three days of themed December parties across Royal View Estate, Sinatra and Voda Beach Club — DJ Obi, DJ Consequence, DJ Kaywise and Uncle Waffles on the decks, with Ayra Starr as special guest on the opening night. 9 PM–4 AM.",
-      "djs": [
-        "DJ Obi",
-        "DJ Consequence",
-        "DJ Kaywise",
-        "Uncle Waffles"
-      ],
-      "doorsTime": "9 PM",
-      "endDate": "2026-12-29",
-      "eventType": "club",
-      "flyerDetailImageUrl": null,
-      "flyerImageUrl": null,
-      "genres": [
-        "Afrobeats",
-        "Amapiano",
-        "Dancehall",
-        "UK Funky"
-      ],
-      "id": "lagos-december-culture-festival-2026-12-26",
-      "instagram": null,
-      "lastVerified": "2026-11-20",
-      "name": "Lagos December Culture Festival",
-      "organiser": "Tiqstar Events",
-      "priceTiers": [
-        {
-          "name": "Day Pass",
-          "note": null,
-          "priceNaira": 5000
-        },
-        {
-          "name": "3-Day Bundle",
-          "note": null,
-          "priceNaira": 12000
-        },
-        {
-          "name": "VIP Cabana Package",
-          "note": null,
-          "priceNaira": 120000
-        }
-      ],
-      "series": null,
-      "sourceLinks": [
-        "https://tiqstar.com/events/lagos-december-culture-festival"
-      ],
-      "ticketLink": "https://tiqstar.com/events/lagos-december-culture-festival",
-      "ticketNote": "Tickets on sale on Tiqstar — Day Pass ₦5,000, 3-Day Bundle ₦12,000, VIP Cabana ₦120,000. 18+ only. Runs 9 PM–4 AM.",
-      "ticketStatus": "ticketsOnSale",
-      "unprovenPromoter": false,
-      "venueName": "Royal View Estate"
     },
     {
       "address": "Water Corporation Drive, Oniru, Lagos",
@@ -11055,5 +11156,5 @@
       "venueName": null
     }
   ],
-  "generatedAt": "2026-11-22T10:44:55Z"
+  "generatedAt": "2026-11-22T18:30:32Z"
 }
